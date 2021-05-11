@@ -13,7 +13,7 @@
   "forzarAPKCustomFinally": true,
   "forzarAPKCustomFinally2": false,
   "installerMarket": true,
-  "APKBETA": false,
+  "APKBETA": true,
   "getAccess": false,
   "unityIntro": true,
   "unityTVs": false,
