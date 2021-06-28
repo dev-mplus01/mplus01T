@@ -9097,6 +9097,114 @@
 			"VOTE_AVERAGE":8.2,
 			"URL_FOLDER":"XBeeEQqa\/2CvEpxB\/laHpXjaiq3klaC8p9jSgIAs402yMxEEkzsNXQ2JE+453oKJSrCneU7S9Lth\nxwtNznKfBw==\n",
 			"FIRST_AIR_DATE":"2011-07-11"
+		},
+		
+		{
+			"TYPE":3,
+			"ID_TMD":43270,
+			"NAME_TMD":"Blood C",
+			"NAME_ORIGINAL":"Blood-C",
+			"GENERO":"animacion misterio",
+			"URL_IMAGE":"\/8KetEVtHc4O9C4Y1jvVu14FV8zH.jpg",
+			"VOTE_AVERAGE":8,
+			"URL_FOLDER":"XBeeEQqa\/2CvEpxB\/laHpa5KaLeecpoqQkWm9NO3bHIfKic3qpX4Vr2NmqVUwXQczbvQ2GWGhWJn\ne8xY3WwxIA==\n",
+			"FIRST_AIR_DATE":"2011-07-01"
+		},
+		
+		{
+			"TYPE":3,
+			"ID_TMD":26328,
+			"NAME_TMD":"Ga Rei Zero",
+			"NAME_ORIGINAL":"喰霊-零- Ga-Rei: Zero",
+			"GENERO":"fantasia animacion",
+			"URL_IMAGE":"\/q8cpk4UvfO5P4d6uUfXwZTGLaUW.jpg",
+			"VOTE_AVERAGE":7,
+			"URL_FOLDER":"XBeeEQqa\/2CvEpxB\/laHpYnp\/PV\/NCiNIleRPRqiLg+6ONiKjczMWfXjahBFShgZGTx5d9S7GFDe\nVG2DavUQXQ==\n",
+			"FIRST_AIR_DATE":"2008-10-05"
+		},
+		
+		{
+			"TYPE":2,
+			"ID_TMD":62687,
+			"NAME_TMD":"Limitless",
+			"NAME_ORIGINAL":"Limitless Sin limites",
+			"GENERO":"crimen drama fantasia",
+			"URL_IMAGE":"\/7BEHqYAvYrz2BPxItERtIHwBN8Q.jpg",
+			"VOTE_AVERAGE":7.2,
+			"URL_FOLDER":"XBeeEQqa\/2CvEpxB\/laHpddx3gjybu3yLXcwnX7y4jXkizLQDb\/ZrZRZZOizjV0bQMQA+ugjcBi5\naaFR\/kDm5Q==\n",
+			"FIRST_AIR_DATE":"2015-09-22"
+		},
+		
+		{
+			"TYPE":2,
+			"ID_TMD":253,
+			"NAME_TMD":"Star Trek",
+			"NAME_ORIGINAL":"Star Trek",
+			"GENERO":"fantasia drama",
+			"URL_IMAGE":"\/f2wbC7fxiOJqzTb6HPr4N6bsjLF.jpg",
+			"VOTE_AVERAGE":8,
+			"URL_FOLDER":"XBeeEQqa\/2CvEpxB\/laHpaedJKEDrzUjIxKfJsbOuxPcbQnOpb\/aNnnA01J6mKkzV1qpI2W2geAK\nAIDIsyEmLw==\n",
+			"FIRST_AIR_DATE":"1966-09-08"
+		},
+		
+		{
+			"TYPE":2,
+			"ID_TMD":655,
+			"NAME_TMD":"Star Trek La Nueva Generación",
+			"NAME_ORIGINAL":"Star Trek La Nueva Generacion Star Trek: The Next Generation Star Trek: La nueva generacion",
+			"GENERO":"fantasia drama misterio",
+			"URL_IMAGE":"\/m8Jp435AhUBmltmPyP5LOYjc80V.jpg",
+			"VOTE_AVERAGE":8.2,
+			"URL_FOLDER":"XBeeEQqa\/2CvEpxB\/laHpZzH3UFWyQHRvhq0+ApPCjcBqTICnduF\/OfUQiHyBtLSTu5n1Lx0zz7n\nVAt9TjwK0Q==\n",
+			"FIRST_AIR_DATE":"1987-09-28"
+		},
+		
+		{
+			"TYPE":3,
+			"ID_TMD":124920,
+			"NAME_TMD":"Rugrats",
+			"NAME_ORIGINAL":"Rugrats",
+			"GENERO":"animacion comedia kids",
+			"URL_IMAGE":"\/1kMDkkX9LctUUtJPvJPVKW9ylBW.jpg",
+			"VOTE_AVERAGE":7.7,
+			"URL_FOLDER":"XBeeEQqa\/2CvEpxB\/laHpXSkBoB24Vn8642N+jP3CwCLIvItFgkKVRFNeMUmbwwqjbBrCaVNOCvt\nurKCuYj7KQ==\n",
+			"FIRST_AIR_DATE":"2021-05-27"
+		},
+		
+		{
+			"TYPE":2,
+			"ID_TMD":99618,
+			"NAME_TMD":"Soy Una Araña... Y Que",
+			"NAME_ORIGINAL":"蜘蛛ですが、なにか？ Kumo desu ga, Nani ka?",
+			"GENERO":"animacion comedia fantasia",
+			"URL_IMAGE":"\/rR9gNmpy8EDDYL4ImkazdmBDrqY.jpg",
+			"VOTE_AVERAGE":7.7,
+			"URL_FOLDER":"XBeeEQqa\/2CvEpxB\/laHpdVwNZbOJtx1Mb9inaZ6BxFJTHG8bNmsMs1JfZeCuCBcquqVj8hC6M9V\npmDrau0eiA==\n",
+			"FIRST_AIR_DATE":"2021-01-08"
+		},
+		
+		{
+			"TYPE":2,
+			"ID_TMD":12598,
+			"NAME_TMD":"Black Lagoon",
+			"NAME_ORIGINAL":"BLACK LAGOON Black Lagoon",
+			"GENERO":"animacion drama crimen",
+			"URL_IMAGE":"\/igzLCvkWDYfucNs9hU3wCvUQzDi.jpg",
+			"VOTE_AVERAGE":8,
+			"URL_FOLDER":"XBeeEQqa\/2CvEpxB\/laHpYvthN8XcbeDGN4zsoetiCrT0WwOf0SHR4Dmi37mut0Cguw14WGWi7uV\n\/o7OrFOo8A==\n",
+			"FIRST_AIR_DATE":"2006-04-09"
+		},
+		
+		{
+			"TYPE":3,
+			"ID_TMD":111177,
+			"NAME_TMD":"Godzilla Punto Singular",
+			"NAME_ORIGINAL":"ゴジラS.P＜シンギュラポイント＞ GODZILLA Punto singular",
+			"GENERO":"animacion fantasia misterio",
+			"URL_IMAGE":"\/JbwBQtS0C0kW8vVxjS969VOF85.jpg",
+			"VOTE_AVERAGE":5.6,
+			"URL_FOLDER":"XBeeEQqa\/2CvEpxB\/laHpQpg\/Kxk6xmcPunqZXG7w5Hf7Kkj4EXuiOEj2MdRCUqSGVhe19NCan4x\n9tFlRmjr2w==\n",
+			"FIRST_AIR_DATE":"2021-04-01"
 		}
 	],
 	"movies":
@@ -82654,6 +82762,721 @@
 			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpWL7MS0\/5GOGWzauEWH+GULr7Il7R\/yFyHujFIzT5PTXmr1G1IIsOSWo\nefgNE28aBCFx4rOYG+6XC8T39CIYdeM=\n",
 			"VIDEO_SIZE":"8,54 GB",
 			"RELEASE_DATE":"2020-12-18"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":1945,
+			"NAME_TMD":"Nell 1080p LAT",
+			"NAME_ORIGINAL":"Nell",
+			"GENERO":"drama suspenso",
+			"URL_IMAGE":"\/viqeSR3TzsDM52PcqbzMX0IdMBJ.jpg",
+			"VOTE_AVERAGE":6.5,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpZlznu4xhblJACo1HKkiLc7W6Zr3KOpse0HokBhHz0reuvzf1SRovvqT\nHm06sedvrJCgdMvoZUBWSU\/+jS9StwI=\n",
+			"VIDEO_SIZE":"1.84 GB",
+			"RELEASE_DATE":"1994-12-23"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":8859,
+			"NAME_TMD":"Hey Donde esta mi Auto 720p DUAL",
+			"NAME_ORIGINAL":"Dude, Where's My Car? Colega, ¿donde esta mi coche?",
+			"GENERO":"comedia ficcion",
+			"URL_IMAGE":"\/i3dfiofjoBRb90ByAbQpBPeXj8a.jpg",
+			"VOTE_AVERAGE":5.5,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpclo5YeqlviIf6qT8rBcb+o0PClIopNYsJ4Z7SexGzXbOrKXAy71kTR9\nB5KZgaLmo7+qNi3eYqMFq6GM6mwjbEM=\n",
+			"VIDEO_SIZE":"777.7 MB",
+			"RELEASE_DATE":"2000-12-15"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":168259,
+			"NAME_TMD":"Rápidos y Furiosos 7 720p LAT",
+			"NAME_ORIGINAL":"Rapidos y Furiosos 7 720p LAT Furious 7 Fast & Furious 7",
+			"GENERO":"accion suspenso",
+			"URL_IMAGE":"\/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg",
+			"VOTE_AVERAGE":7.3,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpX\/ksKI9vUmDKmJlowuDY1AomxeskxIvOm7Od7B\/P7QBj3SWNdcdBI89\n\/RP9jlkP+wUCVyYZE7jgxpoXEuMYa04=\n",
+			"VIDEO_SIZE":"2.24 GB",
+			"RELEASE_DATE":"2015-04-01"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":435062,
+			"NAME_TMD":"Mañana me suicido LAT",
+			"NAME_ORIGINAL":"Mañana me suicido",
+			"GENERO":"comedia",
+			"URL_IMAGE":"\/gzVfI8gf1EBdXYQ9ZVCzAgH3GeW.jpg",
+			"VOTE_AVERAGE":6.3,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpWkP1BC8pSqCszQozRpa4sUdppdJlHRB5npfYpOqRH1I\/tSHtiu6kqNC\niex3\/oNQzFX+UuU9vInye2OOoaRKO2M=\n",
+			"VIDEO_SIZE":"854.09 MB",
+			"RELEASE_DATE":"1942-01-14"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":42610,
+			"NAME_TMD":"La horripilante Bestia Humana LAT",
+			"NAME_ORIGINAL":"La horripilante bestia humana",
+			"GENERO":"terror ficcion",
+			"URL_IMAGE":"\/8Wie89nICfzF9hc0QQHrGaa1oWS.jpg",
+			"VOTE_AVERAGE":5.2,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpcq+3SKNXdERFxRbs23WP7lqgK3x8I7o0J+hhkzCp+TG2nFoxzr1EFxQ\nWlDxIWmp0cn\/PEB+ddeuUXZVWuDNqeA=\n",
+			"VIDEO_SIZE":"1.34 GB",
+			"RELEASE_DATE":"1969-02-05"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":11694,
+			"NAME_TMD":"La Tigresa Del Oeste 720p LAT",
+			"NAME_ORIGINAL":"Cat Ballou La ingenua explosiva",
+			"GENERO":"comedia romance",
+			"URL_IMAGE":"\/fSebGYTxVrHXE4y3Su5uwJSEtni.jpg",
+			"VOTE_AVERAGE":6.5,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpdS36fdx7qMl+aWSYzetbp3KaH6pc0bN3sMN5u+nJDSTP3M10xHwrfXb\nWCY4fXIXn6gvdgh3bepIaNOHGq4WWdg=\n",
+			"VIDEO_SIZE":"1.59 GB",
+			"RELEASE_DATE":"1965-06-24"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":19592,
+			"NAME_TMD":"Refugio Maldito 720p LAT",
+			"NAME_ORIGINAL":"Dead Birds Gritos de muerte",
+			"GENERO":"terror suspenso",
+			"URL_IMAGE":"\/xB1qpndocvnS23qIv0F7OqYZLpj.jpg",
+			"VOTE_AVERAGE":5.6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpY1UvFPU4X+qTOKYQkVkmP48IXq72AGZK9ehiLftcuxprI\/J1\/xpxbFb\nTYDxEi4TcoYczpDWIa7MP8DCrndeQbk=\n",
+			"VIDEO_SIZE":"2.69 GB",
+			"RELEASE_DATE":"2004-10-31"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":637693,
+			"NAME_TMD":"Spirit El Indomable 4K DUAL",
+			"NAME_ORIGINAL":"Spirit Untamed Spirit - Indomable",
+			"GENERO":"animacion aventura familia",
+			"URL_IMAGE":"\/mptEtOkw906BJuD9rRUKG5sr5E9.jpg",
+			"VOTE_AVERAGE":6.6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpQGyVlci2++P1OZIH1OKCiVbp+3SBNL1mXWB7fqnn001cMTT7L4KkGmu\n8CmxCfuj5VDIwAR5CnUXvEHrVcrKYVI=\n",
+			"VIDEO_SIZE":"9.7 GB",
+			"RELEASE_DATE":"2021-05-20"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":28384,
+			"NAME_TMD":"Maridos Y Esposas 720p LAT",
+			"NAME_ORIGINAL":"Husbands and Wives Maridos y Mujeres",
+			"GENERO":"romance comedia drama",
+			"URL_IMAGE":"\/2o4d0j74oaKfA30YrH3a7Je3pXA.jpg",
+			"VOTE_AVERAGE":7.1,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpU2lr1NDtwyWRiVWBPN8qlKxBwS821jVu9LgAoR2mlQG0MUL3PkeiePZ\nDKPwiThDHVuxgBhBQrbBR2y25rSwz\/E=\n",
+			"VIDEO_SIZE":"1.84 GB",
+			"RELEASE_DATE":"1992-09-18"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":646207,
+			"NAME_TMD":"Riesgo Bajo Cero 720p SUB",
+			"NAME_ORIGINAL":"The Ice Road",
+			"GENERO":"accion suspenso",
+			"URL_IMAGE":"\/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg",
+			"VOTE_AVERAGE":6.4,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpTBY4cdCb4+cGChOoHwbr1AOGrAvKnOlOn8S9vKklmZ5adTerF3OkRw2\ndkFH2buIzxESojmGQa0xPwmICrrsoU4=\n",
+			"VIDEO_SIZE":"1.67 GB",
+			"RELEASE_DATE":"2021-06-25"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":10425,
+			"NAME_TMD":"Bobby Z 60FPS DUAL",
+			"NAME_ORIGINAL":"The Death and Life of Bobby Z Bobby Z",
+			"GENERO":"drama accion suspenso crimen",
+			"URL_IMAGE":"\/sgIthxRLUBTbaetVXvXwQEmbfn2.jpg",
+			"VOTE_AVERAGE":6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpYlgz3m+up7\/M\/pELvWezgbS5Rfi97ET45kKkh\/3NMzrKljeGoDfgpWE\nMfGgXt6xQdLzDBetRsatSkdXSAvZzNE=\n",
+			"VIDEO_SIZE":"8.05 GB",
+			"RELEASE_DATE":"2007-07-23"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":142591,
+			"NAME_TMD":"Amor A Mordidas 720p LAT",
+			"NAME_ORIGINAL":"Love Bite",
+			"GENERO":"terror comedia",
+			"URL_IMAGE":"\/mjBKgERW0vgNLxUo8mJ7UgMEjja.jpg",
+			"VOTE_AVERAGE":5.1,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpSkAVtxve8lhu2dlKU18NlLfkZPGFnEZGuC+U1ml7BiCQEWoralxsXGZ\nn0VZc41zfxew+AOe0qAtV6cVmhavfkI=\n",
+			"VIDEO_SIZE":"1.55 GB",
+			"RELEASE_DATE":"2012-11-09"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":45284,
+			"NAME_TMD":"Ultraje 1 LAT",
+			"NAME_ORIGINAL":"アウトレイジ Outrage",
+			"GENERO":"accion crimen drama",
+			"URL_IMAGE":"\/ylwXo0od4HkBCN57QAsMnMKPVTg.jpg",
+			"VOTE_AVERAGE":7,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpc5gmKMoK7u7oZBmWbGPNeSBdZC1o7F6+GV2qwMe9mgyq4r\/K9QxjabA\nM9mzUyB0lJB0JxNlJdG5RZHxYAutjFc=\n",
+			"VIDEO_SIZE":"497.64 MB",
+			"RELEASE_DATE":"2010-05-17"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":525541,
+			"NAME_TMD":"Chavos Banda (Victimas Callejeras) LAT",
+			"NAME_ORIGINAL":"Chavos banda (Victimas callejeras)",
+			"GENERO":"drama crimen",
+			"URL_IMAGE":"\/d0zrA2nqemWRvuqBa6zIxZ9NZG.jpg",
+			"VOTE_AVERAGE":0,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpcht\/3kbBYFaDHrgqZ8CigTdrasjixc0S4Vn2akVvNV5pE9X78iOENwb\n7sUOzUnPSwXtOnXf6vxla2+Q2ROe284=\n",
+			"VIDEO_SIZE":"368.13 MB",
+			"RELEASE_DATE":"1995-01-01"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":1683,
+			"NAME_TMD":"Prueba de Fe - The Reaping 1080p DUAL",
+			"NAME_ORIGINAL":"The Reaping La cosecha",
+			"GENERO":"terror",
+			"URL_IMAGE":"\/a0CM4rAwJU7Z3Faa9BkYCHTuSwH.jpg",
+			"VOTE_AVERAGE":5.6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpZ9CG+GTIl\/u\/FGKrslDEWZsj5INbSuSRvTC\/LO5nIJXKUISooxvllRC\no0RdpidJ\/EHyoU7r33DVn2TYWM84kyg=\n",
+			"VIDEO_SIZE":"1.54 GB",
+			"RELEASE_DATE":"2007-04-05"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":44148,
+			"NAME_TMD":"Amar A Morir LAT",
+			"NAME_ORIGINAL":"Amar a Morir",
+			"GENERO":"drama romance",
+			"URL_IMAGE":"\/4GQgjvDmTEm2Ns2rJv3MXmP0AIy.jpg",
+			"VOTE_AVERAGE":6.4,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpal1UwqRb0j8QkWtss3GplBlBNsbQ5KkzboLpfCAiQLtOVwmZTGxPM0G\nHILdOJvzwgSBOSlN\/KNW3aFY6lkf+CY=\n",
+			"VIDEO_SIZE":"643 MB",
+			"RELEASE_DATE":"2009-01-23"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":6948,
+			"NAME_TMD":"The Woods 1080p DUAL",
+			"NAME_ORIGINAL":"The Woods El bosque maldito",
+			"GENERO":"misterio terror suspenso",
+			"URL_IMAGE":"\/olRTDkicdRON4YESF6tgv1bT3VN.jpg",
+			"VOTE_AVERAGE":5.7,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpcv6MJ9OXdhbhsnrlj1zGtMBah50yeAPqgRV1jxciFcE5lABsmCWecmk\nZH09COMMgqcjdnCrXQ8mmZpOK2BMq0Y=\n",
+			"VIDEO_SIZE":"1.59 GB",
+			"RELEASE_DATE":"2006-09-25"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":1683,
+			"NAME_TMD":"Prueba de Fe - The Reaping 720p DUAL",
+			"NAME_ORIGINAL":"The Reaping La cosecha",
+			"GENERO":"terror",
+			"URL_IMAGE":"\/a0CM4rAwJU7Z3Faa9BkYCHTuSwH.jpg",
+			"VOTE_AVERAGE":5.6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpQLladIIR9yDJ8aO2sb186+PsSe3SviO6PuwIlGZ1gafCFSZd1P2iiHM\nXH+v2yahfMQmX2eG8E5fpNIWp+mIptA=\n",
+			"VIDEO_SIZE":"759.32 MB",
+			"RELEASE_DATE":"2007-04-05"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":11703,
+			"NAME_TMD":"El beso de la mujer araña 720p SUB",
+			"NAME_ORIGINAL":"Kiss of the Spider Woman El beso de la mujer araña",
+			"GENERO":"drama",
+			"URL_IMAGE":"\/xvKVV1plZeJmwUZT9fMoUIugsCx.jpg",
+			"VOTE_AVERAGE":7.1,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpX6Ux92ViwoJLOxSkjJkmlp5U+GMdKVbKDUXMGSzacqBqlD\/usSEYyPy\npoEdMwqdk7B7j7TNSMCOsiDIBxY+2vs=\n",
+			"VIDEO_SIZE":"1.67 GB",
+			"RELEASE_DATE":"1985-07-26"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":637693,
+			"NAME_TMD":"Spirit El Indomable 720p DUAL",
+			"NAME_ORIGINAL":"Spirit Untamed Spirit - Indomable",
+			"GENERO":"animacion aventura familia",
+			"URL_IMAGE":"\/mptEtOkw906BJuD9rRUKG5sr5E9.jpg",
+			"VOTE_AVERAGE":6.6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpZRzjmE0iKipT+vEhbTdXxhskWOdcD2nLgapMT0k4q6TI6M9VH6wfzNq\ndcq598im4vOIqZuXvtcheb81IhzOB3Y=\n",
+			"VIDEO_SIZE":"875.44 MB",
+			"RELEASE_DATE":"2021-05-20"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":637693,
+			"NAME_TMD":"Spirit El Indomable 1080p DUAL",
+			"NAME_ORIGINAL":"Spirit Untamed Spirit - Indomable",
+			"GENERO":"animacion aventura familia",
+			"URL_IMAGE":"\/mptEtOkw906BJuD9rRUKG5sr5E9.jpg",
+			"VOTE_AVERAGE":6.6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpYE5xsSNzeC29aTe4YpmbtrfTv3u1DqaS2A+Lf5tD\/kybB91\/mqWsu5H\nHzGTgfYk0VVce2IyyM2C8Y+Ge8kdkQY=\n",
+			"VIDEO_SIZE":"4.73 GB",
+			"RELEASE_DATE":"2021-05-20"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":370455,
+			"NAME_TMD":"One Punch Man Road to Hero 720p SUB",
+			"NAME_ORIGINAL":"ワンパンマン ロード・トゥー・ヒーロー One Punch Man: Road to Hero",
+			"GENERO":"accion animacion",
+			"URL_IMAGE":"\/bMNkufYM0kaDRJ0OVSHF91Ftdyr.jpg",
+			"VOTE_AVERAGE":7.9,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpVGMv6rQutbN7jrV8dBuv+M+NCmYph1KVpU7vNc5+wp\/Um5JYBqc9fy1\ndNhUVFoVUmtnByIyDmYJAqUyeU5jRs0=\n",
+			"VIDEO_SIZE":"115.78 MB",
+			"RELEASE_DATE":"2015-12-04"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":273271,
+			"NAME_TMD":"Lapso De Tiempo 1080p LAT",
+			"NAME_ORIGINAL":"Time Lapse",
+			"GENERO":"suspenso ficcion misterio",
+			"URL_IMAGE":"\/43NqVGrHQbqtZ4eGUJbVBa6NS0W.jpg",
+			"VOTE_AVERAGE":6.4,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpfM7n7SSbC13XMq\/BSdUt2hINOpqtcDkhyu53XUoApJlpZqPX66XfgzO\nBtIUrXP8ShEoB9KUd53YmY3Mzd0jr3g=\n",
+			"VIDEO_SIZE":"1.7 GB",
+			"RELEASE_DATE":"2014-05-24"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":13980,
+			"NAME_TMD":"El Samurai Sin Nombre 720p CAST",
+			"NAME_ORIGINAL":"ストレンヂア -無皇刃譚- El samurai sin nombre (Sword of the Stranger)",
+			"GENERO":"accion animacion historia",
+			"URL_IMAGE":"\/pWDz3nZEp09xewwW5PaiQZt8RTt.jpg",
+			"VOTE_AVERAGE":7.5,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpVRCccyDMXut9YFFohmImDHwDrH87bvobhQ9l9tHM0RD5nmVNdRuPagv\nbA9Q2UVw36iz2\/AGQe\/VbNpKsl3kb3o=\n",
+			"VIDEO_SIZE":"1.58 GB",
+			"RELEASE_DATE":"2007-09-29"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":14125,
+			"NAME_TMD":"Cautiva 1080p LAT",
+			"NAME_ORIGINAL":"Captivity Captivity (Cautivos)",
+			"GENERO":"crimen terror suspenso",
+			"URL_IMAGE":"\/4IuMrbpAlSt0lbiSWBhQ3ByMSj0.jpg",
+			"VOTE_AVERAGE":4.7,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpXQzAdSjgsf9vjasslUi5brX4cjd5sPvMD0f38R3nUd873lF39jmT7iV\nIUtRsKl6vj3xMxKMOgLiXq97mzy16Ws=\n",
+			"VIDEO_SIZE":"1.38 GB",
+			"RELEASE_DATE":"2007-03-09"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":823837,
+			"NAME_TMD":"Black Easter 1080p SUB",
+			"NAME_ORIGINAL":"Black Easter",
+			"GENERO":"ficcion drama",
+			"URL_IMAGE":"\/Ak3WXExyPIvh0oOeAlo2VIcJuvG.jpg",
+			"VOTE_AVERAGE":0,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpTqmgwozJOf\/bjZhtuTcQb6xUU34G5cSLyigw4PFHso1TiHRFEjW8oan\niuxjHOceS73RhF8Ll3c4jN64F4RSvx4=\n",
+			"VIDEO_SIZE":"2.17 GB",
+			"RELEASE_DATE":"2021-05-14"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":801335,
+			"NAME_TMD":"Chica en el sótano SUB",
+			"NAME_ORIGINAL":"Chica en el sotano SUB Girl in the Basement",
+			"GENERO":"crimen suspenso",
+			"URL_IMAGE":"\/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg",
+			"VOTE_AVERAGE":8,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpRhUaQ1AAFDzu2EBAgoGGLktASqhKQxEKA8YuBmASLKcKVkR48pMp\/rP\n737490uCCB28fXMan62knhTTTFJfbRA=\n",
+			"VIDEO_SIZE":"1.32 GB",
+			"RELEASE_DATE":"2021-02-27"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":301351,
+			"NAME_TMD":"Somos tus amigos 1080p LAT",
+			"NAME_ORIGINAL":"We Are Your Friends",
+			"GENERO":"drama musica romance comedia",
+			"URL_IMAGE":"\/rpjGpELAYt9D9oCqGXHJfruYwUd.jpg",
+			"VOTE_AVERAGE":6.7,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpUo5j95CXKCKQbgs7b72QGzwN\/i6FvrUjSfK8\/T4SqrcblNIu\/rX8Q6Y\nbB3yuLwfHkEQDSaSiZkqsnO1ZQNzVnU=\n",
+			"VIDEO_SIZE":"3.54 GB",
+			"RELEASE_DATE":"2015-08-26"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":92381,
+			"NAME_TMD":"Phat Beach 720p LAT",
+			"NAME_ORIGINAL":"Phat Beach",
+			"GENERO":"comedia",
+			"URL_IMAGE":"\/qp0oxzhvQWfkVZ2Iy6uhklrT0g0.jpg",
+			"VOTE_AVERAGE":5.3,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpY68aBlUHK15cIJQBUl13FPNPOm3y1zjlvXFVo+2iRKRiN4Z48hiIgba\n5egzLgpnaWJ3ZOza\/PKZ0BHzo0kLXF8=\n",
+			"VIDEO_SIZE":"1.52 GB",
+			"RELEASE_DATE":"1996-08-02"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":48843,
+			"NAME_TMD":"El Barbero 720p LAT",
+			"NAME_ORIGINAL":"The Barber",
+			"GENERO":"terror crimen misterio",
+			"URL_IMAGE":"\/31nvWEGvsi6K8An67wNdhuNcj2P.jpg",
+			"VOTE_AVERAGE":5.5,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpRL1O4doXc8OCL3BB0NeDfp93X4EvQcecydjN\/Zv1GaLuIrVwVWLCfYq\ngr2HR9NVSzu47c+BDWJajphfxsb3SdQ=\n",
+			"VIDEO_SIZE":"1.61 GB",
+			"RELEASE_DATE":"2002-12-31"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":45650,
+			"NAME_TMD":"The Hole 720p SUB",
+			"NAME_ORIGINAL":"The Hole Miedos",
+			"GENERO":"suspenso aventura",
+			"URL_IMAGE":"\/6LaXRKKrbEyc204qoh9ntdalAfJ.jpg",
+			"VOTE_AVERAGE":5.7,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpaIGorDN+phM9ZOUNmFvxgbCisSD9w+Yz586NR+4C2TiCeQy\/vMKzkFJ\nkhO5WR5XD7c82ntjuyNevR0OGV+iusw=\n",
+			"VIDEO_SIZE":"1.37 GB",
+			"RELEASE_DATE":"2009-09-09"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":45650,
+			"NAME_TMD":"The Hole 720p CAST",
+			"NAME_ORIGINAL":"The Hole Miedos",
+			"GENERO":"suspenso aventura",
+			"URL_IMAGE":"\/6LaXRKKrbEyc204qoh9ntdalAfJ.jpg",
+			"VOTE_AVERAGE":5.7,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpQzF1D0rk3D0QBhupPB1ghJFNDDvhrRv12bujD4OGcdqljlJBcgZ8RI5\nRMCczNfxgXdXa1MvMEvZegcbXCDYOmU=\n",
+			"VIDEO_SIZE":"1.38 GB",
+			"RELEASE_DATE":"2009-09-09"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":17048,
+			"NAME_TMD":"Kung Fu Kids CAST",
+			"NAME_ORIGINAL":"Hao xiao zi Los Kung Fu Kids",
+			"GENERO":"comedia",
+			"URL_IMAGE":"\/yBn9EEyQbmukyOpyebdll8EW3ba.jpg",
+			"VOTE_AVERAGE":6.3,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpTUk+UvOLJn1yD7Y4ROLiHD4YWtCxlFXsqT3s0gF4s\/pjDg3EI0CJdKx\nNgXxjEoSo+LAsDZaImbJLekQWLxv5hk=\n",
+			"VIDEO_SIZE":"290.5 MB",
+			"RELEASE_DATE":"1986-03-13"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":364324,
+			"NAME_TMD":"Cronicas de la Tribu Fantasmal 720p SUB",
+			"NAME_ORIGINAL":"九层妖塔 Chronicles of the Ghostly Tribe",
+			"GENERO":"aventura accion suspenso",
+			"URL_IMAGE":"\/6ae408HIbsYGcor9N4NxSbADI8q.jpg",
+			"VOTE_AVERAGE":5.5,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpUNbDAKTZVnU\/qmUCnCi3yc6QUdPmjX\/Rhnoaejd5cHE7kCsSHvtOeZu\nocR4Tej3zulmtgtlGIHLRSbGsz+7fbU=\n",
+			"VIDEO_SIZE":"2 GB",
+			"RELEASE_DATE":"2015-09-30"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":512,
+			"NAME_TMD":"Un Amante Peligroso 720p LAT",
+			"NAME_ORIGINAL":"Scoop",
+			"GENERO":"comedia misterio",
+			"URL_IMAGE":"\/r6HRh0NRuLWLmY4nabJCPLkqRX6.jpg",
+			"VOTE_AVERAGE":6.6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpaI5xtNWOkXsrWcNooGpEbwzQDpojGjEA4jlmTyZIjRaeof0rK3r3kf9\n6niRajR6hkpxvwMdXQXrrkQr7DAUhmw=\n",
+			"VIDEO_SIZE":"1.64 GB",
+			"RELEASE_DATE":"2006-07-27"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":28032,
+			"NAME_TMD":"Pulgarcita 720p CAST",
+			"NAME_ORIGINAL":"Thumbelina Pulgarcita",
+			"GENERO":"animacion drama familia",
+			"URL_IMAGE":"\/8Ulevn4N3JYs8NfIq7vg2ZCUvrT.jpg",
+			"VOTE_AVERAGE":6.3,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpTuBiSCNdV1LSMfROqFg4ekOWZ0OSAaajSC8mz7P+LhdgGdyi5ivHIoS\nijPFovQxNvHg0HuYGCGTtlu0pP\/3ARs=\n",
+			"VIDEO_SIZE":"957.22 MB",
+			"RELEASE_DATE":"1994-03-29"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":34335,
+			"NAME_TMD":"Nueve Muertes Anunciadas 720p LAT",
+			"NAME_ORIGINAL":"Nine Dead Nueve Muertos",
+			"GENERO":"crimen terror misterio",
+			"URL_IMAGE":"\/zpmfVbs6R6ibDQQWyLFc3CNr8Tz.jpg",
+			"VOTE_AVERAGE":5.1,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpeaxkl5q\/Y9TD7M7lRhSI+c6owjR3S0kNeY0Ek1W9wnjcatC+a7AT7E9\nB0fcsUblPY9goQxrhnADv1V23zANoMQ=\n",
+			"VIDEO_SIZE":"1.47 GB",
+			"RELEASE_DATE":"2010-03-09"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":14196,
+			"NAME_TMD":"La Fiesta 1080p LAT",
+			"NAME_ORIGINAL":"Garden Party",
+			"GENERO":"drama",
+			"URL_IMAGE":"\/x00Zg8Jmr0nJvalp3Xthx5mVbAA.jpg",
+			"VOTE_AVERAGE":5.3,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpSTqUi\/GkNBPvEdcH45j4bbuQE6+xYwLGUKn4tuTIzvGRHytydHZiqE1\ndtboiNGa\/7T3DH+LLVnlIyAp6kOTrUI=\n",
+			"VIDEO_SIZE":"1.44 GB",
+			"RELEASE_DATE":"2008-07-11"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":11834,
+			"NAME_TMD":"La Bestia Del Reino 720p CAST",
+			"NAME_ORIGINAL":"Jabberwocky La bestia del reino",
+			"GENERO":"comedia",
+			"URL_IMAGE":"\/upzQCJCFX2tBrWQIRPuibWbzPWm.jpg",
+			"VOTE_AVERAGE":6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpZya3d96EYF\/K6O7wUyfipUtBBVP+ddHO1kPg5FfyoQ7COKXOfm8DONY\n880d5HxlajjLq+zl\/tEQplw0r7vahfM=\n",
+			"VIDEO_SIZE":"1.73 GB",
+			"RELEASE_DATE":"1977-03-28"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":174323,
+			"NAME_TMD":"GBF 1080p SUB",
+			"NAME_ORIGINAL":"G.B.F.",
+			"GENERO":"comedia drama",
+			"URL_IMAGE":"\/f4fR1WMgSv7K93ZPoJlPyvaApdE.jpg",
+			"VOTE_AVERAGE":5.9,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpbJkIuT2H9QrIkjLRenjYH9SgWRjLKEAM2Z2a3niwAjRfIGwlegpPPwZ\neMS0mIRu5vFgzlrwq3mn0yyeowtHdG0=\n",
+			"VIDEO_SIZE":"1.77 GB",
+			"RELEASE_DATE":"2014-01-17"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":16300,
+			"NAME_TMD":"De Vuelta A La Tierra 1080p SUB",
+			"NAME_ORIGINAL":"Down to Earth Down to Earth (De vuelta a la Tierra)",
+			"GENERO":"comedia ficcion romance",
+			"URL_IMAGE":"\/sA9czpExQ5Qx5N8Opfw1iKjUfcn.jpg",
+			"VOTE_AVERAGE":5.3,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpVCIus5eJqDEmPO3o664678hBRj7ySGcZoZFODAAJSobExigysx7zSst\n9gidTTxZTAx0\/BLOIlQuE+MVYeHKTPs=\n",
+			"VIDEO_SIZE":"1.55 GB",
+			"RELEASE_DATE":"2001-02-16"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":519471,
+			"NAME_TMD":"Apocalipsis Voodoo 1080p SUB",
+			"NAME_ORIGINAL":"Apocalipsis Voodoo",
+			"GENERO":"accion comedia terror",
+			"URL_IMAGE":"\/vtIwP78YCpC9KkAk5k2V5qc2EaV.jpg",
+			"VOTE_AVERAGE":9,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpYkMfKSLxgYf0ey83P3aDrggb3Y7n4ZnyhhQCwgmyvFumQ1UjuUElkGt\nAn22ec8WbT\/dEmq5kThz2NRVurjvR8c=\n",
+			"VIDEO_SIZE":"1.52 GB",
+			"RELEASE_DATE":"2018-01-27"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":331446,
+			"NAME_TMD":"Sharknado 3 1080p SUB",
+			"NAME_ORIGINAL":"Sharknado 3: Oh Hell No! Sharknado 3",
+			"GENERO":"accion ficcion comedia aventura",
+			"URL_IMAGE":"\/r8qy2CgaSjJYusWy3XkbZieK5aG.jpg",
+			"VOTE_AVERAGE":4.6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpYw0DaC+cMhd9k7AKs8+D4i8yztdlo\/DxeY5L0fMI9hODwA\/10F2LWMS\n0MTEyq1X6feaqcdiDEg1EfzZGdpIzyM=\n",
+			"VIDEO_SIZE":"1.24 GB",
+			"RELEASE_DATE":"2015-07-22"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":21398,
+			"NAME_TMD":"Grace 1080p SUB",
+			"NAME_ORIGINAL":"Grace",
+			"GENERO":"terror suspenso",
+			"URL_IMAGE":"\/aygXzr6TaeC9jaPC6FfbKxNwZsN.jpg",
+			"VOTE_AVERAGE":5.1,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpTjgySpP502V0dhygv39MBD5ySDT61dz0ECnNyTywwZ5\/xEtbNXrKib2\ngfuGbJWLKkusWJbWaC8M\/2ZMy9dsh\/M=\n",
+			"VIDEO_SIZE":"3.14 GB",
+			"RELEASE_DATE":"2009-08-14"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":647302,
+			"NAME_TMD":"Benny Loves You 1080p DUAL",
+			"NAME_ORIGINAL":"Benny Loves You Benny loves you",
+			"GENERO":"terror comedia",
+			"URL_IMAGE":"\/mQ8vALvqA0z0qglG3gI6xpVcslo.jpg",
+			"VOTE_AVERAGE":6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpfsw2d9Z6f8NUU7CcCdip+SaT0FQ5Z01xdWnXitI+rFW0bIOOY2l4QTl\njLuGsjs7dpYn1bhZo8JhZkuiaKVQRvo=\n",
+			"VIDEO_SIZE":"3.81 GB",
+			"RELEASE_DATE":"2019-11-21"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":666624,
+			"NAME_TMD":"Seguridad 720p LAT",
+			"NAME_ORIGINAL":"Security Seguridad",
+			"GENERO":"suspenso",
+			"URL_IMAGE":"\/tuMcn12Us09pmAOuVEHXmFRivjF.jpg",
+			"VOTE_AVERAGE":5.1,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpe2MZDEGOW\/kP5S7eNLCuAhwtNpK3dVbhacusfMNZjo3X\/w+nEvfwOfR\nWRZMj08ZvPp9pgbiwlrkk8UUD8FZjdc=\n",
+			"VIDEO_SIZE":"1.11 GB",
+			"RELEASE_DATE":"2021-06-07"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":637693,
+			"NAME_TMD":"Spirit El Indomable 720p LAT",
+			"NAME_ORIGINAL":"Spirit Untamed Spirit - Indomable",
+			"GENERO":"animacion aventura familia",
+			"URL_IMAGE":"\/mptEtOkw906BJuD9rRUKG5sr5E9.jpg",
+			"VOTE_AVERAGE":6.6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpQki8sId2QccCkh5v5xmRz3rbRIlvpcwLf4SAJnFtv+iRwW93JJ3bREF\n6Dy8HmRiWVX8qu8DyhslkynJ40FgxlM=\n",
+			"VIDEO_SIZE":"835.87 MB",
+			"RELEASE_DATE":"2021-05-20"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":430447,
+			"NAME_TMD":"Mary y la flor de la bruja 1080p DUAL",
+			"NAME_ORIGINAL":"メアリと魔女の花 Mary y la flor de la Bruja",
+			"GENERO":"aventura animacion",
+			"URL_IMAGE":"\/i91H1zLEh22NDdlEydXE96BA6i.jpg",
+			"VOTE_AVERAGE":7.1,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpfL3AZFr8pFKY27otgIm+6BalZyLUC1+5Vd8TLtYhAzMXcUvngr+HLXd\nfX9IKVj1tUsjx1hKRd5bRoy8k7hmbgY=\n",
+			"VIDEO_SIZE":"3.53 GB",
+			"RELEASE_DATE":"2017-07-08"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":520763,
+			"NAME_TMD":"Un Lugar Silencioso Parte 2 1080p SUB",
+			"NAME_ORIGINAL":"A Quiet Place Part II Un lugar tranquilo 2",
+			"GENERO":"ficcion suspenso terror",
+			"URL_IMAGE":"\/95m7s0jg0UHP3bIuwZkA12fxTl9.jpg",
+			"VOTE_AVERAGE":7.4,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpcqimaavixi2\/AR+hZ\/1XuNLC99XDz69JMZbjgC4+AQkySNudJHNl5Yk\nSnZPHR8uvc3tDa42qib8HyBf4cPH1BQ=\n",
+			"VIDEO_SIZE":"7.41 GB",
+			"RELEASE_DATE":"2021-05-21"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":520763,
+			"NAME_TMD":"Un Lugar Silencioso Parte 2 4K SUB",
+			"NAME_ORIGINAL":"A Quiet Place Part II Un lugar tranquilo 2",
+			"GENERO":"ficcion suspenso terror",
+			"URL_IMAGE":"\/95m7s0jg0UHP3bIuwZkA12fxTl9.jpg",
+			"VOTE_AVERAGE":7.4,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpSFjloSfBT64BC90Axtvwz4SxBmNq+FojP0x\/4LisCJD6zQcqrKQ2BtB\nzTC\/KUvgRbtNf\/KrPjTVVJAK5SXvAwg=\n",
+			"VIDEO_SIZE":"10.28 GB",
+			"RELEASE_DATE":"2021-05-21"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":12521,
+			"NAME_TMD":"Shocker 720p LAT",
+			"NAME_ORIGINAL":"Shocker Shocker, 100.000 voltios de terror",
+			"GENERO":"terror",
+			"URL_IMAGE":"\/xEDmOhNGCKlWlS3mCiqLCVzBXVA.jpg",
+			"VOTE_AVERAGE":5.5,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpS2b4a0pPTXx8ztF6EXmhixNkO7zbp5G+vee1H3326qv7VGkw6TCEtf\/\npxu5ydOkCyE17e6ddtQ1yMG9pkDa5lc=\n",
+			"VIDEO_SIZE":"1.51 GB",
+			"RELEASE_DATE":"1989-10-27"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":52414,
+			"NAME_TMD":"Death Bell 2 SUB",
+			"NAME_ORIGINAL":"고사 두 번째 이야기: 교생실습 Death Bell 2: Bloody Camp",
+			"GENERO":"terror",
+			"URL_IMAGE":"\/xtPJbFw6Yqrx0pZg9UAVTep20b7.jpg",
+			"VOTE_AVERAGE":5.9,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpeajdMPZowD0L1GPH0PvU05fvWd9ygcpNghACEaLXmInLcFh6uHTOLJE\nhaIgIEczFmsvvmTwy3sruEbQtACEW7Y=\n",
+			"VIDEO_SIZE":"1.31 GB",
+			"RELEASE_DATE":"2010-07-28"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":34766,
+			"NAME_TMD":"Zenon, la chica del milenio 720p DUALC",
+			"NAME_ORIGINAL":"Zenon: Girl of the 21st Century Zenon: La chica del milenio",
+			"GENERO":"aventura comedia familia ficcion",
+			"URL_IMAGE":"\/aaasI95hIbBnl6i85hjHY6suM9d.jpg",
+			"VOTE_AVERAGE":6.1,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpQr9oSldxOHUywMb0wB2xykM6GoMpVhsHFqNG62Zlqm9UkAKEK1yctDf\nv9u1nUOo04vHm+U91ziLEL8hrd0XfXI=\n",
+			"VIDEO_SIZE":"1.34 GB",
+			"RELEASE_DATE":"1999-01-23"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":413416,
+			"NAME_TMD":"The Housemaid SUB",
+			"NAME_ORIGINAL":"Cô Hầu Gai",
+			"GENERO":"romance terror",
+			"URL_IMAGE":"\/uDS7ZNsMViDSXAb37txP1AL5Rcb.jpg",
+			"VOTE_AVERAGE":6.6,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpcs7TwIQkUCgiKhUyqUWV+MvjFjddZkHMm5TPpftjlKlNwLERxJ3n2Rj\npxxrof66fUo\/sA2RLl0VSEJQtiD\/Mhs=\n",
+			"VIDEO_SIZE":"1.29 GB",
+			"RELEASE_DATE":"2016-09-16"
+		},
+		
+		{
+			"TYPE":1,
+			"ID_TMD":788892,
+			"NAME_TMD":"Aurora 720p LAT",
+			"NAME_ORIGINAL":"Aurora",
+			"GENERO":"drama",
+			"URL_IMAGE":"\/cbJ4rbQMChVO0vq1LZAFkvEe1Yv.jpg",
+			"VOTE_AVERAGE":0,
+			"URL_VIDEO":"XBeeEQqa\/2CvEpxB\/laHpTjbDqDqRsl7g8xpkKEOmzId1G4wNsKVQLqG0\/1B1Yl5TGVrliMhzs\/g\neuQ5h3oklb7Mj\/IwyljLTgmLtH2EdX0=\n",
+			"VIDEO_SIZE":"1.48 GB",
+			"RELEASE_DATE":"2021-02-02"
 		}
 	],
 	"recomends":
@@ -82671,13 +83494,58 @@
 	[
 		
 		{
-			"PATH":"\/TODO2\/Animes-Animacion.\/1. Cartoon, Animacion\/Star Wars The Bad Batch id_105971",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpTy2kM8D10V5gvLJYJadPqBGUltYxOI41IV4zDVweHb3zcJrN5MS42hP\nWJlOAPf9wA==\n"
+			"PATH":"\/TODO2\/Animes-Animacion.\/Animes\/Blood C id_43270",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpa5KaLeecpoqQkWm9NO3bHIfKic3qpX4Vr2NmqVUwXQczbvQ2GWGhWJn\ne8xY3WwxIA==\n"
 		},
 		
 		{
-			"PATH":"\/TODO2\/Animes-Animacion.\/Animes\/Blade id_62798",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpVBuRjxbKLu92XhCXfX\/iYY8KmjtlnH4clQcylnMw5Q0lmAk4PCxzzHC\ny+\/BPedXug==\n"
+			"PATH":"\/TODO2\/Animes-Animacion.\/Animes\/Ga Rei Zero id_26328",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpYnp\/PV\/NCiNIleRPRqiLg+6ONiKjczMWfXjahBFShgZGTx5d9S7GFDe\nVG2DavUQXQ==\n"
+		},
+		
+		{
+			"PATH":"\/TODO2\/Series.\/Limitless id_62687",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpddx3gjybu3yLXcwnX7y4jXkizLQDb\/ZrZRZZOizjV0bQMQA+ugjcBi5\naaFR\/kDm5Q==\n"
+		},
+		
+		{
+			"PATH":"\/TODO2\/Series.\/Star Trek id_253",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpaedJKEDrzUjIxKfJsbOuxPcbQnOpb\/aNnnA01J6mKkzV1qpI2W2geAK\nAIDIsyEmLw==\n"
+		},
+		
+		{
+			"PATH":"\/TODO2\/Series.\/Star Trek La Nueva Generación id_655",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpZzH3UFWyQHRvhq0+ApPCjcBqTICnduF\/OfUQiHyBtLSTu5n1Lx0zz7n\nVAt9TjwK0Q==\n"
+		},
+		
+		{
+			"PATH":"\/TODO2\/Series.\/Black Lagoon id_12598",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpYvthN8XcbeDGN4zsoetiCrT0WwOf0SHR4Dmi37mut0Cguw14WGWi7uV\n\/o7OrFOo8A==\n"
+		},
+		
+		{
+			"PATH":"\/TODO2\/Series.\/Soy Una Araña... Y Que id_99618",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpdVwNZbOJtx1Mb9inaZ6BxFJTHG8bNmsMs1JfZeCuCBcquqVj8hC6M9V\npmDrau0eiA==\n"
+		},
+		
+		{
+			"PATH":"\/TODO2\/Animes-Animacion.\/Animes\/Rugrats id_124920",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpXSkBoB24Vn8642N+jP3CwCLIvItFgkKVRFNeMUmbwwqjbBrCaVNOCvt\nurKCuYj7KQ==\n"
+		},
+		
+		{
+			"PATH":"\/TODO2\/Animes-Animacion.\/Animes\/Godzilla Punto Singular id_111177",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpQpg\/Kxk6xmcPunqZXG7w5Hf7Kkj4EXuiOEj2MdRCUqSGVhe19NCan4x\n9tFlRmjr2w==\n"
+		},
+		
+		{
+			"PATH":"\/TODO\/Series.\/On my block id_76747",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpV6UJqlLTOKbmabwXOQP3ETlXr+EuVpetLHNYnEDQ8GqHp3ivtJQavwk\nS6L10K8fqw==\n"
+		},
+		
+		{
+			"PATH":"\/TODO2\/Animes-Animacion.\/1. Cartoon, Animacion\/Star Wars The Bad Batch id_105971",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpTy2kM8D10V5gvLJYJadPqBGUltYxOI41IV4zDVweHb3zcJrN5MS42hP\nWJlOAPf9wA==\n"
 		},
 		
 		{
@@ -82686,8 +83554,23 @@
 		},
 		
 		{
+			"PATH":"\/TODO2\/Animes-Animacion.\/Animes\/Blade id_62798",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpVBuRjxbKLu92XhCXfX\/iYY8KmjtlnH4clQcylnMw5Q0lmAk4PCxzzHC\ny+\/BPedXug==\n"
+		},
+		
+		{
+			"PATH":"\/TODO\/Series.\/Criminal - UK id_92926",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpZKTntWRORtpOnd8KiHJ8isKtcTYWJt7EDDbpbN+Y8K\/Z4s4hEyaONIo\n1zxpaW8JLA==\n"
+		},
+		
+		{
 			"PATH":"\/TODO2\/Series.\/Into The Badlands id_47450",
 			"LINK":"XBeeEQqa\/2CvEpxB\/laHpTCMDdsvM8+CSH4xQhhytXcYZrMBgGDuGQ9iZ9ZCls\/1kqxa8l1v0Tlo\nq+20woFCSA==\n"
+		},
+		
+		{
+			"PATH":"\/TODO\/Series.\/Greys Anatomy id_1416",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpT\/IqRvdRNSQQfciVMS1kxlfXNaJotOjRWDWdgLkA380vXtczsCMQX3J\nT7o7333ofA==\n"
 		},
 		
 		{
@@ -82698,6 +83581,11 @@
 		{
 			"PATH":"\/TODO2\/Animes-Animacion.\/Animes\/Attack on Titan Junior High id_63510",
 			"LINK":"XBeeEQqa\/2CvEpxB\/laHpTwTVSw8iLcFgMplf325zkO12T1mEnXMO\/ISFAj8\/MfGYo19GOygLw54\naJ9wRvkzCg==\n"
+		},
+		
+		{
+			"PATH":"\/TODO\/Animes-Animacion.\/Animes\/Jujutsu Kaisen id_95479",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpX1Yc8TOh0RfHUKDC8ZiDF9XgI86m54fNzYjnP2y1yzK8BngHan09Jbc\nWzCY3NOwvw==\n"
 		},
 		
 		{
@@ -82821,13 +83709,13 @@
 		},
 		
 		{
-			"PATH":"\/TODO2\/Series.\/Mudanzas al Cielo id_96571",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpfBSBXG+O1k2oq9eJPD4BTvIunIMVp4VexNP+tbLuXraIO9crb1ApSTQ\nwmCsFw1cIw==\n"
+			"PATH":"\/TODO2\/Series.\/Ases Del Bisturi id_113647",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpZ0U1vnlplkx193O4FVyWtyK21EbfmaAgLLHoaQOtbyozKe2v5KyI99d\nA14lLI+MtA==\n"
 		},
 		
 		{
-			"PATH":"\/TODO2\/Series.\/Ases Del Bisturi id_113647",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpZ0U1vnlplkx193O4FVyWtyK21EbfmaAgLLHoaQOtbyozKe2v5KyI99d\nA14lLI+MtA==\n"
+			"PATH":"\/TODO2\/Series.\/Mudanzas al Cielo id_96571",
+			"LINK":"XBeeEQqa\/2CvEpxB\/laHpfBSBXG+O1k2oq9eJPD4BTvIunIMVp4VexNP+tbLuXraIO9crb1ApSTQ\nwmCsFw1cIw==\n"
 		},
 		
 		{
@@ -82858,51 +83746,6 @@
 		{
 			"PATH":"\/TODO2\/Series.\/Superman y Lois id_95057",
 			"LINK":"XBeeEQqa\/2CvEpxB\/laHpW1swVCS\/Q5W5DUqwlDHs3CMU\/zVjUGx7aopH9flMcpGlZCQo6sA3Mfx\npv946OBq0A==\n"
-		},
-		
-		{
-			"PATH":"\/TODO2\/Series.\/Elite Carla y Samuel id_126525",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpT3Jp5MBiqEZ6EhOZB1z6NIkV6nW5oRc7vLf8DnRPaoqLZJIXSK+J9X4\nk1IDJYJOSw==\n"
-		},
-		
-		{
-			"PATH":"\/TODO2\/Series.\/Elite Omar Ander Alexis id_126528",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpWnTUFs\/ee8C7AwOWslpc5Q\/811W9YWj8O377AXyYYo57InbqRxlZgd8\nV5bRUhadow==\n"
-		},
-		
-		{
-			"PATH":"\/TODO2\/Series.\/Elite Guzmán Caye y Rebe id_126531",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpZmaZwdcyrJ\/WiXJC\/YB6qi+gRY28Z65stABCreRiHuSv59SCOhhFQgV\n0xbI1kBBgA==\n"
-		},
-		
-		{
-			"PATH":"\/TODO2\/Series.\/Elite Nadia Guzmán id_126526",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpTZ\/JxRZEOc1KVsP3a+q4Q7KcXHwITxbv2iYR+hrebwTRqZ14sUIhUjL\nP6SUqfOr+Q==\n"
-		},
-		
-		{
-			"PATH":"\/TODO\/Series.\/Legacies id_79460",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpdpZujqKxJDTGu0ksk5t4N8qav0lKV02UrjnWd5Zhm6O2gbjGk8GwMVk\n2os7Lecp7g==\n"
-		},
-		
-		{
-			"PATH":"\/TODO\/Series.\/Fear The Walking Dead id_62286",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpUo8rBQIYLGTFCi8ENRck0a\/vMdcAjDkj9iNy1SmeYjSCAF6YzkYgqoi\n\/G6xi5UAgg==\n"
-		},
-		
-		{
-			"PATH":"\/TODO\/Series.\/The Flash id_60735",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpeBjgY0y2iSnrWpq5btotnktPSzK6TfkTR7YqG7Vkztwn7DRVhAFcuNA\nAeiohY+CtA==\n"
-		},
-		
-		{
-			"PATH":"\/TODO\/Animes-Animacion.\/Animes\/Elfen Lied id_42671",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpd2S7mFo3y0zRVJIE9xSpf4TQz+vmWQuBMhFSu5uvFRc62PPkxgOHU6K\np\/I1V2x23Q==\n"
-		},
-		
-		{
-			"PATH":"\/TODO2\/Series.\/Gentleman Jack id_86163",
-			"LINK":"XBeeEQqa\/2CvEpxB\/laHpYSSOOa2CwY396gGVkSQD1ZoCWHz3xtnsWA19\/KOjH7o\/e0tF8CEn2LW\nx\/rLz8dNyA==\n"
 		}
 	]
 }
