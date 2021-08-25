@@ -17,7 +17,7 @@
 	"unityIntro": true,
 	"unityTVs": false,
 	"unityMovies": false,
-	"adsGoo": true,
+	"adsGoo": false,
   "MegaJSON": false,
 	"MegaAPK": false,
 	"hourReconect": false,
