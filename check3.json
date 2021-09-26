@@ -24,7 +24,7 @@
   "MegaAPK": false,
   "hourReconect": false,
   "NoAdsSaved": false,
-  "promocode": true,
+  "promocode": false,
   "cleancode": false,
   "login": false,
   "readVersionGP": false,
