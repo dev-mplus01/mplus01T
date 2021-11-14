@@ -25,6 +25,8 @@
   "hourReconect": false,
   "NoAdsSaved": false,
   "info": false,
+  "infoTitle": "Prueba",
+  "infoMSG": "Prueba\nPrueba\nPrueba",
   "promocode": false,
   "cleancode": false,
   "login": false,
