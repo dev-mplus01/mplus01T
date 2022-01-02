@@ -9,7 +9,7 @@
   "urlJSONFile2": "http://www.appsdevx.com/app/getlistFile.json",
   "urlJSONFile3": "https://raw.githubusercontent.com/dev-mplus01/mplus01T/main/getlistFile.json",
   "blockApp": false,
-  "dateJSONResponse": "02/01/2022",
+  "dateJSONResponse": "02/01/2022.",
   "forzarAPKCustom": true,
   "forzarAPKCustomFinally": true,
   "forzarAPKCustomFinally2": false,
