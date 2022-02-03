@@ -34,7 +34,7 @@
   "cache": false,
   "onlyapk": false,
   "update": true,
-  "updateH": true,
+  "updateH": false,
   "aDFHF": true,
   "bNER": true,
   "ads": 2,
