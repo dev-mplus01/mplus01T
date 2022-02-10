@@ -1,7 +1,5 @@
 {
-  "urlJSON2": "https://raw.githubusercontent.com/dev-mplus01/mplus01T/main/p/getlist.json",
-  "urlJSON": "https://raw.githubusercontent.com/dev-mplus01/mplus01T/main/p/getlist.json",
-  "urlJSON3": "http://www.appsdevx.com/app/getlist.json",
+
   "urlJSONNew": "QDiqsp73zfwazTQBuEttYfj7wyMJIy4qG9N+pZ9zbeiRNyhAwSEUYXOL12EsVXW28lYFNjlXskxk f33u/6atKvvxl21hKQqA4zb7ToqwU/iLVEcKPob+1ZIE9G/Zpquz+YveD2p44HL5wACgtU7cx9II w6Yjc9+GSMg9qciw9W0UyAwsMO8cFikTpdzUOl217V6FWovck0NcoXg9N+2vTg==",
   "urlJSONNew2": "QDiqsp73zfwazTQBuEttYfj7wyMJIy4qG9N+pZ9zbeiRNyhAwSEUYXOL12EsVXW28lYFNjlXskxk f33u/6atKvvxl21hKQqA4zb7ToqwU/iLVEcKPob+1ZIE9G/Zpquz+YveD2p44HL5wACgtU7cx9II w6Yjc9+GSMg9qciw9W0UyAwsMO8cFikTpdzUOl217V6FWovck0NcoXg9N+2vTg==",
   "urlJSONNew3": "QDiqsp73zfwazTQBuEttYfj7wyMJIy4qG9N+pZ9zbeiRNyhAwSEUYXOL12EsVXW28lYFNjlXskxk f33u/6atKvvxl21hKQqA4zb7ToqwU/iLVEcKPob+1ZIE9G/Zpquz+YveD2p44HL5wACgtU7cx9II w6Yjc9+GSMg9qciw9W0UyAwsMO8cFikTpdzUOl217V6FWovck0NcoXg9N+2vTg== ",
@@ -90,8 +88,8 @@
   "nombre": "MoviePlus",
   "id_store": "com.devxp.managerapk",
   "packname_uninstall": "com.dve.movieplus",
-  "VersionCode": 34,
-  "version": "3.4",
+  "VersionCode": 35,
+  "version": "3.5",
   "versionBETA": "2.x.7 BETA",
   "version_android_4": "2.7",
   "VersionCode_android_4": 26,
