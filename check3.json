@@ -32,7 +32,7 @@
   "login": false,
   "readVersionGP": true,
   "cache": false,
-  "onlyapk": false,
+  "onlyapk": true,
   "update": true,
   "updateH": true,
   "aDFHF": true,
