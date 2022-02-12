@@ -20,7 +20,7 @@
   "unityTVs": false,
   "unityMovies": false,
   "adsGoo": false,
-  "MegaJSON": true,
+  "MegaJSON": false,
   "MegaAPK": false,
   "hourReconect": false,
   "NoAdsSaved": false,
