@@ -1,5 +1,4 @@
 {
-
   "urlJSONNew": "IZN8n4TU3xzzCy2kC6WHetNea8tivnmY6rYoNvr4f0xLweqP8yr9htytI/IIocQO",
   "urlJSONNew2": "IZN8n4TU3xzzCy2kC6WHetNea8tivnmY6rYoNvr4f0xLweqP8yr9htytI/IIocQO",
   "urlJSONNew3": "IZN8n4TU3xzzCy2kC6WHetNea8tivnmY6rYoNvr4f0xLweqP8yr9htytI/IIocQO",
@@ -61,13 +60,11 @@
   "linkup_x86_64": "https://github.com/admin-dev-beta/dev/releases/download/1.0/MoviePlus.x86_64.apk",
   "linkup_arm64-v8a": "https://github.com/admin-dev-beta/dev/releases/download/1.0/MoviePlus.arm64-v8a.apk",
   "linkup_armeabi-v7a": "https://github.com/admin-dev-beta/dev/releases/download/1.0/MoviePlus.armeabi-v7a.apk",
-  
   "linkup_android_4": "https://github.com/admin-dev-beta/dev/releases/download/1.0/MoviePlus.all.android.4x.apk",
   "linkup_x86_android_4": "https://github.com/admin-dev-beta/dev/releases/download/1.0/MoviePlus.x86.android.4x.apk",
   "linkup_x86_64_android_4": "https://github.com/admin-dev-beta/dev/releases/download/1.0/MoviePlus.x86_64.android.4x.apk",
   "linkup_arm64-v8a_android_4": "https://github.com/admin-dev-beta/dev/releases/download/1.0/MoviePlus.arm64-v8a.android.4x.apk",
   "linkup_armeabi-v7a_android_4": "https://github.com/admin-dev-beta/dev/releases/download/1.0/MoviePlus.armeabi-v7a.android.4x.apk",
-  
   "userAgent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36",
   "js": "Button2 Button2_view_raised Button2_size_l download-button action-buttons__button action-buttons__button_download",
   "uniqueuid": "QnGublVkjE6Dxk9VTnwTh1KDwAeZVpVA+x04k+CbGos=",
@@ -85,19 +82,16 @@
   "yandexuid": "HjsvRitfDedl7kNkavh2oybJpJUn++EcJSg6bDpktR0=",
   "yp": "ig1l2FbbPa5Lag81z4B2yQaJKJ3Q5BAsymKNQ2S4SrY6q2+CDex5sWgOD3+1f24P",
   "ys": "UurqxgrA1L/IkdhQE5eSAuoV/GIsvKWiwgB74r8MpZo=",
-  
   "uptobox": [
-  "_gat=1; _gid=GA1.2.1750891511.1646556859; _ga=GA1.2.902634210.1646556859; xfss=f4ocpd4xqovhq1vw; Ip_CO",
-  "_gat=1; _gid=GA1.2.1143526560.1646557109; _ga=GA1.2.849625059.1646557109; xfss=361ffd7yzjtyzygz; Ip_USS",
-  "_gat=1; _gid=GA1.2.1784138411.1647437150; _ga=GA1.2.1520603390.1647437150; xfss=n97mso97rj2e2806; Ip_MX",
-  "_gat=1; _gid=GA1.2.1267773833.1647437843; _ga=GA1.2.254283889.1647437843; xfss=yzv4bfsirzvxl1ul; Ip_ARG",
-  "_gat=1; _gid=GA1.2.1067380846.1647444101; _ga=GA1.2.1026513284.1647444101; xfss=14i9657ycbasnrw9; Ip_PER",
+    "_gat=1; _gid=GA1.2.1750891511.1646556859; _ga=GA1.2.902634210.1646556859; xfss=f4ocpd4xqovhq1vw; Ip_CO",
+    "_gat=1; _gid=GA1.2.1143526560.1646557109; _ga=GA1.2.849625059.1646557109; xfss=361ffd7yzjtyzygz; Ip_USS",
+    "_gat=1; _gid=GA1.2.1784138411.1647437150; _ga=GA1.2.1520603390.1647437150; xfss=n97mso97rj2e2806; Ip_MX",
+    "_gat=1; _gid=GA1.2.1267773833.1647437843; _ga=GA1.2.254283889.1647437843; xfss=yzv4bfsirzvxl1ul; Ip_ARG",
+    "_gat=1; _gid=GA1.2.1067380846.1647444101; _ga=GA1.2.1026513284.1647444101; xfss=14i9657ycbasnrw9; Ip_PER"
   ],
-  
   "yandexString": "_ym_isad=2; gdpr=0; yandex_login=developerxploit; ys=udn.cDpkZXZlbG9wZXJ4cGxvaXQ%3D; _yasc=KFKKUn1bGGsO8fVTl08qSbcP30XMFiWmdFwkfvsjO/MPSQ==; i=lLlvaJmTql/s87C3rmlN/TOHLddeDV3f/O0dRyJiXc+OYjLZvJtyTGNEZayu7n3ttPIITS3gPBB1H8AaAsfUc2uagVI=; L=YhtBc1tdblN2Z3VKAnRde0pSdX9mXX0PIQpPFDwqJhw/LigZBF06.1647293742.14916.316924.6321d948ef2278979b0e1668882c6993; Session_id=3:1647293742.5.1.1647293438715:LZIKoQ:5d.1.2:1|1584226363.0.2.0:3|1546840332.304.2.0:3.2:304|11:162008.323438.K-xqqnB8-_4tCbXkFGOpoQ9vog8; _ym_d=1647293356; _ym_uid=1647293355592675286; sessionid2=3:1647293742.5.1.1647293438715:LZIKoQ:5d.1.2:1|1584226363.0.2.0:3|1546840332.304.2.0:3.2:304|11:162008.323438.K-xqqnB8-_4tCbXkFGOpoQ9vog8; yandexuid=9146348231647293353; yp=1649885353.ygu.1#1962653742.udn.cDpkZXZlbG9wZXJ4cGxvaXQ%3D#1962653742.multib.1",
-  
   "p1": "654321",
-  "u1": "plus@movie.com",    
+  "u1": "plus@movie.com",
   "nombre": "MoviePlus",
   "id_store": "com.devxp.managerapk",
   "packname_uninstall": "com.dve.movieplus",
@@ -110,10 +104,10 @@
   "versionH": "2.2",
   "cambios": [
     "",
-	"Pequeñas Correcciones.",
+    "Pequeñas Correcciones.",
     "Optimización para Android TV / TV Box.",
-	"",
-	"Informamos a todos los usuarios que a finales de mes (Febrero 2022) tendremos un cambio drastico, pues el servidor principal de Movie! Plus llegará a su fin (todo el contenido se perderá), y nos tocará migrar a otros servidores sin embargo no es el fin; seguiremos tratando de siempre brindarles el mejor servicio GRATUITO.",
+    "",
+    "Informamos a todos los usuarios que a finales de mes (Febrero 2022) tendremos un cambio drastico, pues el servidor principal de Movie! Plus llegará a su fin (todo el contenido se perderá), y nos tocará migrar a otros servidores sin embargo no es el fin; seguiremos tratando de siempre brindarles el mejor servicio GRATUITO.",
     ""
   ]
 }
