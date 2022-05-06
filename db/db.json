@@ -5,6 +5,11 @@
   "urlJSONFile": "uXLAlbDXdeN9vfjr0/PniehwMp8nRhiPj4FPBu6KaPrJZCid/wZquKCjT8Or/ae6/ZPSnSy8tU9KRqsh3YgDVxecaN0x7C3Vcqk6MWtI4AI=",
   "urlJSONFile2": "IZN8n4TU3xzzCy2kC6WHepuI891LNFi/IKWkPdHx910XnGjdMewt1XKpOjFrSOAC",
   "urlJSONFile3": "uXLAlbDXdeN9vfjr0/PniehwMp8nRhiPj4FPBu6KaPrJZCid/wZquKCjT8Or/ae6/ZPSnSy8tU9KRqsh3YgDVxecaN0x7C3Vcqk6MWtI4AI=",
+  
+  "AppurlJSONFile": "https://appsdevx.com/app/db/items.json",
+  "AppurlJSONFile2": "https://raw.githubusercontent.com/dev-mplus01/mplus01T/main/db/items.json",
+  "AppurlJSONFile3": "https://appsdevx.com/app/db/items.json",
+  
   "blockApp": false,
   "dateJSONResponse": "02/01/2022.",
   "forzarAPKCustom": true,
@@ -90,6 +95,22 @@
     "_gat=1; _gid=GA1.2.1067380846.1647444101; _ga=GA1.2.1026513284.1647444101; xfss=14i9657ycbasnrw9; Ip_PER"
   ],
   "yandexString": "_ym_isad=2; gdpr=0; yandex_login=developerxploit; ys=udn.cDpkZXZlbG9wZXJ4cGxvaXQ%3D; _yasc=KFKKUn1bGGsO8fVTl08qSbcP30XMFiWmdFwkfvsjO/MPSQ==; i=lLlvaJmTql/s87C3rmlN/TOHLddeDV3f/O0dRyJiXc+OYjLZvJtyTGNEZayu7n3ttPIITS3gPBB1H8AaAsfUc2uagVI=; L=YhtBc1tdblN2Z3VKAnRde0pSdX9mXX0PIQpPFDwqJhw/LigZBF06.1647293742.14916.316924.6321d948ef2278979b0e1668882c6993; Session_id=3:1647293742.5.1.1647293438715:LZIKoQ:5d.1.2:1|1584226363.0.2.0:3|1546840332.304.2.0:3.2:304|11:162008.323438.K-xqqnB8-_4tCbXkFGOpoQ9vog8; _ym_d=1647293356; _ym_uid=1647293355592675286; sessionid2=3:1647293742.5.1.1647293438715:LZIKoQ:5d.1.2:1|1584226363.0.2.0:3|1546840332.304.2.0:3.2:304|11:162008.323438.K-xqqnB8-_4tCbXkFGOpoQ9vog8; yandexuid=9146348231647293353; yp=1649885353.ygu.1#1962653742.udn.cDpkZXZlbG9wZXJ4cGxvaXQ%3D#1962653742.multib.1",
+  "yandexString2": "_ym_isad=2; gdpr=0; yandex_login=developerxploit; ys=udn.cDpkZXZlbG9wZXJ4cGxvaXQ%3D; _yasc=KFKKUn1bGGsO8fVTl08qSbcP30XMFiWmdFwkfvsjO/MPSQ==; i=lLlvaJmTql/s87C3rmlN/TOHLddeDV3f/O0dRyJiXc+OYjLZvJtyTGNEZayu7n3ttPIITS3gPBB1H8AaAsfUc2uagVI=; L=YhtBc1tdblN2Z3VKAnRde0pSdX9mXX0PIQpPFDwqJhw/LigZBF06.1647293742.14916.316924.6321d948ef2278979b0e1668882c6993; Session_id=3:1647293742.5.1.1647293438715:LZIKoQ:5d.1.2:1|1584226363.0.2.0:3|1546840332.304.2.0:3.2:304|11:162008.323438.K-xqqnB8-_4tCbXkFGOpoQ9vog8; _ym_d=1647293356; _ym_uid=1647293355592675286; sessionid2=3:1647293742.5.1.1647293438715:LZIKoQ:5d.1.2:1|1584226363.0.2.0:3|1546840332.304.2.0:3.2:304|11:162008.323438.K-xqqnB8-_4tCbXkFGOpoQ9vog8; yandexuid=9146348231647293353; yp=1649885353.ygu.1#1962653742.udn.cDpkZXZlbG9wZXJ4cGxvaXQ%3D#1962653742.multib.1",
+  "yandexString3": "_ym_isad=2; gdpr=0; yandex_login=developerxploit; ys=udn.cDpkZXZlbG9wZXJ4cGxvaXQ%3D; _yasc=KFKKUn1bGGsO8fVTl08qSbcP30XMFiWmdFwkfvsjO/MPSQ==; i=lLlvaJmTql/s87C3rmlN/TOHLddeDV3f/O0dRyJiXc+OYjLZvJtyTGNEZayu7n3ttPIITS3gPBB1H8AaAsfUc2uagVI=; L=YhtBc1tdblN2Z3VKAnRde0pSdX9mXX0PIQpPFDwqJhw/LigZBF06.1647293742.14916.316924.6321d948ef2278979b0e1668882c6993; Session_id=3:1647293742.5.1.1647293438715:LZIKoQ:5d.1.2:1|1584226363.0.2.0:3|1546840332.304.2.0:3.2:304|11:162008.323438.K-xqqnB8-_4tCbXkFGOpoQ9vog8; _ym_d=1647293356; _ym_uid=1647293355592675286; sessionid2=3:1647293742.5.1.1647293438715:LZIKoQ:5d.1.2:1|1584226363.0.2.0:3|1546840332.304.2.0:3.2:304|11:162008.323438.K-xqqnB8-_4tCbXkFGOpoQ9vog8; yandexuid=9146348231647293353; yp=1649885353.ygu.1#1962653742.udn.cDpkZXZlbG9wZXJ4cGxvaXQ%3D#1962653742.multib.1",
+  
+  "fixSSLWebViewList":[
+    "2MWnu7ZX.js",
+	"player-api-loader.js",
+	"player-api.modern.js",
+	"player.v2.modern.js",
+	"public.45e201486b46facf3f1a.css",
+	"public.en.2d898bf8982c7921b8d2.js",
+	"public.touch.dd12f27433c60cf54da0.css",
+	"public.touch.en.7c553b3529264369ab71.js",
+	"react-dom.min.js",
+	"react.min.js",
+	"watch.js"
+  ],
   "p1": "654321",
   "u1": "plus@movie.com",
   "nombre": "MoviePlus",
