@@ -12,6 +12,7 @@
   "AppurlJSONFileGZ2": "https://raw.githubusercontent.com/dev-mplus01/mplus01T/main/db/items.json.gz",
   "AppurlJSONFileGZ3": "https://appsdevx.com/app/db/items.json.gz",
   "blockApp": false,
+  "usedUserAgent"; false,
   "dateJSONResponse": "02/01/2022.",
   "forzarAPKCustom": true,
   "forzarAPKCustomFinally": true,
