@@ -126,18 +126,17 @@
   "nombre": "MoviePlus",
   "id_store": "com.devxp.managerapk",
   "packname_uninstall": "com.dve.movieplus",
-  "VersionCode": 117,
-  "version": "4.7",
+  "VersionCode": 120,
+  "version": "4.8.2",
   "versionBETA": "2.x.7 BETA",
   "version_android_4": "2.7",
   "VersionCode_android_4": 26,
-  "VersionCodeH": 117,
-  "versionH": "4.7",
+  "VersionCodeH": 120,
+  "versionH": "4.8.2",
   "cambios": [
     "Seguimos mejorando para ti <3",
     "",
     "Mayor optimización.",
-    "Error -100 corregido.",
     "Corrección Error Fatal TV/Fire Stick",
     ""
   ]
