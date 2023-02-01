@@ -27,7 +27,7 @@
   "unityMovies": true,
   "adsGoo": false,
   "MegaJSON": false,
-  "MegaAPK": false,
+  "MegaAPK": true,
   "hourReconect": false,
   "NoAdsSaved": false,
   "info": false,
