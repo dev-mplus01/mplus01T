@@ -143,16 +143,21 @@
   "nombre": "MoviePlus",
   "id_store": "com.devxp.managerapk",
   "packname_uninstall": "com.dve.movieplus",
-  "VersionCode": 130,
-  "version": "4.8.10",
+  "VersionCode": 146,
+  "version": "4.9.6",
   "versionBETA": "2.x.7 BETA",
   "version_android_4": "2.7",
   "VersionCode_android_4": 26,
-  "VersionCodeH": 130,
-  "versionH": "4.8.10",
+  "VersionCodeH": 146,
+  "versionH": "4.9.6",
   "cambios": [
-    "Seguimos mejorando para ti <3",
     "",
+    "Corrección 'Cargando'...",
+	"Correcciones con las descargas (Request_not_sucessfull) al dejar descargando varios contenidos y/o apagando la pantalla del celu.",
+    "Se recomienda el reproductor VLC ante cualquier otro para una reproducción fluida.",
+	"Se agrego Gestor de Descargas en el menu lateral, así también se podrá acceder a las descargas activas/pausadas/con error desde el menú y no solo desde la notificación.",
+	"",
+	"Seguimos trabajando día a día para ofrecerles el mejor contenido y con una app funcional. ",
     ""
   ]
 }
