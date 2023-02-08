@@ -13,7 +13,7 @@
   "AppurlJSONFileGZ3": "https://raw.githubusercontent.com/dev-mplus01/mplus01T/main/db/items.json.gz",
   "blockApp": false,
   "usedCookies": true,
-  "usedUserAgent": true,
+  "usedUserAgent": false,
   "forzeJS": true,
   "dateJSONResponse": "02/01/2022.",
   "forzarAPKCustom": true,
