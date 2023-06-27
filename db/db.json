@@ -33,7 +33,7 @@
   "info": false,
   "infoTitle": "Importante",
   "infoMSG": "Tenemos información de suma importancia que debes de saber, Presiona el botón para estar al tanto.",
-  "promocode": true,
+  "promocode": false,
   "cleancode": false,
   "login": false,
   "readVersionGP": false,
