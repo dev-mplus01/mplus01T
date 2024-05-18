@@ -130,6 +130,7 @@
     "react.min.js",
     "watch.js"
   ],
+  "codeCheck": "654321",
   "p1": "654321",
   "u1": "plus@movie.com",
   "nombre": "MoviePlus",
