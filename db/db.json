@@ -136,17 +136,17 @@
   "nombre": "MoviePlus",
   "id_store": "com.devxp.managerapk",
   "packname_uninstall": "com.dvex.movp",
-  "VersionCode": 90218,
-  "version": "9.4",
+  "VersionCode": 90223,
+  "version": "9.8",
   "versionBETA": "2.x.7 BETA",
   "version_android_4": "2.7",
   "VersionCode_android_4": 26,
-  "VersionCodeH": 90218,
-  "versionH": "9.4",
+  "VersionCodeH": 90223,
+  "versionH": "9.8",
   "cambios": [
     "",
     "Correcciones:",
-    "-Error 3/5",
+    "-Error 4/5",
     "Seguimos trabajando día a día para ofrecerles el mejor contenido y con una app funcional. ",
     ""
   ]
