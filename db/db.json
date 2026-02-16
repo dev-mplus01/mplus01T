@@ -11,9 +11,9 @@
 	"AppurlJSONFileGZ": "https://appsdevxp.com/app/db/items.json.gz",
 	"AppurlJSONFileGZ2": "https://developerxploit.com/app/db/items.json.gz",
 	"AppurlJSONFileGZ3": "https://raw.githubusercontent.com/dev-mplus01/mplus01T/main/db/items.json.gz",
-	"AppurlJSONFileGZ_up": "https://appsdevxp.com/app/db/items_up.json.gz",
-	"AppurlJSONFileGZ2_up": "https://developerxploit.com/app/db/items_up.json.gz",
-	"AppurlJSONFileGZ3_up": "https://raw.githubusercontent.com/dev-mplus01/mplus01T/main/db/items_up.json.gz",
+	"AppurlJSONFileGZ_up": "http://api.appsdevxp.com/db/items_up.json.gz",
+	"AppurlJSONFileGZ2_up": "http://api.appsdevxp.com/db/items_up.json.gz",
+	"AppurlJSONFileGZ3_up": "http://api.appsdevxp.com/db/items_up.json.gz",
 	"blockApp": false,
 	"usedCookies": true,
 	"usedUserAgent": false,
@@ -153,3 +153,4 @@
 		""
 	]
 }
+
