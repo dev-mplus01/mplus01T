@@ -1,12 +1,12 @@
 {
   "id": "promo_social_001",
   "title": "Gana 5 días premium",
-  "subtitle": "Completa 3 de 4 tareas",
+  "subtitle": "Completa 1 de 4 tareas",
   "description": "Completa las tareas y recibe 5 días premium locales en esta app.",
   "imageUrl": "",
   "rewardType": "LOCAL_PREMIUM_DAYS",
   "rewardDays": 5,
-  "requiredTasks": 3,
+  "requiredTasks": 1,
   "validUntil": 1775001600000,
   "active": true,
   "tasks": [
