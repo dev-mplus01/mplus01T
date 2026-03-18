@@ -1,10 +1,11 @@
 {
-  "id": "promo_social_remote_001",
-  "title": "Gana 5 días sin anuncios",
+  "id": "promo_social_001",
+  "title": "Gana 5 días premium",
   "subtitle": "Completa 3 de 4 tareas",
-  "description": "Configuración servida desde remoto. Puedes cambiar este JSON sin actualizar el APK.",
+  "description": "Completa las tareas y recibe 5 días premium locales en esta app.",
   "imageUrl": "",
-  "rewardDaysNoAds": 5,
+  "rewardType": "LOCAL_PREMIUM_DAYS",
+  "rewardDays": 5,
   "requiredTasks": 3,
   "validUntil": 1775001600000,
   "active": true,
@@ -14,48 +15,31 @@
       "type": "OPEN_LINK",
       "title": "Abrir Instagram",
       "description": "Visita nuestro perfil oficial y regresa a la app.",
-      "actionUrl": "https://instagram.com/gamesxploit",
-      "packageName": "",
-      "codeHash": "",
-      "requiredDays": 0,
-      "required": true,
-      "status": "PENDING"
+      "actionUrl": "https://instagram.com/tu_cuenta",
+      "required": true
     },
     {
       "id": "secret_code",
       "type": "SECRET_CODE",
       "title": "Ingresar código secreto",
       "description": "Encuentra el código publicado y escríbelo en la app.",
-      "actionUrl": "",
-      "packageName": "",
-      "codeHash": "UK3NDi8fgx4gL4wdD2gkWrloW5P9R3Bc0c5A7Fi7GKU=",
-      "requiredDays": 0,
-      "required": true,
-      "status": "PENDING"
+      "codeHash": "HASH_BASE64_SHA256",
+      "required": true
     },
     {
       "id": "install_partner_app",
       "type": "INSTALL_APP",
       "title": "Instalar app aliada",
       "description": "Instala la app recomendada y luego pulsa verificar.",
-      "actionUrl": "https://play.google.com/store/apps/details?id=com.partner.app",
       "packageName": "com.partner.app",
-      "codeHash": "",
-      "requiredDays": 0,
-      "required": true,
-      "status": "PENDING"
+      "required": true
     },
     {
       "id": "watch_rewarded",
       "type": "WATCH_REWARDED",
       "title": "Ver anuncio recompensado",
       "description": "Mira un anuncio completo para sumar una tarea.",
-      "actionUrl": "",
-      "packageName": "",
-      "codeHash": "",
-      "requiredDays": 0,
-      "required": false,
-      "status": "PENDING"
+      "required": false
     }
   ]
 }
