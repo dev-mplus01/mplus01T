@@ -42,7 +42,7 @@
 	"readVersionGP": false,
 	"cache": false,
 	"onlyapk": true,
-	"update": false,
+	"update": true,
 	"updateH": true,
 	"aDFHF": true,
 	"bNER": true,
