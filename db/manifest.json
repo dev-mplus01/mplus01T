@@ -1,0 +1,48 @@
+{
+  "manifest_version": 1,
+  "catalog": {
+    "id": "items_catalog",
+    "base_file_name": "listItems",
+    "logical_file_name": "listItems.json",
+    "remote_file_name": "items_up.json.gz",
+    "version": 1,
+    "updated_at_ms": 1775239845001,
+    "sha256_gz": "PUT_YOUR_SHA256_OF_GZIP_HERE",
+    "size_gz": 0,
+    "head_sha256_gz": "PUT_YOUR_SHA256_OF_FIRST_65536_BYTES_OF_GZIP_HERE",
+    "head_probe_bytes_gz": 65536,
+    "sha256_json": "PUT_YOUR_SHA256_OF_FINAL_JSON_HERE",
+    "size_json": 8342210
+  },
+  "mirrors": {
+    "app": [
+      {
+        "url": "https://api.appsdevxp.com/db/items_up.json.gz",
+        "priority": 2,
+        "enabled": true
+      },
+      {
+        "url": "https://developerxploit.com/app/db/items_up.json.gz",
+        "priority": 3,
+        "enabled": true
+      },
+      {
+        "url": "https://raw.githubusercontent.com/dev-mplus01/mplus01T/main/db/items_up.json.gz",
+        "priority": 1,
+        "enabled": true
+      }
+    ],
+    "worker": [
+      {
+        "url": "https://raw.githubusercontent.com/dev-mplus01/mplus01T/main/db/items_up.json.gz",
+        "priority": 1,
+        "enabled": true
+      },
+      {
+        "url": "https://api.appsdevxp.com/db/items_up.json.gz",
+        "priority": 2,
+        "enabled": true
+      }
+    ]
+  }
+}
