@@ -20,7 +20,7 @@
   "firestore_config": true,
   "blockApp": false,
   "usedCookies": true,
-  "usedUserAgent": false,
+  "usedUserAgent": true,
   "forzeJS": true,
   "dateJSONResponse": "02/01/2022.",
   "forzarAPKCustom": true,
