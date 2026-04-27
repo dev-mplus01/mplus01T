@@ -24,7 +24,7 @@
       "title": "Ingresar código secreto",
       "description": "Encuentra el código publicado y escríbelo en la app.",
       "codeHash": "HASH_BASE64_SHA256",
-      "required": true
+      "required": false
     },
     {
       "id": "install_partner_app",
@@ -32,14 +32,14 @@
       "title": "Instalar app aliada",
       "description": "Instala la app recomendada y luego pulsa verificar.",
       "packageName": "com.partner.app",
-      "required": true
+      "required": false
     },
     {
       "id": "watch_rewarded",
       "type": "WATCH_REWARDED",
       "title": "Ver anuncio recompensado",
       "description": "Mira un anuncio completo para sumar una tarea.",
-      "required": false
+      "required": true
     }
   ]
 }
