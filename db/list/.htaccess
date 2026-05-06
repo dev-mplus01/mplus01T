@@ -1,0 +1,6 @@
+<IfModule mod_headers.c>
+  <FilesMatch "^catalog_manifest(_test)?\.json$">
+    Header set Cache-Control "public, max-age=300, must-revalidate"
+    Header set Content-Type "application/json; charset=UTF-8"
+  </FilesMatch>
+</IfModule>
