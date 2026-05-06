@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "kind": "movp_catalog_manifest",
+  "environment": "prod",
+  "generatedAtDeviceMs": 1778069663970,
+  "config_gz": {
+    "prod": {
+      "activeFilename": "items_up_r1778069643078.json.gz",
+      "releaseId": "1778069643078",
+      "enabled": true,
+      "mirrors": {
+        "server1": true,
+        "server2": true,
+        "github": true
+      },
+      "urls": {
+        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1778069643078.json.gz",
+        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1778069643078.json.gz",
+        "github": "https:\/\/raw.githubusercontent.com\/dev-mplus01\/mplus01T\/main\/db\/list\/items_up_r1778069643078.json.gz"
+      },
+      "updatedAtDeviceMs": 1778069663970,
+      "publishedAtDeviceMs": 1778069663970
+    }
+  }
+}
