@@ -2,11 +2,11 @@
   "schema": 1,
   "kind": "movp_catalog_manifest",
   "environment": "prod",
-  "generatedAtDeviceMs": 1778294246815,
+  "generatedAtDeviceMs": 1778385383368,
   "config_gz": {
     "prod": {
-      "activeFilename": "items_up_r1778294246807.json.gz",
-      "releaseId": "1778294246807",
+      "activeFilename": "items_up_r1778385383342.json.gz",
+      "releaseId": "1778385383342",
       "enabled": true,
       "mirrors": {
         "server1": true,
@@ -14,20 +14,20 @@
         "github": true
       },
       "urls": {
-        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1778294246807.json.gz",
-        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1778294246807.json.gz",
-        "github": "https:\/\/raw.githubusercontent.com\/dev-mplus01\/mplus01T\/main\/db\/list\/items_up_r1778294246807.json.gz"
+        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1778385383342.json.gz",
+        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1778385383342.json.gz",
+        "github": "https:\/\/raw.githubusercontent.com\/dev-mplus01\/mplus01T\/main\/db\/list\/items_up_r1778385383342.json.gz"
       },
       "encoding": "gzip",
-      "compressedSizeBytes": 4208789,
-      "compressedSha256": "a7d8ff4a18568b8c801b4b2aef4fbcd7848c7157b8a52df580756e6c21521cf1",
-      "updatedAtDeviceMs": 1778294246815,
-      "publishedAtDeviceMs": 1778294246815,
+      "compressedSizeBytes": 4209895,
+      "compressedSha256": "1aeba7f9c0edacbfdd95653142aeedf64c625267a493e49baa542bc1a20ffab1",
+      "updatedAtDeviceMs": 1778385383368,
+      "publishedAtDeviceMs": 1778385383368,
       "catalog": {
-        "filename": "items_up_r1778294246807.json.gz",
+        "filename": "items_up_r1778385383342.json.gz",
         "encoding": "gzip",
-        "compressedSizeBytes": 4208789,
-        "compressedSha256": "a7d8ff4a18568b8c801b4b2aef4fbcd7848c7157b8a52df580756e6c21521cf1"
+        "compressedSizeBytes": 4209895,
+        "compressedSha256": "1aeba7f9c0edacbfdd95653142aeedf64c625267a493e49baa542bc1a20ffab1"
       }
     }
   }
