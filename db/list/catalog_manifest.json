@@ -2,11 +2,11 @@
   "schema": 1,
   "kind": "movp_catalog_manifest",
   "environment": "prod",
-  "generatedAtDeviceMs": 1778385383368,
+  "generatedAtDeviceMs": 1778405127166,
   "config_gz": {
     "prod": {
-      "activeFilename": "items_up_r1778385383342.json.gz",
-      "releaseId": "1778385383342",
+      "activeFilename": "items_up_r1778405127154.json.gz",
+      "releaseId": "1778405127154",
       "enabled": true,
       "mirrors": {
         "server1": true,
@@ -14,20 +14,20 @@
         "github": true
       },
       "urls": {
-        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1778385383342.json.gz",
-        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1778385383342.json.gz",
-        "github": "https:\/\/raw.githubusercontent.com\/dev-mplus01\/mplus01T\/main\/db\/list\/items_up_r1778385383342.json.gz"
+        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1778405127154.json.gz",
+        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1778405127154.json.gz",
+        "github": "https:\/\/raw.githubusercontent.com\/dev-mplus01\/mplus01T\/main\/db\/list\/items_up_r1778405127154.json.gz"
       },
       "encoding": "gzip",
-      "compressedSizeBytes": 4209895,
-      "compressedSha256": "1aeba7f9c0edacbfdd95653142aeedf64c625267a493e49baa542bc1a20ffab1",
-      "updatedAtDeviceMs": 1778385383368,
-      "publishedAtDeviceMs": 1778385383368,
+      "compressedSizeBytes": 4210762,
+      "compressedSha256": "7cacd060544651ccd43999ab163774da035c49c2940fd60734bc520348c0be03",
+      "updatedAtDeviceMs": 1778405127166,
+      "publishedAtDeviceMs": 1778405127166,
       "catalog": {
-        "filename": "items_up_r1778385383342.json.gz",
+        "filename": "items_up_r1778405127154.json.gz",
         "encoding": "gzip",
-        "compressedSizeBytes": 4209895,
-        "compressedSha256": "1aeba7f9c0edacbfdd95653142aeedf64c625267a493e49baa542bc1a20ffab1"
+        "compressedSizeBytes": 4210762,
+        "compressedSha256": "7cacd060544651ccd43999ab163774da035c49c2940fd60734bc520348c0be03"
       }
     }
   }
