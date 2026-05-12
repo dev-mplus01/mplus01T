@@ -2,11 +2,11 @@
   "schema": 1,
   "kind": "movp_catalog_manifest",
   "environment": "prod",
-  "generatedAtDeviceMs": 1778478500471,
+  "generatedAtDeviceMs": 1778555997369,
   "config_gz": {
     "prod": {
-      "activeFilename": "items_up_r1778478500450.json.gz",
-      "releaseId": "1778478500450",
+      "activeFilename": "items_up_r1778555997364.json.gz",
+      "releaseId": "1778555997364",
       "enabled": true,
       "mirrors": {
         "server1": true,
@@ -14,20 +14,20 @@
         "github": true
       },
       "urls": {
-        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1778478500450.json.gz",
-        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1778478500450.json.gz",
-        "github": "https:\/\/raw.githubusercontent.com\/dev-mplus01\/mplus01T\/main\/db\/list\/items_up_r1778478500450.json.gz"
+        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1778555997364.json.gz",
+        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1778555997364.json.gz",
+        "github": "https:\/\/raw.githubusercontent.com\/dev-mplus01\/mplus01T\/main\/db\/list\/items_up_r1778555997364.json.gz"
       },
       "encoding": "gzip",
-      "compressedSizeBytes": 4211752,
-      "compressedSha256": "8eae006c5f972aed6d9c3335b2352d900de4ad13bc5a2bfb2e87ecef4ec8022d",
-      "updatedAtDeviceMs": 1778478500471,
-      "publishedAtDeviceMs": 1778478500471,
+      "compressedSizeBytes": 4211685,
+      "compressedSha256": "4519d59c90341ac5f3ef4e421e805376f5ff5c1bef53d4a0452e178346b5862d",
+      "updatedAtDeviceMs": 1778555997369,
+      "publishedAtDeviceMs": 1778555997369,
       "catalog": {
-        "filename": "items_up_r1778478500450.json.gz",
+        "filename": "items_up_r1778555997364.json.gz",
         "encoding": "gzip",
-        "compressedSizeBytes": 4211752,
-        "compressedSha256": "8eae006c5f972aed6d9c3335b2352d900de4ad13bc5a2bfb2e87ecef4ec8022d"
+        "compressedSizeBytes": 4211685,
+        "compressedSha256": "4519d59c90341ac5f3ef4e421e805376f5ff5c1bef53d4a0452e178346b5862d"
       }
     }
   }
