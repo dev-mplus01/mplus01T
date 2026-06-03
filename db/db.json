@@ -132,12 +132,9 @@
   "versionH": "10.0",
   "cambios": [
     "🚀 Novedades y Correcciones v15.1:",
-	" · Películas Corregidas.",
+    " · Películas Corregidas.",
     "⚡ Rendimiento optimizado: Navegación hasta un 80% más fluida y rápida.",
     "🔍 Buscador inteligente: Nueva función de historial y mayor precisión.",
-    "✨ ¡Y muchas cosas más! Prueba la nueva versión, está de lujo.",
-    "⚠️ IMPORTANTE (MIGRACIÓN) ESTO SOLO ES SI TIENES UNA VERSION ANTERIOR DE LA 13.x:",
-    "La actualización se instalará como una app nueva. Para NO perder tus puntos, NO desinstales la versión anterior.",
-    "Solo abre la nueva versión y la app te guiará paso a paso para completar la migración de forma automática."
+    "✨ ¡Y muchas cosas más! Prueba la nueva versión, está de lujo."
   ]
 }
