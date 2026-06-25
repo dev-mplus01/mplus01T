@@ -2,11 +2,11 @@
   "schema": 1,
   "kind": "movp_catalog_manifest",
   "environment": "prod",
-  "generatedAtDeviceMs": 1782354218939,
+  "generatedAtDeviceMs": 1782405079628,
   "config_gz": {
     "prod": {
-      "activeFilename": "items_up_r1782354144026.json.gz",
-      "releaseId": "1782354144026",
+      "activeFilename": "items_up_r1782404983524.json.gz",
+      "releaseId": "1782404983524",
       "enabled": true,
       "mirrors": {
         "server1": true,
@@ -14,29 +14,29 @@
         "github": true
       },
       "urls": {
-        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1782354144026.json.gz",
-        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1782354144026.json.gz",
-        "github": "https:\/\/raw.githubusercontent.com\/dev-mplus01\/mplus01T\/main\/db\/list\/items_up_r1782354144026.json.gz"
+        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1782404983524.json.gz",
+        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1782404983524.json.gz",
+        "github": "https:\/\/raw.githubusercontent.com\/dev-mplus01\/mplus01T\/main\/db\/list\/items_up_r1782404983524.json.gz"
       },
       "truthSource": {
         "target": "server2",
-        "url": "https:\/\/developerxploit.com\/app\/db\/items_up_r1782354144026.json.gz",
-        "filename": "items_up_r1782354144026.json.gz"
+        "url": "https:\/\/developerxploit.com\/app\/db\/items_up_r1782404983524.json.gz",
+        "filename": "items_up_r1782404983524.json.gz"
       },
       "encoding": "gzip",
-      "compressedSizeBytes": 4292986,
-      "compressedSha256": "8ed06d09d07e39ce3f1b7a5916386ea285113a7b6ac0e54b33b29126bac386f4",
-      "uncompressedSizeBytes": 9542945,
-      "uncompressedSha256": "94756f23e983de80f3e22fd6bc17274c63fec3d46c64fae4cfde9349c63b974e",
-      "updatedAtDeviceMs": 1782354218939,
-      "publishedAtDeviceMs": 1782354218939,
+      "compressedSizeBytes": 4294216,
+      "compressedSha256": "41494d4f64b8c89ea3576a8f4a683920ae63feb94b1200c2272278615b35fb39",
+      "uncompressedSizeBytes": 9545749,
+      "uncompressedSha256": "c0f9bf09641676b1493154aeb5cf903af4ea00e7e9d76275a6b87d0821915fcb",
+      "updatedAtDeviceMs": 1782405079628,
+      "publishedAtDeviceMs": 1782405079628,
       "catalog": {
-        "filename": "items_up_r1782354144026.json.gz",
+        "filename": "items_up_r1782404983524.json.gz",
         "encoding": "gzip",
-        "compressedSizeBytes": 4292986,
-        "compressedSha256": "8ed06d09d07e39ce3f1b7a5916386ea285113a7b6ac0e54b33b29126bac386f4",
-        "uncompressedSizeBytes": 9542945,
-        "uncompressedSha256": "94756f23e983de80f3e22fd6bc17274c63fec3d46c64fae4cfde9349c63b974e"
+        "compressedSizeBytes": 4294216,
+        "compressedSha256": "41494d4f64b8c89ea3576a8f4a683920ae63feb94b1200c2272278615b35fb39",
+        "uncompressedSizeBytes": 9545749,
+        "uncompressedSha256": "c0f9bf09641676b1493154aeb5cf903af4ea00e7e9d76275a6b87d0821915fcb"
       }
     }
   }
