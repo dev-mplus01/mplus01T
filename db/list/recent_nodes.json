@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1783490981759,
+  "generatedAtDeviceMs": 1783491007174,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Higeki no Genkyou to Naru Saikyou T_3 id_213326": 1783491006,
     "Mao T_3 id_295999": 1783490979,
     "Kill Blue T_3 id_300131": 1783490955,
     "El Relato de Akane T_3 id_297438": 1783490917,
@@ -1006,7 +1007,6 @@
     "Remi T_3 id_44725": 1777789061,
     "Mujeres Imperfectas T_2 id_108181": 1777788854,
     "Envidiosa T_2 id_261615": 1777788833,
-    "Fantasmas T_2 id_253254": 1777788806,
-    "Fargo T_2 id_60622": 1777761675
+    "Fantasmas T_2 id_253254": 1777788806
   }
 }
