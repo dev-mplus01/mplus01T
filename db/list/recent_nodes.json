@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1783490815442,
+  "generatedAtDeviceMs": 1783490849359,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "El ascenso del héroe del escudo T_3 id_83095": 1783490848,
     "Tensei Shitara Slime Datta Ken T_3 id_82684": 1783490815,
     "Westworld T_2 id_63247": 1783490772,
     "Doctor Milagro T_2 id_92967": 1783490746,
@@ -1006,7 +1007,6 @@
     "Mujeres Imperfectas T_2 id_108181": 1777788854,
     "Envidiosa T_2 id_261615": 1777788833,
     "Fantasmas T_2 id_253254": 1777788806,
-    "Fargo T_2 id_60622": 1777761675,
-    "The Princess Bodyguards Love T_6 id_234491": 1777743399
+    "Fargo T_2 id_60622": 1777761675
   }
 }
