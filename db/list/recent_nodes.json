@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1783587122503,
+  "generatedAtDeviceMs": 1783587185148,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Beastars T_3 id_90937": 1783587184,
     "CIA T_2 id_289560": 1783587122,
     "Yofukashi No Uta T_3 id_138357": 1783587077,
     "Baki Dou The Invincible Samurai T_3 id_300054": 1783587041,
@@ -1006,7 +1007,6 @@
     "Vecinos T_2 id_18011": 1777994607,
     "Caballero Luna id_92749": 1777994265,
     "Mi Secreto T_5 id_209807": 1777991844,
-    "Girl Meets World T_2 id_46028": 1777991774,
-    "Erase Un Amor Rural T_2 id_133678": 1777991682
+    "Girl Meets World T_2 id_46028": 1777991774
   }
 }
