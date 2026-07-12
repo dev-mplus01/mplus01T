@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1783895737163,
+  "generatedAtDeviceMs": 1783895750243,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Adiós Al Pasado No Estara Ciego Por El Amor T_7 id_328378": 1783895748,
     "Amante Cinco Años Esposa Otra T_7 id_328355": 1783895736,
     "Lv999 no Murabito T_3 id_298994": 1783885189,
     "Heroine Seijo Iie All Works Maid desu T_3 id_286346": 1783885165,
@@ -1006,7 +1007,6 @@
     "Daredevil Born Again T_2 id_202555": 1778351789,
     "Star Wars Maul Señor de las sombras T_4 id_289219": 1778351755,
     "Dawson's Creek T_2 id_2327": 1778351695,
-    "Sekai Saikou no Ansatsusha T_3 id_118821": 1778351596,
-    "Sakura Card Captor T_3 id_35790": 1778351562
+    "Sekai Saikou no Ansatsusha T_3 id_118821": 1778351596
   }
 }
