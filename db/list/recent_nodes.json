@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1783883932254,
+  "generatedAtDeviceMs": 1783883981165,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Cosita Rica T_5 id_9419": 1783883980,
     "Abigail T_5 id_16140": 1783883931,
     "Calle Luna Calle Sol T_5 id_21702": 1783883884,
     "Alaska Hombres Primitivos T_2 id_61789": 1783883854,
@@ -1006,7 +1007,6 @@
     "Somebody T_2 id_112837": 1778207229,
     "A Gatherers Adventure in Isekai T_4 id_284442": 1778199286,
     "Castle Rock T_2 id_71116": 1778199280,
-    "Amor Mio T_2 id_101937": 1778136031,
-    "Corazón Guerrero T_5 id_196028": 1778131146
+    "Amor Mio T_2 id_101937": 1778136031
   }
 }
