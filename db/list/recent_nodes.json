@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1783883993140,
+  "generatedAtDeviceMs": 1783884004845,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Destellos del Mañana T_3 id_153217": 1783884004,
     "Koko wa Ore ni Makasete Saki ni Ike T_3 id_302051": 1783883992,
     "Cosita Rica T_5 id_9419": 1783883980,
     "Abigail T_5 id_16140": 1783883931,
@@ -1006,7 +1007,6 @@
     "Monarch Legado de monstruos T_2 id_202411": 1778210111,
     "Santa Cláusula Un Nuevo Santa T_2 id_155631": 1778207281,
     "Somebody T_2 id_112837": 1778207229,
-    "A Gatherers Adventure in Isekai T_4 id_284442": 1778199286,
-    "Castle Rock T_2 id_71116": 1778199280
+    "A Gatherers Adventure in Isekai T_4 id_284442": 1778199286
   }
 }
