@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1783884050084,
+  "generatedAtDeviceMs": 1783884061431,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Saijo no Osewa Takane no Hanadarake T_3 id_312849": 1783884061,
     "Las Fieles T_2 id_291100": 1783884049,
     "Mahou Shoujo Lyrical Nanoha EXCEEDS T_3 id_287075": 1783884037,
     "Mebius Dust T_3 id_98865": 1783884026,
@@ -1006,7 +1007,6 @@
     "Las Aventuras De Jackie Chan T_4 id_240": 1778253545,
     "Woo Una Abogada Extraordinaria T_2 id_197067": 1778253482,
     "Batalla de Amor T_2 id_137094": 1778253441,
-    "Sisi T_2 id_153282": 1778252946,
-    "Becoming Elizabeth T_2 id_198085": 1778220790
+    "Sisi T_2 id_153282": 1778252946
   }
 }
