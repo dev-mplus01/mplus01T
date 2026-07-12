@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1783895797919,
+  "generatedAtDeviceMs": 1783895809381,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "El Regreso Del Humillado T_7 id_328362": 1783895809,
     "El Juramento Enterrado En El Ayer T_7 id_328360": 1783895797,
     "Diez Años En Silencio T_7 id_328359": 1783895786,
     "De La Sombra Al Trono T_7 id_328357": 1783895773,
@@ -1006,7 +1007,6 @@
     "Contrato de corazones, Tú y Yo T_2 id_303809": 1778375129,
     "KND Los Chicos Del Barrio T_4 id_2660": 1778375094,
     "Malas Hermanas T_2 id_199318": 1778375033,
-    "Gracias, ¿el siguiente? T_2 id_251883": 1778351901,
-    "El caso Hartung T_2 id_127865": 1778351864
+    "Gracias, ¿el siguiente? T_2 id_251883": 1778351901
   }
 }
