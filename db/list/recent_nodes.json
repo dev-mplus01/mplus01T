@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1783884987032,
+  "generatedAtDeviceMs": 1783885043598,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Clevatess T_3 id_258348": 1783885043,
     "Youjo Senki T_3 id_69346": 1783884986,
     "Otome Game Sekai wa Mob ni Kibishii T_3 id_139512": 1783884964,
     "Grand Blue T_3 id_79166": 1783884883,
@@ -1006,7 +1007,6 @@
     "Dawson's Creek T_2 id_2327": 1778351695,
     "Sekai Saikou no Ansatsusha T_3 id_118821": 1778351596,
     "Sakura Card Captor T_3 id_35790": 1778351562,
-    "Citadel T_2 id_114922": 1778351389,
-    "Tekken Linaje T_4 id_195530": 1778346202
+    "Citadel T_2 id_114922": 1778351389
   }
 }
