@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1784789701787,
+  "generatedAtDeviceMs": 1784789735979,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Interview with the Vampire T_2 id_128098": 1784789735,
     "Gotoubun No Hanayome T_3 id_84669": 1784789701,
     "Valentina Valiente T_5 id_316470": 1784789669,
     "Dueña de Mi T_5 id_283245": 1784789642,
@@ -1006,7 +1007,6 @@
     "Mundo De Fieras T_5 id_6579": 1778428338,
     "Zankyou no Terror T_3 id_61421": 1778425296,
     "India Una Historia De Amor T_5 id_7979": 1778424895,
-    "Dragon Age Absolución T_4 id_203805": 1778424822,
-    "The Maid I Hired Recently Is Mysterious T_3 id_202160": 1778424749
+    "Dragon Age Absolución T_4 id_203805": 1778424822
   }
 }
