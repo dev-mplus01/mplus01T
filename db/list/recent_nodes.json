@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1784789923984,
+  "generatedAtDeviceMs": 1784789958694,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Mayans MC T_2 id_76231": 1784789957,
     "Juntas O Muertas T_2 id_241882": 1784789923,
     "Fear The Walking Dead T_2 id_62286": 1784789896,
     "El Show de los Looney Tunes T_4 id_32605": 1784789854,
@@ -1006,7 +1007,6 @@
     "La Batifamilia T_4 id_225361": 1778431020,
     "Una Madre Perfecta T_2 id_131431": 1778428680,
     "Par de Reyes T_2 id_31628": 1778428645,
-    "Cielo Nocturno T_2 id_111894": 1778428502,
-    "Mundo De Fieras T_5 id_6579": 1778428338
+    "Cielo Nocturno T_2 id_111894": 1778428502
   }
 }
