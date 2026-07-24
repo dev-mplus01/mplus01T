@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1784862727055,
+  "generatedAtDeviceMs": 1784862758279,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Arafta T_5 id_306118": 1784862757,
     "The Hunting Party T_2 id_247723": 1784862726,
     "Ransom Canyon T_2 id_240993": 1784862701,
     "Star Trek Extraños Nuevos Mundos T_2 id_103516": 1784862677,
@@ -1006,7 +1007,6 @@
     "Outer range T_2 id_113985": 1778441127,
     "Lego Marvel Avengers Historias Extrañas T_4 id_305165": 1778441103,
     "Los Exorcistas T_2 id_212998": 1778441058,
-    "Narcosatánicos T_2 id_303137": 1778441032,
-    "Salvados Por La Campana T_2 id_93825": 1778433312
+    "Narcosatánicos T_2 id_303137": 1778441032
   }
 }
