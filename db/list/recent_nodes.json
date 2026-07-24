@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1784850090804,
+  "generatedAtDeviceMs": 1784861995352,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Doctor Mateo T_2 id_34353": 1784861994,
     "Otome Kaijuu T_3 id_308874": 1784850089,
     "Otome Kaijuu T_3 id_296436": 1784846520,
     "El Señor de los Cielos id_44953": 1784830426,
@@ -1006,7 +1007,6 @@
     "Salvados Por La Campana T_2 id_93825": 1778433312,
     "Reality Z T_2 id_104108": 1778433285,
     "Los tipos malos Malos comienzos T_4 id_302540": 1778433202,
-    "Gatitos explosivos T_4 id_219532": 1778431276,
-    "The Ancient Magus Bride T_3 id_73833": 1778431130
+    "Gatitos explosivos T_4 id_219532": 1778431276
   }
 }
