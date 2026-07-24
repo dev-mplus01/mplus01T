@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1784862678387,
+  "generatedAtDeviceMs": 1784862701490,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Ransom Canyon T_2 id_240993": 1784862701,
     "Star Trek Extraños Nuevos Mundos T_2 id_103516": 1784862677,
     "Doctor Mateo T_2 id_34353": 1784861994,
     "Otome Kaijuu T_3 id_308874": 1784850089,
@@ -1006,7 +1007,6 @@
     "Los Exorcistas T_2 id_212998": 1778441058,
     "Narcosatánicos T_2 id_303137": 1778441032,
     "Salvados Por La Campana T_2 id_93825": 1778433312,
-    "Reality Z T_2 id_104108": 1778433285,
-    "Los tipos malos Malos comienzos T_4 id_302540": 1778433202
+    "Reality Z T_2 id_104108": 1778433285
   }
 }
