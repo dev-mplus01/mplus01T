@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1784862782126,
+  "generatedAtDeviceMs": 1784862844795,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Lucifer id_63174": 1784862844,
     "Boston Blue T_2 id_284736": 1784862781,
     "Arafta T_5 id_306118": 1784862757,
     "The Hunting Party T_2 id_247723": 1784862726,
@@ -1006,7 +1007,6 @@
     "The Crystal Cuckoo T_2 id_274979": 1778441148,
     "Outer range T_2 id_113985": 1778441127,
     "Lego Marvel Avengers Historias Extrañas T_4 id_305165": 1778441103,
-    "Los Exorcistas T_2 id_212998": 1778441058,
-    "Narcosatánicos T_2 id_303137": 1778441032
+    "Los Exorcistas T_2 id_212998": 1778441058
   }
 }
