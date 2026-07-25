@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1784945537983,
+  "generatedAtDeviceMs": 1784947148699,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Auschwitz T_2 id_7361": 1784947148,
     "The Westies T_2 id_286709": 1784945537,
     "El Señor de los Cielos id_44953": 1784930418,
     "Limbo T_2 id_122045": 1784913922,
@@ -1006,7 +1007,6 @@
     "Alert Unidad de Personas Desaparecidas T_2 id_202308": 1778441676,
     "Ranking of Kings id_112613": 1778441653,
     "El Buki las Letras de mi Historia T_2 id_217201": 1778441564,
-    "Teresa T_5 id_213389": 1778441518,
-    "Expediente Vallecas T_2 id_305107": 1778441463
+    "Teresa T_5 id_213389": 1778441518
   }
 }
