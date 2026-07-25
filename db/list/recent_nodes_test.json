@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "kind": "movp_recent_nodes_manifest",
+  "mode": "snapshot",
+  "snapshot": true,
+  "environment": "test",
+  "generatedAtWorkerMs": 1784949117884,
+  "limit": 1000,
+  "itemCount": 0,
+  "recentNodesMap": {}
+}
