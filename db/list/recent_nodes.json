@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785006524822,
+  "generatedAtDeviceMs": 1785006545929,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Le Coup De Foudre T_6 id_88927": 1785006545,
     "Hello The Sharpshooter T_6 id_113697": 1785006514,
     "Juramento En La Oscuridad T_6 id_308551": 1785006483,
     "Pompeya Más allá del tiempo con Tom Hiddleston T_2 id_277640": 1784967847,
@@ -1006,7 +1007,6 @@
     "Las Mariposas Negras T_2 id_208691": 1778456183,
     "La nocturna T_2 id_97755": 1778454547,
     "Shins Project T_6 id_286198": 1778454442,
-    "Angel Beats T_3 id_42942": 1778445381,
-    "Ririsa, una chica en 25D T_3 id_216074": 1778445356
+    "Angel Beats T_3 id_42942": 1778445381
   }
 }
