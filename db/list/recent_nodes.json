@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785045656802,
+  "generatedAtDeviceMs": 1785086960821,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Supernova T_2 id_136947": 1785086960,
     "Onesided Love Gourmet Diary T_6 id_111257": 1785036523,
     "Star Trek Extraños Nuevos Mundos T_2 id_103516": 1785030974,
     "El Desafio T_5 id_16440": 1785026343,
@@ -1006,7 +1007,6 @@
     "Infiniti T_2 id_128798": 1778461118,
     "Dinosaur Planet T_2 id_11710": 1778456816,
     "Después del Huracán T_2 id_108664": 1778456747,
-    "Yiya T_2 id_305332": 1778456714,
-    "Del crepúsculo al amanecer T_2 id_60626": 1778456659
+    "Yiya T_2 id_305332": 1778456714
   }
 }
