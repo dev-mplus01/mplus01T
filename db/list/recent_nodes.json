@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785026097126,
+  "generatedAtDeviceMs": 1785026114866,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Medici Señores de Florencia T_2 id_66761": 1785026114,
     "El Renacer de Luna T_5 id_320089": 1785026090,
     "Valentina Valiente T_5 id_316470": 1785026068,
     "Guardián de mi vida T_5 id_320315": 1785026043,
@@ -1006,7 +1007,6 @@
     "Del crepúsculo al amanecer T_2 id_60626": 1778456659,
     "Malice T_2 id_244416": 1778456603,
     "Nada Personal T_5 id_8951": 1778456314,
-    "Chasing Butterfly T_6 id_262928": 1778456260,
-    "Colombo T_2 id_873": 1778456229
+    "Chasing Butterfly T_6 id_262928": 1778456260
   }
 }
