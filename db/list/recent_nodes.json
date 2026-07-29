@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785308436370,
+  "generatedAtDeviceMs": 1785309019540,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Daniel Spellbound El Cazador De Magia T_4 id_156934": 1785309018,
     "Toumei na Yoru ni Kakeru T_3 id_309974": 1785308426,
     "Saijo no Osewa Takane no Hanadarake T_3 id_312849": 1785308384,
     "Tetsunabe no Jan T_3 id_308403": 1785308352,
@@ -1006,7 +1007,6 @@
     "The Tale of Nokdu T_2 id_93541": 1778467422,
     "Patria T_2 id_85964": 1778467406,
     "The Friday the 13th Murders T_2 id_301147": 1778467353,
-    "Coyote T_2 id_90702": 1778467316,
-    "Binchou tan T_3 id_25091": 1778462857
+    "Coyote T_2 id_90702": 1778467316
   }
 }
