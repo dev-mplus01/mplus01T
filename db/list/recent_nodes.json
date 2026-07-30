@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785401004367,
+  "generatedAtDeviceMs": 1785401165407,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Amores de fin de siglo T_5 id_16157": 1785401165,
     "Diary of a Future President T_2 id_94761": 1785400994,
     "Dieciocho, veintinueveT_2 id_11866": 1785400979,
     "La Banda T_2 id_284758": 1785400961,
@@ -1006,7 +1007,6 @@
     "Daybreak T_2 id_83478": 1778475038,
     "Mighty B! la súper abeja T_4 id_15641": 1778474991,
     "Imperio de Cristal T_2 id_35398": 1778474949,
-    "Sword Art Online Alternative Gun Gale Online T_3 id_78204": 1778474891,
-    "Mi adorable secretaria T_2 id_88783": 1778474846
+    "Sword Art Online Alternative Gun Gale Online T_3 id_78204": 1778474891
   }
 }
