@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785400989198,
+  "generatedAtDeviceMs": 1785400994963,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Diary of a Future President T_2 id_94761": 1785400994,
     "Dieciocho, veintinueveT_2 id_11866": 1785400979,
     "La Banda T_2 id_284758": 1785400961,
     "Dirk Gently T_2 id_67773": 1785398022,
@@ -1006,7 +1007,6 @@
     "Mighty B! la súper abeja T_4 id_15641": 1778474991,
     "Imperio de Cristal T_2 id_35398": 1778474949,
     "Sword Art Online Alternative Gun Gale Online T_3 id_78204": 1778474891,
-    "Mi adorable secretaria T_2 id_88783": 1778474846,
-    "De Brutas Nada T_2 id_111499": 1778474819
+    "Mi adorable secretaria T_2 id_88783": 1778474846
   }
 }
