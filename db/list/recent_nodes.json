@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785538657585,
+  "generatedAtDeviceMs": 1785538663761,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Musafir Cafe T_2 id_313101": 1785538663,
     "El Esposo T_6 id_300954": 1785538647,
     "Leyends of tomorrow T_2 id_62643": 1785480329,
     "Stuart No Consigue Salvar El Universo T_2 id_287620": 1785479319,
@@ -1006,7 +1007,6 @@
     "Destined to Meet You T_6 id_201920": 1778514088,
     "Galactik Football T_3 id_20993": 1778514043,
     "Eizouken ni wa Te wo Dasu na T_3 id_92579": 1778513963,
-    "Ghost In The Shell Sac 2045 T_3 id_90293": 1778513937,
-    "Bosé T_2 id_212464": 1778513907
+    "Ghost In The Shell Sac 2045 T_3 id_90293": 1778513937
   }
 }
