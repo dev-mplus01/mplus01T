@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785456006862,
+  "generatedAtWorkerMs": 1785459646832,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Leyends of tomorrow T_2 id_62643": 1785459645,
     "El Señor de los Cielos id_44953": 1785450719,
     "El Arbol de Gabriel T_5 id_107025": 1785442442,
     "Devils T_2 id_99741": 1785442429,
@@ -1006,7 +1007,6 @@
     "Contra las cuerdas T_2 id_215232": 1778513699,
     "Daniel El Travieso T_4 id_3518": 1778478441,
     "Red Alert T_2 id_301809": 1778478338,
-    "Hombre vs Abeja T_2 id_197588": 1778478316,
-    "La Rebelión T_2 id_216384": 1778478289
+    "Hombre vs Abeja T_2 id_197588": 1778478316
   }
 }
