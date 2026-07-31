@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785479186392,
+  "generatedAtDeviceMs": 1785479241114,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Kyokou Suiri T_3 id_93653": 1785479240,
     "Manifiesto T_2 id_79696": 1785479175,
     "Los Proud La Familia Orgullosa T_4 id_125438": 1785479124,
     "Una tienda para asesinos T_6 id_215072": 1785479088,
@@ -1006,7 +1007,6 @@
     "Eizouken ni wa Te wo Dasu na T_3 id_92579": 1778513963,
     "Ghost In The Shell Sac 2045 T_3 id_90293": 1778513937,
     "Bosé T_2 id_212464": 1778513907,
-    "Contra las cuerdas T_2 id_215232": 1778513699,
-    "Daniel El Travieso T_4 id_3518": 1778478441
+    "Contra las cuerdas T_2 id_215232": 1778513699
   }
 }
