@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785570089639,
+  "generatedAtDeviceMs": 1785570114704,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Max Steel T_4 id_46974": 1785570114,
     "Dragones Los Nueve Reinos T_4 id_136322": 1785570080,
     "Dragones Carrera al Borde T_4 id_78173": 1785570046,
     "Cabo de miedo T_2 id_277439": 1785570004,
@@ -1006,7 +1007,6 @@
     "Last Summer T_6 id_261902": 1778526261,
     "Zootopia Plus T_4 id_114463": 1778526234,
     "Las Luminosas T_2 id_106388": 1778526205,
-    "Bosch Legacy T_2 id_153657": 1778526174,
-    "Cómplices T_2 id_305135": 1778526102
+    "Bosch Legacy T_2 id_153657": 1778526174
   }
 }
