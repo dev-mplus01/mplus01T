@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785569683634,
+  "generatedAtDeviceMs": 1785569706520,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Del crepúsculo al amanecer T_2 id_60626": 1785569706,
     "Mr Pickles T_4 id_61593": 1785569674,
     "Preacher T_2 id_64230": 1785569644,
     "Constantine T_2 id_60743": 1785569608,
@@ -1006,7 +1007,6 @@
     "Cómplices T_2 id_305135": 1778526102,
     "Señorita 89 T_2 id_155645": 1778526077,
     "América vs América T_2 id_208422": 1778526050,
-    "Victoria Beckham T_2 id_262281": 1778526020,
-    "Galaxia Wander T_4 id_45013": 1778525728
+    "Victoria Beckham T_2 id_262281": 1778526020
   }
 }
