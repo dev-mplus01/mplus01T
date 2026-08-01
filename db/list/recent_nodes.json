@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785569417540,
+  "generatedAtDeviceMs": 1785569482676,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Arrow id_1412": 1785569482,
     "El Señor de los Cielos id_44953": 1785569407,
     "Batman El enmascarado T_4 id_125909": 1785558394,
     "Buchigire Reijou wa Houfuku wo Chikaimashita T_3 id_298831": 1785558179,
@@ -1006,7 +1007,6 @@
     "Amor como el jade T_2 id_123128": 1778514380,
     "Caso Cerrado T_2 id_3957": 1778514233,
     "Maria Felix La Doña T_2 id_205443": 1778514156,
-    "Programa de Talentos T_2 id_34573": 1778514126,
-    "Destined to Meet You T_6 id_201920": 1778514088
+    "Programa de Talentos T_2 id_34573": 1778514126
   }
 }
