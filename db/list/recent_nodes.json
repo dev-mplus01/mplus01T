@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785696660844,
+  "generatedAtDeviceMs": 1785696668050,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Enmusubi No Youko chan T_3 id_72632": 1785696667,
     "Diarra from Detroit T_2 id_247796": 1785696652,
     "Doraemon T_3 id_57911": 1785696637,
     "El Señor de los Cielos id_44953": 1785655042,
@@ -1006,7 +1007,6 @@
     "El Hijo Bastardo y El Mismísimo Diablo T_2 id_210235": 1778533649,
     "Arrested Development T_2 id_4589": 1778529481,
     "El Refugio T_2 id_201697": 1778529425,
-    "Emanet T_5 id_100868": 1778529368,
-    "Fancy Nancy T_4 id_80056": 1778529220
+    "Emanet T_5 id_100868": 1778529368
   }
 }
