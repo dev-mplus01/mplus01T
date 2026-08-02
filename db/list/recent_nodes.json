@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785693653516,
+  "generatedAtDeviceMs": 1785696638096,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Doraemon T_3 id_57911": 1785696637,
     "El Señor de los Cielos id_44953": 1785655042,
     "Brand New Animal T_3 id_92592": 1785632057,
     "I Love You, You Hate Me T_2 id_211188": 1785596974,
@@ -1006,7 +1007,6 @@
     "El Refugio T_2 id_201697": 1778529425,
     "Emanet T_5 id_100868": 1778529368,
     "Fancy Nancy T_4 id_80056": 1778529220,
-    "Amor Dividido T_5 id_155761": 1778529207,
-    "Last Summer T_6 id_261902": 1778526261
+    "Amor Dividido T_5 id_155761": 1778529207
   }
 }
