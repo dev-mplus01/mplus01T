@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785777527904,
+  "generatedAtWorkerMs": 1785777791050,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Komi-san no puede comunicarse T_3 id_123876": 1785777788,
     "Furioso T_2 id_282533": 1785777519,
     "Agente Kim Reactivado T_6 id_296206": 1785777502,
     "DC's Stargirl T_2 id_80986": 1785742337,
@@ -1006,7 +1007,6 @@
     "True Calling T_2 id_2188": 1778554310,
     "Hanako-kun después de clase T_3 id_233408": 1778554282,
     "Supacell T_2 id_158141": 1778554268,
-    "Narcosantos T_2 id_97970": 1778554248,
-    "Ozzy & Drix T_4 id_4684": 1778554195
+    "Narcosantos T_2 id_97970": 1778554248
   }
 }
