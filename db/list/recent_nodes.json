@@ -4,11 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785792177862,
+  "generatedAtDeviceMs": 1785792189988,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
-    "Furioso T_2 id_292533": 1785792167,
+    "Furioso T_2 id_292533": 1785792189,
     "Komi-san no puede comunicarse T_3 id_123876": 1785777788,
     "Furioso T_2 id_282533": 1785777519,
     "Agente Kim Reactivado T_6 id_296206": 1785777502,
