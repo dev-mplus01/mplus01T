@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785780053567,
+  "generatedAtDeviceMs": 1785792168833,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Furioso T_2 id_292533": 1785792167,
     "Komi-san no puede comunicarse T_3 id_123876": 1785777788,
     "Furioso T_2 id_282533": 1785777519,
     "Agente Kim Reactivado T_6 id_296206": 1785777502,
@@ -1006,7 +1007,6 @@
     "La Hora Del Diablo T_2 id_157061": 1778554341,
     "True Calling T_2 id_2188": 1778554310,
     "Hanako-kun después de clase T_3 id_233408": 1778554282,
-    "Supacell T_2 id_158141": 1778554268,
-    "Narcosantos T_2 id_97970": 1778554248
+    "Supacell T_2 id_158141": 1778554268
   }
 }
