@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785862661613,
+  "generatedAtDeviceMs": 1785862691072,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Sword Art Online Alternative Gun Gale Online T_3 id_78204": 1785862690,
     "Avenue 5 T_2 id_90811": 1785862653,
     "One Piece T_3 id_37854": 1785862620,
     "El Presidente Curtis T_4 id_296756": 1785862518,
@@ -1006,7 +1007,6 @@
     "Yin Yang Yo! T_4 id_3809": 1778560531,
     "The Hardy Boys T_2 id_112945": 1778558356,
     "México Campeón Del Mundo T_2 id_214033": 1778558311,
-    "Primate T_2 id_196574": 1778558284,
-    "El Bebe T_2 id_115915": 1778558259
+    "Primate T_2 id_196574": 1778558284
   }
 }
