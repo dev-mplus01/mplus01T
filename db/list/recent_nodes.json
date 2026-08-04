@@ -4,7 +4,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtDeviceMs": 1785833056068,
+  "generatedAtWorkerMs": 1785833065181,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
