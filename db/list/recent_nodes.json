@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785810894850,
+  "generatedAtWorkerMs": 1785811321616,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "American Horror Story T_2 id_1413": 1785811319,
     "Kuroneko to Majo no Kyoushitsu T_3 id_297557": 1785810825,
     "Daemons of the Shadow Realm T_3 id_260463": 1785810734,
     "Mao T_3 id_295999": 1785810644,
@@ -1006,7 +1007,6 @@
     "El Ensayo T_2 id_204284": 1778554358,
     "La Hora Del Diablo T_2 id_157061": 1778554341,
     "True Calling T_2 id_2188": 1778554310,
-    "Hanako-kun después de clase T_3 id_233408": 1778554282,
-    "Supacell T_2 id_158141": 1778554268
+    "Hanako-kun después de clase T_3 id_233408": 1778554282
   }
 }
