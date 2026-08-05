@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785964906055,
+  "generatedAtDeviceMs": 1785964911149,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "El Asesino Oculto En La Mente de Aaron Hernandez T_2 id_97062": 1785964910,
     "Distrito Salvaje T_2 id_83245": 1785964897,
     "Distanciamiento Social T_2 id_110862": 1785964879,
     "El Ascenso del Partido Nazi T_2 id_82710": 1785964865,
@@ -1006,7 +1007,6 @@
     "Como Vuela El Cuervo T_2 id_202010": 1778615482,
     "Se Docil Oracion y Obediencia T_2 id_202880": 1778615236,
     "La Leyenda Del Tesoro Perdido Al Filo De La Historia T_2 id_137437": 1778615063,
-    "Traición T_2 id_157080": 1778602250,
-    "Baccano T_3 id_34121": 1778602215
+    "Traición T_2 id_157080": 1778602250
   }
 }
