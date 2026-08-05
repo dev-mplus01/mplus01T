@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785895394246,
+  "generatedAtWorkerMs": 1785895514879,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "The Walking Dead Ciudad muerta T_2 id_194583": 1785895511,
     "Toumei na Yoru ni Kakeru T_3 id_309974": 1785895391,
     "Tetsunabe no Jan T_3 id_308403": 1785895284,
     "Tenmaku no Jaadugar T_3 id_288971": 1785895190,
@@ -1006,7 +1007,6 @@
     "Las Aventuras De Scrat T_4 id_158307": 1778563569,
     "La flor mas bella T_2 id_214454": 1778560594,
     "Yin Yang Yo! T_4 id_3809": 1778560531,
-    "The Hardy Boys T_2 id_112945": 1778558356,
-    "México Campeón Del Mundo T_2 id_214033": 1778558311
+    "The Hardy Boys T_2 id_112945": 1778558356
   }
 }
