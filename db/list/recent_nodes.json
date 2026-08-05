@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785964806387,
+  "generatedAtDeviceMs": 1785964832839,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Angélica Pecado T_5 id_207457": 1785964832,
     "Carmencita La Cuaima T_5 id_323227": 1785964797,
     "Carita Pintada T_5 id_16160": 1785964759,
     "El Señor de los Cielos id_44953": 1785957623,
@@ -1006,7 +1007,6 @@
     "Apariencias T_2 id_127641": 1778602179,
     "Code Geass Rozé y la reconquista T_3 id_255107": 1778602140,
     "Manzana y Cebollín T_4 id_78254": 1778601988,
-    "Bokura Ga Ita T_3 id_22577": 1778577494,
-    "School Tales T_2 id_203502": 1778577484
+    "Bokura Ga Ita T_3 id_22577": 1778577494
   }
 }
