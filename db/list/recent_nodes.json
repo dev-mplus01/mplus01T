@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785964874257,
+  "generatedAtDeviceMs": 1785964881382,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Distanciamiento Social T_2 id_110862": 1785964879,
     "El Ascenso del Partido Nazi T_2 id_82710": 1785964865,
     "Danmachi T_3 id_62745": 1785964851,
     "Angélica Pecado T_5 id_207457": 1785964832,
@@ -1006,7 +1007,6 @@
     "La Leyenda Del Tesoro Perdido Al Filo De La Historia T_2 id_137437": 1778615063,
     "Traición T_2 id_157080": 1778602250,
     "Baccano T_3 id_34121": 1778602215,
-    "Apariencias T_2 id_127641": 1778602179,
-    "Code Geass Rozé y la reconquista T_3 id_255107": 1778602140
+    "Apariencias T_2 id_127641": 1778602179
   }
 }
