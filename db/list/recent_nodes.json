@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785964859640,
+  "generatedAtDeviceMs": 1785964865583,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "El Ascenso del Partido Nazi T_2 id_82710": 1785964865,
     "Danmachi T_3 id_62745": 1785964851,
     "Angélica Pecado T_5 id_207457": 1785964832,
     "Carmencita La Cuaima T_5 id_323227": 1785964797,
@@ -1006,7 +1007,6 @@
     "Traición T_2 id_157080": 1778602250,
     "Baccano T_3 id_34121": 1778602215,
     "Apariencias T_2 id_127641": 1778602179,
-    "Code Geass Rozé y la reconquista T_3 id_255107": 1778602140,
-    "Manzana y Cebollín T_4 id_78254": 1778601988
+    "Code Geass Rozé y la reconquista T_3 id_255107": 1778602140
   }
 }
