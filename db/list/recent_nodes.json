@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785964889667,
+  "generatedAtDeviceMs": 1785964897417,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Distrito Salvaje T_2 id_83245": 1785964897,
     "Distanciamiento Social T_2 id_110862": 1785964879,
     "El Ascenso del Partido Nazi T_2 id_82710": 1785964865,
     "Danmachi T_3 id_62745": 1785964851,
@@ -1006,7 +1007,6 @@
     "Se Docil Oracion y Obediencia T_2 id_202880": 1778615236,
     "La Leyenda Del Tesoro Perdido Al Filo De La Historia T_2 id_137437": 1778615063,
     "Traición T_2 id_157080": 1778602250,
-    "Baccano T_3 id_34121": 1778602215,
-    "Apariencias T_2 id_127641": 1778602179
+    "Baccano T_3 id_34121": 1778602215
   }
 }
