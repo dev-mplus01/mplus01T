@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1785964919828,
+  "generatedAtDeviceMs": 1785964925790,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "El Asesino sin Rostro T_2 id_103023": 1785964925,
     "El Asesino Oculto En La Mente de Aaron Hernandez T_2 id_97062": 1785964910,
     "Distrito Salvaje T_2 id_83245": 1785964897,
     "Distanciamiento Social T_2 id_110862": 1785964879,
@@ -1006,7 +1007,6 @@
     "Academia De Vampiros T_2 id_125940": 1778617534,
     "Como Vuela El Cuervo T_2 id_202010": 1778615482,
     "Se Docil Oracion y Obediencia T_2 id_202880": 1778615236,
-    "La Leyenda Del Tesoro Perdido Al Filo De La Historia T_2 id_137437": 1778615063,
-    "Traición T_2 id_157080": 1778602250
+    "La Leyenda Del Tesoro Perdido Al Filo De La Historia T_2 id_137437": 1778615063
   }
 }
