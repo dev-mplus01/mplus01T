@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786047817862,
+  "generatedAtWorkerMs": 1786048754756,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Koutetsujou no Kabaneri T_3 id_65945": 1786048752,
     "Masha y el oso T_4 id_46080": 1786047747,
     "Power Book III Raising Kanan T_2 id_124394": 1785994632,
     "El Esposo T_6 id_300954": 1785993787,
@@ -1006,7 +1007,6 @@
     "Santita T_2 id_290230": 1778641778,
     "Young Sheldon T_2 id_71728": 1778641757,
     "Lycoris Recoil T_3 id_154494": 1778639846,
-    "Little Demon T_4 id_125392": 1778639687,
-    "Ugly Betty T_5 id_4626": 1778635254
+    "Little Demon T_4 id_125392": 1778639687
   }
 }
