@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786049461485,
+  "generatedAtWorkerMs": 1786049868489,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Samurai Girls T_3 id_46440": 1786049865,
     "Violetta T_2 id_61720": 1786049392,
     "29 Sai Dokushin Chuuken Boukensha T_3 id_290667": 1786049042,
     "Koutetsujou no Kabaneri T_3 id_65945": 1786048752,
@@ -1006,7 +1007,6 @@
     "La Chica de Nieve T_2 id_215333": 1778650801,
     "Maldivas T_2 id_134955": 1778642459,
     "Maria La Del Barrio T_5 id_12965": 1778641850,
-    "Santita T_2 id_290230": 1778641778,
-    "Young Sheldon T_2 id_71728": 1778641757
+    "Santita T_2 id_290230": 1778641778
   }
 }
