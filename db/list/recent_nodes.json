@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786066241768,
+  "generatedAtWorkerMs": 1786066448047,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Anne Shirley T_3 id_277665": 1786066445,
     "Blood Lad T_3 id_57577": 1786066237,
     "Made In Abyss T_3 id_72636": 1786066085,
     "Dr Stone T_3 id_86031": 1786065223,
@@ -1006,7 +1007,6 @@
     "Rooster T_2 id_254953": 1778691394,
     "Forensics The Real CSI T_2 id_89138": 1778688863,
     "Ancient love poetry T_2 id_102777": 1778650960,
-    "La Chica de Nieve T_2 id_215333": 1778650801,
-    "Maldivas T_2 id_134955": 1778642459
+    "La Chica de Nieve T_2 id_215333": 1778650801
   }
 }
