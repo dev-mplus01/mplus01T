@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786067858428,
+  "generatedAtWorkerMs": 1786067871725,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "The Eminence in Shadow T_3 id_119495": 1786067869,
     "Tai Ari deshita Ojousama wa Kakutou Game T_3 id_117120": 1786067852,
     "Reiwa no Dara san T_3 id_312507": 1786067701,
     "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1786067629,
@@ -1006,7 +1007,6 @@
     "MacGyver T_2 id_67133": 1778692051,
     "Devil May Cry T_4 id_235930": 1778691478,
     "Rooster T_2 id_254953": 1778691394,
-    "Forensics The Real CSI T_2 id_89138": 1778688863,
-    "Ancient love poetry T_2 id_102777": 1778650960
+    "Forensics The Real CSI T_2 id_89138": 1778688863
   }
 }
