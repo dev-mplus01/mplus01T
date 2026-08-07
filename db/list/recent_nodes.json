@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786072475529,
+  "generatedAtDeviceMs": 1786072482886,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Sterling Point T_2 id_283297": 1786072481,
     "The Shards T_2 id_298168": 1786072466,
     "Furia T_2 id_287238": 1786072452,
     "De Mujeres T_5 id_330274": 1786072431,
@@ -1006,7 +1007,6 @@
     "Intimidad T_2 id_123534": 1778726512,
     "Sueltos en los Cabos T_2 id_251026": 1778726486,
     "Amores que engañan T_2 id_202527": 1778726464,
-    "El show de Patricio Estrella T_4 id_126824": 1778692094,
-    "La Niñera T_2 id_2352": 1778692072
+    "El show de Patricio Estrella T_4 id_126824": 1778692094
   }
 }
