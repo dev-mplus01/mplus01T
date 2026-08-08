@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786154902739,
+  "generatedAtWorkerMs": 1786156767113,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Los Thunderman Encubiertos T_2 id_254653": 1786156764,
     "Muertos SL T_2 id_237964": 1786154900,
     "La Piloto T_2 id_72306": 1786154701,
     "Aggretsuko T_3 id_78941": 1786154208,
@@ -1006,7 +1007,6 @@
     "La Princesa del Nilo T_4 id_115300": 1778738385,
     "El Vengador T_4 id_9152": 1778738375,
     "Entre Padre E Hijo T_2 id_321338": 1778738361,
-    "La Asesina Del Romance T_3 id_208730": 1778726606,
-    "Sean Eternos Campeones De América T_2 id_213762": 1778726581
+    "La Asesina Del Romance T_3 id_208730": 1778726606
   }
 }
