@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786245878904,
+  "generatedAtWorkerMs": 1786246065276,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Scooped Up by an S Ranked T_3 id_284771": 1786246062,
     "Tsue to Tsurugi no Wistoria T_3 id_245842": 1786245876,
     "El Señor de los Cielos id_44953": 1786245587,
     "Yuukoku no Moriarty T_3 id_100281": 1786244857,
@@ -1006,7 +1007,6 @@
     "Superman vs Atom T_2 id_211402": 1778825395,
     "Julia T_2 id_116761": 1778825357,
     "La caza T_2 id_87919": 1778825321,
-    "Mi Camino Es Amarte T_5 id_213852": 1778825268,
-    "La Jefa Del Campeón T_5 id_97064": 1778825203
+    "Mi Camino Es Amarte T_5 id_213852": 1778825268
   }
 }
