@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786261707680,
+  "generatedAtWorkerMs": 1786261723471,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Esto no pasa como gasto T_6 id_91618": 1786261718,
     "Flores en el ático El origen T_2 id_203728": 1786261705,
     "El Señor de los Cielos Sus Comienzos T_2 id_235759": 1786254591,
     "Koutetsujou no Kabaneri T_3 id_65945": 1786247136,
@@ -1006,7 +1007,6 @@
     "La cruzada T_2 id_196749": 1778825485,
     "Nahir, el secreto de un crimen T_2 id_256877": 1778825457,
     "Dune La Leyenda T_2 id_19566": 1778825433,
-    "Superman vs Atom T_2 id_211402": 1778825395,
-    "Julia T_2 id_116761": 1778825357
+    "Superman vs Atom T_2 id_211402": 1778825395
   }
 }
