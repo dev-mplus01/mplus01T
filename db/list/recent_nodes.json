@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786247208992,
+  "generatedAtWorkerMs": 1786254594532,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "El Señor de los Cielos Sus Comienzos T_2 id_235759": 1786254591,
     "Koutetsujou no Kabaneri T_3 id_65945": 1786247136,
     "Bleach T_3 id_30984": 1786246909,
     "Scooped Up by an S Ranked T_3 id_284771": 1786246062,
@@ -1006,7 +1007,6 @@
     "Dune La Leyenda T_2 id_19566": 1778825433,
     "Superman vs Atom T_2 id_211402": 1778825395,
     "Julia T_2 id_116761": 1778825357,
-    "La caza T_2 id_87919": 1778825321,
-    "Mi Camino Es Amarte T_5 id_213852": 1778825268
+    "La caza T_2 id_87919": 1778825321
   }
 }
