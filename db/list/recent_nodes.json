@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786467154951,
+  "generatedAtWorkerMs": 1786476639495,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "El Dandy T_2 id_64566": 1786476636,
     "El Señor de los Cielos id_44953": 1786467148,
     "Seal Team T_2 id_71789": 1786430509,
     "Smoking Behind the Supermarket with You T_3 id_296286": 1786417861,
@@ -1006,7 +1007,6 @@
     "Mi Tio id_195623": 1778878423,
     "Offline Love T_6 id_282651": 1778878398,
     "Los Reyes T_5 id_19505": 1778873049,
-    "Kuzu No Honkai T_6 id_69812": 1778857380,
-    "Princesa Valiente T_6 id_71673": 1778857375
+    "Kuzu No Honkai T_6 id_69812": 1778857380
   }
 }
