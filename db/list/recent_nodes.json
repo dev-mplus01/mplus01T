@@ -4,10 +4,11 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786499544088,
+  "generatedAtWorkerMs": 1786507545834,
   "limit": 1000,
   "itemCount": 1000,
   "recentNodesMap": {
+    "Mar De Esperanza T_2 id_128398": 1786507540,
     "Youjo Senki T_3 id_69346": 1786499534,
     "Tsuihou sareta Tensei Juukishi T_3 id_270603": 1786499440,
     "Toumei na Yoru ni Kakeru T_3 id_309974": 1786499309,
@@ -1006,7 +1007,6 @@
     "El Capitan Planeta y los Planetarios T_4 id_478": 1778900254,
     "Don Quijote de la Mancha T_4 id_66407": 1778900242,
     "Berlín Y La Dama del Armiño T_2 id_308014": 1778900233,
-    "Almas Gemelas T_6 id_258063": 1778900228,
-    "David el gnomo T_4 id_2849": 1778900222
+    "Almas Gemelas T_6 id_258063": 1778900228
   }
 }
