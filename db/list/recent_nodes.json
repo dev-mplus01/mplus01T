@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786584719087,
+  "generatedAtWorkerMs": 1786584772588,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786584610051,
+  "latestChangeWorkerMs": 1786584751232,
   "recentNodesMap": {
+    "Mamonogurai no Boukensha! Ore dake Mamono T_3 id_310921": 1786584751,
     "Valentina Valiente T_5 id_316470": 1786584610,
     "FBI Most Wanted T_2 id_94372": 1786584550,
     "Classroom of the Elite T_3 id_72517": 1786584335,
@@ -1010,7 +1011,6 @@
     "Doctor Climax T_6 id_251309": 1778900945,
     "Yo T_2 id_256693": 1778900918,
     "Xica Da Silva T_5 id_46143": 1778900322,
-    "Pan Negro T_5 id_69301": 1778900295,
-    "The Wonderfools T_6 id_259837": 1778900283
+    "Pan Negro T_5 id_69301": 1778900295
   }
 }
