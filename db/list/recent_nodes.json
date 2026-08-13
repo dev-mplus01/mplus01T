@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786600044238,
+  "generatedAtWorkerMs": 1786600433956,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786599971288,
+  "latestChangeWorkerMs": 1786600431845,
   "recentNodesMap": {
+    "Amores verdaderos T_5 id_46901": 1786600431,
     "Dueña de Mi T_5 id_283245": 1786599971,
     "El Renacer de Luna T_5 id_320089": 1786599733,
     "Guardián de mi vida T_5 id_320315": 1786599633,
@@ -1010,7 +1011,6 @@
     "Gallitos T_2 id_253736": 1778917564,
     "Harry y Meghan T_2 id_215492": 1778904334,
     "The Wingfeather Saga T_4 id_215597": 1778901002,
-    "Doctor Climax T_6 id_251309": 1778900945,
-    "Yo T_2 id_256693": 1778900918
+    "Doctor Climax T_6 id_251309": 1778900945
   }
 }
