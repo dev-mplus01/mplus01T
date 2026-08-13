@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786643226899,
+  "generatedAtWorkerMs": 1786654470271,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786643144722,
+  "latestChangeWorkerMs": 1786654467431,
   "recentNodesMap": {
+    "The Twin Gambit T_6 id_288753": 1786654467,
     "El Señor de los Cielos id_44953": 1786643144,
     "Oscuro Deseo T_2 id_105214": 1786636934,
     "Harley Quinn T_4 id_74440": 1786636354,
@@ -1010,7 +1011,6 @@
     "Light Beyond The Reed T_6 id_273125": 1778978094,
     "Muerte por un rayo T_2 id_245219": 1778968545,
     "Belascoarán T_2 id_206709": 1778968494,
-    "Off Campus T_2 id_273240": 1778955033,
-    "Gudetama T_4 id_203949": 1778951155
+    "Off Campus T_2 id_273240": 1778955033
   }
 }
