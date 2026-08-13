@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786605713382,
+  "generatedAtWorkerMs": 1786605848227,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786605710338,
+  "latestChangeWorkerMs": 1786605840572,
   "recentNodesMap": {
+    "Muñeca Brava T_5 id_16135": 1786605840,
     "Comet Lucifer T_3 id_68256": 1786605710,
     "Masada T_2 id_13397": 1786605150,
     "Las azules T_2 id_253983": 1786601439,
@@ -1010,7 +1011,6 @@
     "Better Things T_2 id_66859": 1778917828,
     "Love Is Better the Second Time Around T_6 id_246482": 1778917785,
     "La luz aún nos guía T_6 id_276472": 1778917681,
-    "Gallitos T_2 id_253736": 1778917564,
-    "Harry y Meghan T_2 id_215492": 1778904334
+    "Gallitos T_2 id_253736": 1778917564
   }
 }
