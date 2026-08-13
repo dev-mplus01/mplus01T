@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786582363264,
+  "generatedAtWorkerMs": 1786582666899,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786582358735,
+  "latestChangeWorkerMs": 1786582661509,
   "recentNodesMap": {
+    "Ângela Diniz Murdered and Convicted T_2 id_260637": 1786582661,
     "Mis aventuras con Superman T_4 id_125928": 1786582358,
     "Futurama T_4 id_615": 1786582248,
     "Furia T_2 id_287238": 1786581333,
@@ -1010,7 +1011,6 @@
     "Xica Da Silva T_5 id_46143": 1778900322,
     "Pan Negro T_5 id_69301": 1778900295,
     "The Wonderfools T_6 id_259837": 1778900283,
-    "Hasta El Final T_5 id_70583": 1778900280,
-    "Girasol T_5 id_217590": 1778900270
+    "Hasta El Final T_5 id_70583": 1778900280
   }
 }
