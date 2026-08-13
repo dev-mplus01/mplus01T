@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786636127132,
+  "generatedAtWorkerMs": 1786636157382,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786636120108,
+  "latestChangeWorkerMs": 1786636153405,
   "recentNodesMap": {
+    "El Príncipe del Barrio T_2 id_229590": 1786636153,
     "El horror de Dolores Roach T_2 id_217825": 1786636120,
     "El Diario de las Hadas T_4 id_218577": 1786635984,
     "Dragon Ball Heroes T_3 id_80020": 1786635827,
@@ -1010,7 +1011,6 @@
     "Gudetama T_4 id_203949": 1778951155,
     "Johnny Test T_4 id_1769": 1778951125,
     "Its Pony T_4 id_98240": 1778918802,
-    "Desparejado T_2 id_201380": 1778918743,
-    "All Rise T_2 id_90872": 1778918713
+    "Desparejado T_2 id_201380": 1778918743
   }
 }
