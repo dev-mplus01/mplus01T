@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786685714614,
+  "generatedAtWorkerMs": 1786685745103,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786685712023,
+  "latestChangeWorkerMs": 1786685739012,
   "recentNodesMap": {
+    "¡Guau que amigo! T_2 id_97441": 1786685739,
     "Star Trek Extraños Nuevos Mundos T_2 id_103516": 1786685712,
     "Llantas T_2 id_247522": 1786685567,
     "Una Voluntad Eterna T_3 id_107371": 1786685177,
@@ -1010,7 +1011,6 @@
     "Salvation id_70513": 1779037716,
     "Maggie T_2 id_127162": 1779003365,
     "Nails T_2 id_282198": 1779003324,
-    "Ellas dan el golpe T_2 id_107005": 1779003268,
-    "Seleccion argentina T_2 id_206085": 1779003238
+    "Ellas dan el golpe T_2 id_107005": 1779003268
   }
 }
