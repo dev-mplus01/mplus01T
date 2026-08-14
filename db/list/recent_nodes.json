@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786671598161,
+  "generatedAtWorkerMs": 1786684658225,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786671594978,
+  "latestChangeWorkerMs": 1786684655533,
   "recentNodesMap": {
+    "Cheers T_2 id_141": 1786684655,
     "The Shards T_2 id_298168": 1786671594,
     "The Twin Gambit T_6 id_288753": 1786654467,
     "El Señor de los Cielos id_44953": 1786643144,
@@ -1010,7 +1011,6 @@
     "Archer T_4 id_10283": 1778978185,
     "Light Beyond The Reed T_6 id_273125": 1778978094,
     "Muerte por un rayo T_2 id_245219": 1778968545,
-    "Belascoarán T_2 id_206709": 1778968494,
-    "Off Campus T_2 id_273240": 1778955033
+    "Belascoarán T_2 id_206709": 1778968494
   }
 }
