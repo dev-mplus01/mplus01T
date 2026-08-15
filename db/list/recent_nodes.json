@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786826754484,
+  "generatedAtWorkerMs": 1786837753504,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786826629037,
+  "latestChangeWorkerMs": 1786837751007,
   "recentNodesMap": {
+    "Yuusha no Kuzu T_3 id_284432": 1786837751,
     "Noche sangrienta de Sengoku T_3 id_74184": 1786826629,
     "Moria T_2 id_322428": 1786826556,
     "Kizim T_5 id_82369": 1786826482,
@@ -1010,7 +1011,6 @@
     "Sin Limites T_2 id_128032": 1779153698,
     "Outlander T_2 id_56570": 1779143064,
     "Gigolo Americano T_2 id_127585": 1779143010,
-    "Cats Eyes T_3 id_286691": 1779142977,
-    "Mi Encuentro Con El Mal T_2 id_213288": 1779142919
+    "Cats Eyes T_3 id_286691": 1779142977
   }
 }
