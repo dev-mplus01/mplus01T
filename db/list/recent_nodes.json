@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786773653197,
+  "generatedAtWorkerMs": 1786773924466,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786766808777,
+  "latestChangeWorkerMs": 1786773921788,
   "recentNodesMap": {
+    "Cowboy Copenhague T_2 id_206510": 1786773921,
     "La Chica de Nieve T_2 id_215333": 1786766808,
     "El Show De Cuphead T_4 id_103786": 1786765688,
     "Valentina Valiente T_5 id_316470": 1786762128,
@@ -1010,7 +1011,6 @@
     "Los Años Maravillosos T_2 id_126164": 1779089366,
     "We Were the Lucky Ones T_2 id_200908": 1779089301,
     "A Despertar La Felicidad Con Marie Kondo T_2 id_130245": 1779089263,
-    "DB Cooper Donde Estas T_2 id_204302": 1779089153,
-    "Santa Evita T_2 id_122048": 1779089118
+    "DB Cooper Donde Estas T_2 id_204302": 1779089153
   }
 }
