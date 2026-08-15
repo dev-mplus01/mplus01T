@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786821628711,
+  "generatedAtWorkerMs": 1786826370329,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786821626196,
+  "latestChangeWorkerMs": 1786826367681,
   "recentNodesMap": {
+    "La Esposa Virgen T_5 id_40298": 1786826367,
     "El Señor de los Cielos id_44953": 1786821626,
     "Cowboy Copenhague T_2 id_206510": 1786773921,
     "La Chica de Nieve T_2 id_215333": 1786766808,
@@ -1010,7 +1011,6 @@
     "SkyMed T_2 id_133908": 1779089405,
     "Los Años Maravillosos T_2 id_126164": 1779089366,
     "We Were the Lucky Ones T_2 id_200908": 1779089301,
-    "A Despertar La Felicidad Con Marie Kondo T_2 id_130245": 1779089263,
-    "DB Cooper Donde Estas T_2 id_204302": 1779089153
+    "A Despertar La Felicidad Con Marie Kondo T_2 id_130245": 1779089263
   }
 }
