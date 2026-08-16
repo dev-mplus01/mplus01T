@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786881653234,
+  "generatedAtWorkerMs": 1786897251869,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786863022907,
+  "latestChangeWorkerMs": 1786897248936,
   "recentNodesMap": {
+    "Civilizaciones Antiguas id_93015": 1786897248,
     "Señora del Destino T_5 id_320456": 1786863022,
     "Valentina Valiente T_5 id_316470": 1786862848,
     "Promesa de Hermanos T_5 id_271548": 1786862633,
@@ -1010,7 +1011,6 @@
     "Love You as the World Ends T_2 id_114905": 1779228075,
     "Shojo Koi T_6 id_223058": 1779227910,
     "Trigger Point T_2 id_127716": 1779171397,
-    "American Odyssey id_61702": 1779171374,
-    "Echoes Of The Self T_6 id_284715": 1779165162
+    "American Odyssey id_61702": 1779171374
   }
 }
