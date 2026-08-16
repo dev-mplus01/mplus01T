@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786897321127,
+  "generatedAtWorkerMs": 1786897334521,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786897314979,
+  "latestChangeWorkerMs": 1786897327409,
   "recentNodesMap": {
+    "Los vigilantes de Malibú id_85958": 1786897327,
     "Fenómenos aéreos id_216446": 1786897314,
     "Espacio Profundo id_94401": 1786897301,
     "Renacer Revelaciones desde el Umbral de la Muerte id_313194": 1786897275,
@@ -1010,7 +1011,6 @@
     "El Inspector Ardilla T_4 id_4752": 1779240395,
     "El Escuadrón Diabólico T_4 id_10097": 1779240388,
     "Las Cronicas de Frankenstein id_64421": 1779228213,
-    "Heweliusz T_2 id_217528": 1779228165,
-    "Rap shit T_2 id_155772": 1779228115
+    "Heweliusz T_2 id_217528": 1779228165
   }
 }
