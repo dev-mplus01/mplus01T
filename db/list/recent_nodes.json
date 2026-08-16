@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786897334521,
+  "generatedAtWorkerMs": 1786897347979,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786897327409,
+  "latestChangeWorkerMs": 1786897339028,
   "recentNodesMap": {
+    "El Lado Oscuro de Egipto id_331827": 1786897339,
     "Los vigilantes de Malibú id_85958": 1786897327,
     "Fenómenos aéreos id_216446": 1786897314,
     "Espacio Profundo id_94401": 1786897301,
@@ -1010,7 +1011,6 @@
     "El nuevo show de Scooby y Scrappy-Doo T_4 id_230": 1779240398,
     "El Inspector Ardilla T_4 id_4752": 1779240395,
     "El Escuadrón Diabólico T_4 id_10097": 1779240388,
-    "Las Cronicas de Frankenstein id_64421": 1779228213,
-    "Heweliusz T_2 id_217528": 1779228165
+    "Las Cronicas de Frankenstein id_64421": 1779228213
   }
 }
