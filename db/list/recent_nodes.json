@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786897347979,
+  "generatedAtWorkerMs": 1786897361334,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786897339028,
+  "latestChangeWorkerMs": 1786897357356,
   "recentNodesMap": {
+    "Whiskey Cavalier id_82094": 1786897357,
     "El Lado Oscuro de Egipto id_331827": 1786897339,
     "Los vigilantes de Malibú id_85958": 1786897327,
     "Fenómenos aéreos id_216446": 1786897314,
@@ -1010,7 +1011,6 @@
     "La Heredera Regresa a los Cuarenta T_7 id_322767": 1779240401,
     "El nuevo show de Scooby y Scrappy-Doo T_4 id_230": 1779240398,
     "El Inspector Ardilla T_4 id_4752": 1779240395,
-    "El Escuadrón Diabólico T_4 id_10097": 1779240388,
-    "Las Cronicas de Frankenstein id_64421": 1779228213
+    "El Escuadrón Diabólico T_4 id_10097": 1779240388
   }
 }
