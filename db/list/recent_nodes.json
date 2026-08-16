@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786897277759,
+  "generatedAtWorkerMs": 1786897307767,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786897275231,
+  "latestChangeWorkerMs": 1786897301056,
   "recentNodesMap": {
+    "Espacio Profundo id_94401": 1786897301,
     "Renacer Revelaciones desde el Umbral de la Muerte id_313194": 1786897275,
     "Ciencia Sagrada id_331828": 1786897263,
     "Civilizaciones Antiguas id_93015": 1786897248,
@@ -1010,7 +1011,6 @@
     "Las Cronicas de Frankenstein id_64421": 1779228213,
     "Heweliusz T_2 id_217528": 1779228165,
     "Rap shit T_2 id_155772": 1779228115,
-    "Love You as the World Ends T_2 id_114905": 1779228075,
-    "Shojo Koi T_6 id_223058": 1779227910
+    "Love You as the World Ends T_2 id_114905": 1779228075
   }
 }
