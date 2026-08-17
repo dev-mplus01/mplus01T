@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786930708449,
+  "generatedAtWorkerMs": 1786930723622,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786930702599,
+  "latestChangeWorkerMs": 1786930717730,
   "recentNodesMap": {
+    "Trackers id_94923": 1786930717,
     "Cachorros a la obra T_4 id_156616": 1786930702,
     "Arafta T_5 id_306118": 1786914405,
     "Scrublands T_2 id_234212": 1786914242,
@@ -1010,7 +1011,6 @@
     "Walker, Comisario de Texas T_2 id_3772": 1779260438,
     "Crutch T_2 id_253750": 1779244228,
     "Mi Papá El Cazador Intergaláctico T_4 id_157221": 1779244140,
-    "My Little Ponny Deja Tu Marca T_4 id_158691": 1779244117,
-    "Fanatico T_2 id_127428": 1779244101
+    "My Little Ponny Deja Tu Marca T_4 id_158691": 1779244117
   }
 }
