@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1786914411058,
+  "generatedAtWorkerMs": 1786930708449,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1786914405251,
+  "latestChangeWorkerMs": 1786930702599,
   "recentNodesMap": {
+    "Cachorros a la obra T_4 id_156616": 1786930702,
     "Arafta T_5 id_306118": 1786914405,
     "Scrublands T_2 id_234212": 1786914242,
     "Young Wallander id_91545": 1786897499,
@@ -1010,7 +1011,6 @@
     "Crutch T_2 id_253750": 1779244228,
     "Mi Papá El Cazador Intergaláctico T_4 id_157221": 1779244140,
     "My Little Ponny Deja Tu Marca T_4 id_158691": 1779244117,
-    "Fanatico T_2 id_127428": 1779244101,
-    "El Show de Huckleberry Hound T_4 id_967": 1779240458
+    "Fanatico T_2 id_127428": 1779244101
   }
 }
