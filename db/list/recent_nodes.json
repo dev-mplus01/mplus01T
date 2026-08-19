@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787178222037,
+  "generatedAtWorkerMs": 1787178235392,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787178205804,
+  "latestChangeWorkerMs": 1787178230837,
   "recentNodesMap": {
+    "Atracos T_2 id_127643": 1787178230,
     "Ana id_102625": 1787178205,
     "Alerta Aeropuerto T_2 id_101129": 1787166061,
     "Albertano Contra Los Mostros T_2 id_197888": 1787166003,
@@ -1010,7 +1011,6 @@
     "Te Metiste Con El Nerd Equivocado T_7 id_323112": 1779307854,
     "Siete Años de Dolor T_7 id_323110": 1779307851,
     "Señor Su Hija Perdida Ha Vuelto T_7 id_323108": 1779307848,
-    "Nadie Se Compara A Mis Siete Hermanas T_7 id_323107": 1779307846,
-    "La Venganza Del Hijo Olvidado T_7 id_303104": 1779307843
+    "Nadie Se Compara A Mis Siete Hermanas T_7 id_323107": 1779307846
   }
 }
