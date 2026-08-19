@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787104845916,
+  "generatedAtWorkerMs": 1787106419268,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1787104772456,
+  "latestChangeWorkerMs": 1787106416462,
   "recentNodesMap": {
+    "Fantasmas T_2 id_126027": 1787106416,
     "Kabushikigaisha Megilumiere T_3 id_240576": 1787104772,
     "Grow Up Show Himawari no Circus dan T_3 id_296101": 1787104651,
     "Kimi ga Shinu made Koi wo Shitai T_3 id_285574": 1787104535,
@@ -1010,7 +1011,6 @@
     "Esta Vez Eligo A Mi Hija Verdadera T_7 id_323097": 1779307832,
     "El Inmortal Y Su Esposa Muda T_7 id_323084": 1779307829,
     "Ella Eligió La Pobreza Yo El Poder T_7 id_323095": 1779307826,
-    "El Verdadero Hijo Nunca Perdona T_7 id_323093": 1779307823,
-    "El Súper Sistema Me Dio 3 Diosas T_7 id_323092": 1779307820
+    "El Verdadero Hijo Nunca Perdona T_7 id_323093": 1779307823
   }
 }
