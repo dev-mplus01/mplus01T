@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787178521816,
+  "generatedAtWorkerMs": 1787178568942,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787178415747,
+  "latestChangeWorkerMs": 1787178566491,
   "recentNodesMap": {
+    "Isekai Nonbiri Nouka T_3 id_196285": 1787178566,
     "Honour T_6 id_287346": 1787178415,
     "El Inmortal T_2 id_197929": 1787178270,
     "Atracos T_2 id_127643": 1787178230,
@@ -1010,7 +1011,6 @@
     "Tras Mi Partida Tres Hermanos Arrepentidos T_7 id_323115": 1779307860,
     "Tras Dejar A La Mujer Interesada Llegó A Mi Cima T_7 id_323113": 1779307857,
     "Te Metiste Con El Nerd Equivocado T_7 id_323112": 1779307854,
-    "Siete Años de Dolor T_7 id_323110": 1779307851,
-    "Señor Su Hija Perdida Ha Vuelto T_7 id_323108": 1779307848
+    "Siete Años de Dolor T_7 id_323110": 1779307851
   }
 }
