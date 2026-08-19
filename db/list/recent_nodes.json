@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787144736685,
+  "generatedAtWorkerMs": 1787156858203,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781220309591,
-  "latestChangeWorkerMs": 1787144732566,
+  "latestChangeWorkerMs": 1787156855106,
   "recentNodesMap": {
+    "El método Kominsky id_81290": 1787156855,
     "Ted Lasso T_2 id_97546": 1787144732,
     "Gary and his demons id_79478": 1787131433,
     "Reacher T_2 id_108978": 1787124557,
@@ -1010,7 +1011,6 @@
     "Siete Años de Dolor T_7 id_323110": 1779307851,
     "Señor Su Hija Perdida Ha Vuelto T_7 id_323108": 1779307848,
     "Nadie Se Compara A Mis Siete Hermanas T_7 id_323107": 1779307846,
-    "La Venganza Del Hijo Olvidado T_7 id_303104": 1779307843,
-    "La Suplica De Mi Exnovia T_7 id_323101": 1779307840
+    "La Venganza Del Hijo Olvidado T_7 id_303104": 1779307843
   }
 }
