@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787206799629,
+  "generatedAtWorkerMs": 1787206813068,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787206556217,
+  "latestChangeWorkerMs": 1787206807799,
   "recentNodesMap": {
+    "El Precio de la Historia T_2 id_21755": 1787206807,
     "El robo del Siglo T_2 id_104555": 1787206556,
     "Amores de fin de siglo T_5 id_16157": 1787206544,
     "El Reto del Beso T_2 id_105213": 1787206531,
@@ -1010,7 +1011,6 @@
     "Todos Quieren Salvarse T_2 id_134057": 1779380302,
     "Imperio Salvaje T_2 id_74911": 1779343947,
     "Asesinato en el Campus T_2 id_206816": 1779343911,
-    "Ser o no ser T_2 id_155547": 1779321316,
-    "All American Nuevos Comienzos T_2 id_153723": 1779321282
+    "Ser o no ser T_2 id_155547": 1779321316
   }
 }
