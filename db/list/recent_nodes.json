@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787252836512,
+  "generatedAtWorkerMs": 1787253377170,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787252833588,
+  "latestChangeWorkerMs": 1787253374082,
   "recentNodesMap": {
+    "Duelo xiaolin T_4 id_679": 1787253374,
     "Emergency Couple T_6 id_61197": 1787252833,
     "The 100 T_2 id_48866": 1787250789,
     "Dear X T_6 id_256226": 1787249083,
@@ -1010,7 +1011,6 @@
     "Jake Long Dragon Occidental T_4 id_346": 1779507155,
     "Hoops T_4 id_106238": 1779507154,
     "Carizzma T_2 id_321597": 1779507149,
-    "Futuro desierto T_2 id_321594": 1779507148,
-    "El Rostro de la Venganza T_5 id_84278": 1779507141
+    "Futuro desierto T_2 id_321594": 1779507148
   }
 }
