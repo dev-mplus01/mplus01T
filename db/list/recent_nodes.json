@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787206546072,
+  "generatedAtWorkerMs": 1787206559439,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787206544404,
+  "latestChangeWorkerMs": 1787206556217,
   "recentNodesMap": {
+    "El robo del Siglo T_2 id_104555": 1787206556,
     "Amores de fin de siglo T_5 id_16157": 1787206544,
     "El Reto del Beso T_2 id_105213": 1787206531,
     "Amanda Sabater T_5 id_16470": 1787206516,
@@ -1010,7 +1011,6 @@
     "Imperio Salvaje T_2 id_74911": 1779343947,
     "Asesinato en el Campus T_2 id_206816": 1779343911,
     "Ser o no ser T_2 id_155547": 1779321316,
-    "All American Nuevos Comienzos T_2 id_153723": 1779321282,
-    "La Venganza Del Hijo Olvidado T_7 id_323104": 1779309155
+    "All American Nuevos Comienzos T_2 id_153723": 1779321282
   }
 }
