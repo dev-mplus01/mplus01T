@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787206813068,
+  "generatedAtWorkerMs": 1787206826634,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787206807799,
+  "latestChangeWorkerMs": 1787206818554,
   "recentNodesMap": {
+    "La Baronesa T_5 id_331474": 1787206818,
     "El Precio de la Historia T_2 id_21755": 1787206807,
     "El robo del Siglo T_2 id_104555": 1787206556,
     "Amores de fin de siglo T_5 id_16157": 1787206544,
@@ -1010,7 +1011,6 @@
     "Naomi T_2 id_125474": 1779380389,
     "Todos Quieren Salvarse T_2 id_134057": 1779380302,
     "Imperio Salvaje T_2 id_74911": 1779343947,
-    "Asesinato en el Campus T_2 id_206816": 1779343911,
-    "Ser o no ser T_2 id_155547": 1779321316
+    "Asesinato en el Campus T_2 id_206816": 1779343911
   }
 }
