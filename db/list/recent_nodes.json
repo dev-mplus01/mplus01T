@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787270420262,
+  "generatedAtWorkerMs": 1787274210598,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787269758675,
+  "latestChangeWorkerMs": 1787274207884,
   "recentNodesMap": {
+    "El siglo del individualismo T_2 id_75770": 1787274207,
     "Chi Chikyuu no Undou ni Tsuite T_3 id_204635": 1787269758,
     "El Señor de los Cielos id_44953": 1787255977,
     "Duelo xiaolin T_4 id_679": 1787253374,
@@ -1010,7 +1011,6 @@
     "Kipo y la era de los magnimales T_4 id_95599": 1779507162,
     "James T_2 id_321596": 1779507156,
     "Jake Long Dragon Occidental T_4 id_346": 1779507155,
-    "Hoops T_4 id_106238": 1779507154,
-    "Carizzma T_2 id_321597": 1779507149
+    "Hoops T_4 id_106238": 1779507154
   }
 }
