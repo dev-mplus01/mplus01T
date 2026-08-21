@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787350000371,
+  "generatedAtWorkerMs": 1787350413911,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787349997805,
+  "latestChangeWorkerMs": 1787350411628,
   "recentNodesMap": {
+    "Angel La Niña de las Flores T_3 id_68343": 1787350411,
     "Chicago PD T_2 id_58841": 1787349997,
     "Snowfall T_2 id_71694": 1787349691,
     "El amor es como el cha cha cha T_6 id_128883": 1787342011,
@@ -1010,7 +1011,6 @@
     "Margarita Que Tu Cuento Valga la Pena T_2 id_245328": 1779811650,
     "Divina Comida México T_2 id_203326": 1779811611,
     "Mi bella Genio T_2 id_1660": 1779811523,
-    "Fugitivos T_2 id_98473": 1779774585,
-    "Barrabrava T_2 id_228963": 1779770523
+    "Fugitivos T_2 id_98473": 1779774585
   }
 }
