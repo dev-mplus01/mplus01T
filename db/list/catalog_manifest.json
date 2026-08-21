@@ -2,39 +2,40 @@
   "schema": 1,
   "kind": "movp_catalog_manifest",
   "environment": "prod",
-  "generatedAtDeviceMs": 1787274636651,
+  "generatedAtDeviceMs": 1787275236551,
   "config_gz": {
     "prod": {
-      "activeFilename": "items_up_r1787274575593.json.gz",
-      "releaseId": "1787274575593",
+      "activeFilename": "items_up_r1787275217781.json.gz",
+      "releaseId": "1787275217781",
       "enabled": true,
       "mirrors": {
         "server1": true,
-        "server2": false,
+        "server2": true,
         "github": false
       },
       "urls": {
-        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1787274575593.json.gz"
+        "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1787275217781.json.gz",
+        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1787275217781.json.gz"
       },
       "truthSource": {
-        "target": "server1",
-        "url": "https:\/\/api.appsdevxp.com\/db\/items_up_r1787274575593.json.gz",
-        "filename": "items_up_r1787274575593.json.gz"
+        "target": "server2",
+        "url": "https:\/\/developerxploit.com\/app\/db\/items_up_r1787275217781.json.gz",
+        "filename": "items_up_r1787275217781.json.gz"
       },
       "encoding": "gzip",
-      "compressedSizeBytes": 4415161,
-      "compressedSha256": "8eef363bdf396fb6678291d14fb0331b30870aae60a29e282cf0cbdb73c370ff",
-      "uncompressedSizeBytes": 9805205,
-      "uncompressedSha256": "7ceda23a01708aa83631161ce0145edd7eec2cfba4fb70cdf02508acf9c1c668",
-      "updatedAtDeviceMs": 1787274636651,
-      "publishedAtDeviceMs": 1787274636651,
+      "compressedSizeBytes": 4415603,
+      "compressedSha256": "a222776fdf74861eacafeb7fdbff33752ed817bde4b4f93b89ccb28615d54681",
+      "uncompressedSizeBytes": 9805914,
+      "uncompressedSha256": "132b422ef6a86cc1200c61ef9a36faa6a55b9ea4228eed21fe79a2d48e259835",
+      "updatedAtDeviceMs": 1787275236551,
+      "publishedAtDeviceMs": 1787275236551,
       "catalog": {
-        "filename": "items_up_r1787274575593.json.gz",
+        "filename": "items_up_r1787275217781.json.gz",
         "encoding": "gzip",
-        "compressedSizeBytes": 4415161,
-        "compressedSha256": "8eef363bdf396fb6678291d14fb0331b30870aae60a29e282cf0cbdb73c370ff",
-        "uncompressedSizeBytes": 9805205,
-        "uncompressedSha256": "7ceda23a01708aa83631161ce0145edd7eec2cfba4fb70cdf02508acf9c1c668"
+        "compressedSizeBytes": 4415603,
+        "compressedSha256": "a222776fdf74861eacafeb7fdbff33752ed817bde4b4f93b89ccb28615d54681",
+        "uncompressedSizeBytes": 9805914,
+        "uncompressedSha256": "132b422ef6a86cc1200c61ef9a36faa6a55b9ea4228eed21fe79a2d48e259835"
       }
     }
   }
