@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787341754586,
+  "generatedAtWorkerMs": 1787341768142,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787341706283,
+  "latestChangeWorkerMs": 1787341759316,
   "recentNodesMap": {
+    "Tokyo Ghoul T_3 id_61374": 1787341759,
     "Primos T_4 id_204139": 1787341706,
     "S And X T_6 id_312523": 1787341687,
     "Quien Es Quien T_5 id_78292": 1787341675,
@@ -1010,7 +1011,6 @@
     "Fugitivos T_2 id_98473": 1779774585,
     "Barrabrava T_2 id_228963": 1779770523,
     "Barracuda Queens T_2 id_225152": 1779770506,
-    "Ángel Las Alas del Amor T_5 id_158526": 1779766698,
-    "Thundarr el Barbaro T_4 id_13800": 1779766688
+    "Ángel Las Alas del Amor T_5 id_158526": 1779766698
   }
 }
