@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787274372058,
+  "generatedAtWorkerMs": 1787274385428,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787274361747,
+  "latestChangeWorkerMs": 1787274375114,
   "recentNodesMap": {
+    "El sanador (Healer) T_2 id_61670": 1787274375,
     "El tunel del tiempo T_2 id_103": 1787274361,
     "Last Summer T_6 id_291602": 1787274341,
     "Ojos De Profundo Afecto T_6 id_284430": 1787274317,
@@ -1010,7 +1011,6 @@
     "Las aventuras de Ricky Ricón T_4 id_3026": 1779507188,
     "La hormiga atómica T_4 id_22172": 1779507181,
     "LEGO City Adventuras T_4 id_94107": 1779507172,
-    "LEGO Bionicle Una aventura épica T_4 id_74153": 1779507167,
-    "Katekyō Hitman Reborn! T_4 id_45857": 1779507163
+    "LEGO Bionicle Una aventura épica T_4 id_74153": 1779507167
   }
 }
