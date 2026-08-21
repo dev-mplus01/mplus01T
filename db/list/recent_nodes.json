@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787274412324,
+  "generatedAtWorkerMs": 1787274425772,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787274406005,
+  "latestChangeWorkerMs": 1787274422167,
   "recentNodesMap": {
+    "The Carrie Diaries T_2 id_46157": 1787274422,
     "The 7-39 T_2 id_60649": 1787274406,
     "Otome Kaijuu T_3 id_308874": 1787274394,
     "Los Jóvenes Intrépidos T_6 id_283165": 1787274394,
@@ -1010,7 +1011,6 @@
     "The Boroughs Jubilación rebelde T_2 id_224941": 1779507207,
     "Temporada de celo T_4 id_290295": 1779507206,
     "Las aventuras de sonic el erizo T_4 id_44": 1779507199,
-    "Las aventuras de Ricky Ricón T_4 id_3026": 1779507188,
-    "La hormiga atómica T_4 id_22172": 1779507181
+    "Las aventuras de Ricky Ricón T_4 id_3026": 1779507188
   }
 }
