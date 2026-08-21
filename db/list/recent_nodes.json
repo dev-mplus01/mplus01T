@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787294729038,
+  "generatedAtWorkerMs": 1787328470358,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787294659983,
+  "latestChangeWorkerMs": 1787328466811,
   "recentNodesMap": {
+    "8 Meses T_2 id_254680": 1787328466,
     "Guardián de mi vida T_5 id_320315": 1787294659,
     "Señora del Destino T_5 id_320456": 1787294288,
     "Amor Profundo T_5 id_302063": 1787293949,
@@ -1010,7 +1011,6 @@
     "Prisma T_2 id_158053": 1779765772,
     "Noticia De Un Secuestro T_2 id_206637": 1779727404,
     "Animadoras Justicieras T_2 id_196511": 1779727365,
-    "Bajo El Fuego T_2 id_122169": 1779727345,
-    "Angelyne T_2 id_93751": 1779727318
+    "Bajo El Fuego T_2 id_122169": 1779727345
   }
 }
