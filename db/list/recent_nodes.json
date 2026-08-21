@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787274317933,
+  "generatedAtWorkerMs": 1787274331274,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787274297944,
+  "latestChangeWorkerMs": 1787274317860,
   "recentNodesMap": {
+    "Ojos De Profundo Afecto T_6 id_284430": 1787274317,
     "El show de Bill Cosby T_2 id_1759": 1787274297,
     "Mebius Dust T_3 id_98865": 1787274231,
     "El siglo del individualismo T_2 id_75770": 1787274207,
@@ -1010,7 +1011,6 @@
     "LEGO Bionicle Una aventura épica T_4 id_74153": 1779507167,
     "Katekyō Hitman Reborn! T_4 id_45857": 1779507163,
     "Kipo y la era de los magnimales T_4 id_95599": 1779507162,
-    "James T_2 id_321596": 1779507156,
-    "Jake Long Dragon Occidental T_4 id_346": 1779507155
+    "James T_2 id_321596": 1779507156
   }
 }
