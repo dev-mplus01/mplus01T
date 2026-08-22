@@ -5,13 +5,15 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787372318277,
+  "generatedAtWorkerMs": 1787372332394,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787372316361,
+  "latestChangeWorkerMs": 1787372328070,
   "recentNodesMap": {
+    "Emergence T_2 id_91962": 1787372328,
+    "Dr Stone T_3 id_86031": 1787372319,
     "En movimiento T_2 id_111726": 1787372316,
     "El Universo T_2 id_2622": 1787372303,
     "En casa T_2 id_104453": 1787372270,
@@ -404,7 +406,6 @@
     "Blood Lad T_3 id_57577": 1786066547,
     "Anne Shirley T_3 id_277665": 1786066445,
     "Made In Abyss T_3 id_72636": 1786066085,
-    "Dr Stone T_3 id_86031": 1786065223,
     "De campamento con Snoopy T_4 id_226745": 1786050853,
     "Wolverine and the X Man T_4 id_6549": 1786050006,
     "Samurai Girls T_3 id_46440": 1786049865,
@@ -1010,7 +1011,6 @@
     "Gold Land T_6 id_278113": 1779949183,
     "Pesadillas y ensoñaciones de Joko Anwar T_2 id_228958": 1779948468,
     "See The Light T_6 id_288604": 1779948403,
-    "Shantaram T_2 id_95341": 1779908905,
-    "Amor En El Espectro T_2 id_200731": 1779908881
+    "Shantaram T_2 id_95341": 1779908905
   }
 }
