@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787370552296,
+  "generatedAtWorkerMs": 1787370697518,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787370549957,
+  "latestChangeWorkerMs": 1787370694461,
   "recentNodesMap": {
+    "Charité T_2 id_70837": 1787370694,
     "Principe de los Dragones T_2 id_81046": 1787370549,
     "Himekishi wa Barbaroi no Yome T_3 id_273467": 1787369793,
     "Blossoms of Power T_6 id_286506": 1787364390,
@@ -1010,7 +1011,6 @@
     "LALIGA Más allá del gol T_2 id_255345": 1779861849,
     "SOS Me Estoy Enamorando T_5 id_132960": 1779861819,
     "Este tonto T_2 id_202137": 1779861767,
-    "Les Combattantes T_2 id_155491": 1779861733,
-    "Last Light T_2 id_195821": 1779861684
+    "Les Combattantes T_2 id_155491": 1779861733
   }
 }
