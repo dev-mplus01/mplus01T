@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787394711382,
+  "generatedAtWorkerMs": 1787408316950,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787394708684,
+  "latestChangeWorkerMs": 1787408313779,
   "recentNodesMap": {
+    "Spider-Man T_4 id_888": 1787408313,
     "El Hada de las Pesas T_6 id_68349": 1787394708,
     "Las cosas por limpiar T_2 id_111141": 1787384711,
     "El Peso de la Ley T_2 id_331650": 1787378490,
@@ -1010,7 +1011,6 @@
     "Regreso al planeta de los simios T_4 id_12443": 1780076706,
     "Sankuokai T_4 id_65958": 1780076702,
     "Princesita Sofia T_4 id_46928": 1780076695,
-    "Rocket Power T_4 id_2009": 1780076682,
-    "Pixie, Dixie y el gato Jinks T_4 id_21471": 1780076664
+    "Rocket Power T_4 id_2009": 1780076682
   }
 }
