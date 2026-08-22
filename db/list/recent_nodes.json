@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787372426328,
+  "generatedAtWorkerMs": 1787372439673,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787372416651,
+  "latestChangeWorkerMs": 1787372431194,
   "recentNodesMap": {
+    "Era de la juventud T_2 id_67014": 1787372431,
     "Epitafios T_2 id_12838": 1787372416,
     "Kaina T_5 id_205005": 1787372399,
     "Escape del infierno con Bear Grylls T_2 id_63375": 1787372339,
@@ -1010,7 +1011,6 @@
     "Pixie, Dixie y el gato Jinks T_4 id_21471": 1780076664,
     "Oggy y las Cucarachas T_4 id_2777": 1780076652,
     "Mr Bean La serie animada T_4 id_2530": 1780076638,
-    "Tras el cristal T_5 id_121435": 1779990356,
-    "Gold Land T_6 id_278113": 1779949183
+    "Tras el cristal T_5 id_121435": 1779990356
   }
 }
