@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787439679620,
+  "generatedAtWorkerMs": 1787439692925,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787439660865,
+  "latestChangeWorkerMs": 1787439689462,
   "recentNodesMap": {
+    "A salvo con Bear Grylls T_2 id_52962": 1787439689,
     "365 Repeat the Year T_2 id_99479": 1787439660,
     "49 T_2 id_72251": 1787439633,
     "49 Días T_2 id_38861": 1787439606,
@@ -1010,7 +1011,6 @@
     "El Precio de la fama T_2 id_324175": 1780207041,
     "Juanpis González La serie T_2 id_155895": 1780195039,
     "Te Amo Ahora Muere La Mancomunidad vs Michelle Carter T_2 id_87518": 1780104588,
-    "Dos Monedas T_4 id_304597": 1780104490,
-    "Gunthers El Perro Millonario T_2 id_217662": 1780097754
+    "Dos Monedas T_4 id_304597": 1780104490
   }
 }
