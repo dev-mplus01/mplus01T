@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787372507066,
+  "generatedAtWorkerMs": 1787372520564,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787372477421,
+  "latestChangeWorkerMs": 1787372507464,
   "recentNodesMap": {
+    "Ao Haru Ride T_3 id_62602": 1787372507,
     "Pantanal T_5 id_158415": 1787372477,
     "Era de la juventud T_2 id_67014": 1787372431,
     "Epitafios T_2 id_12838": 1787372416,
@@ -1010,7 +1011,6 @@
     "Princesita Sofia T_4 id_46928": 1780076695,
     "Rocket Power T_4 id_2009": 1780076682,
     "Pixie, Dixie y el gato Jinks T_4 id_21471": 1780076664,
-    "Oggy y las Cucarachas T_4 id_2777": 1780076652,
-    "Mr Bean La serie animada T_4 id_2530": 1780076638
+    "Oggy y las Cucarachas T_4 id_2777": 1780076652
   }
 }
