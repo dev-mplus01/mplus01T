@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787370831562,
+  "generatedAtWorkerMs": 1787370845069,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787370824448,
+  "latestChangeWorkerMs": 1787370842090,
   "recentNodesMap": {
+    "Cleopatra T_2 id_47119": 1787370842,
     "Cleo & Cuquin T_4 id_81913": 1787370824,
     "Cheerleaders en Acción id_97401": 1787370729,
     "Charité T_2 id_70837": 1787370694,
@@ -1010,7 +1011,6 @@
     "Princesita Sofía Magia Real T_3 id_261647": 1779900580,
     "Hacemos lo que podemos T_6 id_289424": 1779900566,
     "The ipcress file T_2 id_114926": 1779861893,
-    "LALIGA Más allá del gol T_2 id_255345": 1779861849,
-    "SOS Me Estoy Enamorando T_5 id_132960": 1779861819
+    "LALIGA Más allá del gol T_2 id_255345": 1779861849
   }
 }
