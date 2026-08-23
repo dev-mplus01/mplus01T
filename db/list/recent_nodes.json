@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787470986073,
+  "generatedAtWorkerMs": 1787471002918,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787470985034,
+  "latestChangeWorkerMs": 1787470998191,
   "recentNodesMap": {
+    "Superstition T_2 id_74104": 1787470998,
     "Strangled T_2 id_106937": 1787470985,
     "Sugar Rush Delicias Navideñas T_2 id_80341": 1787470973,
     "Stateless T_2 id_89446": 1787470956,
@@ -1010,7 +1011,6 @@
     "X The Series T_3 id_3251": 1780720085,
     "Fans de tiempo completo T_2 id_315596": 1780720072,
     "Que pobres tan ricos T_5 id_60642": 1780720066,
-    "El testigo T_2 id_280511": 1780720015,
-    "Among Us T_4 id_229544": 1780720011
+    "El testigo T_2 id_280511": 1780720015
   }
 }
