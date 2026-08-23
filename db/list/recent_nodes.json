@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787459738505,
+  "generatedAtWorkerMs": 1787459783429,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787459731644,
+  "latestChangeWorkerMs": 1787459781105,
   "recentNodesMap": {
+    "Motherland Fort Salem T_2 id_91977": 1787459781,
     "Moriarty the Patriot T_3 id_100281": 1787459731,
     "Monstruos De Cracovia T_2 id_158396": 1787459686,
     "Mona la vampira T_4 id_536": 1787459664,
@@ -1010,7 +1011,6 @@
     "Death And Nightingales T_2 id_84534": 1780610882,
     "Hombre A Medias T_2 id_257994": 1780546211,
     "Un amor que no se agota T_6 id_287011": 1780545922,
-    "Los Años Maravillosos T_2 id_4500": 1780545771,
-    "Compañeros de viaje T_2 id_216089": 1780545737
+    "Los Años Maravillosos T_2 id_4500": 1780545771
   }
 }
