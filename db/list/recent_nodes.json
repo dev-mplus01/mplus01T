@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787523742125,
+  "generatedAtWorkerMs": 1787526955796,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787523739457,
+  "latestChangeWorkerMs": 1787526952964,
   "recentNodesMap": {
+    "Doki T_4 id_94075": 1787526952,
     "Oni no Hanayome T_3 id_293489": 1787523739,
     "Yuukoku no Moriarty T_3 id_100281": 1787518570,
     "Mahou Shoujo Tokushusen Asuka T_3 id_83104": 1787518335,
@@ -1010,7 +1011,6 @@
     "Soulmates T_2 id_100771": 1781023736,
     "Jezabel T_2 id_90180": 1781023732,
     "Alice and Steve T_2 id_318203": 1781023718,
-    "Circo Gómez T_4 id_324745": 1781023684,
-    "Los Vecinos Green T_4 id_80587": 1780938264
+    "Circo Gómez T_4 id_324745": 1781023684
   }
 }
