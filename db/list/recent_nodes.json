@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787449769829,
+  "generatedAtWorkerMs": 1787450242439,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787449767513,
+  "latestChangeWorkerMs": 1787450240405,
   "recentNodesMap": {
+    "Teen Titans T_4 id_604": 1787450240,
     "Agente Aika T_3 id_43249": 1787449767,
     "Aika R16 T_3 id_68417": 1787449587,
     "Aika Zero T_3 id_43631": 1787449342,
@@ -1010,7 +1011,6 @@
     "Supernatural The Animation T_4 id_32871": 1780360628,
     "Spider-Man T_4 id_1482": 1780360622,
     "Sonic y su Banda T_4 id_20992": 1780360612,
-    "Sonic X T_4 id_10926": 1780360604,
-    "Abandonados T_2 id_324050": 1780360583
+    "Sonic X T_4 id_10926": 1780360604
   }
 }
