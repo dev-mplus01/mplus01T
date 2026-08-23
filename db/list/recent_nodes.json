@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787448736718,
+  "generatedAtWorkerMs": 1787448757399,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787448731825,
+  "latestChangeWorkerMs": 1787448751930,
   "recentNodesMap": {
+    "102 Minutos Que Cambiaron America T_2 id_42769": 1787448751,
     "101 Matrimonios T_6 id_222531": 1787448731,
     "100-man no Inochi no Ue ni Ore T_3 id_99995": 1787448692,
     "100 Era T_6 id_121719": 1787448654,
@@ -1010,7 +1011,6 @@
     "Las Cuatro Estaciones T_2 id_243316": 1780336017,
     "Para Toda La Humanidad T_2 id_87917": 1780336003,
     "Mindfulness para asesinos T_2 id_252372": 1780335989,
-    "Los testamentos De las hijas de Gilead T_2 id_287527": 1780335961,
-    "Amor sin variables T_6 id_314784": 1780335883
+    "Los testamentos De las hijas de Gilead T_2 id_287527": 1780335961
   }
 }
