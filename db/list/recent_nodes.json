@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787470963037,
+  "generatedAtWorkerMs": 1787470978746,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787470956703,
+  "latestChangeWorkerMs": 1787470973819,
   "recentNodesMap": {
+    "Sugar Rush Delicias Navideñas T_2 id_80341": 1787470973,
     "Stateless T_2 id_89446": 1787470956,
     "Amantes T_5 id_47143": 1787470945,
     "Street Food Latin America T_2 id_105488": 1787470899,
@@ -1010,7 +1011,6 @@
     "Que pobres tan ricos T_5 id_60642": 1780720066,
     "El testigo T_2 id_280511": 1780720015,
     "Among Us T_4 id_229544": 1780720011,
-    "Dragon Booster T_4 id_2826": 1780637193,
-    "Yellowstone T_2 id_73586": 1780637110
+    "Dragon Booster T_4 id_2826": 1780637193
   }
 }
