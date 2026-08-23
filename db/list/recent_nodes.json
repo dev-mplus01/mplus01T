@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787470865522,
+  "generatedAtWorkerMs": 1787470891065,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787470863043,
+  "latestChangeWorkerMs": 1787470888037,
   "recentNodesMap": {
+    "Sunny entre estrellas T_2 id_33873": 1787470888,
     "Hay amores que matan T_5 id_9369": 1787470863,
     "Re Monster T_3 id_235389": 1787461946,
     "Snowpiercer T_2 id_79680": 1787460422,
@@ -1010,7 +1011,6 @@
     "Yellowstone T_2 id_73586": 1780637110,
     "Terapia con Charlie T_2 id_42878": 1780630394,
     "Los Mosqueteros T_2 id_57736": 1780630378,
-    "Sullivans Crossing T_2 id_211564": 1780610894,
-    "Death And Nightingales T_2 id_84534": 1780610882
+    "Sullivans Crossing T_2 id_211564": 1780610894
   }
 }
