@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787449257869,
+  "generatedAtWorkerMs": 1787449347471,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787449254445,
+  "latestChangeWorkerMs": 1787449342682,
   "recentNodesMap": {
+    "Aika Zero T_3 id_43631": 1787449342,
     "4 Estrellas T_2 id_225005": 1787449254,
     "Akame Ga Kill T_3 id_61223": 1787449146,
     "A Cada Quién su Santo T_5 id_296496": 1787448836,
@@ -1010,7 +1011,6 @@
     "Sonic X T_4 id_10926": 1780360604,
     "Abandonados T_2 id_324050": 1780360583,
     "Dorohedoro T_3 id_94404": 1780336074,
-    "Abbott Elementary T_2 id_125935": 1780336056,
-    "Las Cuatro Estaciones T_2 id_243316": 1780336017
+    "Abbott Elementary T_2 id_125935": 1780336056
   }
 }
