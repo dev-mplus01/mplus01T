@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787456735151,
+  "generatedAtWorkerMs": 1787459280327,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787456729789,
+  "latestChangeWorkerMs": 1787459277826,
   "recentNodesMap": {
+    "Mi Papá El Cazador Intergaláctico T_4 id_157221": 1787459277,
     "Bloodivores T_3 id_68078": 1787456729,
     "Ao no Exorcist T_3 id_38464": 1787456617,
     "Blood C T_3 id_43270": 1787456399,
@@ -1010,7 +1011,6 @@
     "Reincarnated Love T_6 id_296990": 1780525465,
     "Un cachorro llamado Scooby-Doo T_4 id_418": 1780525459,
     "Willy Fog T_4 id_5150": 1780525452,
-    "Pinocchio No Te Puedo Mentir T_6 id_61611": 1780525444,
-    "De Nuevo Un Final Feliz T_6 id_65187": 1780525438
+    "Pinocchio No Te Puedo Mentir T_6 id_61611": 1780525444
   }
 }
