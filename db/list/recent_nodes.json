@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787471018389,
+  "generatedAtWorkerMs": 1787471043641,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787471014483,
+  "latestChangeWorkerMs": 1787471040721,
   "recentNodesMap": {
+    "Static Shock T_4 id_1487": 1787471040,
     "Tell Me A Story T_2 id_81747": 1787471014,
     "Superstition T_2 id_74104": 1787470998,
     "Strangled T_2 id_106937": 1787470985,
@@ -1010,7 +1011,6 @@
     "Los Vecinos Green T_4 id_80587": 1780938264,
     "Así Aprenderás T_6 id_276161": 1780866123,
     "X The Series T_3 id_3251": 1780720085,
-    "Fans de tiempo completo T_2 id_315596": 1780720072,
-    "Que pobres tan ricos T_5 id_60642": 1780720066
+    "Fans de tiempo completo T_2 id_315596": 1780720072
   }
 }
