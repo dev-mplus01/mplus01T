@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787449151285,
+  "generatedAtWorkerMs": 1787449247299,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787449146204,
+  "latestChangeWorkerMs": 1787449239412,
   "recentNodesMap": {
+    "4 Estrellas T_2 id_225005": 1787449239,
     "Akame Ga Kill T_3 id_61223": 1787449146,
     "A Cada Quién su Santo T_5 id_296496": 1787448836,
     "102 Minutos Que Cambiaron America T_2 id_42769": 1787448751,
@@ -1010,7 +1011,6 @@
     "Abandonados T_2 id_324050": 1780360583,
     "Dorohedoro T_3 id_94404": 1780336074,
     "Abbott Elementary T_2 id_125935": 1780336056,
-    "Las Cuatro Estaciones T_2 id_243316": 1780336017,
-    "Para Toda La Humanidad T_2 id_87917": 1780336003
+    "Las Cuatro Estaciones T_2 id_243316": 1780336017
   }
 }
