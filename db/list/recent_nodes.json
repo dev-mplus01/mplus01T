@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787534385857,
+  "generatedAtWorkerMs": 1787541078039,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787534382980,
+  "latestChangeWorkerMs": 1787541075393,
   "recentNodesMap": {
+    "Emanet T_5 id_100868": 1787541075,
     "Linternas T_2 id_95350": 1787534382,
     "Motherland Fort Salem T_2 id_91977": 1787533979,
     "Daemons of the Shadow Realm T_3 id_260463": 1787533898,
@@ -1010,7 +1011,6 @@
     "Medalist T_3 id_237529": 1781118804,
     "Kaguya Sama Love Is War T_3 id_83121": 1781104575,
     "The Equalizer T_2 id_95205": 1781034160,
-    "XO, Kitty T_2 id_195670": 1781034059,
-    "Comando de criaturas T_4 id_219543": 1781033955
+    "XO, Kitty T_2 id_195670": 1781034059
   }
 }
