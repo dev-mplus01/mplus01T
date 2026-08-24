@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787614081008,
+  "generatedAtWorkerMs": 1787614094427,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787614055730,
+  "latestChangeWorkerMs": 1787614081666,
   "recentNodesMap": {
+    "Kids in Crime T_2 id_209814": 1787614081,
     "Kamisama Kiss T_3 id_62741": 1787614055,
     "Kakuriyo Bed & Breakfast For Spirits T_3 id_78483": 1787613977,
     "Joran The Princess of Snow and Blood T_3 id_117945": 1787613937,
@@ -1010,7 +1011,6 @@
     "Shimoneta to Iu Gainen ga T_3 id_63323": 1781326042,
     "Peter Grill to Kenja no Jikan T_3 id_99080": 1781326022,
     "Saint Seiya - Soul of Gold T_3 id_62428": 1781325965,
-    "Viral Hit T_6 id_312493": 1781298657,
-    "El César T_2 id_74600": 1781298656
+    "Viral Hit T_6 id_312493": 1781298657
   }
 }
