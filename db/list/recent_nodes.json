@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787550797879,
+  "generatedAtWorkerMs": 1787550948330,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787550795804,
+  "latestChangeWorkerMs": 1787550944755,
   "recentNodesMap": {
+    "Kono Subarashii Sekai Ni Shukufuku Wo T_3 id_65844": 1787550944,
     "Los 80 T_2 id_34001": 1787550795,
     "Alma Pirata T_5 id_70924": 1787550568,
     "Shokugeki No Soma T_3 id_62273": 1787549951,
@@ -1010,7 +1011,6 @@
     "La Nena T_2 id_281041": 1781222671,
     "Beauty in Black T_2 id_246246": 1781222650,
     "La historia de mi familia T_2 id_281679": 1781222610,
-    "Ganbare Douki-chan T_3 id_131168": 1781206965,
-    "Baby Daddy T_2 id_42272": 1781206585
+    "Ganbare Douki-chan T_3 id_131168": 1781206965
   }
 }
