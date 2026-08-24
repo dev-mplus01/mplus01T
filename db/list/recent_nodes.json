@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787614134680,
+  "generatedAtWorkerMs": 1787614148041,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787614111331,
+  "latestChangeWorkerMs": 1787614147130,
   "recentNodesMap": {
+    "King's Raid Successors Of The Will T_3 id_102871": 1787614147,
     "King The Land T_2 id_198004": 1787614111,
     "Kids in Crime T_2 id_209814": 1787614081,
     "Kamisama Kiss T_3 id_62741": 1787614055,
@@ -1010,7 +1011,6 @@
     "La Familia Ingalls T_2 id_1781": 1781326557,
     "Batman La Serie Animada T_4 id_2098": 1781326149,
     "Shimoneta to Iu Gainen ga T_3 id_63323": 1781326042,
-    "Peter Grill to Kenja no Jikan T_3 id_99080": 1781326022,
-    "Saint Seiya - Soul of Gold T_3 id_62428": 1781325965
+    "Peter Grill to Kenja no Jikan T_3 id_99080": 1781326022
   }
 }
