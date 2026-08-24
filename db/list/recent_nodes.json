@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787548474419,
+  "generatedAtWorkerMs": 1787548687827,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787548469015,
+  "latestChangeWorkerMs": 1787548685016,
   "recentNodesMap": {
+    "Kuro no Shoukanshi T_3 id_157842": 1787548685,
     "Kaifuku Jutsushi no Yarinaoshi T_3 id_99071": 1787548469,
     "Blood+ T_3 id_19849": 1787548326,
     "Ansatsusha de Aru Ore no Status T_3 id_284644": 1787548028,
@@ -1010,7 +1011,6 @@
     "Jashin chan Dropkick T_3 id_80713": 1781150107,
     "Casados con hijos T_5 id_7217": 1781150098,
     "Bolívar Una lucha admirable T_5 id_90602": 1781150061,
-    "Ladrón de guante blanco T_2 id_21510": 1781118831,
-    "Medalist T_3 id_237529": 1781118804
+    "Ladrón de guante blanco T_2 id_21510": 1781118831
   }
 }
