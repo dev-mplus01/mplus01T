@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787549953778,
+  "generatedAtWorkerMs": 1787550571006,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787549951370,
+  "latestChangeWorkerMs": 1787550568637,
   "recentNodesMap": {
+    "Alma Pirata T_5 id_70924": 1787550568,
     "Shokugeki No Soma T_3 id_62273": 1787549951,
     "Darío Gómez El rey del despecho T_5 id_274326": 1787549208,
     "Sentouin Hakenshimasu T_3 id_100567": 1787548878,
@@ -1010,7 +1011,6 @@
     "La historia de mi familia T_2 id_281679": 1781222610,
     "Ganbare Douki-chan T_3 id_131168": 1781206965,
     "Baby Daddy T_2 id_42272": 1781206585,
-    "SSSS Gridman T_3 id_82895": 1781150111,
-    "Jashin chan Dropkick T_3 id_80713": 1781150107
+    "SSSS Gridman T_3 id_82895": 1781150111
   }
 }
