@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787613932767,
+  "generatedAtWorkerMs": 1787613946135,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787613908281,
+  "latestChangeWorkerMs": 1787613937759,
   "recentNodesMap": {
+    "Joran The Princess of Snow and Blood T_3 id_117945": 1787613937,
     "Jigokuraku Hells Paradise T_3 id_117465": 1787613908,
     "Ishuzoku Reviewers T_3 id_96444": 1787613862,
     "El Presidente Curtis T_4 id_296756": 1787611719,
@@ -1010,7 +1011,6 @@
     "Viral Hit T_6 id_312493": 1781298657,
     "El César T_2 id_74600": 1781298656,
     "Dragon Striker T_4 id_204135": 1781222857,
-    "La Nena T_2 id_281041": 1781222671,
-    "Beauty in Black T_2 id_246246": 1781222650
+    "La Nena T_2 id_281041": 1781222671
   }
 }
