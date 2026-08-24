@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787567308308,
+  "generatedAtWorkerMs": 1787567681765,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787567305542,
+  "latestChangeWorkerMs": 1787567679169,
   "recentNodesMap": {
+    "Neumatt T_2 id_135022": 1787567679,
     "Mirada Indiscreta T_2 id_135814": 1787567305,
     "El Mentalista id_5920": 1787566693,
     "Kono Subarashii Sekai Ni Shukufuku Wo T_3 id_65844": 1787550944,
@@ -1010,7 +1011,6 @@
     "Dragon Striker T_4 id_204135": 1781222857,
     "La Nena T_2 id_281041": 1781222671,
     "Beauty in Black T_2 id_246246": 1781222650,
-    "La historia de mi familia T_2 id_281679": 1781222610,
-    "Ganbare Douki-chan T_3 id_131168": 1781206965
+    "La historia de mi familia T_2 id_281679": 1781222610
   }
 }
