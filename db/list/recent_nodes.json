@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787548329057,
+  "generatedAtWorkerMs": 1787548474419,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787548326572,
+  "latestChangeWorkerMs": 1787548469015,
   "recentNodesMap": {
+    "Kaifuku Jutsushi no Yarinaoshi T_3 id_99071": 1787548469,
     "Blood+ T_3 id_19849": 1787548326,
     "Ansatsusha de Aru Ore no Status T_3 id_284644": 1787548028,
     "Moria T_2 id_322428": 1787545463,
@@ -1010,7 +1011,6 @@
     "Casados con hijos T_5 id_7217": 1781150098,
     "Bolívar Una lucha admirable T_5 id_90602": 1781150061,
     "Ladrón de guante blanco T_2 id_21510": 1781118831,
-    "Medalist T_3 id_237529": 1781118804,
-    "Kaguya Sama Love Is War T_3 id_83121": 1781104575
+    "Medalist T_3 id_237529": 1781118804
   }
 }
