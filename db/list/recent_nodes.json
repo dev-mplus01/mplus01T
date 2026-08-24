@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787545465933,
+  "generatedAtWorkerMs": 1787548031162,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787545463355,
+  "latestChangeWorkerMs": 1787548028657,
   "recentNodesMap": {
+    "Ansatsusha de Aru Ore no Status T_3 id_284644": 1787548028,
     "Moria T_2 id_322428": 1787545463,
     "Emanet T_5 id_100868": 1787541075,
     "Linternas T_2 id_95350": 1787534382,
@@ -1010,7 +1011,6 @@
     "Ladrón de guante blanco T_2 id_21510": 1781118831,
     "Medalist T_3 id_237529": 1781118804,
     "Kaguya Sama Love Is War T_3 id_83121": 1781104575,
-    "The Equalizer T_2 id_95205": 1781034160,
-    "XO, Kitty T_2 id_195670": 1781034059
+    "The Equalizer T_2 id_95205": 1781034160
   }
 }
