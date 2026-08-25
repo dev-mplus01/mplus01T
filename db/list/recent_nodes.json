@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787627206818,
+  "generatedAtWorkerMs": 1787628632521,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787627089039,
+  "latestChangeWorkerMs": 1787628629110,
   "recentNodesMap": {
+    "Rivales T_2 id_208921": 1787628629,
     "Margarita Que Tu Cuento Valga la Pena T_2 id_245328": 1787627089,
     "Entreolivos T_5 id_74425": 1787626506,
     "Espectros T_2 id_99573": 1787626480,
@@ -1010,7 +1011,6 @@
     "Magical Princess Minky Momo T_3 id_35871": 1781717709,
     "Los Snorkels T_4 id_4237": 1781717697,
     "Los Oblongs T_4 id_2568": 1781717680,
-    "La Vida Diaria Del Rey Inmortal T_3 id_98123": 1781717674,
-    "El Desafío de los Gobots T_4 id_697": 1781717663
+    "La Vida Diaria Del Rey Inmortal T_3 id_98123": 1781717674
   }
 }
