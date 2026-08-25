@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787697453529,
+  "generatedAtWorkerMs": 1787697467749,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787697431735,
+  "latestChangeWorkerMs": 1787697460161,
   "recentNodesMap": {
+    "By The Grace of the Gods T_3 id_102086": 1787697460,
     "Asesinato en la cabaña la búsqueda de justicia para Sophie T_2 id_127914": 1787697431,
     "Amor en la Ciudad T_2 id_113710": 1787697407,
     "Alienators Evolucion T_4 id_10003": 1787697371,
@@ -1010,7 +1011,6 @@
     "SSSS Dynazenon T_3 id_96451": 1781763807,
     "La maldición de Widows Bay T_2 id_270476": 1781733025,
     "Class de 2 Banme ni Kawaii Onnanoko to Tomodachi T_3 id_290019": 1781732428,
-    "Maid san wa Taberu dake T_3 id_299134": 1781732321,
-    "Ichijouma Mankitsugurashi T_3 id_295751": 1781732277
+    "Maid san wa Taberu dake T_3 id_299134": 1781732321
   }
 }
