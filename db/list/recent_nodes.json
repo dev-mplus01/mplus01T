@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787622534023,
+  "generatedAtWorkerMs": 1787623905713,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787622531571,
+  "latestChangeWorkerMs": 1787623898161,
   "recentNodesMap": {
+    "Morena Clara T_5 id_207455": 1787623898,
     "Danmachi T_3 id_62745": 1787622531,
     "Angélica Pecado T_5 id_207457": 1787622226,
     "Acaramelados T_6 id_291496": 1787622133,
@@ -1010,7 +1011,6 @@
     "The Boondocks T_4 id_2604": 1781468970,
     "Cada año que pasé contigo T_2 id_260592": 1781367978,
     "Gintama T_3 id_57041": 1781326651,
-    "La Familia Ingalls T_2 id_1781": 1781326557,
-    "Batman La Serie Animada T_4 id_2098": 1781326149
+    "La Familia Ingalls T_2 id_1781": 1781326557
   }
 }
