@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787621034226,
+  "generatedAtWorkerMs": 1787621696372,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787621031311,
+  "latestChangeWorkerMs": 1787621692979,
   "recentNodesMap": {
+    "Linterna Verde T_4 id_40351": 1787621692,
     "Star Wars Visions Presenta La Jedi Número Nueve T_4 id_289324": 1787621031,
     "Yuru Yuri T_3 id_52891": 1787620597,
     "Escape del infierno con Bear Grylls T_2 id_63375": 1787620379,
@@ -1010,7 +1011,6 @@
     "Cada año que pasé contigo T_2 id_260592": 1781367978,
     "Gintama T_3 id_57041": 1781326651,
     "La Familia Ingalls T_2 id_1781": 1781326557,
-    "Batman La Serie Animada T_4 id_2098": 1781326149,
-    "Shimoneta to Iu Gainen ga T_3 id_63323": 1781326042
+    "Batman La Serie Animada T_4 id_2098": 1781326149
   }
 }
