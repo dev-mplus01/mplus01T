@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787697481522,
+  "generatedAtWorkerMs": 1787697495435,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787697460161,
+  "latestChangeWorkerMs": 1787697486183,
   "recentNodesMap": {
+    "Califato T_2 id_92891": 1787697486,
     "By The Grace of the Gods T_3 id_102086": 1787697460,
     "Asesinato en la cabaña la búsqueda de justicia para Sophie T_2 id_127914": 1787697431,
     "Amor en la Ciudad T_2 id_113710": 1787697407,
@@ -1010,7 +1011,6 @@
     "Tonikaku Kawaii T_3 id_100049": 1781763830,
     "SSSS Dynazenon T_3 id_96451": 1781763807,
     "La maldición de Widows Bay T_2 id_270476": 1781733025,
-    "Class de 2 Banme ni Kawaii Onnanoko to Tomodachi T_3 id_290019": 1781732428,
-    "Maid san wa Taberu dake T_3 id_299134": 1781732321
+    "Class de 2 Banme ni Kawaii Onnanoko to Tomodachi T_3 id_290019": 1781732428
   }
 }
