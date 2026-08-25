@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787696637570,
+  "generatedAtWorkerMs": 1787697340291,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787696563475,
+  "latestChangeWorkerMs": 1787697337648,
   "recentNodesMap": {
+    "Agente Elvis T_4 id_110126": 1787697337,
     "Aprendiendo a Vivir T_2 id_1777": 1787696563,
     "El Señor de los Cielos id_44953": 1787684420,
     "Victorinos T_2 id_18846": 1787682407,
@@ -1010,7 +1011,6 @@
     "Ichijouma Mankitsugurashi T_3 id_295751": 1781732277,
     "The Strongest Job Is Apparently Not a Hero T_3 id_303460": 1781732175,
     "Shunkashuutou Daikousha Haru No Mai T_3 id_288659": 1781732127,
-    "Haibara kun no Tsuyokute Seishun New Game T_3 id_316424": 1781731967,
-    "GHOST CONCERT T_3 id_303796": 1781731952
+    "Haibara kun no Tsuyokute Seishun New Game T_3 id_316424": 1781731967
   }
 }
