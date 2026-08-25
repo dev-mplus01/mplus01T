@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787697553265,
+  "generatedAtWorkerMs": 1787697567175,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787697524997,
+  "latestChangeWorkerMs": 1787697554464,
   "recentNodesMap": {
+    "Class of 07 T_2 id_207374": 1787697554,
     "Carnival Row T_2 id_90027": 1787697524,
     "Califato T_2 id_92891": 1787697486,
     "By The Grace of the Gods T_3 id_102086": 1787697460,
@@ -1010,7 +1011,6 @@
     "Darling in the Franxx T_3 id_76121": 1781763864,
     "Kimi wa Houkago Insomnia T_4 id_155440": 1781763847,
     "Tonikaku Kawaii T_3 id_100049": 1781763830,
-    "SSSS Dynazenon T_3 id_96451": 1781763807,
-    "La maldición de Widows Bay T_2 id_270476": 1781733025
+    "SSSS Dynazenon T_3 id_96451": 1781763807
   }
 }
