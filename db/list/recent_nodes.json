@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787711140326,
+  "generatedAtWorkerMs": 1787713044601,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787711066425,
+  "latestChangeWorkerMs": 1787713041488,
   "recentNodesMap": {
+    "Bridgerton T_2 id_91239": 1787713041,
     "La Baronesa T_5 id_331474": 1787711066,
     "Kabushikigaisha Megilumiere T_3 id_240576": 1787709711,
     "Tetsunabe no Jan T_3 id_308403": 1787709607,
@@ -1010,7 +1011,6 @@
     "Entrega De Odio T_6 id_95142": 1781925228,
     "XY La Revista T_2 id_66317": 1781925223,
     "Oasis T_2 id_296285": 1781925216,
-    "Ultras T_2 id_317257": 1781925211,
-    "El Quinto Día T_2 id_211240": 1781925208
+    "Ultras T_2 id_317257": 1781925211
   }
 }
