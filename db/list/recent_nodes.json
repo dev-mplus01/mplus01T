@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787720150249,
+  "generatedAtWorkerMs": 1787720164650,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782232551769,
-  "latestChangeWorkerMs": 1787720132890,
+  "coverageStartWorkerMs": 1782232599487,
+  "latestChangeWorkerMs": 1787720162266,
   "recentNodesMap": {
+    "El Interes Del Amor T_2 id_211746": 1787720162,
     "El grito de las mariposas T_2 id_128300": 1787720132,
     "El Colapso T_2 id_95324": 1787720104,
     "El Asesino Mediatico T_2 id_158876": 1787720076,
@@ -1010,7 +1011,6 @@
     "Par de ideotas T_2 id_284416": 1782233011,
     "La Agencia T_2 id_274017": 1782232903,
     "Ganbare Nakamura Kun T_3 id_274622": 1782232720,
-    "Nippon Sangoku T_3 id_312474": 1782232590,
-    "Otonari no Tenshisama T_3 id_154743": 1782232542
+    "Nippon Sangoku T_3 id_312474": 1782232590
   }
 }
