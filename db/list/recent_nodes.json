@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787713899857,
+  "generatedAtWorkerMs": 1787713940345,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782025629070,
-  "latestChangeWorkerMs": 1787713897112,
+  "coverageStartWorkerMs": 1782055976395,
+  "latestChangeWorkerMs": 1787713938437,
   "recentNodesMap": {
+    "Días de gallos T_2 id_133423": 1787713938,
     "Der Scheich T_2 id_216963": 1787713897,
     "Delete T_2 id_218994": 1787713867,
     "CSI MIAMI T_2 id_1620": 1787713849,
@@ -1010,7 +1011,6 @@
     "El asombroso circo digital T_4 id_261145": 1782064599,
     "Mi némesis con aires de realeza T_6 id_303143": 1782064432,
     "Corazón de Oro T_5 id_315245": 1782064175,
-    "Americas Sweethearts Dallas Cowboys Cheerleaders T_2 id_252257": 1782055966,
-    "Lobo, morir matando T_5 id_314501": 1782025618
+    "Americas Sweethearts Dallas Cowboys Cheerleaders T_2 id_252257": 1782055966
   }
 }
