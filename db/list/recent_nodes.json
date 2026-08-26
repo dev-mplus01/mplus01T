@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787787294496,
+  "generatedAtWorkerMs": 1787787308731,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782498662039,
-  "latestChangeWorkerMs": 1787787211324,
+  "coverageStartWorkerMs": 1782499352909,
+  "latestChangeWorkerMs": 1787787306210,
   "recentNodesMap": {
+    "Origin T_2 id_82875": 1787787306,
     "A Teacher T_2 id_103992": 1787787211,
     "Abyss T_2 id_88328": 1787786960,
     "Absentia T_2 id_72755": 1787786914,
@@ -1010,7 +1011,6 @@
     "El Oso T_2 id_136315": 1782542233,
     "Pippi Longstocking T_4 id_10748": 1782506827,
     "Fugitivas En Busca de la Libertad T_5 id_247884": 1782499522,
-    "Overlord T_3 id_64196": 1782499343,
-    "The American Experiment T_2 id_322427": 1782498653
+    "Overlord T_3 id_64196": 1782499343
   }
 }
