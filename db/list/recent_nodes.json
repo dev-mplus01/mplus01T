@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787720093829,
+  "generatedAtWorkerMs": 1787720107935,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782232449465,
-  "latestChangeWorkerMs": 1787720076173,
+  "coverageStartWorkerMs": 1782232475785,
+  "latestChangeWorkerMs": 1787720104399,
   "recentNodesMap": {
+    "El Colapso T_2 id_95324": 1787720104,
     "El Asesino Mediatico T_2 id_158876": 1787720076,
     "Doll y Em T_2 id_61059": 1787720044,
     "Digimon Adventure T_4 id_31654": 1787720019,
@@ -1010,7 +1011,6 @@
     "Ganbare Nakamura Kun T_3 id_274622": 1782232720,
     "Nippon Sangoku T_3 id_312474": 1782232590,
     "Otonari no Tenshisama T_3 id_154743": 1782232542,
-    "Tower of God T_3 id_97860": 1782232465,
-    "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san T_3 id_235758": 1782232439
+    "Tower of God T_3 id_97860": 1782232465
   }
 }
