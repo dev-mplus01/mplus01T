@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787719459770,
+  "generatedAtWorkerMs": 1787719473833,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782162821668,
-  "latestChangeWorkerMs": 1787719451882,
+  "coverageStartWorkerMs": 1782166190488,
+  "latestChangeWorkerMs": 1787719472025,
   "recentNodesMap": {
+    "Bandidos del tiempo T_2 id_114924": 1787719472,
     "Bajo el puente La verdadera historia del asesinato de Reena Virk T_2 id_211358": 1787719451,
     "Baccano T_3 id_34121": 1787719434,
     "Ariel Los cuentos de la Sirenita T_4 id_228669": 1787719414,
@@ -1010,7 +1011,6 @@
     "Mike, Lu & Og T_4 id_4350": 1782187095,
     "Rosario Tijeras T_2 id_74428": 1782178188,
     "Corazones al Límite T_5 id_9620": 1782169850,
-    "La Serpiente De Essex T_2 id_108171": 1782166181,
-    "Vamos, fantasma T_2 id_66393": 1782162811
+    "La Serpiente De Essex T_2 id_108171": 1782166181
   }
 }
