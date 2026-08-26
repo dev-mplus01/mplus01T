@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787763675367,
+  "generatedAtWorkerMs": 1787763689765,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782404858375,
-  "latestChangeWorkerMs": 1787763654501,
+  "coverageStartWorkerMs": 1782423649324,
+  "latestChangeWorkerMs": 1787763680393,
   "recentNodesMap": {
+    "La Heredera T_6 id_275966": 1787763680,
     "La Cena Es Mi Ricon Del Mundo T_6 id_302980": 1787763654,
     "Archivos Secretos De XSA T_6 id_288893": 1787763641,
     "Un Hombre de Siete Caras T_6 id_75682": 1787763624,
@@ -1010,7 +1011,6 @@
     "Jidouhanbaiki Ni Umarekawatta T_3 id_207564": 1782424066,
     "Re ZERO Starting Life in Another World T_3 id_65942": 1782424000,
     "Violet Evergarden T_3 id_75214": 1782423810,
-    "Otis El Tractor T_4 id_133152": 1782423639,
-    "Hermanos Robots Super Gigantes T_4 id_158138": 1782404849
+    "Otis El Tractor T_4 id_133152": 1782423639
   }
 }
