@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787708168533,
+  "generatedAtWorkerMs": 1787708213691,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787708095123,
+  "latestChangeWorkerMs": 1787708210250,
   "recentNodesMap": {
+    "Chocolate T_6 id_95066": 1787708210,
     "Mao T_3 id_295999": 1787708095,
     "Silicon Valley T_2 id_60573": 1787705739,
     "Lego Ninjago T_4 id_38693": 1787701195,
@@ -1010,7 +1011,6 @@
     "Morfeo T_2 id_310953": 1781920393,
     "Watson T_2 id_242867": 1781883569,
     "Te Encontraré T_2 id_278178": 1781883550,
-    "Trio T_2 id_321808": 1781841662,
-    "Erase una vez el hombre T_4 id_6080": 1781835776
+    "Trio T_2 id_321808": 1781841662
   }
 }
