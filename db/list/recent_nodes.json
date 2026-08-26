@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787713425334,
+  "generatedAtWorkerMs": 1787713531557,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1781998712773,
-  "latestChangeWorkerMs": 1787713349354,
+  "coverageStartWorkerMs": 1781998731272,
+  "latestChangeWorkerMs": 1787713526530,
   "recentNodesMap": {
+    "Campfire Cooking in Another World with My Absurd Skills T_3 id_213402": 1787713526,
     "Camino al Cielo T2_ id_2440": 1787713349,
     "Calle y Poche Sin Etiquetas T_2 id_228966": 1787713231,
     "Burden of Proof T_2 id_227158": 1787713204,
@@ -1010,7 +1011,6 @@
     "Corazon que miente T_5 id_106969": 1781998787,
     "Alma Rebelde T_5 id_31450": 1781998767,
     "Apocalipsis T_5 id_75209": 1781998746,
-    "Club 57 T_5 id_98754": 1781998722,
-    "Amar a Muerte T_5 id_83596": 1781998703
+    "Club 57 T_5 id_98754": 1781998722
   }
 }
