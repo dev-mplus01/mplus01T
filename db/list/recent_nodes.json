@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787702447403,
+  "generatedAtWorkerMs": 1787705742690,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1781992280805,
-  "latestChangeWorkerMs": 1787701195165,
+  "latestChangeWorkerMs": 1787705739771,
   "recentNodesMap": {
+    "Silicon Valley T_2 id_60573": 1787705739,
     "Lego Ninjago T_4 id_38693": 1787701195,
     "Mucha Lucha T_4 id_288": 1787699182,
     "La Guzman - La Reina Del Rock T_2 id_86201": 1787698555,
@@ -1010,7 +1011,6 @@
     "Watson T_2 id_242867": 1781883569,
     "Te Encontraré T_2 id_278178": 1781883550,
     "Trio T_2 id_321808": 1781841662,
-    "Erase una vez el hombre T_4 id_6080": 1781835776,
-    "Cops T_4 id_4265": 1781835768
+    "Erase una vez el hombre T_4 id_6080": 1781835776
   }
 }
