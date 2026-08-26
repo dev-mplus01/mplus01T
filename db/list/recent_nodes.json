@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787775106980,
+  "generatedAtWorkerMs": 1787775114035,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782453378507,
-  "latestChangeWorkerMs": 1787775099993,
+  "coverageStartWorkerMs": 1782484747205,
+  "latestChangeWorkerMs": 1787775107180,
   "recentNodesMap": {
+    "Un Amor Indomable T_5 id_276050": 1787775107,
     "Furia T_2 id_287238": 1787775099,
     "Lego Ninjago T_4 id_38693": 1787771813,
     "Tren Infinito T_4 id_91425": 1787768487,
@@ -1010,7 +1011,6 @@
     "Skin Hunters T_2 id_273235": 1782498597,
     "Amor Bajo Auditoría T_6 id_297640": 1782498586,
     "Avatar La Leyenda De Aang T_2 id_82452": 1782494888,
-    "Idolls T_3 id_110792": 1782484737,
-    "Bendita Mentira T_5 id_87672": 1782453370
+    "Idolls T_3 id_110792": 1782484737
   }
 }
