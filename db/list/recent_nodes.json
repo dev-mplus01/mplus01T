@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787800895078,
+  "generatedAtWorkerMs": 1787800908967,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782700262178,
-  "latestChangeWorkerMs": 1787800891885,
+  "coverageStartWorkerMs": 1782711993659,
+  "latestChangeWorkerMs": 1787800903678,
   "recentNodesMap": {
+    "Koe De Oshigoto T_3 id_38605": 1787800903,
     "Forged in Fire T_2 id_62884": 1787800891,
     "Ese Invierno El Viento Sopla T_6 id_47091": 1787800870,
     "Folklore T_2 id_83090": 1787800854,
@@ -1010,7 +1011,6 @@
     "Make My Day T_4 id_217710": 1782789659,
     "Jojo's Bizarre Adventure T_3 id_45790": 1782783218,
     "From T_2 id_124364": 1782750215,
-    "Superman y Lois id_95057": 1782711976,
-    "La Vecina T_5 id_62766": 1782700246
+    "Superman y Lois id_95057": 1782711976
   }
 }
