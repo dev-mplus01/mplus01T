@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787795879320,
+  "generatedAtWorkerMs": 1787795893516,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782542242716,
-  "latestChangeWorkerMs": 1787795824178,
+  "coverageStartWorkerMs": 1782546196086,
+  "latestChangeWorkerMs": 1787795883696,
   "recentNodesMap": {
+    "Re ZERO Starting Life in Another World T_3 id_65942": 1787795883,
     "Blindspot T_2 id_62710": 1787795824,
     "Youjo Senki T_3 id_69346": 1787795757,
     "Tenkou Saki no Seiso Karen na Bishoujo ga T_3 id_250008": 1787795694,
@@ -1010,7 +1011,6 @@
     "Propuesta de Negocio T_2 id_154825": 1782580171,
     "El Osito Misha T_4 id_69241": 1782577220,
     "El chico de la última fila T_6 id_286360": 1782546199,
-    "The Doomies T_4 id_204137": 1782546186,
-    "El Oso T_2 id_136315": 1782542233
+    "The Doomies T_4 id_204137": 1782546186
   }
 }
