@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787800981622,
+  "generatedAtWorkerMs": 1787800995687,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782783227832,
-  "latestChangeWorkerMs": 1787800935725,
+  "coverageStartWorkerMs": 1782789669782,
+  "latestChangeWorkerMs": 1787800990813,
   "recentNodesMap": {
+    "Teenage Mutant Ninja Turtles T_4 id_2284": 1787800990,
     "Fernando T_2 id_107543": 1787800935,
     "Star Wars La Resistencia T_4 id_79093": 1787800924,
     "Koe De Oshigoto T_3 id_38605": 1787800903,
@@ -1010,7 +1011,6 @@
     "Otaku ni Yasashii Gal wa Inai T_3 id_309163": 1782802903,
     "Todo sobre Eva T_6 id_3262": 1782802323,
     "Promise Cinderella T_6 id_128365": 1782792174,
-    "Make My Day T_4 id_217710": 1782789659,
-    "Jojo's Bizarre Adventure T_3 id_45790": 1782783218
+    "Make My Day T_4 id_217710": 1782789659
   }
 }
