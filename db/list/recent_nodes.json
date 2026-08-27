@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787800856851,
+  "generatedAtWorkerMs": 1787800875385,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782694317556,
-  "latestChangeWorkerMs": 1787800854954,
+  "coverageStartWorkerMs": 1782694357787,
+  "latestChangeWorkerMs": 1787800870387,
   "recentNodesMap": {
+    "Ese Invierno El Viento Sopla T_6 id_47091": 1787800870,
     "Folklore T_2 id_83090": 1787800854,
     "Gutiérrez Is Mai Neim T_2 id_275224": 1787800843,
     "Fin de 9, 2 outs T_6 id_38854": 1787800830,
@@ -1010,7 +1011,6 @@
     "From T_2 id_124364": 1782750215,
     "Superman y Lois id_95057": 1782711976,
     "La Vecina T_5 id_62766": 1782700246,
-    "Grachi T_2 id_38233": 1782694346,
-    "Doogie Howser MD T_2 id_1750": 1782694301
+    "Grachi T_2 id_38233": 1782694346
   }
 }
