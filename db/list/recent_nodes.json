@@ -5,13 +5,15 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787800922951,
+  "generatedAtWorkerMs": 1787800937870,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782711993659,
-  "latestChangeWorkerMs": 1787800903678,
+  "coverageStartWorkerMs": 1782783227832,
+  "latestChangeWorkerMs": 1787800935725,
   "recentNodesMap": {
+    "Fernando T_2 id_107543": 1787800935,
+    "Star Wars La Resistencia T_4 id_79093": 1787800924,
     "Koe De Oshigoto T_3 id_38605": 1787800903,
     "Forged in Fire T_2 id_62884": 1787800891,
     "Ese Invierno El Viento Sopla T_6 id_47091": 1787800870,
@@ -1009,8 +1011,6 @@
     "Todo sobre Eva T_6 id_3262": 1782802323,
     "Promise Cinderella T_6 id_128365": 1782792174,
     "Make My Day T_4 id_217710": 1782789659,
-    "Jojo's Bizarre Adventure T_3 id_45790": 1782783218,
-    "From T_2 id_124364": 1782750215,
-    "Superman y Lois id_95057": 1782711976
+    "Jojo's Bizarre Adventure T_3 id_45790": 1782783218
   }
 }
