@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787797745971,
+  "generatedAtWorkerMs": 1787798293768,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782577228459,
-  "latestChangeWorkerMs": 1787796633332,
+  "coverageStartWorkerMs": 1782580178897,
+  "latestChangeWorkerMs": 1787798290585,
   "recentNodesMap": {
+    "We bares bears T_4 id_63401": 1787798290,
     "Starwars rebels T_4 id_60554": 1787796633,
     "Oscuro Deseo T_2 id_105214": 1787796279,
     "Operativo Lioness T_2 id_113962": 1787796223,
@@ -1010,7 +1011,6 @@
     "Mi otra yo T_2 id_206180": 1782658269,
     "Las Vías del Amor T_5 id_12650": 1782625390,
     "Nuestra Pequeña Granja T_2 id_201710": 1782611835,
-    "Propuesta de Negocio T_2 id_154825": 1782580171,
-    "El Osito Misha T_4 id_69241": 1782577220
+    "Propuesta de Negocio T_2 id_154825": 1782580171
   }
 }
