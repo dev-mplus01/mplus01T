@@ -5,14 +5,15 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787795493347,
+  "generatedAtWorkerMs": 1787795507758,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782506837178,
-  "latestChangeWorkerMs": 1787795490378,
+  "coverageStartWorkerMs": 1782542242716,
+  "latestChangeWorkerMs": 1787795507193,
   "recentNodesMap": {
-    "Blindspot T_2 id_62710": 1787795490,
+    "Blindspot T_2 id_62710": 1787795507,
+    "Kobayashi-San Chi No Maid Dragon T_3 id_69291": 1787795504,
     "Otome Game Sekai wa Mob ni Kibishii T_3 id_139512": 1787795442,
     "Lv999 no Murabito T_3 id_298994": 1787795353,
     "Ibitte Konai Gibo to Gishi T_3 id_298103": 1787795261,
@@ -1010,7 +1011,6 @@
     "El Osito Misha T_4 id_69241": 1782577220,
     "El chico de la última fila T_6 id_286360": 1782546199,
     "The Doomies T_4 id_204137": 1782546186,
-    "El Oso T_2 id_136315": 1782542233,
-    "Pippi Longstocking T_4 id_10748": 1782506827
+    "El Oso T_2 id_136315": 1782542233
   }
 }
