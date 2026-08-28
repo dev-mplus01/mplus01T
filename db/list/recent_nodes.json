@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787897750521,
+  "generatedAtWorkerMs": 1787920641527,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782803680847,
-  "latestChangeWorkerMs": 1787897748168,
+  "coverageStartWorkerMs": 1782803716280,
+  "latestChangeWorkerMs": 1787920638729,
   "recentNodesMap": {
+    "Adultos T_2 id_260458": 1787920638,
     "Moriarty the Patriot T_3 id_100281": 1787897748,
     "Scrublands T_2 id_234212": 1787893849,
     "Stuart No Consigue Salvar El Universo T_2 id_287620": 1787893725,
@@ -1010,7 +1011,6 @@
     "En tierras salvajes T_5 id_74022": 1782803931,
     "Bilardo, el doctor del fútbol T_2 id_156802": 1782803909,
     "En Los Tacones De Eva T_5 id_33148": 1782803893,
-    "Los Dukes de Hazzard T_2 id_397": 1782803707,
-    "Mr Bean T_2 id_4327": 1782803671
+    "Los Dukes de Hazzard T_2 id_397": 1782803707
   }
 }
