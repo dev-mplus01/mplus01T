@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787935353407,
+  "generatedAtWorkerMs": 1787937367576,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782803716280,
-  "latestChangeWorkerMs": 1787935350348,
+  "coverageStartWorkerMs": 1782803902895,
+  "latestChangeWorkerMs": 1787937364033,
   "recentNodesMap": {
+    "Ratonera T_6 id_290193": 1787937364,
     "Top chef vip T_2 id_209374": 1787935350,
     "Silo T_2 id_125988": 1787932529,
     "Adultos T_2 id_260458": 1787920638,
@@ -1010,7 +1011,6 @@
     "El toque de un Angel T_5 id_2243": 1782803944,
     "En tierras salvajes T_5 id_74022": 1782803931,
     "Bilardo, el doctor del fútbol T_2 id_156802": 1782803909,
-    "En Los Tacones De Eva T_5 id_33148": 1782803893,
-    "Los Dukes de Hazzard T_2 id_397": 1782803707
+    "En Los Tacones De Eva T_5 id_33148": 1782803893
   }
 }
