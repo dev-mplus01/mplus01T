@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787889301182,
+  "generatedAtWorkerMs": 1787889315102,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782803432187,
-  "latestChangeWorkerMs": 1787889290597,
+  "coverageStartWorkerMs": 1782803584793,
+  "latestChangeWorkerMs": 1787889303167,
   "recentNodesMap": {
+    "Futbolistas por el mundo T_2 id_104505": 1787889303,
     "Get Even T_2 id_99335": 1787889290,
     "Funcionario de Séptima Clase T_6 id_46592": 1787889277,
     "Fuerza Espacial T_2 id_85922": 1787889255,
@@ -1010,7 +1011,6 @@
     "Mr Bean T_2 id_4327": 1782803671,
     "Misa de Medianoche T_2 id_97400": 1782803630,
     "Chicas buenas T_2 id_71715": 1782803609,
-    "24 Legacy T_2 id_66789": 1782803576,
-    "Mata Korosarete Shimatta no desu ne Tantei sama T_3 id_312293": 1782803423
+    "24 Legacy T_2 id_66789": 1782803576
   }
 }
