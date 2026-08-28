@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787880428783,
+  "generatedAtWorkerMs": 1787880667412,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782803048625,
-  "latestChangeWorkerMs": 1787880356757,
+  "coverageStartWorkerMs": 1782803075763,
+  "latestChangeWorkerMs": 1787880664380,
   "recentNodesMap": {
+    "Cowboy Bepop T_3 id_30991": 1787880664,
     "Teenage Mutant Ninja Turtles T_4 id_2284": 1787880356,
     "Leanne T_2 id_252751": 1787879883,
     "Aprendiendo a vivir T_2 id_158154": 1787878357,
@@ -1010,7 +1011,6 @@
     "Kamiina Botan Yoeru Sugata wa Yuri no Hana T_3 id_283905": 1782803125,
     "Awajima Hyakkei T_3 id_291403": 1782803108,
     "Nigashita Sakana wa Okikatta T_3 id_304820": 1782803089,
-    "Megami Isekai Tensei Nani ni Naritai T_3 id_312522": 1782803067,
-    "Kami no Niwatsuki Kusunoki tei T_3 id_296870": 1782803039
+    "Megami Isekai Tensei Nani ni Naritai T_3 id_312522": 1782803067
   }
 }
