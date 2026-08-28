@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787878362228,
+  "generatedAtWorkerMs": 1787879886271,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782803011968,
-  "latestChangeWorkerMs": 1787878357379,
+  "coverageStartWorkerMs": 1782803048625,
+  "latestChangeWorkerMs": 1787879883255,
   "recentNodesMap": {
+    "Leanne T_2 id_252751": 1787879883,
     "Aprendiendo a vivir T_2 id_158154": 1787878357,
     "Beauty in Black T_2 id_246246": 1787865301,
     "LEGO Dreamzzz T_4 id_225320": 1787863972,
@@ -1010,7 +1011,6 @@
     "Awajima Hyakkei T_3 id_291403": 1782803108,
     "Nigashita Sakana wa Okikatta T_3 id_304820": 1782803089,
     "Megami Isekai Tensei Nani ni Naritai T_3 id_312522": 1782803067,
-    "Kami no Niwatsuki Kusunoki tei T_3 id_296870": 1782803039,
-    "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku T_3 id_288590": 1782802997
+    "Kami no Niwatsuki Kusunoki tei T_3 id_296870": 1782803039
   }
 }
