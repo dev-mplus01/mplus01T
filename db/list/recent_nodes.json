@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787888700338,
+  "generatedAtWorkerMs": 1787889119790,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782803075763,
-  "latestChangeWorkerMs": 1787888697718,
+  "coverageStartWorkerMs": 1782803097876,
+  "latestChangeWorkerMs": 1787889117339,
   "recentNodesMap": {
+    "Friday the 13th T_2 id_2263": 1787889117,
     "Kamisama Kiss T_3 id_62741": 1787888697,
     "Joran The Princess of Snow and Blood T_3 id_117945": 1787888293,
     "Sekai Saikyou no Kouei Meikyuukoku T_3 id_300267": 1787881327,
@@ -1010,7 +1011,6 @@
     "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK T_3 id_288551": 1782803279,
     "Kamiina Botan Yoeru Sugata wa Yuri no Hana T_3 id_283905": 1782803125,
     "Awajima Hyakkei T_3 id_291403": 1782803108,
-    "Nigashita Sakana wa Okikatta T_3 id_304820": 1782803089,
-    "Megami Isekai Tensei Nani ni Naritai T_3 id_312522": 1782803067
+    "Nigashita Sakana wa Okikatta T_3 id_304820": 1782803089
   }
 }
