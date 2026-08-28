@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787889185008,
+  "generatedAtWorkerMs": 1787889245995,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782803117025,
-  "latestChangeWorkerMs": 1787889180934,
+  "coverageStartWorkerMs": 1782803133724,
+  "latestChangeWorkerMs": 1787889241186,
   "recentNodesMap": {
+    "Pura Sangre T_5 id_16150": 1787889241,
     "La Viuda de Blanco T_5 id_36850": 1787889180,
     "Friday the 13th T_2 id_2263": 1787889117,
     "Kamisama Kiss T_3 id_62741": 1787888697,
@@ -1010,7 +1011,6 @@
     "Mata Korosarete Shimatta no desu ne Tantei sama T_3 id_312293": 1782803423,
     "Replica datte Koi wo Suru T_3 id_284568": 1782803312,
     "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK T_3 id_288551": 1782803279,
-    "Kamiina Botan Yoeru Sugata wa Yuri no Hana T_3 id_283905": 1782803125,
-    "Awajima Hyakkei T_3 id_291403": 1782803108
+    "Kamiina Botan Yoeru Sugata wa Yuri no Hana T_3 id_283905": 1782803125
   }
 }
