@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787945111543,
+  "generatedAtWorkerMs": 1787947194420,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782803953270,
-  "latestChangeWorkerMs": 1787945108089,
+  "coverageStartWorkerMs": 1782803979650,
+  "latestChangeWorkerMs": 1787947191584,
   "recentNodesMap": {
+    "Betty la fea, la historia continúa T_5 id_230424": 1787947191,
     "The Good Doctor id_71712": 1787945108,
     "Cementerio T_2 id_204255": 1787941582,
     "Toda La Verdad De Mis Mentiras T_2 id_292558": 1787937380,
@@ -1010,7 +1011,6 @@
     "El Man es Germán T_5 id_114605": 1782891768,
     "Juntos el corazon no se equivoca T_5 id_90630": 1782804018,
     "Juana la virgen T_5 id_19515": 1782804003,
-    "Imperio de mentiras T_5 id_109470": 1782803969,
-    "El toque de un Angel T_5 id_2243": 1782803944
+    "Imperio de mentiras T_5 id_109470": 1782803969
   }
 }
