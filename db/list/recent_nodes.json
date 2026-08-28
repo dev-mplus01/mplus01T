@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787889481966,
+  "generatedAtWorkerMs": 1787889496068,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782803584793,
-  "latestChangeWorkerMs": 1787889303167,
+  "coverageStartWorkerMs": 1782803618590,
+  "latestChangeWorkerMs": 1787889492886,
   "recentNodesMap": {
+    "Survivor T_2 id_14658": 1787889492,
     "Futbolistas por el mundo T_2 id_104505": 1787889303,
     "Get Even T_2 id_99335": 1787889290,
     "Funcionario de Séptima Clase T_6 id_46592": 1787889277,
@@ -1010,7 +1011,6 @@
     "Los Dukes de Hazzard T_2 id_397": 1782803707,
     "Mr Bean T_2 id_4327": 1782803671,
     "Misa de Medianoche T_2 id_97400": 1782803630,
-    "Chicas buenas T_2 id_71715": 1782803609,
-    "24 Legacy T_2 id_66789": 1782803576
+    "Chicas buenas T_2 id_71715": 1782803609
   }
 }
