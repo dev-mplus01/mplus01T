@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1787889119790,
+  "generatedAtWorkerMs": 1787889185008,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782803097876,
-  "latestChangeWorkerMs": 1787889117339,
+  "coverageStartWorkerMs": 1782803117025,
+  "latestChangeWorkerMs": 1787889180934,
   "recentNodesMap": {
+    "La Viuda de Blanco T_5 id_36850": 1787889180,
     "Friday the 13th T_2 id_2263": 1787889117,
     "Kamisama Kiss T_3 id_62741": 1787888697,
     "Joran The Princess of Snow and Blood T_3 id_117945": 1787888293,
@@ -1010,7 +1011,6 @@
     "Replica datte Koi wo Suru T_3 id_284568": 1782803312,
     "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK T_3 id_288551": 1782803279,
     "Kamiina Botan Yoeru Sugata wa Yuri no Hana T_3 id_283905": 1782803125,
-    "Awajima Hyakkei T_3 id_291403": 1782803108,
-    "Nigashita Sakana wa Okikatta T_3 id_304820": 1782803089
+    "Awajima Hyakkei T_3 id_291403": 1782803108
   }
 }
