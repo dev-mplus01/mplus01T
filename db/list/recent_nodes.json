@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788031592707,
+  "generatedAtWorkerMs": 1788041745575,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1782891778076,
-  "latestChangeWorkerMs": 1788031587494,
+  "coverageStartWorkerMs": 1782926724064,
+  "latestChangeWorkerMs": 1788041742420,
   "recentNodesMap": {
+    "Bajoterra T_4 id_46994": 1788041742,
     "El Señor de los Cielos id_44953": 1788031587,
     "Hotel Todo Incluído T_2 id_333096": 1788030276,
     "Top chef vip T_2 id_209374": 1788023048,
@@ -1010,7 +1011,6 @@
     "The Wind Its The Heartbeat T_6 id_300365": 1782973228,
     "Hidarikiki no Eren T_3 id_305567": 1782972785,
     "Would You Marry Me? T_6 id_281011": 1782972756,
-    "Más allá del límite T_2 id_21561": 1782926714,
-    "El Man es Germán T_5 id_114605": 1782891768
+    "Más allá del límite T_2 id_21561": 1782926714
   }
 }
