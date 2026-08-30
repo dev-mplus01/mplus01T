@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788070118777,
+  "generatedAtWorkerMs": 1788099209067,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783034342499,
-  "latestChangeWorkerMs": 1788070116075,
+  "coverageStartWorkerMs": 1783039039135,
+  "latestChangeWorkerMs": 1788099206283,
   "recentNodesMap": {
+    "Habilidad física Asia T_2 id_293613": 1788099206,
     "El Renacer de Luna T_5 id_320089": 1788070116,
     "Señora del Destino T_5 id_320456": 1788069749,
     "Amor Profundo T_5 id_302063": 1788068811,
@@ -1010,7 +1011,6 @@
     "Human Vapor T_6 id_253960": 1783096375,
     "Los Peores Vecinos Del Mundo T_2 id_325188": 1783096361,
     "Supernatural id_1622": 1783058911,
-    "Confía en mí T_2 id_214063": 1783039030,
-    "Marvel Agentes de Shield T_2 id_1403": 1783034335
+    "Confía en mí T_2 id_214063": 1783039030
   }
 }
