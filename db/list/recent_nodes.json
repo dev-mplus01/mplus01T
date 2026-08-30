@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788108304056,
+  "generatedAtWorkerMs": 1788108399426,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783058921946,
-  "latestChangeWorkerMs": 1788108300483,
+  "coverageStartWorkerMs": 1783096371252,
+  "latestChangeWorkerMs": 1788108395344,
   "recentNodesMap": {
+    "Historias de un crimen Taiwan T_2 id_197294": 1788108395,
     "La Banda Del Guante Verde T_2 id_210750": 1788108300,
     "Habilidad física Asia T_2 id_293613": 1788099444,
     "El Renacer de Luna T_5 id_320089": 1788070116,
@@ -1010,7 +1011,6 @@
     "Olivia T_2 id_325313": 1783096444,
     "Freud T_2 id_99509": 1783096390,
     "Human Vapor T_6 id_253960": 1783096375,
-    "Los Peores Vecinos Del Mundo T_2 id_325188": 1783096361,
-    "Supernatural id_1622": 1783058911
+    "Los Peores Vecinos Del Mundo T_2 id_325188": 1783096361
   }
 }
