@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788214642305,
+  "generatedAtWorkerMs": 1788215471022,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783096512679,
-  "latestChangeWorkerMs": 1788214639064,
+  "coverageStartWorkerMs": 1783145672964,
+  "latestChangeWorkerMs": 1788215467955,
   "recentNodesMap": {
+    "Cielo Para Dos T_6 id_139798": 1788215467,
     "Llama a la Comadrona T_2 id_39793": 1788214639,
     "Linternas T_2 id_95350": 1788200357,
     "Welcome to Demon School Iruma kun T_3 id_91801": 1788198010,
@@ -1010,7 +1011,6 @@
     "La Sombra Del Pasado T_5 id_78293": 1783145926,
     "La Mexicana y el Güero T_5 id_107775": 1783145896,
     "The Ramparts Of Ice T_3 id_283428": 1783145712,
-    "Arifureta Shokugyou de Sekai Saikyou T_3 id_86034": 1783145663,
-    "Summer 86 T_2 id_287976": 1783096500
+    "Arifureta Shokugyou de Sekai Saikyou T_3 id_86034": 1783145663
   }
 }
