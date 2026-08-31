@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788150943522,
+  "generatedAtWorkerMs": 1788152425368,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783096474588,
-  "latestChangeWorkerMs": 1788150940689,
+  "coverageStartWorkerMs": 1783096496705,
+  "latestChangeWorkerMs": 1788152422020,
   "recentNodesMap": {
+    "El Vecindario T_2 id_81144": 1788152422,
     "Capitan Fall T_4 id_229153": 1788150940,
     "Operativo Lioness T_2 id_113962": 1788147303,
     "Thunder 3 T_4 id_326119": 1788144089,
@@ -1010,7 +1011,6 @@
     "The Ramparts Of Ice T_3 id_283428": 1783145712,
     "Arifureta Shokugyou de Sekai Saikyou T_3 id_86034": 1783145663,
     "Summer 86 T_2 id_287976": 1783096500,
-    "33 Dias T_2 id_242866": 1783096477,
-    "Kraken El Libro Negro de las Horas T_2 id_326568": 1783096460
+    "33 Dias T_2 id_242866": 1783096477
   }
 }
