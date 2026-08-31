@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788217671874,
+  "generatedAtWorkerMs": 1788217685538,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783145905917,
-  "latestChangeWorkerMs": 1788217665517,
+  "coverageStartWorkerMs": 1783145934794,
+  "latestChangeWorkerMs": 1788217678483,
   "recentNodesMap": {
+    "El peor de los caso con bear grylls T_2 id_32704": 1788217678,
     "Aunque me cueste la vida T_5 id_16151": 1788217665,
     "Cruzando mares T_5 id_69460": 1788217611,
     "Cielo Para Dos T_6 id_139798": 1788215467,
@@ -1010,7 +1011,6 @@
     "Survival of the Thickest T_2 id_227139": 1783194485,
     "Kleo T_2 id_206010": 1783183401,
     "La Impostora T_5 id_50864": 1783145985,
-    "La Sombra Del Pasado T_5 id_78293": 1783145926,
-    "La Mexicana y el Güero T_5 id_107775": 1783145896
+    "La Sombra Del Pasado T_5 id_78293": 1783145926
   }
 }
