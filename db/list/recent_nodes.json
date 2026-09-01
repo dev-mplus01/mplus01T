@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788293275189,
+  "generatedAtWorkerMs": 1788293290277,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783354685624,
-  "latestChangeWorkerMs": 1788293272522,
+  "coverageStartWorkerMs": 1783354743188,
+  "latestChangeWorkerMs": 1788293286372,
   "recentNodesMap": {
+    "GiriHaji T_6 id_94659": 1788293286,
     "God friended me T_2 id_81114": 1788293272,
     "Gracepoint T_2 id_61405": 1788293249,
     "Good Morning Veronica T_2 id_110115": 1788293230,
@@ -1010,7 +1011,6 @@
     "Penny Dreadful T_2 id_54671": 1783354831,
     "Dark T_2 id_70523": 1783354798,
     "Amigos y vecinos T_2 id_241609": 1783354766,
-    "30 Monedas T_2 id_89844": 1783354733,
-    "12 Monkeys T_2 id_60948": 1783354675
+    "30 Monedas T_2 id_89844": 1783354733
   }
 }
