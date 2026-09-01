@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788278193493,
+  "generatedAtWorkerMs": 1788279266475,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783232305024,
-  "latestChangeWorkerMs": 1788278119842,
+  "coverageStartWorkerMs": 1783232764185,
+  "latestChangeWorkerMs": 1788279263208,
   "recentNodesMap": {
+    "Escalofríos T_2 id_5835": 1788279263,
     "La Promesa T_2 id_212907": 1788278119,
     "My Lovely Liar T_6 id_210781": 1788268241,
     "Hanaori-san Still Wants to Fight in the Next Life T_3 id_312266": 1788264059,
@@ -1010,7 +1011,6 @@
     "Frasier T_2 id_3452": 1783232977,
     "Ley y Orden T_2 id_2734": 1783232913,
     "Gunpowder T_2 id_73550": 1783232801,
-    "FIFA Uncovered T_2 id_213193": 1783232754,
-    "Rancho Dutton T_2 id_299167": 1783232296
+    "FIFA Uncovered T_2 id_213193": 1783232754
   }
 }
