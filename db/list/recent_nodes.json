@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788289149979,
+  "generatedAtWorkerMs": 1788292508657,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783232764185,
-  "latestChangeWorkerMs": 1788289076332,
+  "coverageStartWorkerMs": 1783232810058,
+  "latestChangeWorkerMs": 1788292505081,
   "recentNodesMap": {
+    "The Village Barber T_6 id_312826": 1788292505,
     "Margarita Que Tu Cuento Valga la Pena T_2 id_245328": 1788289076,
     "Escalofríos T_2 id_5835": 1788279263,
     "La Promesa T_2 id_212907": 1788278119,
@@ -1010,7 +1011,6 @@
     "Michael Jackson El Veredicto T_2 id_323111": 1783233013,
     "Frasier T_2 id_3452": 1783232977,
     "Ley y Orden T_2 id_2734": 1783232913,
-    "Gunpowder T_2 id_73550": 1783232801,
-    "FIFA Uncovered T_2 id_213193": 1783232754
+    "Gunpowder T_2 id_73550": 1783232801
   }
 }
