@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788240046092,
+  "generatedAtWorkerMs": 1788240060545,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783194679010,
-  "latestChangeWorkerMs": 1788240042675,
+  "coverageStartWorkerMs": 1783210496539,
+  "latestChangeWorkerMs": 1788240059879,
   "recentNodesMap": {
+    "La Muerte de la Esposa del Pastor T_2 id_331616": 1788240059,
     "Amor De Familia T_5 id_73933": 1788240042,
     "Cielo Para Dos T_6 id_139798": 1788237582,
     "Criminal Minds T_2 id_4057": 1788232873,
@@ -1010,7 +1011,6 @@
     "FIFA Uncovered T_2 id_213193": 1783232754,
     "Rancho Dutton T_2 id_299167": 1783232296,
     "Estaremos Bien T_2 id_314172": 1783232193,
-    "Maria Marta El Crimen Del Country T_2 id_203822": 1783210488,
-    "Super Subbu T_2 id_283609": 1783194669
+    "Maria Marta El Crimen Del Country T_2 id_203822": 1783210488
   }
 }
