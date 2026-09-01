@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788293304394,
+  "generatedAtWorkerMs": 1788293318970,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783354743188,
-  "latestChangeWorkerMs": 1788293286372,
+  "coverageStartWorkerMs": 1783354775143,
+  "latestChangeWorkerMs": 1788293310304,
   "recentNodesMap": {
+    "Go Go Squid T_6 id_82817": 1788293310,
     "GiriHaji T_6 id_94659": 1788293286,
     "God friended me T_2 id_81114": 1788293272,
     "Gracepoint T_2 id_61405": 1788293249,
@@ -1010,7 +1011,6 @@
     "Scream T_2 id_62823": 1783355260,
     "Penny Dreadful T_2 id_54671": 1783354831,
     "Dark T_2 id_70523": 1783354798,
-    "Amigos y vecinos T_2 id_241609": 1783354766,
-    "30 Monedas T_2 id_89844": 1783354733
+    "Amigos y vecinos T_2 id_241609": 1783354766
   }
 }
