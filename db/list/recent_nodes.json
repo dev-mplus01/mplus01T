@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788294695484,
+  "generatedAtWorkerMs": 1788297626109,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783354775143,
-  "latestChangeWorkerMs": 1788294692459,
+  "coverageStartWorkerMs": 1783354807274,
+  "latestChangeWorkerMs": 1788297622925,
   "recentNodesMap": {
+    "Lorenza Bebé Abordo T_2 id_101032": 1788297622,
     "Futurama T_4 id_615": 1788294692,
     "Furia T_2 id_287238": 1788294028,
     "Go Go Squid T_6 id_82817": 1788293310,
@@ -1010,7 +1011,6 @@
     "Hasta Que El Dinero Nos Separe T_5 id_18685": 1783355293,
     "Scream T_2 id_62823": 1783355260,
     "Penny Dreadful T_2 id_54671": 1783354831,
-    "Dark T_2 id_70523": 1783354798,
-    "Amigos y vecinos T_2 id_241609": 1783354766
+    "Dark T_2 id_70523": 1783354798
   }
 }
