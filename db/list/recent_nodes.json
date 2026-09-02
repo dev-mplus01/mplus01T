@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788317390208,
+  "generatedAtWorkerMs": 1788318139104,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783407071483,
-  "latestChangeWorkerMs": 1788317317821,
+  "coverageStartWorkerMs": 1783446486801,
+  "latestChangeWorkerMs": 1788318136058,
   "recentNodesMap": {
+    "El Pañuelo Rojo T_5 id_44671": 1788318136,
     "Victorinos T_2 id_18846": 1788317317,
     "Ágata y Lola T_2 id_301387": 1788317067,
     "The Walking Dead Ciudad muerta T_2 id_194583": 1788316786,
@@ -1010,7 +1011,6 @@
     "Mob Psycho T_3 id_67075": 1783490627,
     "La Agencia T_2 id_219971": 1783490547,
     "Fumetsu No Anata E T_3 id_97525": 1783490437,
-    "Shezow T_4 id_51710": 1783446476,
-    "Un Fin De Semana En Familia T_2 id_118904": 1783407062
+    "Shezow T_4 id_51710": 1783446476
   }
 }
