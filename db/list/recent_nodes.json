@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788312740109,
+  "generatedAtWorkerMs": 1788312760589,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783355303019,
-  "latestChangeWorkerMs": 1788312737272,
+  "coverageStartWorkerMs": 1783361629732,
+  "latestChangeWorkerMs": 1788312754238,
   "recentNodesMap": {
+    "Stick El Swing Perfecto T_2 id_248830": 1788312754,
     "Jojo's Bizarre Adventure T_3 id_45790": 1788312737,
     "Cyberpunk Edgerunners T_3 id_105248": 1788312473,
     "Tan cerca de ti, nace el amor T_5 id_320958": 1788312263,
@@ -1010,7 +1011,6 @@
     "Bang Bang Baby T_2 id_98734": 1783397977,
     "Oshin T_2 id_6231": 1783375721,
     "Genesis T_2 id_115645": 1783373261,
-    "The Vampire Diaries id_18165": 1783361620,
-    "Hasta Que El Dinero Nos Separe T_5 id_18685": 1783355293
+    "The Vampire Diaries id_18165": 1783361620
   }
 }
