@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788352730442,
+  "generatedAtWorkerMs": 1788362823403,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783446486801,
-  "latestChangeWorkerMs": 1788352726680,
+  "coverageStartWorkerMs": 1783490445773,
+  "latestChangeWorkerMs": 1788362820167,
   "recentNodesMap": {
+    "El secreto Güller ve Günahlar T_5 id_300388": 1788362820,
     "Ted Lasso T_2 id_97546": 1788352726,
     "Reacher T_2 id_108978": 1788349229,
     "Snowfall T_2 id_71694": 1788318964,
@@ -1010,7 +1011,6 @@
     "Hametsu No Oukoku T_3 id_219673": 1783490649,
     "Mob Psycho T_3 id_67075": 1783490627,
     "La Agencia T_2 id_219971": 1783490547,
-    "Fumetsu No Anata E T_3 id_97525": 1783490437,
-    "Shezow T_4 id_51710": 1783446476
+    "Fumetsu No Anata E T_3 id_97525": 1783490437
   }
 }
