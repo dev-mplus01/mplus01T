@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788386646003,
+  "generatedAtWorkerMs": 1788388922949,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783490636643,
-  "latestChangeWorkerMs": 1788386570978,
+  "coverageStartWorkerMs": 1783490658456,
+  "latestChangeWorkerMs": 1788388919460,
   "recentNodesMap": {
+    "Don Gato y su Pandilla T_4 id_4232": 1788388919,
     "La Purga T_2 id_80213": 1788386570,
     "El Señor de los Cielos id_44953": 1788369933,
     "Fantasmas T_2 id_126027": 1788363506,
@@ -1010,7 +1011,6 @@
     "El ascenso del héroe del escudo T_3 id_83095": 1783490848,
     "Westworld T_2 id_63247": 1783490772,
     "Doctor Milagro T_2 id_92967": 1783490746,
-    "Hametsu No Oukoku T_3 id_219673": 1783490649,
-    "Mob Psycho T_3 id_67075": 1783490627
+    "Hametsu No Oukoku T_3 id_219673": 1783490649
   }
 }
