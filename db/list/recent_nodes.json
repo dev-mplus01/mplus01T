@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788466960262,
+  "generatedAtWorkerMs": 1788470627315,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783543357573,
-  "latestChangeWorkerMs": 1788466957549,
+  "coverageStartWorkerMs": 1783543401518,
+  "latestChangeWorkerMs": 1788470624252,
   "recentNodesMap": {
+    "Historias De Fantasmas T_4 id_35466": 1788470624,
     "Blue Dragon T_3 id_36210": 1788466957,
     "Yu Yu Hakusho T_3 id_30669": 1788466002,
     "Yuukoku no Moriarty T_3 id_100281": 1788462669,
@@ -1010,7 +1011,6 @@
     "Song of the Samurai Chapter Youthful Days in Edo T_6 id_302162": 1783543709,
     "La Leyenda De Vox Machina T_4 id_135934": 1783543688,
     "Ravalear T_2 id_282696": 1783543624,
-    "Vincenzo T_2 id_117376": 1783543392,
-    "Once Upon A Time T_2 id_39272": 1783543348
+    "Vincenzo T_2 id_117376": 1783543392
   }
 }
