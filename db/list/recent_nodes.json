@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788459319507,
+  "generatedAtWorkerMs": 1788460472680,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783529511411,
-  "latestChangeWorkerMs": 1788459244766,
+  "coverageStartWorkerMs": 1783543270638,
+  "latestChangeWorkerMs": 1788460469728,
   "recentNodesMap": {
+    "La Red Púrpura T_2 id_230720": 1788460469,
     "Castle T_2 id_1419": 1788459244,
     "Toujima Tanzaburou wa Kamen Rider ni Naritai T_4 id_285788": 1788448637,
     "Lego Ninjago T_4 id_38693": 1788414145,
@@ -1010,7 +1011,6 @@
     "Ravalear T_2 id_282696": 1783543624,
     "Vincenzo T_2 id_117376": 1783543392,
     "Once Upon A Time T_2 id_39272": 1783543348,
-    "Cuna de lobos T_5 id_93394": 1783543260,
-    "Beckham Salva a Nuestro Equipo T_2 id_204667": 1783529500
+    "Cuna de lobos T_5 id_93394": 1783543260
   }
 }
