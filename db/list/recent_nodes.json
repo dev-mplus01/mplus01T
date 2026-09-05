@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788585071720,
+  "generatedAtWorkerMs": 1788585111621,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783883714502,
-  "latestChangeWorkerMs": 1788585067794,
+  "coverageStartWorkerMs": 1783883863608,
+  "latestChangeWorkerMs": 1788585108179,
   "recentNodesMap": {
+    "Mushoku No Eiyuu T_3 id_236565": 1788585108,
     "Perfect World T_3 id_124003": 1788585067,
     "Nip-Tuck T_2 id_3750": 1788585051,
     "Madoka Magica T_3 id_39218": 1788585021,
@@ -1010,7 +1011,6 @@
     "Las Fieles T_2 id_291100": 1783884049,
     "Cosita Rica T_5 id_9419": 1783883980,
     "Abigail T_5 id_16140": 1783883931,
-    "Alaska Hombres Primitivos T_2 id_61789": 1783883854,
-    "iZombie T_2 id_60866": 1783883704
+    "Alaska Hombres Primitivos T_2 id_61789": 1783883854
   }
 }
