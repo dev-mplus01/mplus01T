@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788586552547,
+  "generatedAtWorkerMs": 1788586572743,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783895806385,
-  "latestChangeWorkerMs": 1788586549222,
+  "coverageStartWorkerMs": 1783895818164,
+  "latestChangeWorkerMs": 1788586565800,
   "recentNodesMap": {
+    "Amor y Muerte T_2 id_124800": 1788586565,
     "He-Man y los Amos del Universo T_4 id_96659": 1788586549,
     "Silo T_2 id_125988": 1788586263,
     "Pablo Escobar El Patron Del Mal T_2 id_43348": 1788585958,
@@ -1010,7 +1011,6 @@
     "Huesos Llorando T_7 id_328369": 1783895843,
     "Está Vez Elegí Al Mejor Padre T_7 id_328366": 1783895832,
     "El Último Suspiro Del Amor T_7 id_328363": 1783895821,
-    "El Regreso Del Humillado T_7 id_328362": 1783895809,
-    "El Juramento Enterrado En El Ayer T_7 id_328360": 1783895797
+    "El Regreso Del Humillado T_7 id_328362": 1783895809
   }
 }
