@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788633772184,
+  "generatedAtWorkerMs": 1788633786148,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783968260661,
-  "latestChangeWorkerMs": 1788633713707,
+  "coverageStartWorkerMs": 1783988837560,
+  "latestChangeWorkerMs": 1788633773046,
   "recentNodesMap": {
+    "Sheriff Country T_2 id_253391": 1788633773,
     "Shinmai Renkinjutsushi no Tenpo Keiei T_3 id_133938": 1788633713,
     "Te Encontraré T_2 id_278178": 1788633122,
     "Terror en Estado Puro T_2 id_7143": 1788601652,
@@ -1010,7 +1011,6 @@
     "Salish And Jordan Matter T_2 id_318906": 1784009963,
     "Hunting Hitler T_2 id_64626": 1784009892,
     "Ashita no Joe T_3 id_25117": 1784002340,
-    "Ameku Takaos Detective Karte T_6 id_287349": 1783988830,
-    "Y Mañana Será Otro Día Mejor T_5 id_107056": 1783968247
+    "Ameku Takaos Detective Karte T_6 id_287349": 1783988830
   }
 }
