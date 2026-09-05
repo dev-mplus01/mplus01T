@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788591315466,
+  "generatedAtWorkerMs": 1788591366012,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783968003942,
-  "latestChangeWorkerMs": 1788591312297,
+  "coverageStartWorkerMs": 1783968015922,
+  "latestChangeWorkerMs": 1788591361286,
   "recentNodesMap": {
+    "Zoids Chaotic Century T_3 id_37419": 1788591361,
     "Kaiko Sareta Ankoku T_3 id_206324": 1788591312,
     "Corran Por Sus Vidas T_5 id_98968": 1788590782,
     "Ana Cristina T_5 id_333874": 1788590772,
@@ -1010,7 +1011,6 @@
     "Mi Destino Eres Tu T_5 id_16690": 1783968075,
     "No Tengo Miedo T_2 id_290232": 1783968049,
     "Quien Mato a Patricia Soler T_5 id_104206": 1783968033,
-    "Pedazo de acordeón T_5 id_100001": 1783968007,
-    "En El Nombre Del Amanecer T_6 id_281326": 1783967995
+    "Pedazo de acordeón T_5 id_100001": 1783968007
   }
 }
