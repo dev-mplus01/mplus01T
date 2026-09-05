@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788634558035,
+  "generatedAtWorkerMs": 1788634643941,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783988837560,
-  "latestChangeWorkerMs": 1788634485269,
+  "coverageStartWorkerMs": 1784002349738,
+  "latestChangeWorkerMs": 1788634640290,
   "recentNodesMap": {
+    "Dead Mount Death Play T_3 id_214540": 1788634640,
     "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1788634485,
     "Sheriff Country T_2 id_253391": 1788633773,
     "Shinmai Renkinjutsushi no Tenpo Keiei T_3 id_133938": 1788633713,
@@ -1010,7 +1011,6 @@
     "La Primera Muerte T_2 id_111616": 1784010879,
     "Salish And Jordan Matter T_2 id_318906": 1784009963,
     "Hunting Hitler T_2 id_64626": 1784009892,
-    "Ashita no Joe T_3 id_25117": 1784002340,
-    "Ameku Takaos Detective Karte T_6 id_287349": 1783988830
+    "Ashita no Joe T_3 id_25117": 1784002340
   }
 }
