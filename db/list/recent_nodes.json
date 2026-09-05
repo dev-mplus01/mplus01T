@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788585151951,
+  "generatedAtWorkerMs": 1788585212407,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783883940712,
-  "latestChangeWorkerMs": 1788585147848,
+  "coverageStartWorkerMs": 1783883989788,
+  "latestChangeWorkerMs": 1788585206460,
   "recentNodesMap": {
+    "La Hija Prodiga T_5 id_82779": 1788585206,
     "Kamisama Kazoku T_3 id_34135": 1788585147,
     "Mushoku No Eiyuu T_3 id_236565": 1788585108,
     "Perfect World T_3 id_124003": 1788585067,
@@ -1010,7 +1011,6 @@
     "Skins T_2 id_900": 1783884720,
     "Terra Nostra T_5 id_12895": 1783884213,
     "Las Fieles T_2 id_291100": 1783884049,
-    "Cosita Rica T_5 id_9419": 1783883980,
-    "Abigail T_5 id_16140": 1783883931
+    "Cosita Rica T_5 id_9419": 1783883980
   }
 }
