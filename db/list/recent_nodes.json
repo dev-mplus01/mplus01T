@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788585656551,
+  "generatedAtWorkerMs": 1788585670438,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783895745573,
-  "latestChangeWorkerMs": 1788585653153,
+  "coverageStartWorkerMs": 1783895758793,
+  "latestChangeWorkerMs": 1788585662620,
   "recentNodesMap": {
+    "Here and Now T_2 id_75506": 1788585662,
     "Heartland T_2 id_14929": 1788585653,
     "Grand Hotel T_2 id_82092": 1788585371,
     "To aru Kagaku no Accelerator id_90546": 1788585359,
@@ -1010,7 +1011,6 @@
     "Diez Años En Silencio T_7 id_328359": 1783895786,
     "De La Sombra Al Trono T_7 id_328357": 1783895773,
     "Adiós A Mi Reflejo T_7 id_328353": 1783895761,
-    "Adiós Al Pasado No Estara Ciego Por El Amor T_7 id_328378": 1783895748,
-    "Amante Cinco Años Esposa Otra T_7 id_328355": 1783895736
+    "Adiós Al Pasado No Estara Ciego Por El Amor T_7 id_328378": 1783895748
   }
 }
