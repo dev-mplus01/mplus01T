@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788591366012,
+  "generatedAtWorkerMs": 1788591957644,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783968015922,
-  "latestChangeWorkerMs": 1788591361286,
+  "coverageStartWorkerMs": 1783968044901,
+  "latestChangeWorkerMs": 1788591954338,
   "recentNodesMap": {
+    "American Dad T_4 id_1433": 1788591954,
     "Zoids Chaotic Century T_3 id_37419": 1788591361,
     "Kaiko Sareta Ankoku T_3 id_206324": 1788591312,
     "Corran Por Sus Vidas T_5 id_98968": 1788590782,
@@ -1010,7 +1011,6 @@
     "Mi Pecado T_5 id_18048": 1783968103,
     "Mi Destino Eres Tu T_5 id_16690": 1783968075,
     "No Tengo Miedo T_2 id_290232": 1783968049,
-    "Quien Mato a Patricia Soler T_5 id_104206": 1783968033,
-    "Pedazo de acordeón T_5 id_100001": 1783968007
+    "Quien Mato a Patricia Soler T_5 id_104206": 1783968033
   }
 }
