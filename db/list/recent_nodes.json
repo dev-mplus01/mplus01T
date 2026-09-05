@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788590321950,
+  "generatedAtWorkerMs": 1788590335975,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
