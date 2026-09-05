@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788590763510,
+  "generatedAtWorkerMs": 1788590778961,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783900145534,
-  "latestChangeWorkerMs": 1788590757123,
+  "coverageStartWorkerMs": 1783967971599,
+  "latestChangeWorkerMs": 1788590772015,
   "recentNodesMap": {
+    "Ana Cristina T_5 id_333874": 1788590772,
     "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1788590757,
     "Senpai ga Uzai Kouhai T_3 id_105511": 1788590486,
     "Uchi no Kaisha no Chiisai Senpai no Hanashi T_3 id_217390": 1788590471,
@@ -1010,7 +1011,6 @@
     "Pedazo de acordeón T_5 id_100001": 1783968007,
     "En El Nombre Del Amanecer T_6 id_281326": 1783967995,
     "Generation To Generation T_6 id_262932": 1783967979,
-    "Love Story of Court Enemies T_6 id_106092": 1783967962,
-    "La Fiebre T_2 id_221817": 1783900138
+    "Love Story of Court Enemies T_6 id_106092": 1783967962
   }
 }
