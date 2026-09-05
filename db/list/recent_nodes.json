@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788583274686,
+  "generatedAtWorkerMs": 1788583554092,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783790175473,
-  "latestChangeWorkerMs": 1788583269084,
+  "coverageStartWorkerMs": 1783803275048,
+  "latestChangeWorkerMs": 1788583550855,
   "recentNodesMap": {
+    "Merlí Sapere Aude T_2 id_95601": 1788583550,
     "Escuadrón Suicida Isekai T_3 id_229926": 1788583269,
     "Agatha en todas partes T_2 id_138501": 1788583250,
     "DGray Man T_3 id_34141": 1788582961,
@@ -1010,7 +1011,6 @@
     "Salcedo Cuero y Boogaloo T_2 id_327787": 1783803343,
     "La Casa de la Pradera T_2 id_283304": 1783803330,
     "Pecados Capitales T_5 id_113531": 1783803312,
-    "Las Amazonas T_5 id_91621": 1783803261,
-    "Star City T_2 id_252107": 1783790166
+    "Las Amazonas T_5 id_91621": 1783803261
   }
 }
