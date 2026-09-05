@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788592863317,
+  "generatedAtWorkerMs": 1788592883957,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783968084773,
-  "latestChangeWorkerMs": 1788592859736,
+  "coverageStartWorkerMs": 1783968113002,
+  "latestChangeWorkerMs": 1788592877913,
   "recentNodesMap": {
+    "Zoids New Century Zero T_3 id_29540": 1788592877,
     "The Shards T_2 id_298168": 1788592859,
     "Chad Powers T_2 id_247168": 1788592565,
     "Yani Neko T_3 id_312949": 1788592550,
@@ -1010,7 +1011,6 @@
     "Sangre De Mi Tierra T_5 id_83235": 1783968225,
     "Sos mi vida T_5 id_14471": 1783968205,
     "Suleimán, el gran sultán T_5 id_34899": 1783968160,
-    "Mi Pecado T_5 id_18048": 1783968103,
-    "Mi Destino Eres Tu T_5 id_16690": 1783968075
+    "Mi Pecado T_5 id_18048": 1783968103
   }
 }
