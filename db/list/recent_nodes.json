@@ -5,13 +5,15 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788585670438,
+  "generatedAtWorkerMs": 1788585684524,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783895758793,
-  "latestChangeWorkerMs": 1788585662620,
+  "coverageStartWorkerMs": 1783895782938,
+  "latestChangeWorkerMs": 1788585680750,
   "recentNodesMap": {
+    "Haunted T_2 id_83247": 1788585680,
+    "Hi School Love On T_2 id_61738": 1788585671,
     "Here and Now T_2 id_75506": 1788585662,
     "Heartland T_2 id_14929": 1788585653,
     "Grand Hotel T_2 id_82092": 1788585371,
@@ -1009,8 +1011,6 @@
     "El Regreso Del Humillado T_7 id_328362": 1783895809,
     "El Juramento Enterrado En El Ayer T_7 id_328360": 1783895797,
     "Diez Años En Silencio T_7 id_328359": 1783895786,
-    "De La Sombra Al Trono T_7 id_328357": 1783895773,
-    "Adiós A Mi Reflejo T_7 id_328353": 1783895761,
-    "Adiós Al Pasado No Estara Ciego Por El Amor T_7 id_328378": 1783895748
+    "De La Sombra Al Trono T_7 id_328357": 1783895773
   }
 }
