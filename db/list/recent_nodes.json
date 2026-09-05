@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788590180923,
+  "generatedAtWorkerMs": 1788590194954,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783895911043,
-  "latestChangeWorkerMs": 1788590175849,
+  "coverageStartWorkerMs": 1783895922058,
+  "latestChangeWorkerMs": 1788590188387,
   "recentNodesMap": {
+    "Juuni Taisen T_3 id_74095": 1788590188,
     "Kikansha no Mahou wa Tokubatsu T_3 id_230050": 1788590175,
     "Star Trek Extraños Nuevos Mundos T_2 id_103516": 1788590163,
     "La Elegida id_51001": 1788590149,
@@ -1010,7 +1011,6 @@
     "La Fiebre T_2 id_221817": 1783900138,
     "Siete Años de Fuego Un Amor en Cenizas T_7 id_328376": 1783895937,
     "Venganza Tras El Silencio El Ingeniero Invencible T_7 id_328377": 1783895925,
-    "Quitando La Máscara De Mi Mejor Amiga T_7 id_328374": 1783895914,
-    "La Hija Legítima Genio Escolar T_7 id_328373": 1783895902
+    "Quitando La Máscara De Mi Mejor Amiga T_7 id_328374": 1783895914
   }
 }
