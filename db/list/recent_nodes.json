@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788640276608,
+  "generatedAtWorkerMs": 1788649785558,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784002349738,
-  "latestChangeWorkerMs": 1788640273041,
+  "coverageStartWorkerMs": 1784009901647,
+  "latestChangeWorkerMs": 1788649781662,
   "recentNodesMap": {
+    "Shogun T_6 id_126308": 1788649781,
     "Though I Am An Inept Villainess T_3 id_286345": 1788640273,
     "Dead Mount Death Play T_3 id_214540": 1788634640,
     "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1788634485,
@@ -1010,7 +1011,6 @@
     "Mujeres Imperfectas T_2 id_108181": 1784010941,
     "La Primera Muerte T_2 id_111616": 1784010879,
     "Salish And Jordan Matter T_2 id_318906": 1784009963,
-    "Hunting Hitler T_2 id_64626": 1784009892,
-    "Ashita no Joe T_3 id_25117": 1784002340
+    "Hunting Hitler T_2 id_64626": 1784009892
   }
 }
