@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788586857076,
+  "generatedAtWorkerMs": 1788587163605,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783895818164,
-  "latestChangeWorkerMs": 1788586853746,
+  "coverageStartWorkerMs": 1783895829907,
+  "latestChangeWorkerMs": 1788587160192,
   "recentNodesMap": {
+    "Edens Zero id_104711": 1788587160,
     "Folklore T_2 id_83090": 1788586853,
     "Amor y Muerte T_2 id_124800": 1788586565,
     "He-Man y los Amos del Universo T_4 id_96659": 1788586549,
@@ -1010,7 +1011,6 @@
     "Exige Que Su Esposo Pague Con Su Vida T_7 id_328375": 1783895854,
     "Huesos Llorando T_7 id_328369": 1783895843,
     "Está Vez Elegí Al Mejor Padre T_7 id_328366": 1783895832,
-    "El Último Suspiro Del Amor T_7 id_328363": 1783895821,
-    "El Regreso Del Humillado T_7 id_328362": 1783895809
+    "El Último Suspiro Del Amor T_7 id_328363": 1783895821
   }
 }
