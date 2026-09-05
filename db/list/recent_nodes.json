@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788589578455,
+  "generatedAtWorkerMs": 1788589876313,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1783895862121,
-  "latestChangeWorkerMs": 1788589573707,
+  "coverageStartWorkerMs": 1783895874891,
+  "latestChangeWorkerMs": 1788589872991,
   "recentNodesMap": {
+    "Kumichou Musume to Sewagakari T_3 id_133197": 1788589872,
     "Valentina Valiente T_5 id_316470": 1788589573,
     "Señora del Destino T_5 id_320456": 1788589560,
     "La Promesa T_2 id_212907": 1788589280,
@@ -1010,7 +1011,6 @@
     "La Hija Legítima Genio Escolar T_7 id_328373": 1783895902,
     "Cayendo En Su Propia Trampa T_7 id_328356": 1783895890,
     "La Heredera Busca Venganza T_7 id_328370": 1783895877,
-    "Falso Heredero Devuélveme La Vida T_7 id_328371": 1783895864,
-    "Exige Que Su Esposo Pague Con Su Vida T_7 id_328375": 1783895854
+    "Falso Heredero Devuélveme La Vida T_7 id_328371": 1783895864
   }
 }
