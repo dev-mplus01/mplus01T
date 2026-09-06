@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788661692786,
+  "generatedAtWorkerMs": 1788661838633,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784070319683,
-  "latestChangeWorkerMs": 1788661685334,
+  "coverageStartWorkerMs": 1784103486787,
+  "latestChangeWorkerMs": 1788661834752,
   "recentNodesMap": {
+    "Kamisama No Inai Nichiyoubi T_3 id_49473": 1788661834,
     "El Señor de los Cielos id_44953": 1788661685,
     "Carrusel T_5 id_46150": 1788661564,
     "Fumetsu No Anata E T_3 id_97525": 1788661252,
@@ -1010,7 +1011,6 @@
     "Aventuras Sago T_4 id_205258": 1784133641,
     "The Americans T_2 id_46533": 1784132032,
     "Las chicas Gilmore T_2 id_4586": 1784103648,
-    "The Originals T_2 id_46896": 1784103476,
-    "Las Iguanas T_2 id_202219": 1784070311
+    "The Originals T_2 id_46896": 1784103476
   }
 }
