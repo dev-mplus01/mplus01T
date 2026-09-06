@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788662160113,
+  "generatedAtWorkerMs": 1788664309509,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784133654836,
-  "latestChangeWorkerMs": 1788661970376,
+  "coverageStartWorkerMs": 1784257377340,
+  "latestChangeWorkerMs": 1788664306019,
   "recentNodesMap": {
+    "My Hero Academia Vigilantes T_3 id_280110": 1788664306,
     "Meiji Tokyo Renka T_3 id_84141": 1788661970,
     "Kaminaki Sekai T_3 id_199920": 1788661926,
     "Kamisama No Memochou T_3 id_68379": 1788661880,
@@ -1010,7 +1011,6 @@
     "El Halcón T_2 id_254528": 1784262118,
     "Privilegios T_2 id_283853": 1784258030,
     "Resident Alien T_2 id_96580": 1784258011,
-    "Amagami SS T_3 id_52083": 1784257369,
-    "Aventuras Sago T_4 id_205258": 1784133641
+    "Amagami SS T_3 id_52083": 1784257369
   }
 }
