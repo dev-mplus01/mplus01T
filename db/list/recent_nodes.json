@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788670967901,
+  "generatedAtWorkerMs": 1788672818482,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784258037700,
-  "latestChangeWorkerMs": 1788670964826,
+  "coverageStartWorkerMs": 1784262126614,
+  "latestChangeWorkerMs": 1788672814984,
   "recentNodesMap": {
+    "Yanxi Palace Princess Adventure T_6 id_96997": 1788672814,
     "Honzuki T_3 id_91768": 1788670964,
     "La Revancha T_5 id_201046": 1788668900,
     "Tormenta de Amor T_5 id_136220": 1788668804,
@@ -1010,7 +1011,6 @@
     "Viva la Pepa T_5 id_203080": 1784262252,
     "Gata Salvaje T_5 id_15241": 1784262206,
     "Las aventuras enredadas de Rapunzel Rapunzel y el gran árbol T_4 id_70047": 1784262142,
-    "El Halcón T_2 id_254528": 1784262118,
-    "Privilegios T_2 id_283853": 1784258030
+    "El Halcón T_2 id_254528": 1784262118
   }
 }
