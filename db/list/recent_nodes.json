@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788821895262,
+  "generatedAtWorkerMs": 1788823629932,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784450469307,
-  "latestChangeWorkerMs": 1788821822245,
+  "coverageStartWorkerMs": 1784450512107,
+  "latestChangeWorkerMs": 1788823626416,
   "recentNodesMap": {
+    "Succession T_2 id_76331": 1788823626,
     "Haikyuu T_3 id_60863": 1788821822,
     "Los Jackson Un Sueño Americano T_2 id_9323": 1788815068,
     "Jackass T_2 id_1795": 1788815042,
@@ -1010,7 +1011,6 @@
     "Los Tudor T_2 id_2942": 1784524589,
     "Whats Wrong With Secretary Kim T_6 id_79434": 1784524459,
     "Fated to Love You T_6 id_61192": 1784524413,
-    "Los Winchester T_2 id_128113": 1784450503,
-    "Las 4 Estaciones de las Chicas Gilmore T_2 id_68799": 1784450460
+    "Los Winchester T_2 id_128113": 1784450503
   }
 }
