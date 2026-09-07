@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788795374159,
+  "generatedAtWorkerMs": 1788795434488,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784365533144,
-  "latestChangeWorkerMs": 1788795370141,
+  "coverageStartWorkerMs": 1784365590710,
+  "latestChangeWorkerMs": 1788795432222,
   "recentNodesMap": {
+    "Earth Final Conflict 480p Sub T_2 id_2840": 1788795432,
     "Linternas T_2 id_95350": 1788795370,
     "Twin Peaks T_2 id_1920": 1788764587,
     "The Crowded Room T_2 id_123192": 1788763878,
@@ -1010,7 +1011,6 @@
     "Nada Sospechosos T_2 id_206232": 1784432529,
     "Sapo memorias de un ladron T_2 id_205617": 1784423639,
     "El Mapa de los Anhelos T_2 id_288671": 1784365596,
-    "El Show de Tom y Jerry T_4 id_47480": 1784365581,
-    "El Palacio Del Este T_6 id_279323": 1784365524
+    "El Show de Tom y Jerry T_4 id_47480": 1784365581
   }
 }
