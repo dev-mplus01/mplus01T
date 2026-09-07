@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788814876043,
+  "generatedAtWorkerMs": 1788814906281,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784432559056,
-  "latestChangeWorkerMs": 1788814872668,
+  "coverageStartWorkerMs": 1784441523001,
+  "latestChangeWorkerMs": 1788814900718,
   "recentNodesMap": {
+    "Average Joe T_2 id_228421": 1788814900,
     "Antes Muerta Que Lichita T_5 id_63924": 1788814872,
     "Air Master T_3 id_34698": 1788808151,
     "Linternas T_2 id_95350": 1788806929,
@@ -1010,7 +1011,6 @@
     "The Pendragon Cycle Rise Of The Merlin T_2 id_235685": 1784441630,
     "El amanecer de los Croods T_4 id_64783": 1784441618,
     "Swallowed Star T_3 id_101172": 1784441598,
-    "El Método Scaloni T_2 id_325535": 1784441513,
-    "Nada Sospechosos T_2 id_206232": 1784432529
+    "El Método Scaloni T_2 id_325535": 1784441513
   }
 }
