@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788806932493,
+  "generatedAtWorkerMs": 1788808155081,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784365604330,
-  "latestChangeWorkerMs": 1788806929024,
+  "coverageStartWorkerMs": 1784423648034,
+  "latestChangeWorkerMs": 1788808151295,
   "recentNodesMap": {
+    "Air Master T_3 id_34698": 1788808151,
     "Linternas T_2 id_95350": 1788806929,
     "Twin Peaks T_2 id_1920": 1788804331,
     "Los Simuladores T_2 id_62302": 1788799238,
@@ -1010,7 +1011,6 @@
     "Swallowed Star T_3 id_101172": 1784441598,
     "El Método Scaloni T_2 id_325535": 1784441513,
     "Nada Sospechosos T_2 id_206232": 1784432529,
-    "Sapo memorias de un ladron T_2 id_205617": 1784423639,
-    "El Mapa de los Anhelos T_2 id_288671": 1784365596
+    "Sapo memorias de un ladron T_2 id_205617": 1784423639
   }
 }
