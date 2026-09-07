@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788815005119,
+  "generatedAtWorkerMs": 1788815018947,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784441626588,
-  "latestChangeWorkerMs": 1788814982120,
+  "coverageStartWorkerMs": 1784441639708,
+  "latestChangeWorkerMs": 1788815013064,
   "recentNodesMap": {
+    "Doppelganger T_6 id_282242": 1788815013,
     "El Ascenso De Los Fénix T_6 id_81667": 1788814982,
     "Emprendedores T_6 id_82660": 1788814938,
     "Average Joe T_2 id_228421": 1788814900,
@@ -1010,7 +1011,6 @@
     "Las 4 Estaciones de las Chicas Gilmore T_2 id_68799": 1784450460,
     "Dulces Magnolias T_2 id_102904": 1784449637,
     "Valle salvaje T_5 id_242874": 1784449519,
-    "The Pendragon Cycle Rise Of The Merlin T_2 id_235685": 1784441630,
-    "El amanecer de los Croods T_4 id_64783": 1784441618
+    "The Pendragon Cycle Rise Of The Merlin T_2 id_235685": 1784441630
   }
 }
