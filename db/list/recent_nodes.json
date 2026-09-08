@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788868847281,
+  "generatedAtWorkerMs": 1788884783831,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784774990739,
-  "latestChangeWorkerMs": 1788848643023,
+  "coverageStartWorkerMs": 1784775033026,
+  "latestChangeWorkerMs": 1788884780319,
   "recentNodesMap": {
+    "Fauda T_2 id_69557": 1788884780,
     "One Piece T_3 id_37854": 1788848643,
     "Gank Your Heart T_6 id_90504": 1788840131,
     "El secreto Güller ve Günahlar T_5 id_300388": 1788833579,
@@ -1010,7 +1011,6 @@
     "Gotoubun No Hanayome T_3 id_84669": 1784789701,
     "El Otro Padre T_2 id_329394": 1784775138,
     "How Do Animals Do That T_2 id_92509": 1784775124,
-    "Ao Ashi T_3 id_126437": 1784775024,
-    "Higeki no Genkyou to Naru Saikyou T_3 id_213326": 1784774981
+    "Ao Ashi T_3 id_126437": 1784775024
   }
 }
