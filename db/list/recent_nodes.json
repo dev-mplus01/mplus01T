@@ -5,13 +5,15 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788830668862,
+  "generatedAtWorkerMs": 1788830682755,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784573647173,
-  "latestChangeWorkerMs": 1788830649405,
+  "coverageStartWorkerMs": 1784573682612,
+  "latestChangeWorkerMs": 1788830677854,
   "recentNodesMap": {
+    "High Score T_2 id_106754": 1788830677,
+    "Buchigire Reijou wa Houfuku wo Chikaimashita T_3 id_298831": 1788830673,
     "Hollywood T_2 id_87050": 1788830649,
     "Historia de un clan T_2 id_64237": 1788830621,
     "Mao T_3 id_295999": 1788830566,
@@ -252,7 +254,6 @@
     "Mahou Shoujo Lyrical Nanoha EXCEEDS T_3 id_287075": 1788225949,
     "Grand Blue T_3 id_79166": 1788225875,
     "Gaikotsu Kishi-sama T_3 id_123528": 1788225809,
-    "Buchigire Reijou wa Houfuku wo Chikaimashita T_3 id_298831": 1788225736,
     "Destellos del Mañana T_3 id_153217": 1788225366,
     "Qué raro T_2 id_1954": 1788217710,
     "El peor de los caso con bear grylls T_2 id_32704": 1788217678,
@@ -1010,7 +1011,6 @@
     "El Zorro T_2 id_4681": 1784657579,
     "Needy Girl Overdose T_3 id_305329": 1784612746,
     "Incondicional T_2 id_314916": 1784583776,
-    "Lost Track Of Time T_6 id_209238": 1784573674,
-    "Simmer Down T_6 id_199908": 1784573637
+    "Lost Track Of Time T_6 id_209238": 1784573674
   }
 }
