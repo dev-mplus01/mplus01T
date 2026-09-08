@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788902234439,
+  "generatedAtWorkerMs": 1788908257031,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784789744669,
-  "latestChangeWorkerMs": 1788902159182,
+  "coverageStartWorkerMs": 1784789863301,
+  "latestChangeWorkerMs": 1788908253422,
   "recentNodesMap": {
+    "A Dos Metros Bajo Tierra T_2 id_1274": 1788908253,
     "Castlevania T_3 id_71024": 1788902159,
     "El Señor de los Cielos id_44953": 1788896253,
     "Dang T_4 id_314478": 1788886378,
@@ -1010,7 +1011,6 @@
     "Mayans MC T_2 id_76231": 1784789957,
     "Juntas O Muertas T_2 id_241882": 1784789923,
     "Fear The Walking Dead T_2 id_62286": 1784789896,
-    "El Show de los Looney Tunes T_4 id_32605": 1784789854,
-    "Interview with the Vampire T_2 id_128098": 1784789735
+    "El Show de los Looney Tunes T_4 id_32605": 1784789854
   }
 }
