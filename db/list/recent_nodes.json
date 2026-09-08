@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788896327505,
+  "generatedAtWorkerMs": 1788902163660,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784789709844,
-  "latestChangeWorkerMs": 1788896253899,
+  "coverageStartWorkerMs": 1784789744669,
+  "latestChangeWorkerMs": 1788902159182,
   "recentNodesMap": {
+    "Castlevania T_3 id_71024": 1788902159,
     "El Señor de los Cielos id_44953": 1788896253,
     "Dang T_4 id_314478": 1788886378,
     "Colisión T_2 id_331033": 1788886348,
@@ -1010,7 +1011,6 @@
     "Juntas O Muertas T_2 id_241882": 1784789923,
     "Fear The Walking Dead T_2 id_62286": 1784789896,
     "El Show de los Looney Tunes T_4 id_32605": 1784789854,
-    "Interview with the Vampire T_2 id_128098": 1784789735,
-    "Gotoubun No Hanayome T_3 id_84669": 1784789701
+    "Interview with the Vampire T_2 id_128098": 1784789735
   }
 }
