@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788886375043,
+  "generatedAtWorkerMs": 1788886389513,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784775147926,
-  "latestChangeWorkerMs": 1788886348262,
+  "coverageStartWorkerMs": 1784789709844,
+  "latestChangeWorkerMs": 1788886378379,
   "recentNodesMap": {
+    "Dang T_4 id_314478": 1788886378,
     "Colisión T_2 id_331033": 1788886348,
     "Historia de Dos Ciudades T_2 id_301626": 1788886313,
     "Fauda T_2 id_69557": 1788884780,
@@ -1010,7 +1011,6 @@
     "Fear The Walking Dead T_2 id_62286": 1784789896,
     "El Show de los Looney Tunes T_4 id_32605": 1784789854,
     "Interview with the Vampire T_2 id_128098": 1784789735,
-    "Gotoubun No Hanayome T_3 id_84669": 1784789701,
-    "El Otro Padre T_2 id_329394": 1784775138
+    "Gotoubun No Hanayome T_3 id_84669": 1784789701
   }
 }
