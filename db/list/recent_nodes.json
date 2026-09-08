@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788830624789,
+  "generatedAtWorkerMs": 1788830655179,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784573628289,
-  "latestChangeWorkerMs": 1788830621164,
+  "coverageStartWorkerMs": 1784573647173,
+  "latestChangeWorkerMs": 1788830649405,
   "recentNodesMap": {
+    "Hollywood T_2 id_87050": 1788830649,
     "Historia de un clan T_2 id_64237": 1788830621,
     "Mao T_3 id_295999": 1788830566,
     "Liar Game T_3 id_300126": 1788830440,
@@ -1010,7 +1011,6 @@
     "Needy Girl Overdose T_3 id_305329": 1784612746,
     "Incondicional T_2 id_314916": 1784583776,
     "Lost Track Of Time T_6 id_209238": 1784573674,
-    "Simmer Down T_6 id_199908": 1784573637,
-    "The Lady In Butchers House T_6 id_196613": 1784573619
+    "Simmer Down T_6 id_199908": 1784573637
   }
 }
