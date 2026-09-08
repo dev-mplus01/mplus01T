@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788830891588,
+  "generatedAtWorkerMs": 1788830905633,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784657686465,
-  "latestChangeWorkerMs": 1788830870353,
+  "coverageStartWorkerMs": 1784666566162,
+  "latestChangeWorkerMs": 1788830899149,
   "recentNodesMap": {
+    "Leon T_2 id_323557": 1788830899,
     "Song Exploder T_2 id_110186": 1788830870,
     "Grand Blue T_3 id_79166": 1788830858,
     "Hunters T_2 id_79622": 1788830839,
@@ -1010,7 +1011,6 @@
     "Gatitas Asustadizas T_2 id_133064": 1784744465,
     "Romania Salbatica T_2 id_207437": 1784744451,
     "Los Amateurs T_2 id_136135": 1784697945,
-    "Gaslit T_2 id_107407": 1784666556,
-    "El Chavo del 8 Animado T_4 id_7821": 1784657677
+    "Gaslit T_2 id_107407": 1784666556
   }
 }
