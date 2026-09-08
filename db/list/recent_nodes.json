@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788830863956,
+  "generatedAtWorkerMs": 1788830877776,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784657632292,
-  "latestChangeWorkerMs": 1788830858081,
+  "coverageStartWorkerMs": 1784657686465,
+  "latestChangeWorkerMs": 1788830870353,
   "recentNodesMap": {
+    "Song Exploder T_2 id_110186": 1788830870,
     "Grand Blue T_3 id_79166": 1788830858,
     "Hunters T_2 id_79622": 1788830839,
     "Impractical Jokers T_2 id_59186": 1788830808,
@@ -1010,7 +1011,6 @@
     "Romania Salbatica T_2 id_207437": 1784744451,
     "Los Amateurs T_2 id_136135": 1784697945,
     "Gaslit T_2 id_107407": 1784666556,
-    "El Chavo del 8 Animado T_4 id_7821": 1784657677,
-    "Chapulin Colorado T_4 id_68340": 1784657623
+    "El Chavo del 8 Animado T_4 id_7821": 1784657677
   }
 }
