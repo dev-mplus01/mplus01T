@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788912035944,
+  "generatedAtWorkerMs": 1788914513378,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784789863301,
-  "latestChangeWorkerMs": 1788909014120,
+  "coverageStartWorkerMs": 1784789905483,
+  "latestChangeWorkerMs": 1788914508499,
   "recentNodesMap": {
+    "La Revancha T_5 id_16797": 1788914508,
     "El Príncipe del Barrio T_2 id_229590": 1788909014,
     "A Dos Metros Bajo Tierra T_2 id_1274": 1788908253,
     "Castlevania T_3 id_71024": 1788902159,
@@ -1010,7 +1011,6 @@
     "Par de Reyes T_2 id_31628": 1784789995,
     "Mayans MC T_2 id_76231": 1784789957,
     "Juntas O Muertas T_2 id_241882": 1784789923,
-    "Fear The Walking Dead T_2 id_62286": 1784789896,
-    "El Show de los Looney Tunes T_4 id_32605": 1784789854
+    "Fear The Walking Dead T_2 id_62286": 1784789896
   }
 }
