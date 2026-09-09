@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788935127472,
+  "generatedAtWorkerMs": 1788935141317,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784862736657,
-  "latestChangeWorkerMs": 1788935066714,
+  "coverageStartWorkerMs": 1784862852800,
+  "latestChangeWorkerMs": 1788935133505,
   "recentNodesMap": {
+    "Heridas de Amor T_5 id_5056": 1788935133,
     "Jigoku shojo T_6 id_91539": 1788935066,
     "insecure T_2 id_67883": 1788935032,
     "Impulse T_2 id_78670": 1788934992,
@@ -1010,7 +1011,6 @@
     "Kuzey Guney T_5 id_42099": 1784863130,
     "Melrose Place T_2 id_4349": 1784863108,
     "True Detective T_2 id_46648": 1784862873,
-    "Lucifer id_63174": 1784862844,
-    "The Hunting Party T_2 id_247723": 1784862726
+    "Lucifer id_63174": 1784862844
   }
 }
