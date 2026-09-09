@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788917896564,
+  "generatedAtWorkerMs": 1788918002607,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784789932615,
-  "latestChangeWorkerMs": 1788917822804,
+  "coverageStartWorkerMs": 1784789967837,
+  "latestChangeWorkerMs": 1788917998865,
   "recentNodesMap": {
+    "Tenkuu Shinpan T_3 id_112163": 1788917998,
     "NieR Automata Ver 11a T_3 id_158373": 1788917822,
     "Kaminaki Sekai T_3 id_199920": 1788917374,
     "La Revancha T_5 id_16797": 1788914508,
@@ -1010,7 +1011,6 @@
     "Locker Diaries Phineas And Ferb T_4 id_317375": 1784829091,
     "Quién Mató a Sara T_2 id_120168": 1784790027,
     "Par de Reyes T_2 id_31628": 1784789995,
-    "Mayans MC T_2 id_76231": 1784789957,
-    "Juntas O Muertas T_2 id_241882": 1784789923
+    "Mayans MC T_2 id_76231": 1784789957
   }
 }
