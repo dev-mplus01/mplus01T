@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788935196741,
+  "generatedAtWorkerMs": 1788935210571,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784862852800,
-  "latestChangeWorkerMs": 1788935133505,
+  "coverageStartWorkerMs": 1784862881649,
+  "latestChangeWorkerMs": 1788935202673,
   "recentNodesMap": {
+    "Isabella Mujer Enamorada T_5 id_107380": 1788935202,
     "Heridas de Amor T_5 id_5056": 1788935133,
     "Jigoku shojo T_6 id_91539": 1788935066,
     "insecure T_2 id_67883": 1788935032,
@@ -1010,7 +1011,6 @@
     "Pacific Blue T_2 id_50": 1784863169,
     "Kuzey Guney T_5 id_42099": 1784863130,
     "Melrose Place T_2 id_4349": 1784863108,
-    "True Detective T_2 id_46648": 1784862873,
-    "Lucifer id_63174": 1784862844
+    "True Detective T_2 id_46648": 1784862873
   }
 }
