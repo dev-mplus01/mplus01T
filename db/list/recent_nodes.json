@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788975829259,
+  "generatedAtWorkerMs": 1788976560847,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784912244961,
-  "latestChangeWorkerMs": 1788975759042,
+  "coverageStartWorkerMs": 1784912300149,
+  "latestChangeWorkerMs": 1788976557549,
   "recentNodesMap": {
+    "Minx T_2 id_118303": 1788976557,
     "El Señor de los Cielos id_44953": 1788975759,
     "Valentina Valiente T_5 id_316470": 1788973758,
     "Señora del Destino T_5 id_320456": 1788973604,
@@ -1010,7 +1011,6 @@
     "Cazadores de Sombras T_2 id_12313": 1784947182,
     "Auschwitz T_2 id_7361": 1784947148,
     "Limbo T_2 id_122045": 1784913922,
-    "Pecados ajenos T_5 id_5110": 1784912290,
-    "Corazon Traicionado T_5 id_107081": 1784912235
+    "Pecados ajenos T_5 id_5110": 1784912290
   }
 }
