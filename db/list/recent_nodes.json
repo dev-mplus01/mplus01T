@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1788998181604,
+  "generatedAtWorkerMs": 1788998194730,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784947156736,
-  "latestChangeWorkerMs": 1788998150895,
+  "coverageStartWorkerMs": 1784947189280,
+  "latestChangeWorkerMs": 1788998194156,
   "recentNodesMap": {
+    "Vista Por Última Vez T_2 id_258230": 1788998194,
     "Dance La Fuerza Del Corazón T_5 id_281819": 1788998150,
     "Muertos de amor T_6 id_298610": 1788984471,
     "Misterio T_2 id_79043": 1788979944,
@@ -1010,7 +1011,6 @@
     "Cronicas Marcianas T_2 id_3226": 1784947214,
     "Conversaciones con asesinos Las cintas de Ted T_2 id_85833": 1784947203,
     "Cuando el polvo se asienta T_2 id_98911": 1784947193,
-    "Cazadores de Sombras T_2 id_12313": 1784947182,
-    "Auschwitz T_2 id_7361": 1784947148
+    "Cazadores de Sombras T_2 id_12313": 1784947182
   }
 }
