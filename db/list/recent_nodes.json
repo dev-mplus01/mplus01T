@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789078114802,
+  "generatedAtWorkerMs": 1789079734540,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785006555816,
-  "latestChangeWorkerMs": 1789078044885,
+  "coverageStartWorkerMs": 1785006583938,
+  "latestChangeWorkerMs": 1789079730737,
   "recentNodesMap": {
+    "Rafa T_2 id_279884": 1789079730,
     "El Palacio Del Este T_6 id_279323": 1789078044,
     "Con la Piel de Gallina T_2 id_78036": 1789073582,
     "El Ensayo T_2 id_204284": 1789071019,
@@ -1010,7 +1011,6 @@
     "Un Amor Tan Hermoso T_6 id_75387": 1785012962,
     "A Love So Beautiful T_2 id_114395": 1785012919,
     "Relaciones Peligrosas T_2 id_32604": 1785006616,
-    "Light Of Dawn T_6 id_258492": 1785006574,
-    "Le Coup De Foudre T_6 id_88927": 1785006545
+    "Light Of Dawn T_6 id_258492": 1785006574
   }
 }
