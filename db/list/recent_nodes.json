@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789020678883,
+  "generatedAtWorkerMs": 1789020787920,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1784947252462,
-  "latestChangeWorkerMs": 1789020608942,
+  "coverageStartWorkerMs": 1784947431141,
+  "latestChangeWorkerMs": 1789020782748,
   "recentNodesMap": {
+    "Devil May Cry T_4 id_235930": 1789020782,
     "Thunder 3 T_4 id_326119": 1789020608,
     "Diarra from Detroit T_2 id_247796": 1789020434,
     "Las azules T_2 id_253983": 1789020293,
@@ -1010,7 +1011,6 @@
     "Mujer Comprada T_5 id_109940": 1784949656,
     "The Judge from Hell T_6 id_235577": 1784948301,
     "Henry Danger T_2 id_61852": 1784947521,
-    "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too T_3 id_208493": 1784947424,
-    "Criminal - UK T_2 id_92926": 1784947245
+    "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too T_3 id_208493": 1784947424
   }
 }
