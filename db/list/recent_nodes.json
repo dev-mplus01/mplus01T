@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789143990204,
+  "generatedAtWorkerMs": 1789144003847,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785350840554,
-  "latestChangeWorkerMs": 1789143965349,
+  "coverageStartWorkerMs": 1785381893251,
+  "latestChangeWorkerMs": 1789144000765,
   "recentNodesMap": {
+    "Katy Keene T_2 id_87539": 1789144000,
     "Kingdom Hospital T_2 id_1617": 1789143965,
     "Kane & Abel T_2 id_29650": 1789143933,
     "Justicia para el pequeño Gabriel T_2 id_99626": 1789143904,
@@ -1010,7 +1011,6 @@
     "Del Sunderland hasta la Muerte T_2 id_84777": 1785381927,
     "Curon T_2 id_103849": 1785381913,
     "Cuentame un cuento T_2 id_62018": 1785381898,
-    "Cuentos para viernes por la noche T_2 id_116150": 1785381883,
-    "Doctor Who T_2 id_57243": 1785350831
+    "Cuentos para viernes por la noche T_2 id_116150": 1785381883
   }
 }
