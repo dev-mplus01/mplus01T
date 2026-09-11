@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789143867940,
+  "generatedAtWorkerMs": 1789143881562,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785307695544,
-  "latestChangeWorkerMs": 1789143828845,
+  "coverageStartWorkerMs": 1785307733639,
+  "latestChangeWorkerMs": 1789143867681,
   "recentNodesMap": {
+    "Jonas T_2 id_12712": 1789143867,
     "Ju On Orígenes T_6 id_103445": 1789143828,
     "El Juicio T_2 id_260249": 1789143796,
     "Fuerza de mujer T_2 id_77532": 1789140184,
@@ -1010,7 +1011,6 @@
     "Doctor Who T_2 id_57243": 1785350831,
     "Bluey Compilaciones T_4 id_328337": 1785309409,
     "Elite id_76669": 1785307757,
-    "Madre T_5 id_68569": 1785307724,
-    "Soy Luna Volver a rodar T_2 id_324434": 1785307685
+    "Madre T_5 id_68569": 1785307724
   }
 }
