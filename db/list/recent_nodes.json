@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789143921965,
+  "generatedAtWorkerMs": 1789143935499,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785307767013,
-  "latestChangeWorkerMs": 1789143904298,
+  "coverageStartWorkerMs": 1785309419411,
+  "latestChangeWorkerMs": 1789143933090,
   "recentNodesMap": {
+    "Kane & Abel T_2 id_29650": 1789143933,
     "Justicia para el pequeño Gabriel T_2 id_99626": 1789143904,
     "Jonas T_2 id_12712": 1789143867,
     "Ju On Orígenes T_6 id_103445": 1789143828,
@@ -1010,7 +1011,6 @@
     "Cuentame un cuento T_2 id_62018": 1785381898,
     "Cuentos para viernes por la noche T_2 id_116150": 1785381883,
     "Doctor Who T_2 id_57243": 1785350831,
-    "Bluey Compilaciones T_4 id_328337": 1785309409,
-    "Elite id_76669": 1785307757
+    "Bluey Compilaciones T_4 id_328337": 1785309409
   }
 }
