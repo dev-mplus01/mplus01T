@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789230670236,
+  "generatedAtWorkerMs": 1789230683478,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785442438939,
-  "latestChangeWorkerMs": 1789230634846,
+  "coverageStartWorkerMs": 1785478717222,
+  "latestChangeWorkerMs": 1789230672102,
   "recentNodesMap": {
+    "Sobreamor T_2 id_107879": 1789230672,
     "Polvo Carnavalero T_5 id_105445": 1789230634,
     "Six T_2 id_66871": 1789230575,
     "Luisana Mia T_5 id_16448": 1789230534,
@@ -1010,7 +1011,6 @@
     "Kyokou Suiri T_3 id_93653": 1785479240,
     "Manifiesto T_2 id_79696": 1785479175,
     "Los Proud La Familia Orgullosa T_4 id_125438": 1785479124,
-    "¡Nos vemos en la oficina! T_6 id_289763": 1785478709,
-    "Devils T_2 id_99741": 1785442429
+    "¡Nos vemos en la oficina! T_6 id_289763": 1785478709
   }
 }
