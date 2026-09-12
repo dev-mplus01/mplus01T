@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789171347149,
+  "generatedAtWorkerMs": 1789172509063,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785398030872,
-  "latestChangeWorkerMs": 1789171344514,
+  "coverageStartWorkerMs": 1785400971744,
+  "latestChangeWorkerMs": 1789172505842,
   "recentNodesMap": {
+    "Seinfeld T_2 id_1400": 1789172505,
     "Resident Alien T_2 id_96580": 1789171344,
     "The Orville T_2 id_71738": 1789170729,
     "Haven T_2 id_33001": 1789169960,
@@ -1010,7 +1011,6 @@
     "Devils T_2 id_99741": 1785442429,
     "Diary of a Future President T_2 id_94761": 1785400994,
     "Dieciocho, veintinueveT_2 id_11866": 1785400979,
-    "La Banda T_2 id_284758": 1785400961,
-    "Dirk Gently T_2 id_67773": 1785398022
+    "La Banda T_2 id_284758": 1785400961
   }
 }
