@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789230710191,
+  "generatedAtWorkerMs": 1789230723547,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785478717222,
-  "latestChangeWorkerMs": 1789230672102,
+  "coverageStartWorkerMs": 1785479133280,
+  "latestChangeWorkerMs": 1789230717557,
   "recentNodesMap": {
+    "Skam (2015) T_2 id_65320": 1789230717,
     "Sobreamor T_2 id_107879": 1789230672,
     "Polvo Carnavalero T_5 id_105445": 1789230634,
     "Six T_2 id_66871": 1789230575,
@@ -1010,7 +1011,6 @@
     "Daniel Spellbound El Cazador De Magia T_4 id_156934": 1785479263,
     "Kyokou Suiri T_3 id_93653": 1785479240,
     "Manifiesto T_2 id_79696": 1785479175,
-    "Los Proud La Familia Orgullosa T_4 id_125438": 1785479124,
-    "¡Nos vemos en la oficina! T_6 id_289763": 1785478709
+    "Los Proud La Familia Orgullosa T_4 id_125438": 1785479124
   }
 }
