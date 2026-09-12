@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789230777469,
+  "generatedAtWorkerMs": 1789230790772,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785479133280,
-  "latestChangeWorkerMs": 1789230717557,
+  "coverageStartWorkerMs": 1785479186111,
+  "latestChangeWorkerMs": 1789230784753,
   "recentNodesMap": {
+    "El Día De La Suerte T_5 id_280692": 1789230784,
     "Skam (2015) T_2 id_65320": 1789230717,
     "Sobreamor T_2 id_107879": 1789230672,
     "Polvo Carnavalero T_5 id_105445": 1789230634,
@@ -1010,7 +1011,6 @@
     "Musafir Cafe T_2 id_313101": 1785538663,
     "Daniel Spellbound El Cazador De Magia T_4 id_156934": 1785479263,
     "Kyokou Suiri T_3 id_93653": 1785479240,
-    "Manifiesto T_2 id_79696": 1785479175,
-    "Los Proud La Familia Orgullosa T_4 id_125438": 1785479124
+    "Manifiesto T_2 id_79696": 1785479175
   }
 }
