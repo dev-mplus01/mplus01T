@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789278474139,
+  "generatedAtWorkerMs": 1789279065116,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785538696503,
-  "latestChangeWorkerMs": 1789278471199,
+  "coverageStartWorkerMs": 1785545127368,
+  "latestChangeWorkerMs": 1789279061839,
   "recentNodesMap": {
+    "ZeroZeroZero T_2 id_92137": 1789279061,
     "Peaky Blinders T_2 id_60574": 1789278471,
     "Las Detectives Y El Victor T_5 id_107041": 1789270074,
     "Valentina Valiente T_5 id_316470": 1789267637,
@@ -1010,7 +1011,6 @@
     "Supergirl id_62688": 1785569581,
     "The Flash id_60735": 1785569537,
     "Arrow id_1412": 1785569482,
-    "Leyends of tomorrow T_2 id_62643": 1785545127,
-    "El Sultán T_5 id_96157": 1785538688
+    "Leyends of tomorrow T_2 id_62643": 1785545127
   }
 }
