@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789325743832,
+  "generatedAtWorkerMs": 1789334768741,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785569491428,
-  "latestChangeWorkerMs": 1789325740923,
+  "coverageStartWorkerMs": 1785569548781,
+  "latestChangeWorkerMs": 1789334765331,
   "recentNodesMap": {
+    "Uno de los nuestros David Chase y Los Soprano T_2 id_260843": 1789334765,
     "Though I Am An Inept Villainess T_3 id_286345": 1789325740,
     "Friends id_1668": 1789323237,
     "American Horror Story T_2 id_1413": 1789316836,
@@ -1010,7 +1011,6 @@
     "Preacher T_2 id_64230": 1785569644,
     "Constantine T_2 id_60743": 1785569608,
     "Supergirl id_62688": 1785569581,
-    "The Flash id_60735": 1785569537,
-    "Arrow id_1412": 1785569482
+    "The Flash id_60735": 1785569537
   }
 }
