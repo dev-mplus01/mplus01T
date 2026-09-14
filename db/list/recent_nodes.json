@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789401410344,
+  "generatedAtWorkerMs": 1789402022114,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785569590762,
-  "latestChangeWorkerMs": 1789401336874,
+  "coverageStartWorkerMs": 1785569617384,
+  "latestChangeWorkerMs": 1789402019452,
   "recentNodesMap": {
+    "The Batman T_4 id_2022": 1789402019,
     "Megas XLR T_3 id_472": 1789401336,
     "Arafta T_5 id_306118": 1789398084,
     "El secreto Güller ve Günahlar T_5 id_300388": 1789397522,
@@ -1010,7 +1011,6 @@
     "Del crepúsculo al amanecer T_2 id_60626": 1785569706,
     "Mr Pickles T_4 id_61593": 1785569674,
     "Preacher T_2 id_64230": 1785569644,
-    "Constantine T_2 id_60743": 1785569608,
-    "Supergirl id_62688": 1785569581
+    "Constantine T_2 id_60743": 1785569608
   }
 }
