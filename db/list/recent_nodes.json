@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789398154831,
+  "generatedAtWorkerMs": 1789401340552,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785569548781,
-  "latestChangeWorkerMs": 1789398084329,
+  "coverageStartWorkerMs": 1785569590762,
+  "latestChangeWorkerMs": 1789401336874,
   "recentNodesMap": {
+    "Megas XLR T_3 id_472": 1789401336,
     "Arafta T_5 id_306118": 1789398084,
     "El secreto Güller ve Günahlar T_5 id_300388": 1789397522,
     "Cuatro Manos Dos Sonatas T_6 id_305644": 1789396168,
@@ -1010,7 +1011,6 @@
     "Mr Pickles T_4 id_61593": 1785569674,
     "Preacher T_2 id_64230": 1785569644,
     "Constantine T_2 id_60743": 1785569608,
-    "Supergirl id_62688": 1785569581,
-    "The Flash id_60735": 1785569537
+    "Supergirl id_62688": 1785569581
   }
 }
