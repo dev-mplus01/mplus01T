@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789438284414,
+  "generatedAtWorkerMs": 1789439203626,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785570122941,
-  "latestChangeWorkerMs": 1789438280344,
+  "coverageStartWorkerMs": 1785575185519,
+  "latestChangeWorkerMs": 1789439199639,
   "recentNodesMap": {
+    "Mugen Gacha T_3 id_278635": 1789439199,
     "Well Intended Love T_6 id_86605": 1789438280,
     "Historia de Dos Ciudades T_2 id_301626": 1789437729,
     "El Marginal T_2 id_67166": 1789436660,
@@ -1010,8 +1011,7 @@
     "Enmusubi No Youko chan T_3 id_72632": 1785696667,
     "Brand New Animal T_3 id_92592": 1785632057,
     "I Love You, You Hate Me T_2 id_211188": 1785596974,
-    "Los Protegidos T_2 id_62466": 1785575176,
-    "Max Steel T_4 id_46974": 1785570114
+    "Los Protegidos T_2 id_62466": 1785575176
   },
-  "snapshotGeneration": "72669968-7d0c-4d4c-992a-03386b01886c"
+  "snapshotGeneration": "959f4172-7ef7-491d-a8a8-b168ec39b334"
 }
