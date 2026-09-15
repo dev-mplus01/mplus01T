@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789430344461,
+  "generatedAtWorkerMs": 1789436664281,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785570013062,
-  "latestChangeWorkerMs": 1789430340458,
+  "coverageStartWorkerMs": 1785570056006,
+  "latestChangeWorkerMs": 1789436660377,
   "recentNodesMap": {
+    "El Marginal T_2 id_67166": 1789436660,
     "Top chef vip T_2 id_209374": 1789430340,
     "Los 4 Fantasticos Superhéroes del Mundo T_4 id_132": 1789428776,
     "Las Tortugas Ninja T_4 id_160": 1789426252,
@@ -1010,8 +1011,7 @@
     "I Love You, You Hate Me T_2 id_211188": 1785596974,
     "Los Protegidos T_2 id_62466": 1785575176,
     "Max Steel T_4 id_46974": 1785570114,
-    "Dragones Carrera al Borde T_4 id_78173": 1785570046,
-    "Cabo de miedo T_2 id_277439": 1785570004
+    "Dragones Carrera al Borde T_4 id_78173": 1785570046
   },
-  "snapshotGeneration": "df44abe1-9b94-49f5-8d53-98b6488f1483"
+  "snapshotGeneration": "e0c43c1a-36c2-4a02-9c97-f6e78e2d2a09"
 }
