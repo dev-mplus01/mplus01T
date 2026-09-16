@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789514731850,
+  "generatedAtWorkerMs": 1789516551168,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Batman El enmascarado T_4 id_125909": 1785701904,
     "Mickey Mouse T_4 id_46879": 1785701671
   },
-  "snapshotGeneration": "88334bde-69b0-4372-80a7-07b3bbc54a5b"
+  "snapshotGeneration": "47a2eb99-342d-43cd-8ca8-ef54f00b50e4"
 }
