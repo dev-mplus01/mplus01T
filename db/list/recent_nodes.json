@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789595959999,
+  "generatedAtWorkerMs": 1789600594532,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785727253617,
-  "latestChangeWorkerMs": 1789595955792,
+  "coverageStartWorkerMs": 1785727284767,
+  "latestChangeWorkerMs": 1789600592460,
   "recentNodesMap": {
+    "La casa de muñecas de Gabby T_4 id_111474": 1789600592,
     "Deep Revenge T_6 id_316205": 1789595955,
     "Margarita Que Tu Cuento Valga la Pena T_2 id_245328": 1789583075,
     "El Señor de los Cielos id_44953": 1789581719,
@@ -1010,8 +1011,7 @@
     "Vivy Fluorite Eye's Song T_3 id_116725": 1785742219,
     "Brandy y El Señor Bigotes T_4 id_618": 1785734522,
     "Personalizando La Felicidad T_6 id_69155": 1785727304,
-    "Reina Dugu T_6 id_86755": 1785727276,
-    "Eres Mi Destino De Amor T_6 id_283961": 1785727244
+    "Reina Dugu T_6 id_86755": 1785727276
   },
-  "snapshotGeneration": "d5cc2ba4-c919-4c7b-b297-0a8136d8f851"
+  "snapshotGeneration": "40860420-c790-40f6-835e-6d7c5dcbd5e2"
 }
