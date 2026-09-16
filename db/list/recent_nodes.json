@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789529634892,
+  "generatedAtWorkerMs": 1789530185085,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785701917918,
-  "latestChangeWorkerMs": 1789529631002,
+  "coverageStartWorkerMs": 1785702047349,
+  "latestChangeWorkerMs": 1789530180715,
   "recentNodesMap": {
+    "Kick Buttowski Medio Doble de Riesgo T_4 id_17572": 1789530180,
     "Mudanzas al Cielo T_2 id_96571": 1789529631,
     "Transformers La Chispa De La Tierra T_4 id_157747": 1789526915,
     "Las azules T_2 id_253983": 1789525639,
@@ -1010,8 +1011,7 @@
     "Ame No Jikenbo T_3 id_276110": 1785722479,
     "CIA T_2 id_289560": 1785722176,
     "Komi Cant Communicate T_6 id_129637": 1785716800,
-    "Eve T_6 id_138251": 1785702036,
-    "Batman El enmascarado T_4 id_125909": 1785701904
+    "Eve T_6 id_138251": 1785702036
   },
-  "snapshotGeneration": "eb5280f8-d0c4-465b-8bf2-189324fbf4b6"
+  "snapshotGeneration": "fbcd3980-f387-42b4-826d-f8d8dd5466af"
 }
