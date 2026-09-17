@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789625539719,
+  "generatedAtWorkerMs": 1789625583811,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785964873876,
-  "latestChangeWorkerMs": 1789625535719,
+  "coverageStartWorkerMs": 1785964889329,
+  "latestChangeWorkerMs": 1789625579027,
   "recentNodesMap": {
+    "La bella y la bestia T_2 id_64248": 1789625579,
     "Knightfall T_2 id_73117": 1789625535,
     "La Diosa Coronada T_2 id_33219": 1789625490,
     "Bazurto T_5 id_104963": 1789625442,
@@ -1010,8 +1011,7 @@
     "El Asesino sin Rostro T_2 id_103023": 1785964925,
     "El Asesino Oculto En La Mente de Aaron Hernandez T_2 id_97062": 1785964910,
     "Distrito Salvaje T_2 id_83245": 1785964897,
-    "Distanciamiento Social T_2 id_110862": 1785964879,
-    "El Ascenso del Partido Nazi T_2 id_82710": 1785964865
+    "Distanciamiento Social T_2 id_110862": 1785964879
   },
-  "snapshotGeneration": "f62811f5-da5f-4a5d-bce7-6ca1bc828e61"
+  "snapshotGeneration": "d29b4e61-dca4-4bb9-af7a-852a88f91c7c"
 }
