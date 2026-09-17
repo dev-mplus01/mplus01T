@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789602403473,
+  "generatedAtWorkerMs": 1789611357893,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785727284767,
-  "latestChangeWorkerMs": 1789600592460,
+  "coverageStartWorkerMs": 1785727314388,
+  "latestChangeWorkerMs": 1789611353754,
   "recentNodesMap": {
+    "Black Bullet T_3 id_60834": 1789611353,
     "La casa de muñecas de Gabby T_4 id_111474": 1789600592,
     "Deep Revenge T_6 id_316205": 1789595955,
     "Margarita Que Tu Cuento Valga la Pena T_2 id_245328": 1789583075,
@@ -1010,8 +1011,7 @@
     "Shingeki No Kyojin T_3 id_1429": 1785742257,
     "Vivy Fluorite Eye's Song T_3 id_116725": 1785742219,
     "Brandy y El Señor Bigotes T_4 id_618": 1785734522,
-    "Personalizando La Felicidad T_6 id_69155": 1785727304,
-    "Reina Dugu T_6 id_86755": 1785727276
+    "Personalizando La Felicidad T_6 id_69155": 1785727304
   },
-  "snapshotGeneration": "8070fc01-85cd-42a5-ad9f-e9efaf793d9a"
+  "snapshotGeneration": "328df7ca-3f30-42b1-8aad-0f23e31985ad"
 }
