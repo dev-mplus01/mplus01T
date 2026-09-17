@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789671882921,
+  "generatedAtWorkerMs": 1789672020630,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785982866636,
-  "latestChangeWorkerMs": 1789671877856,
+  "coverageStartWorkerMs": 1785983614562,
+  "latestChangeWorkerMs": 1789672016145,
   "recentNodesMap": {
+    "Golden Axe T_4 id_252105": 1789672016,
     "La Muñeca T_2 id_295089": 1789671877,
     "Amores Inesperados T_2 id_316488": 1789671758,
     "Ciudad de Sangre T_2 id_332401": 1789671642,
@@ -1010,8 +1011,7 @@
     "Violetta T_2 id_61720": 1786049392,
     "29 Sai Dokushin Chuuken Boukensha T_3 id_290667": 1786049042,
     "Masha y el oso T_4 id_46080": 1786047747,
-    "Carmencita La Cuaima T_5 id_323227": 1785983605,
-    "YAIBA - Samurai Legend T_3 id_254017": 1785982866
+    "Carmencita La Cuaima T_5 id_323227": 1785983605
   },
-  "snapshotGeneration": "d974afa6-1adf-4939-9813-325dcda84351"
+  "snapshotGeneration": "407a6063-285e-4462-836c-352b87c92152"
 }
