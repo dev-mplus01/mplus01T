@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789612929918,
+  "generatedAtWorkerMs": 1789613449055,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785742306921,
-  "latestChangeWorkerMs": 1789612925884,
+  "coverageStartWorkerMs": 1785742348495,
+  "latestChangeWorkerMs": 1789613445257,
   "recentNodesMap": {
+    "Maou Gakuin no Futekigousha T_3 id_97617": 1789613445,
     "Mahouka Koukou No Rettousei T_3 id_60833": 1789612925,
     "Kenja no Mago T_3 id_85844": 1789612052,
     "Ichiban Ushiro no Daimaou T_3 id_42413": 1789611849,
@@ -1010,8 +1011,7 @@
     "Furioso T_2 id_292533": 1785792189,
     "Komi-san no puede comunicarse T_3 id_123876": 1785777788,
     "Furioso T_2 id_282533": 1785777519,
-    "DC's Stargirl T_2 id_80986": 1785742337,
-    "SANDA T_3 id_258901": 1785742298
+    "DC's Stargirl T_2 id_80986": 1785742337
   },
-  "snapshotGeneration": "913be9ba-6c78-46d3-aac4-22623504adb6"
+  "snapshotGeneration": "cd116551-a527-4a01-bf06-aeecf01b0865"
 }
