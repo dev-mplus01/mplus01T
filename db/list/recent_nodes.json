@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789614893687,
+  "generatedAtWorkerMs": 1789618818912,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785792197935,
-  "latestChangeWorkerMs": 1789614889530,
+  "coverageStartWorkerMs": 1785810546139,
+  "latestChangeWorkerMs": 1789618814230,
   "recentNodesMap": {
+    "Samurai X T_3 id_210879": 1789618814,
     "Mugen no Junin - Immortal T_3 id_92090": 1789614889,
     "Party kara Tsuihou sareta Sono Chiyushi T_3 id_244625": 1789614207,
     "Meikyuu Black Company T_3 id_105476": 1789613763,
@@ -1010,8 +1011,7 @@
     "Agente Kim Reactivado T_6 id_296206": 1785833055,
     "Spy X Family T_3 id_120089": 1785811946,
     "Black Butler T_3 id_50712": 1785811680,
-    "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You T_3 id_223564": 1785810546,
-    "Furioso T_2 id_292533": 1785792189
+    "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You T_3 id_223564": 1785810546
   },
-  "snapshotGeneration": "4afc0eda-ca67-4d11-973c-42c1089d5632"
+  "snapshotGeneration": "b8fe337f-5567-4908-8f6a-c5ceb5003a73"
 }
