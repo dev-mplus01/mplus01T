@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789619352215,
+  "generatedAtWorkerMs": 1789619555131,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785811680025,
-  "latestChangeWorkerMs": 1789619347615,
+  "coverageStartWorkerMs": 1785811946770,
+  "latestChangeWorkerMs": 1789619550607,
   "recentNodesMap": {
+    "Zombie Land SAGA T_3 id_82822": 1789619550,
     "Shikkakumon no Saikyou Kenja T_3 id_117884": 1789619347,
     "Samurai X T_3 id_210879": 1789618814,
     "Mugen no Junin - Immortal T_3 id_92090": 1789614889,
@@ -1010,8 +1011,7 @@
     "Avenue 5 T_2 id_90811": 1785862653,
     "Las kardashians T_2 id_154521": 1785862422,
     "Agente Kim Reactivado T_6 id_296206": 1785833055,
-    "Spy X Family T_3 id_120089": 1785811946,
-    "Black Butler T_3 id_50712": 1785811680
+    "Spy X Family T_3 id_120089": 1785811946
   },
-  "snapshotGeneration": "22196ed0-6875-4edb-ae5f-bfa43c5f803d"
+  "snapshotGeneration": "69eaeaa6-162b-4fc9-9aeb-9e8d3cccbea8"
 }
