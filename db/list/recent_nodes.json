@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789613449055,
+  "generatedAtWorkerMs": 1789613767383,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1785742348495,
-  "latestChangeWorkerMs": 1789613445257,
+  "coverageStartWorkerMs": 1785777527618,
+  "latestChangeWorkerMs": 1789613763928,
   "recentNodesMap": {
+    "Meikyuu Black Company T_3 id_105476": 1789613763,
     "Maou Gakuin no Futekigousha T_3 id_97617": 1789613445,
     "Mahouka Koukou No Rettousei T_3 id_60833": 1789612925,
     "Kenja no Mago T_3 id_85844": 1789612052,
@@ -1010,8 +1011,7 @@
     "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You T_3 id_223564": 1785810546,
     "Furioso T_2 id_292533": 1785792189,
     "Komi-san no puede comunicarse T_3 id_123876": 1785777788,
-    "Furioso T_2 id_282533": 1785777519,
-    "DC's Stargirl T_2 id_80986": 1785742337
+    "Furioso T_2 id_282533": 1785777519
   },
-  "snapshotGeneration": "cd116551-a527-4a01-bf06-aeecf01b0865"
+  "snapshotGeneration": "8efd74c0-c87d-4937-b17f-a0166656cb9c"
 }
