@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789788955223,
+  "generatedAtWorkerMs": 1789788989836,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786154701237,
-  "latestChangeWorkerMs": 1789788945731,
+  "coverageStartWorkerMs": 1786154900353,
+  "latestChangeWorkerMs": 1789788983438,
   "recentNodesMap": {
+    "La Pequeña Maravilla T_2 id_2898": 1789788983,
     "Isa TKM T_5 id_18594": 1789788945,
     "La Vibora Negra T_2 id_7246": 1789788873,
     "La Princesa del Rock T_2 id_8203": 1789788842,
@@ -1010,8 +1011,7 @@
     "Falsa Identidad T_5 id_82809": 1786159805,
     "Camaleones T_5 id_18689": 1786159448,
     "Los Thunderman Encubiertos T_2 id_254653": 1786156764,
-    "Muertos SL T_2 id_237964": 1786154900,
-    "La Piloto T_2 id_72306": 1786154701
+    "Muertos SL T_2 id_237964": 1786154900
   },
-  "snapshotGeneration": "4c1df58a-1885-45e6-8702-046590784427"
+  "snapshotGeneration": "9baf66e3-6e09-41e2-b9b7-18c967222971"
 }
