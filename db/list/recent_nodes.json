@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789788989836,
+  "generatedAtWorkerMs": 1789789022479,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786154900353,
-  "latestChangeWorkerMs": 1789788983438,
+  "coverageStartWorkerMs": 1786156764508,
+  "latestChangeWorkerMs": 1789789014302,
   "recentNodesMap": {
+    "La Segunda Guerra Mundial A Todo Color T_2 id_42154": 1789789014,
     "La Pequeña Maravilla T_2 id_2898": 1789788983,
     "Isa TKM T_5 id_18594": 1789788945,
     "La Vibora Negra T_2 id_7246": 1789788873,
@@ -1010,8 +1011,7 @@
     "London Kills T_2 id_85547": 1786160568,
     "Falsa Identidad T_5 id_82809": 1786159805,
     "Camaleones T_5 id_18689": 1786159448,
-    "Los Thunderman Encubiertos T_2 id_254653": 1786156764,
-    "Muertos SL T_2 id_237964": 1786154900
+    "Los Thunderman Encubiertos T_2 id_254653": 1786156764
   },
-  "snapshotGeneration": "9baf66e3-6e09-41e2-b9b7-18c967222971"
+  "snapshotGeneration": "4fa4f074-05c2-4fdd-ab77-0d77edc20448"
 }
