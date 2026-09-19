@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789781187178,
+  "generatedAtWorkerMs": 1789788846482,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786130797220,
-  "latestChangeWorkerMs": 1789781183749,
+  "coverageStartWorkerMs": 1786142141236,
+  "latestChangeWorkerMs": 1789788842774,
   "recentNodesMap": {
+    "La Princesa del Rock T_2 id_8203": 1789788842,
     "Heartland T_2 id_14929": 1789781183,
     "Bajoterra T_4 id_46994": 1789777874,
     "Los Soprano id_1398": 1789777595,
@@ -1010,8 +1011,7 @@
     "Muertos SL T_2 id_237964": 1786154900,
     "La Piloto T_2 id_72306": 1786154701,
     "Ruri Rocks T_3 id_271649": 1786153974,
-    "Padre de Familia T_4 id_1434": 1786142141,
-    "FBI T_2 id_80748": 1786130797
+    "Padre de Familia T_4 id_1434": 1786142141
   },
-  "snapshotGeneration": "f076885b-c83d-4b43-8411-1ed50d9ec579"
+  "snapshotGeneration": "af414457-2f0d-4d02-bf91-9ebf32dfd741"
 }
