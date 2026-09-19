@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789777204953,
+  "generatedAtWorkerMs": 1789777599251,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786091077711,
-  "latestChangeWorkerMs": 1789777200037,
+  "coverageStartWorkerMs": 1786130797220,
+  "latestChangeWorkerMs": 1789777595555,
   "recentNodesMap": {
+    "Los Soprano id_1398": 1789777595,
     "Loonatics Unleashed T_4 id_1977": 1789777200,
     "Tierra de Mafia T_2 id_247718": 1789776952,
     "The Walking Dead Ciudad muerta T_2 id_194583": 1789776811,
@@ -1010,8 +1011,7 @@
     "La Piloto T_2 id_72306": 1786154701,
     "Ruri Rocks T_3 id_271649": 1786153974,
     "Padre de Familia T_4 id_1434": 1786142141,
-    "FBI T_2 id_80748": 1786130797,
-    "Locker Diaries Zombies T_2 id_313973": 1786091077
+    "FBI T_2 id_80748": 1786130797
   },
-  "snapshotGeneration": "44e09445-9479-42ff-8e87-70796963e2c0"
+  "snapshotGeneration": "2dc86541-0196-44f3-ae69-7eb7b3b54682"
 }
