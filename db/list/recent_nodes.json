@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789789102798,
+  "generatedAtWorkerMs": 1789789128665,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786160568502,
-  "latestChangeWorkerMs": 1789789094735,
+  "coverageStartWorkerMs": 1786161949486,
+  "latestChangeWorkerMs": 1789789124177,
   "recentNodesMap": {
+    "Las Luminarias T_2 id_95211": 1789789124,
     "La temporada de asesinatos T_2 id_68505": 1789789094,
     "La Ultima palabra T_2 id_110152": 1789789066,
     "La Linea Shadow of Narco T_2 id_107904": 1789789040,
@@ -1010,8 +1011,7 @@
     "Masamune-kun's Revenge T_3 id_69295": 1786166425,
     "Marbella T_2 id_242008": 1786163686,
     "Persona 4 The Animation T_3 id_46388": 1786163411,
-    "Inazuma Eleven T_3 id_42912": 1786161949,
-    "London Kills T_2 id_85547": 1786160568
+    "Inazuma Eleven T_3 id_42912": 1786161949
   },
-  "snapshotGeneration": "c50573f3-ccc8-4817-8b5f-93359d8d2da8"
+  "snapshotGeneration": "81ac1de9-68ae-4ba9-bfb4-4e70da35a567"
 }
