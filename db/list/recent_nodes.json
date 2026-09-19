@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789788876866,
+  "generatedAtWorkerMs": 1789788955223,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786153974731,
-  "latestChangeWorkerMs": 1789788873895,
+  "coverageStartWorkerMs": 1786154701237,
+  "latestChangeWorkerMs": 1789788945731,
   "recentNodesMap": {
+    "Isa TKM T_5 id_18594": 1789788945,
     "La Vibora Negra T_2 id_7246": 1789788873,
     "La Princesa del Rock T_2 id_8203": 1789788842,
     "Heartland T_2 id_14929": 1789781183,
@@ -1010,8 +1011,7 @@
     "Camaleones T_5 id_18689": 1786159448,
     "Los Thunderman Encubiertos T_2 id_254653": 1786156764,
     "Muertos SL T_2 id_237964": 1786154900,
-    "La Piloto T_2 id_72306": 1786154701,
-    "Ruri Rocks T_3 id_271649": 1786153974
+    "La Piloto T_2 id_72306": 1786154701
   },
-  "snapshotGeneration": "315bf435-1a34-4648-a424-b42ed7e39bb9"
+  "snapshotGeneration": "4c1df58a-1885-45e6-8702-046590784427"
 }
