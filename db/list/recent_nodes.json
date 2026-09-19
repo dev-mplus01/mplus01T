@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789788846482,
+  "generatedAtWorkerMs": 1789788876866,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786142141236,
-  "latestChangeWorkerMs": 1789788842774,
+  "coverageStartWorkerMs": 1786153974731,
+  "latestChangeWorkerMs": 1789788873895,
   "recentNodesMap": {
+    "La Vibora Negra T_2 id_7246": 1789788873,
     "La Princesa del Rock T_2 id_8203": 1789788842,
     "Heartland T_2 id_14929": 1789781183,
     "Bajoterra T_4 id_46994": 1789777874,
@@ -1010,8 +1011,7 @@
     "Los Thunderman Encubiertos T_2 id_254653": 1786156764,
     "Muertos SL T_2 id_237964": 1786154900,
     "La Piloto T_2 id_72306": 1786154701,
-    "Ruri Rocks T_3 id_271649": 1786153974,
-    "Padre de Familia T_4 id_1434": 1786142141
+    "Ruri Rocks T_3 id_271649": 1786153974
   },
-  "snapshotGeneration": "af414457-2f0d-4d02-bf91-9ebf32dfd741"
+  "snapshotGeneration": "315bf435-1a34-4648-a424-b42ed7e39bb9"
 }
