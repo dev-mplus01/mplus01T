@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1789865508402,
+  "generatedAtWorkerMs": 1789883663955,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Nadie nos va a extrañar T_2 id_259666": 1786169352,
     "Sugar T_2 id_203744": 1786168672
   },
-  "snapshotGeneration": "338260fa-5172-4393-9f50-198867606970"
+  "snapshotGeneration": "4553e57d-ceeb-45b2-ace2-3ee4ff7fac65"
 }
