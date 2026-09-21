@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790024670934,
+  "generatedAtWorkerMs": 1790028468777,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1786208711264,
-  "latestChangeWorkerMs": 1790024667729,
+  "latestChangeWorkerMs": 1790028465841,
   "recentNodesMap": {
+    "Heartland T_2 id_14929": 1790028465,
     "Una familia con Suerte T_5 id_37652": 1790024667,
     "THE GHOST IN THE SHELL T_3 id_255358": 1790023281,
     "Hanaori-san Still Wants to Fight in the Next Life T_3 id_312266": 1790023122,
@@ -40,7 +41,6 @@
     "Isa TKM T_5 id_18594": 1789788945,
     "La Vibora Negra T_2 id_7246": 1789788873,
     "La Princesa del Rock T_2 id_8203": 1789788842,
-    "Heartland T_2 id_14929": 1789781183,
     "Bajoterra T_4 id_46994": 1789777874,
     "Los Soprano id_1398": 1789777595,
     "Loonatics Unleashed T_4 id_1977": 1789777200,
@@ -1013,5 +1013,5 @@
     "Operación Safed Sagar T_2 id_284753": 1786208723,
     "Cosita Linda T_5 id_55029": 1786208711
   },
-  "snapshotGeneration": "80de11e9-6da1-402f-b8c6-e5abbbe9a640"
+  "snapshotGeneration": "475e5374-ad6f-43c1-b099-88a267b47a34"
 }
