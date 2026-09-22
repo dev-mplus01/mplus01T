@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790104737197,
+  "generatedAtWorkerMs": 1790113088722,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786413332255,
-  "latestChangeWorkerMs": 1790104732776,
+  "coverageStartWorkerMs": 1786414906245,
+  "latestChangeWorkerMs": 1790113085319,
   "recentNodesMap": {
+    "Black Clover T_3 id_73223": 1790113085,
     "El Señor de los Cielos id_44953": 1790104732,
     "Autumn Tale T_6 id_14807": 1790101002,
     "Cautiva T_2 id_333631": 1790060743,
@@ -1010,8 +1011,7 @@
     "El fantasma de la opera T_2 id_47439": 1786476648,
     "El Dandy T_2 id_64566": 1786476636,
     "Smoking Behind the Supermarket with You T_3 id_296286": 1786417861,
-    "Rebelde Way T_5 id_9027": 1786414906,
-    "You And I Are Polar Opposites T_3 id_278043": 1786413332
+    "Rebelde Way T_5 id_9027": 1786414906
   },
-  "snapshotGeneration": "ba91e2b4-9efe-425c-a220-b5921c856c80"
+  "snapshotGeneration": "768e60a5-5c12-4414-8e37-aacebfd29614"
 }
