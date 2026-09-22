@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790036060923,
+  "generatedAtWorkerMs": 1790037637545,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786246062511,
-  "latestChangeWorkerMs": 1790036058084,
+  "coverageStartWorkerMs": 1786254591881,
+  "latestChangeWorkerMs": 1790037633851,
   "recentNodesMap": {
+    "Harry Potter Los magos de la repostería T_2 id_254514": 1790037633,
     "Phantom T_4 id_2017": 1790036058,
     "Encuéntrame en París T_2 id_82199": 1790034674,
     "Arafta T_5 id_306118": 1790034363,
@@ -1010,8 +1011,7 @@
     "1670 T_2 id_236450": 1786272187,
     "Esto no pasa como gasto T_6 id_91618": 1786261718,
     "Flores en el ático El origen T_2 id_203728": 1786261705,
-    "El Señor de los Cielos Sus Comienzos T_2 id_235759": 1786254591,
-    "Scooped Up by an S Ranked T_3 id_284771": 1786246062
+    "El Señor de los Cielos Sus Comienzos T_2 id_235759": 1786254591
   },
-  "snapshotGeneration": "75ae739b-de6b-40e5-b08c-d2c4c0b47cad"
+  "snapshotGeneration": "899cbf45-da44-4fa5-bd9d-5850e41f8075"
 }
