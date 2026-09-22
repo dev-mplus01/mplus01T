@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790037906594,
+  "generatedAtWorkerMs": 1790038177043,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786254591881,
-  "latestChangeWorkerMs": 1790037902830,
+  "coverageStartWorkerMs": 1786261705019,
+  "latestChangeWorkerMs": 1790038173545,
   "recentNodesMap": {
+    "Mazatlán Shore T_2 id_240433": 1790038173,
     "La Forense T_2 id_85586": 1790037902,
     "Harry Potter Los magos de la repostería T_2 id_254514": 1790037633,
     "Phantom T_4 id_2017": 1790036058,
@@ -1010,8 +1011,7 @@
     "Los dueños del juego T_2 id_282440": 1786273461,
     "1670 T_2 id_236450": 1786272187,
     "Esto no pasa como gasto T_6 id_91618": 1786261718,
-    "Flores en el ático El origen T_2 id_203728": 1786261705,
-    "El Señor de los Cielos Sus Comienzos T_2 id_235759": 1786254591
+    "Flores en el ático El origen T_2 id_203728": 1786261705
   },
-  "snapshotGeneration": "1f00e6a1-754b-4f53-a0bd-1478fcf7f0e7"
+  "snapshotGeneration": "7bbdeb82-72bf-40f6-8e24-20e98b579ad9"
 }
