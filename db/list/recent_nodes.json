@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790164694639,
+  "generatedAtWorkerMs": 1790174587007,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786486555429,
-  "latestChangeWorkerMs": 1790143679032,
+  "coverageStartWorkerMs": 1786487928194,
+  "latestChangeWorkerMs": 1790174581086,
   "recentNodesMap": {
+    "Krypto el Superperro T_4 id_1453": 1790174581,
     "Los días de Ayotzinapa T_2 id_90921": 1790143679,
     "Lizzie McGuire T_2 id_4575": 1790143658,
     "Los internacionales T_2 id_114091": 1790143619,
@@ -1010,8 +1011,7 @@
     "Tan Muertos como Yo T_2 id_2566": 1786563227,
     "B My Boyz T_6 id_291742": 1786554986,
     "Mar De Esperanza T_2 id_128398": 1786507540,
-    "Jesus T_2 id_80825": 1786487928,
-    "30 Rock T_2 id_4608": 1786486555
+    "Jesus T_2 id_80825": 1786487928
   },
-  "snapshotGeneration": "7c2ccb6c-5e6b-41f5-930b-76241570c273"
+  "snapshotGeneration": "62031513-cb31-40aa-9481-e06c337c873f"
 }
