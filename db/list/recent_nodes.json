@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790203552362,
+  "generatedAtWorkerMs": 1790203598012,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786507540098,
-  "latestChangeWorkerMs": 1790203548226,
+  "coverageStartWorkerMs": 1786554986072,
+  "latestChangeWorkerMs": 1790203590552,
   "recentNodesMap": {
+    "Amos Del Universo Historias de Eternia T_4 id_331349": 1790203590,
     "Wonka el boleto dorado T_2 id_286940": 1790203548,
     "Margarita Que Tu Cuento Valga la Pena T_2 id_245328": 1790193270,
     "El Señor de los Cielos id_44953": 1790192431,
@@ -1010,8 +1011,7 @@
     "Rápidos y furiosos Espías al volante T_4 id_95594": 1786564966,
     "Memento Mori T_2 id_234921": 1786564136,
     "Tan Muertos como Yo T_2 id_2566": 1786563227,
-    "B My Boyz T_6 id_291742": 1786554986,
-    "Mar De Esperanza T_2 id_128398": 1786507540
+    "B My Boyz T_6 id_291742": 1786554986
   },
-  "snapshotGeneration": "193f6973-57b6-4bdf-bce7-d80bc8b594c2"
+  "snapshotGeneration": "b6900980-1c63-4ae1-865c-5a72996ff598"
 }
