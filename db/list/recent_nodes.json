@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790143365220,
+  "generatedAtWorkerMs": 1790143390842,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786417861715,
-  "latestChangeWorkerMs": 1790143360739,
+  "coverageStartWorkerMs": 1786476636680,
+  "latestChangeWorkerMs": 1790143387506,
   "recentNodesMap": {
+    "Academia Minerva T_2 id_312557": 1790143387,
     "Crossing Lines T_2 id_46975": 1790143360,
     "El secreto Güller ve Günahlar T_5 id_300388": 1790122899,
     "Black Clover T_3 id_73223": 1790113085,
@@ -1010,8 +1011,7 @@
     "El Club T_2 id_95467": 1786476681,
     "El Pantano T_2 id_81686": 1786476661,
     "El fantasma de la opera T_2 id_47439": 1786476648,
-    "El Dandy T_2 id_64566": 1786476636,
-    "Smoking Behind the Supermarket with You T_3 id_296286": 1786417861
+    "El Dandy T_2 id_64566": 1786476636
   },
-  "snapshotGeneration": "736f8509-ba84-449d-a076-e2f5ddb3a76a"
+  "snapshotGeneration": "ebc75995-9f84-44e1-bc7a-2cce7bd06cbd"
 }
