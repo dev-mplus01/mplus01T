@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790279294026,
+  "generatedAtWorkerMs": 1790279332070,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786840397258,
-  "latestChangeWorkerMs": 1790279290137,
+  "coverageStartWorkerMs": 1786842527127,
+  "latestChangeWorkerMs": 1790279324055,
   "recentNodesMap": {
+    "Maou jou de Oyasumi T_3 id_97923": 1790279324,
     "Ghosting T_6 id_290126": 1790279290,
     "Blue Archive The Animation T_3 id_218833": 1790279258,
     "Love Conspiracy T_6 id_274621": 1790279217,
@@ -1010,8 +1011,7 @@
     "B The Beginning T_3 id_77529": 1786854400,
     "Witch Hat Atelier T_3 id_196950": 1786848950,
     "Koutetsujou no Kabaneri T_3 id_65945": 1786848771,
-    "Parasyte T_3 id_61459": 1786842527,
-    "Ore wo Suki Nano T_3 id_93019": 1786840397
+    "Parasyte T_3 id_61459": 1786842527
   },
-  "snapshotGeneration": "6501ffcd-f88a-48a6-9259-36d2fa1d89a4"
+  "snapshotGeneration": "5d8c33b7-5b24-4035-9d8a-e8b2cdeb06be"
 }
