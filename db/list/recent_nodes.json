@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790279061252,
+  "generatedAtWorkerMs": 1790279091621,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786765688922,
-  "latestChangeWorkerMs": 1790279054203,
+  "coverageStartWorkerMs": 1786766808777,
+  "latestChangeWorkerMs": 1790279085126,
   "recentNodesMap": {
+    "Logans Run T_2 id_36626": 1790279085,
     "Everbloom Dynasty T_6 id_298627": 1790279054,
     "Falling Into Your Smile T_6 id_95486": 1790279020,
     "Basilisk The Ouka Ninja Scrolls id_9410": 1790277919,
@@ -1010,8 +1011,7 @@
     "Fate Grand Order Zettai Majuu Sensen Babylonia T_3 id_90677": 1786839357,
     "Yuusha no Kuzu T_3 id_284432": 1786837751,
     "Cowboy Copenhague T_2 id_206510": 1786773921,
-    "La Chica de Nieve T_2 id_215333": 1786766808,
-    "El Show De Cuphead T_4 id_103786": 1786765688
+    "La Chica de Nieve T_2 id_215333": 1786766808
   },
-  "snapshotGeneration": "b5f5f7c8-a97f-4803-a3d4-4800f5433b13"
+  "snapshotGeneration": "b6072346-7a62-4710-b4fd-ac7fa19cec59"
 }
