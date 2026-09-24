@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790230220142,
+  "generatedAtWorkerMs": 1790230260276,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786635827650,
-  "latestChangeWorkerMs": 1790230212863,
+  "coverageStartWorkerMs": 1786635984145,
+  "latestChangeWorkerMs": 1790230246688,
   "recentNodesMap": {
+    "Last Resort 1080p DUAL T_2 id_44652": 1790230246,
     "Miru Tights T_3 id_86823": 1790230212,
     "Mars Red T_3 id_99099": 1790230183,
     "Magia Record Mahou Shoujo Madoka Magica Gaiden T_3 id_94523": 1790230155,
@@ -1010,8 +1011,7 @@
     "Harley Quinn T_4 id_74440": 1786636354,
     "Ella Era Bonita T_2 id_63767": 1786636182,
     "El horror de Dolores Roach T_2 id_217825": 1786636120,
-    "El Diario de las Hadas T_4 id_218577": 1786635984,
-    "Dragon Ball Heroes T_3 id_80020": 1786635827
+    "El Diario de las Hadas T_4 id_218577": 1786635984
   },
-  "snapshotGeneration": "e62951bb-76cf-4f83-9897-56d521d635b1"
+  "snapshotGeneration": "237fcb35-993a-4385-9846-54e61dc12b1b"
 }
