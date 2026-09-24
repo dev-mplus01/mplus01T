@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790214485835,
+  "generatedAtWorkerMs": 1790215444214,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786585058734,
-  "latestChangeWorkerMs": 1790214482015,
+  "coverageStartWorkerMs": 1786586479569,
+  "latestChangeWorkerMs": 1790215439565,
   "recentNodesMap": {
+    "Watchmen id_79788": 1790215439,
     "El Mundo de Craig T_4 id_79061": 1790214482,
     "La Rosa de Guadalupe T_5 id_30826": 1790213761,
     "The Leftlovers T_2 id_54344": 1790213606,
@@ -1010,8 +1011,7 @@
     "Masada T_2 id_13397": 1786605150,
     "Amores verdaderos T_5 id_46901": 1786600431,
     "Una tienda para asesinos T_6 id_215072": 1786599253,
-    "13 Miedos T_2 id_62932": 1786586479,
-    "Power Book III Raising Kanan T_2 id_124394": 1786585058
+    "13 Miedos T_2 id_62932": 1786586479
   },
-  "snapshotGeneration": "bbe007f1-8a77-49f4-ae25-06e22398fcc2"
+  "snapshotGeneration": "ef9da46c-31f9-4976-af54-667a8121f2b2"
 }
