@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790291157803,
+  "generatedAtWorkerMs": 1790292182838,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787111615542,
-  "latestChangeWorkerMs": 1790291148290,
+  "coverageStartWorkerMs": 1787113999120,
+  "latestChangeWorkerMs": 1790292178213,
   "recentNodesMap": {
+    "Los Borgias T_2 id_33025": 1790292178,
     "Gekkan Shoujo Nozaki-kun T_3 id_61379": 1790291148,
     "Roswell T_2 id_82001": 1790291113,
     "Shaque No confíes en nadie T_2 id_285147": 1790291071,
@@ -1010,8 +1011,7 @@
     "Alerta Aeropuerto T_2 id_101129": 1787166061,
     "Albertano Contra Los Mostros T_2 id_197888": 1787166003,
     "A Splendid Match T_6 id_283952": 1787165975,
-    "Miraculous Las Aventuras De Lady Bug T_4 id_65334": 1787113999,
-    "911 Nashville T_2 id_284838": 1787111615
+    "Miraculous Las Aventuras De Lady Bug T_4 id_65334": 1787113999
   },
-  "snapshotGeneration": "75208cea-96fa-4413-a517-5412fdc499ad"
+  "snapshotGeneration": "ed4f7059-1874-40d2-84c6-7a3e5cf7236c"
 }
