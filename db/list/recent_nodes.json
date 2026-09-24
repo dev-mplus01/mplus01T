@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790279394513,
+  "generatedAtWorkerMs": 1790279426522,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786842527127,
-  "latestChangeWorkerMs": 1790279389056,
+  "coverageStartWorkerMs": 1786848771242,
+  "latestChangeWorkerMs": 1790279423789,
   "recentNodesMap": {
+    "Los Misterios de Murdoch T_2 id_12786": 1790279423,
     "Madoka Magica T_3 id_39218": 1790279389,
     "La Hija Prodiga T_5 id_82779": 1790279355,
     "Maou jou de Oyasumi T_3 id_97923": 1790279324,
@@ -1010,8 +1011,7 @@
     "El Juramento T_5 id_208376": 1786855707,
     "B The Beginning T_3 id_77529": 1786854400,
     "Witch Hat Atelier T_3 id_196950": 1786848950,
-    "Koutetsujou no Kabaneri T_3 id_65945": 1786848771,
-    "Parasyte T_3 id_61459": 1786842527
+    "Koutetsujou no Kabaneri T_3 id_65945": 1786848771
   },
-  "snapshotGeneration": "0862d24b-bbd6-4648-8d42-5492f16c9f6e"
+  "snapshotGeneration": "edb26f41-31ea-4e66-a52f-563a42c5bc4d"
 }
