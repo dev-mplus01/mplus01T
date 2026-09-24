@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790273791554,
+  "generatedAtWorkerMs": 1790273820318,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786685142764,
-  "latestChangeWorkerMs": 1790273785476,
+  "coverageStartWorkerMs": 1786685177447,
+  "latestChangeWorkerMs": 1790273816739,
   "recentNodesMap": {
+    "La Banda T_2 id_284758": 1790273816,
     "Del Sunderland hasta la Muerte T_2 id_84777": 1790273785,
     "Desde otro Lugar T_2 id_81241": 1790273745,
     "Curon T_2 id_103849": 1790273698,
@@ -1010,8 +1011,7 @@
     "Beelzebub T_3 id_38603": 1786685764,
     "¡Guau que amigo! T_2 id_97441": 1786685739,
     "Llantas T_2 id_247522": 1786685567,
-    "Una Voluntad Eterna T_3 id_107371": 1786685177,
-    "Full Metal Alchemist T_3 id_31911": 1786685142
+    "Una Voluntad Eterna T_3 id_107371": 1786685177
   },
-  "snapshotGeneration": "baec1c00-324d-40c3-bb08-288d85b3ee8c"
+  "snapshotGeneration": "8f43e211-1ba6-455e-bea7-a4d97983b07d"
 }
