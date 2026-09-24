@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790290879998,
+  "generatedAtWorkerMs": 1790290908764,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786930940009,
-  "latestChangeWorkerMs": 1790290870104,
+  "coverageStartWorkerMs": 1787018143318,
+  "latestChangeWorkerMs": 1790290899799,
   "recentNodesMap": {
+    "Delirio mortal T_6 id_331979": 1790290899,
     "American Hostage T_2 id_239618": 1790290870,
     "Objetivo París T_2 id_232018": 1790290839,
     "Campamento Lakattebom T_4 id_55924": 1790290551,
@@ -1010,8 +1011,7 @@
     "Chicago Fire T_2 id_44006": 1787089258,
     "El complejo de apartamentos T_6 id_300727": 1787030026,
     "Mis aventuras con Superman T_4 id_125928": 1787028724,
-    "Amor a Palos T_5 id_14662": 1787018143,
-    "Vampiros id_99935": 1786930940
+    "Amor a Palos T_5 id_14662": 1787018143
   },
-  "snapshotGeneration": "9ba837db-7d52-4c27-8aa1-8e1fae1668cf"
+  "snapshotGeneration": "89abeec3-27c8-4651-bd76-48d708be73d2"
 }
