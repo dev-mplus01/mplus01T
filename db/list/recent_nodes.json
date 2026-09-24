@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790290936204,
+  "generatedAtWorkerMs": 1790290959503,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787028724581,
-  "latestChangeWorkerMs": 1790290927085,
+  "coverageStartWorkerMs": 1787030026358,
+  "latestChangeWorkerMs": 1790290956005,
   "recentNodesMap": {
+    "Mis muertos tristes T_2 id_310290": 1790290956,
     "Habeas Corpus T_2 id_308963": 1790290927,
     "Delirio mortal T_6 id_331979": 1790290899,
     "American Hostage T_2 id_239618": 1790290870,
@@ -1010,8 +1011,7 @@
     "Sword Art Online T_3 id_45782": 1787090596,
     "De que te quiero te quiero T_5 id_58929": 1787090154,
     "Chicago Fire T_2 id_44006": 1787089258,
-    "El complejo de apartamentos T_6 id_300727": 1787030026,
-    "Mis aventuras con Superman T_4 id_125928": 1787028724
+    "El complejo de apartamentos T_6 id_300727": 1787030026
   },
-  "snapshotGeneration": "99cc76e7-29fa-4a50-9f16-2c48f18b300c"
+  "snapshotGeneration": "a9217ccc-d5de-4bcf-8e49-c2695b2b9d7c"
 }
