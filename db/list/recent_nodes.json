@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790279572765,
+  "generatedAtWorkerMs": 1790279614200,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786854400420,
-  "latestChangeWorkerMs": 1790279565638,
+  "coverageStartWorkerMs": 1786855707358,
+  "latestChangeWorkerMs": 1790279600016,
   "recentNodesMap": {
+    "My Beloved Enemy T_6 id_119830": 1790279600,
     "Proyecto Final T_2 id_327814": 1790279565,
     "Mushoku No Eiyuu T_3 id_236565": 1790279531,
     "Mujikaku Seijo wa Kyou mo Muishiki T_3 id_296436": 1790279497,
@@ -1010,8 +1011,7 @@
     "Isekai Mokushiroku Mynoghra T_3 id_280038": 1786858916,
     "My ID Is Gangnam Beauty T_6 id_80737": 1786858737,
     "Heroes Reborn T_2 id_60858": 1786855861,
-    "El Juramento T_5 id_208376": 1786855707,
-    "B The Beginning T_3 id_77529": 1786854400
+    "El Juramento T_5 id_208376": 1786855707
   },
-  "snapshotGeneration": "b50c05fe-b709-4b7b-8ab0-85c62307737d"
+  "snapshotGeneration": "43e29627-160b-4622-ab72-00bcad381b6e"
 }
