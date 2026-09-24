@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790230100690,
+  "generatedAtWorkerMs": 1790230127436,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1786606072208,
-  "latestChangeWorkerMs": 1790230095045,
+  "coverageStartWorkerMs": 1786606501737,
+  "latestChangeWorkerMs": 1790230124982,
   "recentNodesMap": {
+    "Nukitashi The Animation T_3 id_244808": 1790230124,
     "Keijo T_3 id_68148": 1790230095,
     "Flashforward 1080p DUAL T_2 id_19092": 1790230064,
     "Frequency 1080p TRIAL T_2 id_66894": 1790230033,
@@ -1010,8 +1011,7 @@
     "Dragon Ball Heroes T_3 id_80020": 1786635827,
     "Ciudad Arbol T_4 id_158694": 1786632715,
     "X-Men 97 T_4 id_138502": 1786631154,
-    "La Novia de Estambul T_5 id_70798": 1786606501,
-    "Kagewani T_3 id_66115": 1786606072
+    "La Novia de Estambul T_5 id_70798": 1786606501
   },
-  "snapshotGeneration": "be4605c2-a3f6-4131-94d4-7417bcdb121f"
+  "snapshotGeneration": "7028f70d-91b4-4749-868e-3c43323cce77"
 }
