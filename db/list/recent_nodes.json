@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790321852052,
+  "generatedAtWorkerMs": 1790337354552,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Atracos T_2 id_127643": 1787178230,
     "Ana id_102625": 1787178205
   },
-  "snapshotGeneration": "68c05ffa-8f16-4402-b06e-363040cc6978"
+  "snapshotGeneration": "18b9a12d-53ec-47f2-84ff-e612f75bd7c6"
 }
