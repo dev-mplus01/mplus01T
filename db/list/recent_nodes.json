@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790369428750,
+  "generatedAtWorkerMs": 1790369826415,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787178566491,
-  "latestChangeWorkerMs": 1790369425311,
+  "coverageStartWorkerMs": 1787179154812,
+  "latestChangeWorkerMs": 1790369822878,
   "recentNodesMap": {
+    "Mi Tio Es De Otro Mundo T_3 id_127714": 1790369822,
     "Hitoribocchi No Isekai T_3 id_259558": 1790369425,
     "Tierra de Mafia T_2 id_247718": 1790367816,
     "Paolo T_2 id_288385": 1790367752,
@@ -1010,8 +1011,7 @@
     "El Precio de la Historia T_2 id_21755": 1787206807,
     "Chicago MED T_2 id_62650": 1787195924,
     "Randy T_4 id_46698": 1787188461,
-    "Beastars T_3 id_90937": 1787179154,
-    "Isekai Nonbiri Nouka T_3 id_196285": 1787178566
+    "Beastars T_3 id_90937": 1787179154
   },
-  "snapshotGeneration": "775971b5-5eda-4d67-a424-ccabe437e005"
+  "snapshotGeneration": "5f8da9c7-b74a-4b30-b92c-44f7092088e3"
 }
