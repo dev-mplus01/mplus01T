@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790371274486,
+  "generatedAtWorkerMs": 1790371283596,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787195924031,
-  "latestChangeWorkerMs": 1790371269646,
+  "coverageStartWorkerMs": 1787206807799,
+  "latestChangeWorkerMs": 1790371280024,
   "recentNodesMap": {
+    "Outlander Sangre de mi sangre T_2 id_207484": 1790371280,
     "UQ Holder T_3 id_74189": 1790371269,
     "Sekai Saikou no Ansatsusha T_3 id_118821": 1790370270,
     "Mi Tio Es De Otro Mundo T_3 id_127714": 1790369822,
@@ -1010,8 +1011,7 @@
     "The 100 T_2 id_48866": 1787250789,
     "Dear X T_6 id_256226": 1787249083,
     "El Indomable T_6 id_90761": 1787247288,
-    "El Precio de la Historia T_2 id_21755": 1787206807,
-    "Chicago MED T_2 id_62650": 1787195924
+    "El Precio de la Historia T_2 id_21755": 1787206807
   },
-  "snapshotGeneration": "9f77ac0a-6823-488b-bb69-a8ca4f4a100b"
+  "snapshotGeneration": "9783ea62-375e-4c4c-ad32-be7c4bee9e27"
 }
