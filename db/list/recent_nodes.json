@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790371330382,
+  "generatedAtWorkerMs": 1790376429146,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787206807799,
-  "latestChangeWorkerMs": 1790371323135,
+  "coverageStartWorkerMs": 1787247288832,
+  "latestChangeWorkerMs": 1790376425503,
   "recentNodesMap": {
+    "El Polilla T_4 id_210834": 1790376425,
     "UQ Holder T_3 id_74189": 1790371323,
     "Outlander Sangre de mi sangre T_2 id_207484": 1790371280,
     "Sekai Saikou no Ansatsusha T_3 id_118821": 1790370270,
@@ -1010,8 +1011,7 @@
     "Emergency Couple T_6 id_61197": 1787252833,
     "The 100 T_2 id_48866": 1787250789,
     "Dear X T_6 id_256226": 1787249083,
-    "El Indomable T_6 id_90761": 1787247288,
-    "El Precio de la Historia T_2 id_21755": 1787206807
+    "El Indomable T_6 id_90761": 1787247288
   },
-  "snapshotGeneration": "7688d861-9bef-485c-9f35-297abe887f2e"
+  "snapshotGeneration": "93855d10-f3d0-4ac9-8047-17bccdb38cd3"
 }
