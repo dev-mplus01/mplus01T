@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790367823679,
+  "generatedAtWorkerMs": 1790369428750,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787178415747,
-  "latestChangeWorkerMs": 1790367816772,
+  "coverageStartWorkerMs": 1787178566491,
+  "latestChangeWorkerMs": 1790369425311,
   "recentNodesMap": {
+    "Hitoribocchi No Isekai T_3 id_259558": 1790369425,
     "Tierra de Mafia T_2 id_247718": 1790367816,
     "Paolo T_2 id_288385": 1790367752,
     "Star Trek Extraños Nuevos Mundos T_2 id_103516": 1790367705,
@@ -1010,8 +1011,7 @@
     "Chicago MED T_2 id_62650": 1787195924,
     "Randy T_4 id_46698": 1787188461,
     "Beastars T_3 id_90937": 1787179154,
-    "Isekai Nonbiri Nouka T_3 id_196285": 1787178566,
-    "Honour T_6 id_287346": 1787178415
+    "Isekai Nonbiri Nouka T_3 id_196285": 1787178566
   },
-  "snapshotGeneration": "652f929c-e517-49fd-8110-a574f7cf93e8"
+  "snapshotGeneration": "775971b5-5eda-4d67-a424-ccabe437e005"
 }
