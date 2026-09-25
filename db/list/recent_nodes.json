@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790370275704,
+  "generatedAtWorkerMs": 1790370968749,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787188461765,
-  "latestChangeWorkerMs": 1790370270067,
+  "coverageStartWorkerMs": 1787195924031,
+  "latestChangeWorkerMs": 1790370963148,
   "recentNodesMap": {
+    "UQ Holder T_3 id_74189": 1790370963,
     "Sekai Saikou no Ansatsusha T_3 id_118821": 1790370270,
     "Mi Tio Es De Otro Mundo T_3 id_127714": 1790369822,
     "Hitoribocchi No Isekai T_3 id_259558": 1790369425,
@@ -1010,8 +1011,7 @@
     "Dear X T_6 id_256226": 1787249083,
     "El Indomable T_6 id_90761": 1787247288,
     "El Precio de la Historia T_2 id_21755": 1787206807,
-    "Chicago MED T_2 id_62650": 1787195924,
-    "Randy T_4 id_46698": 1787188461
+    "Chicago MED T_2 id_62650": 1787195924
   },
-  "snapshotGeneration": "bf93ea46-564d-4bc9-a16d-b003df2d08d9"
+  "snapshotGeneration": "0bcdad96-061c-489d-8e4a-d0673c4ecc14"
 }
