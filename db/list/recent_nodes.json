@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790407272224,
+  "generatedAtWorkerMs": 1790407287648,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787331105535,
-  "latestChangeWorkerMs": 1790407267881,
+  "coverageStartWorkerMs": 1787333152326,
+  "latestChangeWorkerMs": 1790407285221,
   "recentNodesMap": {
+    "Luna Nera T_2 id_96346": 1790407285,
     "Lynch T_2 id_44977": 1790407267,
     "Mad T_2 id_33428": 1790407246,
     "Luz de Luna T_2 id_1998": 1790407206,
@@ -1010,8 +1011,7 @@
     "México Campeón Del Mundo T_2 id_214033": 1787340270,
     "Beyblade T_3 id_54728": 1787339610,
     "The heirs T_6 id_48462": 1787333643,
-    "Tracker Buscador de recompensas T_2 id_211288": 1787333152,
-    "Lucky T_2 id_278624": 1787331105
+    "Tracker Buscador de recompensas T_2 id_211288": 1787333152
   },
-  "snapshotGeneration": "a1dfc1dd-c22c-4c81-bf23-f6d31fa5d934"
+  "snapshotGeneration": "246b2dcf-c9f1-4ffd-9e16-5ab425d1e487"
 }
