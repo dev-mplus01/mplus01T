@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790407256525,
+  "generatedAtWorkerMs": 1790407272224,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787329198198,
-  "latestChangeWorkerMs": 1790407246446,
+  "coverageStartWorkerMs": 1787331105535,
+  "latestChangeWorkerMs": 1790407267881,
   "recentNodesMap": {
+    "Lynch T_2 id_44977": 1790407267,
     "Mad T_2 id_33428": 1790407246,
     "Luz de Luna T_2 id_1998": 1790407206,
     "Marvels 616 T_2 id_102693": 1790407176,
@@ -1010,8 +1011,7 @@
     "Beyblade T_3 id_54728": 1787339610,
     "The heirs T_6 id_48462": 1787333643,
     "Tracker Buscador de recompensas T_2 id_211288": 1787333152,
-    "Lucky T_2 id_278624": 1787331105,
-    "Siren T_2 id_71886": 1787329198
+    "Lucky T_2 id_278624": 1787331105
   },
-  "snapshotGeneration": "da535dd3-d70f-4a09-939f-1bfaf2a8917e"
+  "snapshotGeneration": "a1dfc1dd-c22c-4c81-bf23-f6d31fa5d934"
 }
