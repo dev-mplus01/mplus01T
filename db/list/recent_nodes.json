@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790404011618,
+  "generatedAtWorkerMs": 1790404420905,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787276991592,
-  "latestChangeWorkerMs": 1790404009077,
+  "coverageStartWorkerMs": 1787277438837,
+  "latestChangeWorkerMs": 1790404418522,
   "recentNodesMap": {
+    "El Asombroso Mundo de Gumball T_4 id_37606": 1790404418,
     "Caballero Luna id_92749": 1790404009,
     "Corazón Salvaje T_5 id_31214": 1790403234,
     "Verano En Venecia T_5 id_138202": 1790403151,
@@ -1010,8 +1011,7 @@
     "8 Meses T_2 id_254680": 1787328466,
     "Outer Banks T_2 id_100757": 1787291622,
     "Taxi Driver T_6 id_119769": 1787290470,
-    "Failure Frame T_3 id_245285": 1787277438,
-    "Jibaku Shounen Hanako-Kun T_3 id_95269": 1787276991
+    "Failure Frame T_3 id_245285": 1787277438
   },
-  "snapshotGeneration": "5ebc5502-bbe3-48d3-8688-288c7d4c8e9e"
+  "snapshotGeneration": "70ac99fa-4097-466d-8ed7-d372830f69d9"
 }
