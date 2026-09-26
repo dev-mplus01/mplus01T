@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790407182346,
+  "generatedAtWorkerMs": 1790407213673,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787328595199,
-  "latestChangeWorkerMs": 1790407176397,
+  "coverageStartWorkerMs": 1787328659701,
+  "latestChangeWorkerMs": 1790407206466,
   "recentNodesMap": {
+    "Luz de Luna T_2 id_1998": 1790407206,
     "Marvels 616 T_2 id_102693": 1790407176,
     "Lovesick T_2 id_62668": 1790407157,
     "Madres haciendo porno T_2 id_110290": 1790407132,
@@ -1010,8 +1011,7 @@
     "Tracker Buscador de recompensas T_2 id_211288": 1787333152,
     "Lucky T_2 id_278624": 1787331105,
     "Siren T_2 id_71886": 1787329198,
-    "Aggretsuko T_3 id_78941": 1787328659,
-    "2026 FIFA World Cup T_2 id_325630": 1787328595
+    "Aggretsuko T_3 id_78941": 1787328659
   },
-  "snapshotGeneration": "170a9beb-bc39-43a3-abe9-32b9dccc9791"
+  "snapshotGeneration": "e0d1d994-5b8f-4d75-8653-eb4c05b777c1"
 }
