@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790379923384,
+  "generatedAtWorkerMs": 1790380824593,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Dear X T_6 id_256226": 1787249083,
     "El Indomable T_6 id_90761": 1787247288
   },
-  "snapshotGeneration": "a31bfe96-6f63-454a-aa58-8ac9747c00a3"
+  "snapshotGeneration": "fbe2014b-66c0-4ebb-b117-85cb2ea13ab4"
 }
