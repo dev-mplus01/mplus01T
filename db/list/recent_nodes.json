@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790407213673,
+  "generatedAtWorkerMs": 1790407256525,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787328659701,
-  "latestChangeWorkerMs": 1790407206466,
+  "coverageStartWorkerMs": 1787329198198,
+  "latestChangeWorkerMs": 1790407246446,
   "recentNodesMap": {
+    "Mad T_2 id_33428": 1790407246,
     "Luz de Luna T_2 id_1998": 1790407206,
     "Marvels 616 T_2 id_102693": 1790407176,
     "Lovesick T_2 id_62668": 1790407157,
@@ -1010,8 +1011,7 @@
     "The heirs T_6 id_48462": 1787333643,
     "Tracker Buscador de recompensas T_2 id_211288": 1787333152,
     "Lucky T_2 id_278624": 1787331105,
-    "Siren T_2 id_71886": 1787329198,
-    "Aggretsuko T_3 id_78941": 1787328659
+    "Siren T_2 id_71886": 1787329198
   },
-  "snapshotGeneration": "e0d1d994-5b8f-4d75-8653-eb4c05b777c1"
+  "snapshotGeneration": "da535dd3-d70f-4a09-939f-1bfaf2a8917e"
 }
