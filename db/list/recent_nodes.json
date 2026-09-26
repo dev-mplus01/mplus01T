@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790439868752,
+  "generatedAtWorkerMs": 1790440184782,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787333152326,
-  "latestChangeWorkerMs": 1790439860579,
+  "coverageStartWorkerMs": 1787333643834,
+  "latestChangeWorkerMs": 1790440181809,
   "recentNodesMap": {
+    "Gonul Recuerda Mi Corazón T_5 id_82131": 1790440181,
     "Verano En Venecia T_5 id_138202": 1790439860,
     "Corazón Salvaje T_5 id_31214": 1790439843,
     "American Horror Story T_2 id_1413": 1790407713,
@@ -1010,8 +1011,7 @@
     "Mi adorable secretaria T_2 id_88783": 1787340308,
     "México Campeón Del Mundo T_2 id_214033": 1787340270,
     "Beyblade T_3 id_54728": 1787339610,
-    "The heirs T_6 id_48462": 1787333643,
-    "Tracker Buscador de recompensas T_2 id_211288": 1787333152
+    "The heirs T_6 id_48462": 1787333643
   },
-  "snapshotGeneration": "1e6aa1d2-b229-4fb2-af20-a45629e959a0"
+  "snapshotGeneration": "f6e0ab98-c780-4785-82c2-961c050ac65a"
 }
