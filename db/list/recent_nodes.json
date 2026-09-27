@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790485394116,
+  "generatedAtWorkerMs": 1790485693236,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787340503002,
-  "latestChangeWorkerMs": 1790485392176,
+  "coverageStartWorkerMs": 1787340669177,
+  "latestChangeWorkerMs": 1790485690744,
   "recentNodesMap": {
+    "Isekai Meikyuu de Harem wo T_3 id_114477": 1790485690,
     "Isekai Shikkaku T_3 id_205743": 1790485392,
     "Todos Quieren Con Marilyn T_5 id_136231": 1790477952,
     "El Principe T_2 id_60621": 1790477903,
@@ -1010,8 +1011,7 @@
     "Dragones Los Nueve Reinos T_4 id_136322": 1787341968,
     "Tokyo Ghoul T_3 id_61374": 1787341759,
     "Tensei Kizoku Kantei Skill de Nariagaru T_3 id_237150": 1787340916,
-    "Seirei Gensouki T_3 id_113808": 1787340669,
-    "Mi Fortuna Es Amarte T_5 id_137671": 1787340503
+    "Seirei Gensouki T_3 id_113808": 1787340669
   },
-  "snapshotGeneration": "fc130c46-7c9a-47ca-8987-6ca2f57cf3ca"
+  "snapshotGeneration": "f2ec438e-e2e7-407f-a5dd-99fef81792ef"
 }
