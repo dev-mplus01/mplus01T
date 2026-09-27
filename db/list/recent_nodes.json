@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790477661054,
+  "generatedAtWorkerMs": 1790477906364,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787340270516,
-  "latestChangeWorkerMs": 1790477658250,
+  "coverageStartWorkerMs": 1787340308456,
+  "latestChangeWorkerMs": 1790477903647,
   "recentNodesMap": {
+    "El Principe T_2 id_60621": 1790477903,
     "Yani Neko T_3 id_312949": 1790477658,
     "To aru Kagaku no Accelerator id_90546": 1790465272,
     "Kingusu Reido T_3 id_102871": 1790464286,
@@ -1010,8 +1011,7 @@
     "Seirei Gensouki T_3 id_113808": 1787340669,
     "Mi Fortuna Es Amarte T_5 id_137671": 1787340503,
     "Mi Encuentro Con El Mal T_2 id_213288": 1787340329,
-    "Mi adorable secretaria T_2 id_88783": 1787340308,
-    "México Campeón Del Mundo T_2 id_214033": 1787340270
+    "Mi adorable secretaria T_2 id_88783": 1787340308
   },
-  "snapshotGeneration": "e1c559a3-47d4-4fb1-9f9c-3c4391e0ea5f"
+  "snapshotGeneration": "7c0dcc3d-b270-465a-adc6-65e2e69348bb"
 }
