@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790636873906,
+  "generatedAtWorkerMs": 1790637185634,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787372319282,
-  "latestChangeWorkerMs": 1790636870239,
+  "coverageStartWorkerMs": 1787372507464,
+  "latestChangeWorkerMs": 1790637181370,
   "recentNodesMap": {
+    "You And I Are Polar Opposites T_3 id_278043": 1790637181,
     "Stuart No Consigue Salvar El Universo T_2 id_287620": 1790636870,
     "Saijo no Osewa Takane no Hanadarake T_3 id_312849": 1790636869,
     "Date a Live T_3 id_46004": 1790636835,
@@ -1010,8 +1011,7 @@
     "Emergence T_2 id_91962": 1787376471,
     "El Universo T_2 id_2622": 1787376450,
     "Alma Indomable T_5 id_44798": 1787376403,
-    "Ao Haru Ride T_3 id_62602": 1787372507,
-    "Dr Stone T_3 id_86031": 1787372319
+    "Ao Haru Ride T_3 id_62602": 1787372507
   },
-  "snapshotGeneration": "5b7e4558-928d-45c1-b5cb-27302c7558bc"
+  "snapshotGeneration": "87e7b823-6ed5-408b-9b6d-081d18fbfb02"
 }
