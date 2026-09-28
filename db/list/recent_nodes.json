@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790624531464,
+  "generatedAtWorkerMs": 1790625022065,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787370729477,
-  "latestChangeWorkerMs": 1790624527162,
+  "coverageStartWorkerMs": 1787370824448,
+  "latestChangeWorkerMs": 1790625017777,
   "recentNodesMap": {
+    "La Nuevas Aventuras de Batman T_4 id_4625": 1790625017,
     "Batwheels T_4 id_155780": 1790624527,
     "De viejo pueblerino a gran maestro espadachín T_3 id_260823": 1790624033,
     "Valentina Valiente T_5 id_316470": 1790622660,
@@ -1010,8 +1011,7 @@
     "Ao Haru Ride T_3 id_62602": 1787372507,
     "Dr Stone T_3 id_86031": 1787372319,
     "Cleopatra T_2 id_47119": 1787370842,
-    "Cleo & Cuquin T_4 id_81913": 1787370824,
-    "Cheerleaders en Acción id_97401": 1787370729
+    "Cleo & Cuquin T_4 id_81913": 1787370824
   },
-  "snapshotGeneration": "01c99463-92ca-4ad2-afac-98cf902e3cdc"
+  "snapshotGeneration": "8887ab70-3720-4946-8f98-238d4ed25614"
 }
