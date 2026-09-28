@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790572555005,
+  "generatedAtWorkerMs": 1790572730373,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787354128432,
-  "latestChangeWorkerMs": 1790572551897,
+  "coverageStartWorkerMs": 1787355057979,
+  "latestChangeWorkerMs": 1790572726177,
   "recentNodesMap": {
+    "Sakurasaou no Pet na Kanojo T_3 id_50325": 1790572726,
     "Rosario + Vampire T_3 id_36983": 1790572551,
     "Prison School T_3 id_64706": 1790572095,
     "Ore no Kanojo to Osananajimi T_3 id_53296": 1790571567,
@@ -1010,8 +1011,7 @@
     "Formula 1 Drive to Survive T_2 id_87083": 1787362801,
     "Shinryaku Ika Musume T_3 id_35447": 1787362263,
     "Modern Family id_1421": 1787355383,
-    "Teen Wolf T_2 id_34524": 1787355057,
-    "Hannibal T_2 id_40008": 1787354128
+    "Teen Wolf T_2 id_34524": 1787355057
   },
-  "snapshotGeneration": "b322bea3-e9cf-4882-8e44-fb6085047df9"
+  "snapshotGeneration": "abad56b4-566b-4e4c-9247-ca8757a6c5d0"
 }
