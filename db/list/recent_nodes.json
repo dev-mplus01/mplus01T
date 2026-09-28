@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790636756881,
+  "generatedAtWorkerMs": 1790636837997,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787370842090,
-  "latestChangeWorkerMs": 1790636749410,
+  "coverageStartWorkerMs": 1787372319282,
+  "latestChangeWorkerMs": 1790636835278,
   "recentNodesMap": {
+    "Date a Live T_3 id_46004": 1790636835,
     "Re ZERO Starting Life in Another World T_3 id_65942": 1790636749,
     "Mebius Dust T_3 id_98865": 1790636609,
     "Mao T_3 id_295999": 1790636293,
@@ -1010,8 +1011,7 @@
     "El Universo T_2 id_2622": 1787376450,
     "Alma Indomable T_5 id_44798": 1787376403,
     "Ao Haru Ride T_3 id_62602": 1787372507,
-    "Dr Stone T_3 id_86031": 1787372319,
-    "Cleopatra T_2 id_47119": 1787370842
+    "Dr Stone T_3 id_86031": 1787372319
   },
-  "snapshotGeneration": "61211264-7a6d-4cdd-8b49-26c50dc7cebf"
+  "snapshotGeneration": "b4a27487-0dec-4c1e-bee0-06f11cd33125"
 }
