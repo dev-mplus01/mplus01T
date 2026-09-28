@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790611002183,
+  "generatedAtWorkerMs": 1790618153931,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787363516366,
-  "latestChangeWorkerMs": 1790610998779,
+  "coverageStartWorkerMs": 1787364290663,
+  "latestChangeWorkerMs": 1790618149705,
   "recentNodesMap": {
+    "Altered Carbon T_2 id_68421": 1790618149,
     "Hanaori-san Still Wants to Fight in the Next Life T_3 id_312266": 1790610998,
     "Youth T_2 id_285418": 1790610814,
     "Linternas T_2 id_95350": 1790610371,
@@ -1010,8 +1011,7 @@
     "Himekishi wa Barbaroi no Yome T_3 id_273467": 1787369793,
     "Blossoms of Power T_6 id_286506": 1787364390,
     "Amores de fin de siglo T_5 id_16157": 1787364368,
-    "Amanda Sabater T_5 id_16470": 1787364290,
-    "Nana T_3 id_56568": 1787363516
+    "Amanda Sabater T_5 id_16470": 1787364290
   },
-  "snapshotGeneration": "2436027e-0101-48ae-825a-19158e1d4245"
+  "snapshotGeneration": "257c0927-4bb3-47a7-9bc7-72efe0b29bc0"
 }
