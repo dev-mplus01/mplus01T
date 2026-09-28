@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790619221028,
+  "generatedAtWorkerMs": 1790619689380,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787364390663,
-  "latestChangeWorkerMs": 1790619217579,
+  "coverageStartWorkerMs": 1787369793858,
+  "latestChangeWorkerMs": 1790619684932,
   "recentNodesMap": {
+    "Presidente por accidente T_2 id_194899": 1790619684,
     "Combat T_2 id_4316": 1790619217,
     "Buena Suerte Charlie T_2 id_21641": 1790618806,
     "Altered Carbon T_2 id_68421": 1790618149,
@@ -1010,8 +1011,7 @@
     "Cheerleaders en Acción id_97401": 1787370729,
     "Charité T_2 id_70837": 1787370694,
     "Principe de los Dragones T_2 id_81046": 1787370549,
-    "Himekishi wa Barbaroi no Yome T_3 id_273467": 1787369793,
-    "Blossoms of Power T_6 id_286506": 1787364390
+    "Himekishi wa Barbaroi no Yome T_3 id_273467": 1787369793
   },
-  "snapshotGeneration": "3e2bc659-12d9-4ac0-9588-51a75c0c2f53"
+  "snapshotGeneration": "285b3717-7cc3-468e-b4ba-c56fafea0595"
 }
