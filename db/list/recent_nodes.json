@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790570843231,
+  "generatedAtWorkerMs": 1790571091424,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787351807576,
-  "latestChangeWorkerMs": 1790570840106,
+  "coverageStartWorkerMs": 1787352934585,
+  "latestChangeWorkerMs": 1790571088163,
   "recentNodesMap": {
+    "Masou Gakuen HxH T_3 id_67011": 1790571088,
     "Make Heroine ga Oosugiru T_3 id_241535": 1790570840,
     "Boku no Kanojo ga T_3 id_74083": 1790570582,
     "Undercover Underage T_2 id_137527": 1790566907,
@@ -1010,8 +1011,7 @@
     "Bajo la misma piel T_5 id_8332": 1787353860,
     "Apuesta Por Un Amor T_5 id_13918": 1787353754,
     "Aventuras En El Tiempo T_5 id_12848": 1787353274,
-    "Final Space T_4 id_74387": 1787352934,
-    "The Closer T_2 id_1450": 1787351807
+    "Final Space T_4 id_74387": 1787352934
   },
-  "snapshotGeneration": "a0a33fcc-74ed-4699-a4f4-b89d50ea3148"
+  "snapshotGeneration": "f48d11c2-8229-4239-a0a2-9b6000bccf1b"
 }
