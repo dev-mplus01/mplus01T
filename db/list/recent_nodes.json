@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790723624929,
+  "generatedAtWorkerMs": 1790724575340,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787377782854,
-  "latestChangeWorkerMs": 1790723621395,
+  "coverageStartWorkerMs": 1787377906295,
+  "latestChangeWorkerMs": 1790724571530,
   "recentNodesMap": {
+    "Beatless T_3 id_76062": 1790724571,
     "Deatte 5 byou de Battle T_3 id_112940": 1790723621,
     "Devil May Cry T_4 id_235930": 1790721720,
     "Terminator Las crónicas de Sarah Connor T_2 id_433": 1790709146,
@@ -1010,8 +1011,7 @@
     "El método Kominsky id_81290": 1787378467,
     "El Lado Oscuro de Egipto id_331827": 1787378091,
     "El Arbol de Gabriel T_5 id_107025": 1787378077,
-    "Civilizaciones Antiguas id_93015": 1787377906,
-    "Ciudad cruel T_5 id_88024": 1787377782
+    "Civilizaciones Antiguas id_93015": 1787377906
   },
-  "snapshotGeneration": "6f8fea77-99a7-4b44-a71c-97a686be9288"
+  "snapshotGeneration": "b1870935-b2a7-4b45-bd18-1c2c98378a17"
 }
