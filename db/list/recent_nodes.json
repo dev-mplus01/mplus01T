@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790638325772,
+  "generatedAtWorkerMs": 1790639226546,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "El Universo T_2 id_2622": 1787376450,
     "Alma Indomable T_5 id_44798": 1787376403
   },
-  "snapshotGeneration": "d310bf99-8ce7-4e93-a1dd-14336a35d68f"
+  "snapshotGeneration": "2e10d6ae-965b-40b7-9a02-db0b423cda3e"
 }
