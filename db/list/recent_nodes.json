@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790705949475,
+  "generatedAtWorkerMs": 1790706014481,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787376866975,
-  "latestChangeWorkerMs": 1790705945909,
+  "coverageStartWorkerMs": 1787377003668,
+  "latestChangeWorkerMs": 1790706003198,
   "recentNodesMap": {
+    "Never-Ending Summer T_6 id_288603": 1790706003,
     "Maria Madrugada T_5 id_310519": 1790705945,
     "El Señor de los Cielos id_44953": 1790704677,
     "Hercules Los Viajes Legendarios T_2 id_4615": 1790699311,
@@ -1010,8 +1011,7 @@
     "Soltero Con Hijas T_5 id_95160": 1787377191,
     "Quien Es Quien T_5 id_78292": 1787377134,
     "Primos T_4 id_204139": 1787377032,
-    "Pantanal T_5 id_158415": 1787377003,
-    "Lago Tranquilo T_4 id_111834": 1787376866
+    "Pantanal T_5 id_158415": 1787377003
   },
-  "snapshotGeneration": "64513948-2e8b-4af3-ac69-06e891e860fd"
+  "snapshotGeneration": "c6b08f7e-0f9c-45d3-a1ed-350f7f132be1"
 }
