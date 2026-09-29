@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790656143106,
+  "generatedAtWorkerMs": 1790661594355,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Epitafios T_2 id_12838": 1787376592,
     "En viaje T_2 id_116152": 1787376547
   },
-  "snapshotGeneration": "e379b6a3-3b85-4bb2-b210-ec5ce10d58e6"
+  "snapshotGeneration": "9b0e5df2-d317-4748-afd1-ceb95cb70ffd"
 }
