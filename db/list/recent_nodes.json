@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790747522550,
+  "generatedAtWorkerMs": 1790750707759,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787434957443,
-  "latestChangeWorkerMs": 1790743889489,
+  "coverageStartWorkerMs": 1787434980650,
+  "latestChangeWorkerMs": 1790750703913,
   "recentNodesMap": {
+    "Dead Account T_3 id_286291": 1790750703,
     "Deadman Wonderland T_3 id_42503": 1790743889,
     "Beverly hills 90210 T_2 id_2025": 1790735076,
     "American Hostage T_2 id_239618": 1790734903,
@@ -1010,8 +1011,7 @@
     "El show de Bill Cosby T_2 id_1759": 1787435236,
     "El sexo en pocas palabras T_2 id_96815": 1787435039,
     "El sanador (Healer) T_2 id_61670": 1787435017,
-    "El robo del Siglo T_2 id_104555": 1787434980,
-    "El Reto del Beso T_2 id_105213": 1787434957
+    "El robo del Siglo T_2 id_104555": 1787434980
   },
-  "snapshotGeneration": "9e4c4459-a13f-4349-a198-ff353a304378"
+  "snapshotGeneration": "1b63f101-4b27-479e-977e-8a70a107f0db"
 }
