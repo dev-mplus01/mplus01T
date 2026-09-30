@@ -5,14 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790794962780,
+  "generatedAtWorkerMs": 1790795002266,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1787435347895,
-  "latestChangeWorkerMs": 1790794958640,
+  "latestChangeWorkerMs": 1790794998043,
   "recentNodesMap": {
-    "Spriggan T_3 id_94925": 1790794958,
+    "Spriggan T_3 id_94925": 1790794998,
     "La Rosa de Guadalupe T_5 id_30826": 1790792905,
     "Futurama T_4 id_615": 1790788205,
     "Caballos lentos T_2 id_95480": 1790786786,
@@ -1013,5 +1013,5 @@
     "Fenómenos aéreos id_216446": 1787435372,
     "Espacio Profundo id_94401": 1787435347
   },
-  "snapshotGeneration": "7977a5e2-2641-424b-9b56-ae92b22c90ac"
+  "snapshotGeneration": "4ceebe32-3f22-4a97-b2c5-44c6ca8e00ca"
 }
