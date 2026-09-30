@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790811608397,
+  "generatedAtWorkerMs": 1790811759648,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787435347895,
-  "latestChangeWorkerMs": 1790811603982,
+  "coverageStartWorkerMs": 1787435372640,
+  "latestChangeWorkerMs": 1790811750839,
   "recentNodesMap": {
+    "Rubi T_5 id_12961": 1790811750,
     "La Rosa de Guadalupe T_5 id_30826": 1790811603,
     "Spriggan T_3 id_94925": 1790794998,
     "Futurama T_4 id_615": 1790788205,
@@ -1010,8 +1011,7 @@
     "Kizim T_5 id_82369": 1787435520,
     "Kanan sama wa Akumade Choroi T_3 id_285818": 1787435437,
     "Gary and his demons id_79478": 1787435403,
-    "Fenómenos aéreos id_216446": 1787435372,
-    "Espacio Profundo id_94401": 1787435347
+    "Fenómenos aéreos id_216446": 1787435372
   },
-  "snapshotGeneration": "b76940b9-a9e2-46b5-b62d-de02e21947db"
+  "snapshotGeneration": "2e8396d0-0e1e-4511-a69b-12729b95f905"
 }
