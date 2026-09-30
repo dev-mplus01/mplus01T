@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790750707759,
+  "generatedAtWorkerMs": 1790768924244,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "El sanador (Healer) T_2 id_61670": 1787435017,
     "El robo del Siglo T_2 id_104555": 1787434980
   },
-  "snapshotGeneration": "1b63f101-4b27-479e-977e-8a70a107f0db"
+  "snapshotGeneration": "a5180027-919a-4efb-ab39-8381426f5986"
 }
