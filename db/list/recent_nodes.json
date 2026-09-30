@@ -5,14 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790812443187,
+  "generatedAtWorkerMs": 1790812737636,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1787435372640,
-  "latestChangeWorkerMs": 1790812441326,
+  "latestChangeWorkerMs": 1790812733414,
   "recentNodesMap": {
-    "El Presidente Curtis T_4 id_296756": 1790812441,
+    "El Presidente Curtis T_4 id_296756": 1790812733,
     "Rubi T_5 id_12961": 1790811750,
     "La Rosa de Guadalupe T_5 id_30826": 1790811603,
     "Spriggan T_3 id_94925": 1790794998,
@@ -1013,5 +1013,5 @@
     "Gary and his demons id_79478": 1787435403,
     "Fenómenos aéreos id_216446": 1787435372
   },
-  "snapshotGeneration": "d5761656-0f04-4ed2-a7fd-05f75cfcb8a4"
+  "snapshotGeneration": "5c2e2e94-fafa-4024-9fa3-026b88ebdd12"
 }
