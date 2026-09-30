@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790811969581,
+  "generatedAtWorkerMs": 1790812443187,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1787435372640,
-  "latestChangeWorkerMs": 1790811750839,
+  "latestChangeWorkerMs": 1790812441326,
   "recentNodesMap": {
+    "El Presidente Curtis T_4 id_296756": 1790812441,
     "Rubi T_5 id_12961": 1790811750,
     "La Rosa de Guadalupe T_5 id_30826": 1790811603,
     "Spriggan T_3 id_94925": 1790794998,
@@ -60,7 +61,6 @@
     "Me Llaman Lolita T_5 id_10575": 1790649558,
     "BLACK TORCH T_3 id_285993": 1790649356,
     "Colisión T_2 id_331033": 1790647862,
-    "El Presidente Curtis T_4 id_296756": 1790647730,
     "One Piece T_3 id_37854": 1790646376,
     "Amor En Conflicto T_6 id_71349": 1790646340,
     "Cautiva T_2 id_333631": 1790643166,
@@ -1013,5 +1013,5 @@
     "Gary and his demons id_79478": 1787435403,
     "Fenómenos aéreos id_216446": 1787435372
   },
-  "snapshotGeneration": "92c4afc4-d097-47a6-a9e2-5fb4ecc5fa2c"
+  "snapshotGeneration": "d5761656-0f04-4ed2-a7fd-05f75cfcb8a4"
 }
