@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790817145794,
+  "generatedAtWorkerMs": 1790818099018,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787435626884,
-  "latestChangeWorkerMs": 1790817142099,
+  "coverageStartWorkerMs": 1787435792965,
+  "latestChangeWorkerMs": 1790818095268,
   "recentNodesMap": {
+    "Miraculous Las Aventuras De Lady Bug T_4 id_65334": 1790818095,
     "Medusa T_2 id_284792": 1790817142,
     "La Rosa de Guadalupe T_5 id_30826": 1790814728,
     "Princess Connect! Re-Dive T_3 id_99084": 1790814562,
@@ -1010,8 +1011,7 @@
     "Los vigilantes de Malibú id_85958": 1787435935,
     "Los Jóvenes Intrépidos T_6 id_283165": 1787435909,
     "Last Summer T_6 id_291602": 1787435842,
-    "La Hiena T_5 id_332244": 1787435792,
-    "La Esposa Virgen T_5 id_40298": 1787435626
+    "La Hiena T_5 id_332244": 1787435792
   },
-  "snapshotGeneration": "6b1d6556-7f02-49c4-94f4-dd9b756ea30c"
+  "snapshotGeneration": "d055403b-2c1c-425f-9b50-02405266d70a"
 }
