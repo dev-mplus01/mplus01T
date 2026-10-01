@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790818626457,
+  "generatedAtWorkerMs": 1790818665361,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787435909694,
-  "latestChangeWorkerMs": 1790818622269,
+  "coverageStartWorkerMs": 1787435935692,
+  "latestChangeWorkerMs": 1790818659148,
   "recentNodesMap": {
+    "Jeff & His Super Hero Friends T_4 id_336977": 1790818659,
     "Amor en Cadenas T_2 id_110180": 1790818622,
     "Escrito En Las Estrellas T_5 id_46142": 1790818578,
     "Miraculous Las Aventuras De Lady Bug T_4 id_65334": 1790818095,
@@ -1010,8 +1011,7 @@
     "Misterios de los caballeros templarios id_289438": 1787436158,
     "Mi Corazón Insiste en Lola Volcan T_5 id_35281": 1787436137,
     "Merhamet T_5 id_53677": 1787436015,
-    "Los vigilantes de Malibú id_85958": 1787435935,
-    "Los Jóvenes Intrépidos T_6 id_283165": 1787435909
+    "Los vigilantes de Malibú id_85958": 1787435935
   },
-  "snapshotGeneration": "f51fd9c3-bb8e-41b9-91b7-eb3f0060bd1f"
+  "snapshotGeneration": "3dcb3db5-1204-4747-9a83-b2489eeea1fb"
 }
