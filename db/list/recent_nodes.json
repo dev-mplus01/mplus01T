@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790818993406,
+  "generatedAtWorkerMs": 1790819007558,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787439739150,
-  "latestChangeWorkerMs": 1790818984439,
+  "coverageStartWorkerMs": 1787439949623,
+  "latestChangeWorkerMs": 1790818993329,
   "recentNodesMap": {
+    "Max Headroom T_2 id_4617": 1790818993,
     "Casi hermanos T_2 id_250203": 1790818984,
     "Matchday Inside FC Barcelona T_2 id_95356": 1790818942,
     "Matarife T_2 id_103847": 1790818893,
@@ -1010,8 +1011,7 @@
     "Martes de terror extremo T_6 id_258306": 1787444404,
     "Bates Motel T_2 id_46786": 1787440516,
     "Adolescentes Cazadoras de Recompensas T_2 id_90766": 1787439964,
-    "Acapulco Shore T_2 id_66084": 1787439949,
-    "A Tres Metros sobre el Cielo T_2 id_100333": 1787439739
+    "Acapulco Shore T_2 id_66084": 1787439949
   },
-  "snapshotGeneration": "b7451fa2-3e4f-4582-9a72-3e6ef0413cd4"
+  "snapshotGeneration": "9cb97ace-4507-4588-a69a-3364bb2c12c1"
 }
