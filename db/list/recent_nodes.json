@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790814736543,
+  "generatedAtWorkerMs": 1790817145794,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787435520423,
-  "latestChangeWorkerMs": 1790814728684,
+  "coverageStartWorkerMs": 1787435626884,
+  "latestChangeWorkerMs": 1790817142099,
   "recentNodesMap": {
+    "Medusa T_2 id_284792": 1790817142,
     "La Rosa de Guadalupe T_5 id_30826": 1790814728,
     "Princess Connect! Re-Dive T_3 id_99084": 1790814562,
     "Nageki no Bourei wa Intai shitai T_3 id_258579": 1790814102,
@@ -1010,8 +1011,7 @@
     "Los Jóvenes Intrépidos T_6 id_283165": 1787435909,
     "Last Summer T_6 id_291602": 1787435842,
     "La Hiena T_5 id_332244": 1787435792,
-    "La Esposa Virgen T_5 id_40298": 1787435626,
-    "Kizim T_5 id_82369": 1787435520
+    "La Esposa Virgen T_5 id_40298": 1787435626
   },
-  "snapshotGeneration": "338462ab-6ce9-435c-b5a4-aed777cfb23f"
+  "snapshotGeneration": "6b1d6556-7f02-49c4-94f4-dd9b756ea30c"
 }
