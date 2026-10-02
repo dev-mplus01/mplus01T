@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790907585237,
+  "generatedAtWorkerMs": 1790912140759,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787449146204,
-  "latestChangeWorkerMs": 1790907581343,
+  "coverageStartWorkerMs": 1787449254445,
+  "latestChangeWorkerMs": 1790912138331,
   "recentNodesMap": {
+    "Shadowhunters T_2 id_63210": 1790912138,
     "The Ramparts Of Ice T_3 id_283428": 1790907581,
     "El Señor de los Cielos id_44953": 1790887754,
     "La Goajirita T_5 id_125517": 1790885777,
@@ -1010,8 +1011,7 @@
     "Agente Aika T_3 id_43249": 1787449767,
     "Aika R16 T_3 id_68417": 1787449587,
     "Aika Zero T_3 id_43631": 1787449342,
-    "4 Estrellas T_2 id_225005": 1787449254,
-    "Akame Ga Kill T_3 id_61223": 1787449146
+    "4 Estrellas T_2 id_225005": 1787449254
   },
-  "snapshotGeneration": "ed52cf32-9ebf-4eae-9ff5-9af6c930a7c5"
+  "snapshotGeneration": "4cfcbf8a-01d3-4db6-8920-cdff2a207f21"
 }
