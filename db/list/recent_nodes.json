@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790966419860,
+  "generatedAtWorkerMs": 1790970235223,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787548028657,
-  "latestChangeWorkerMs": 1790966416932,
+  "coverageStartWorkerMs": 1787548326572,
+  "latestChangeWorkerMs": 1790970231183,
   "recentNodesMap": {
+    "The Yakuza Boss Beloved T_6 id_295893": 1790970231,
     "Tougen Anki T_3 id_253811": 1790966416,
     "Ninja Kamui T_3 id_202284": 1790966161,
     "Los diarios de la boticaria T_3 id_220542": 1790962939,
@@ -1010,8 +1011,7 @@
     "Sentouin Hakenshimasu T_3 id_100567": 1787548878,
     "Kuro no Shoukanshi T_3 id_157842": 1787548685,
     "Kaifuku Jutsushi no Yarinaoshi T_3 id_99071": 1787548469,
-    "Blood+ T_3 id_19849": 1787548326,
-    "Ansatsusha de Aru Ore no Status T_3 id_284644": 1787548028
+    "Blood+ T_3 id_19849": 1787548326
   },
-  "snapshotGeneration": "a77eeafe-e0bb-40b4-9b3e-1ba33a899196"
+  "snapshotGeneration": "049c1b70-4033-48c5-9aef-aa4fe7f058ec"
 }
