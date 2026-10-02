@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790962943524,
+  "generatedAtWorkerMs": 1790963847041,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Moria T_2 id_322428": 1787545463,
     "Calle Luna Calle Sol T_5 id_21702": 1787533122
   },
-  "snapshotGeneration": "de0e723d-b5f0-4d0e-879c-1677d07b473d"
+  "snapshotGeneration": "938e23df-c460-458d-b7fd-0d474bb2c0fb"
 }
