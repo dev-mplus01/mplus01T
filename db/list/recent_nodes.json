@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790957050389,
+  "generatedAtWorkerMs": 1790957468678,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787518335618,
-  "latestChangeWorkerMs": 1790957047658,
+  "coverageStartWorkerMs": 1787527928112,
+  "latestChangeWorkerMs": 1790957465421,
   "recentNodesMap": {
+    "Albertano Contra Los Mostros T_2 id_197888": 1790957465,
     "Del Sunderland hasta la Muerte T_2 id_84777": 1790957047,
     "Musica Maestro T_5 id_337127": 1790941439,
     "Una Maid En Paitilla T_5 id_154756": 1790941386,
@@ -1010,8 +1011,7 @@
     "Ansatsusha de Aru Ore no Status T_3 id_284644": 1787548028,
     "Moria T_2 id_322428": 1787545463,
     "Calle Luna Calle Sol T_5 id_21702": 1787533122,
-    "Hijos De La Anarquía T_2 id_1409": 1787527928,
-    "Mahou Shoujo Tokushusen Asuka T_3 id_83104": 1787518335
+    "Hijos De La Anarquía T_2 id_1409": 1787527928
   },
-  "snapshotGeneration": "b6f0ca2c-e740-46a7-9749-fed877bd1ef5"
+  "snapshotGeneration": "ccb4dcda-10b4-4220-a8f1-a71794439df3"
 }
