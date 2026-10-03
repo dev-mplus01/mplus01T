@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791054873627,
+  "generatedAtWorkerMs": 1791054937151,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787622531571,
-  "latestChangeWorkerMs": 1791054867967,
+  "coverageStartWorkerMs": 1787623898161,
+  "latestChangeWorkerMs": 1791054930629,
   "recentNodesMap": {
+    "Alguna Vez Tendremos Alas T_5 id_28654": 1791054930,
     "La Reina de las Indias y El Conquistador T_5 id_103727": 1791054867,
     "Junji Ito Historias Extrañas para Noches de Insomnio T_6 id_319990": 1791054823,
     "Black Clover T_3 id_73223": 1791054759,
@@ -1010,8 +1011,7 @@
     "Sakamoto Desu Ga T_3 id_65944": 1787633968,
     "The Westies T_2 id_286709": 1787632211,
     "Rivales T_2 id_208921": 1787628629,
-    "Morena Clara T_5 id_207455": 1787623898,
-    "Danmachi T_3 id_62745": 1787622531
+    "Morena Clara T_5 id_207455": 1787623898
   },
-  "snapshotGeneration": "a2c636f7-3fc7-4b4d-889c-a67c8af9e3db"
+  "snapshotGeneration": "6a55172a-73fe-4662-9a61-3adad4e265ed"
 }
