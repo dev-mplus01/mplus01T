@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791049736453,
+  "generatedAtWorkerMs": 1791052939038,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787620597508,
-  "latestChangeWorkerMs": 1791014256347,
+  "coverageStartWorkerMs": 1787621031311,
+  "latestChangeWorkerMs": 1791052935861,
   "recentNodesMap": {
+    "Tokyo Revengers T_3 id_105009": 1791052935,
     "El Compromiso T_5 id_333309": 1791014256,
     "Sabor a ti Entre historias y secretos T_5 id_335679": 1791011352,
     "Las hermanas Grimm T_4 id_299236": 1791010995,
@@ -1010,8 +1011,7 @@
     "Morena Clara T_5 id_207455": 1787623898,
     "Danmachi T_3 id_62745": 1787622531,
     "Linterna Verde T_4 id_40351": 1787621692,
-    "Star Wars Visions Presenta La Jedi Número Nueve T_4 id_289324": 1787621031,
-    "Yuru Yuri T_3 id_52891": 1787620597
+    "Star Wars Visions Presenta La Jedi Número Nueve T_4 id_289324": 1787621031
   },
-  "snapshotGeneration": "d08b2da1-8abd-4507-b192-52e6f214b486"
+  "snapshotGeneration": "ccbb11e4-34f6-4f39-b1d3-2631227ee9e4"
 }
