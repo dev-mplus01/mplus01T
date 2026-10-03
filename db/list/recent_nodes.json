@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790984697992,
+  "generatedAtWorkerMs": 1790985607497,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "El Mentalista id_5920": 1787566693,
     "Shokugeki No Soma T_3 id_62273": 1787549951
   },
-  "snapshotGeneration": "0c40e0d0-6662-48c2-99c7-3db50eae389b"
+  "snapshotGeneration": "1974794c-8a5d-45ef-a765-4bafcd0e39fe"
 }
