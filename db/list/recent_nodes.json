@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1790988166545,
+  "generatedAtWorkerMs": 1790991464745,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787566693492,
-  "latestChangeWorkerMs": 1790988156609,
+  "coverageStartWorkerMs": 1787567679169,
+  "latestChangeWorkerMs": 1790991461930,
   "recentNodesMap": {
+    "hora marcada T_2 id_18390": 1790991461,
     "Valentina Valiente T_5 id_316470": 1790988156,
     "Sabor a Ti T_5 id_322265": 1790988037,
     "Promesa de Hermanos T_5 id_271548": 1790987905,
@@ -1010,8 +1011,7 @@
     "Yuru Yuri T_3 id_52891": 1787620597,
     "Escape del infierno con Bear Grylls T_2 id_63375": 1787620379,
     "Seal Team T_2 id_71789": 1787614905,
-    "Neumatt T_2 id_135022": 1787567679,
-    "El Mentalista id_5920": 1787566693
+    "Neumatt T_2 id_135022": 1787567679
   },
-  "snapshotGeneration": "e2cf14f5-ac18-4679-8be9-6de910ac0286"
+  "snapshotGeneration": "3c0d4296-6a0f-47f1-829c-bfe56f973721"
 }
