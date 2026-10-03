@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791061718755,
+  "generatedAtWorkerMs": 1791062173400,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787697407218,
-  "latestChangeWorkerMs": 1791061715459,
+  "coverageStartWorkerMs": 1787697431735,
+  "latestChangeWorkerMs": 1791062170125,
   "recentNodesMap": {
+    "The Act T_2 id_82883": 1791062170,
     "El Señor de los Cielos id_44953": 1791061715,
     "Top chef vip T_2 id_209374": 1791057934,
     "4 Blocks Zero T_2 id_310133": 1791057807,
@@ -1010,8 +1011,7 @@
     "Carnival Row T_2 id_90027": 1787697524,
     "Califato T_2 id_92891": 1787697486,
     "By The Grace of the Gods T_3 id_102086": 1787697460,
-    "Asesinato en la cabaña la búsqueda de justicia para Sophie T_2 id_127914": 1787697431,
-    "Amor en la Ciudad T_2 id_113710": 1787697407
+    "Asesinato en la cabaña la búsqueda de justicia para Sophie T_2 id_127914": 1787697431
   },
-  "snapshotGeneration": "e8311dd8-cbff-441f-a967-11193a6eec10"
+  "snapshotGeneration": "dd1bce14-7a7f-4399-9132-a595f21ed218"
 }
