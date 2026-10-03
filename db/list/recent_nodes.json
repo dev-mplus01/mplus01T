@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791054763369,
+  "generatedAtWorkerMs": 1791054824930,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787621031311,
-  "latestChangeWorkerMs": 1791054759816,
+  "coverageStartWorkerMs": 1787621692979,
+  "latestChangeWorkerMs": 1791054823575,
   "recentNodesMap": {
+    "Junji Ito Historias Extrañas para Noches de Insomnio T_6 id_319990": 1791054823,
     "Black Clover T_3 id_73223": 1791054759,
     "Clevatess T_3 id_258348": 1791053373,
     "Honzuki T_3 id_91768": 1791053197,
@@ -1010,8 +1011,7 @@
     "Rivales T_2 id_208921": 1787628629,
     "Morena Clara T_5 id_207455": 1787623898,
     "Danmachi T_3 id_62745": 1787622531,
-    "Linterna Verde T_4 id_40351": 1787621692,
-    "Star Wars Visions Presenta La Jedi Número Nueve T_4 id_289324": 1787621031
+    "Linterna Verde T_4 id_40351": 1787621692
   },
-  "snapshotGeneration": "a51d6036-4a66-4f68-b4fa-a4541a001a5c"
+  "snapshotGeneration": "4b41ba1a-bcea-4ee4-aa7d-792866b80d34"
 }
