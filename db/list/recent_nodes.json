@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791055003761,
+  "generatedAtWorkerMs": 1791055043407,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787628629110,
-  "latestChangeWorkerMs": 1791054996880,
+  "coverageStartWorkerMs": 1787632211943,
+  "latestChangeWorkerMs": 1791055030879,
   "recentNodesMap": {
+    "Coven Academy T_2 id_298505": 1791055030,
     "Marisol T_5 id_16329": 1791054996,
     "Alguna Vez Tendremos Alas T_5 id_28654": 1791054930,
     "La Reina de las Indias y El Conquistador T_5 id_103727": 1791054867,
@@ -1010,8 +1011,7 @@
     "Raised By Wolves T_2 id_85723": 1787650405,
     "Shakunetsu Kabaddi T_3 id_105721": 1787634096,
     "Sakamoto Desu Ga T_3 id_65944": 1787633968,
-    "The Westies T_2 id_286709": 1787632211,
-    "Rivales T_2 id_208921": 1787628629
+    "The Westies T_2 id_286709": 1787632211
   },
-  "snapshotGeneration": "1ec260ba-bb4d-4d19-be47-3e7774d6d836"
+  "snapshotGeneration": "8177d657-0d49-48a5-a28e-a41025e7afc7"
 }
