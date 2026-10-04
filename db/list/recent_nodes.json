@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791128204508,
+  "generatedAtWorkerMs": 1791129308444,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787697524997,
-  "latestChangeWorkerMs": 1791128201699,
+  "coverageStartWorkerMs": 1787697554464,
+  "latestChangeWorkerMs": 1791129305161,
   "recentNodesMap": {
+    "África el corazón salvaje de la tierra T_2 id_334888": 1791129305,
     "Toaru Majutsu no Index T_3 id_30980": 1791128201,
     "La Familia Proud T_4 id_543": 1791104237,
     "Yasei no Last Boss ga Arawareta T_3 id_280042": 1791101237,
@@ -1010,8 +1011,7 @@
     "De Quien Huimos Mamá T_2 id_219064": 1787697628,
     "Crimes of passion T_2 id_105746": 1787697604,
     "Conexiones T_2 id_128066": 1787697581,
-    "Class of 07 T_2 id_207374": 1787697554,
-    "Carnival Row T_2 id_90027": 1787697524
+    "Class of 07 T_2 id_207374": 1787697554
   },
-  "snapshotGeneration": "3653707c-2805-4a7a-a98e-9cd24f9c9ecd"
+  "snapshotGeneration": "e636e208-4835-498b-8021-2344070270e9"
 }
