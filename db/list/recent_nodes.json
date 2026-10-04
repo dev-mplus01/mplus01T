@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791097771543,
+  "generatedAtWorkerMs": 1791101241345,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1787697486183,
-  "latestChangeWorkerMs": 1791097769787,
+  "latestChangeWorkerMs": 1791101237949,
   "recentNodesMap": {
+    "Yasei no Last Boss ga Arawareta T_3 id_280042": 1791101237,
     "Toaru Majutsu no Index T_3 id_30980": 1791097769,
     "Uzaki chan wa Asobitai T_3 id_98986": 1791092354,
     "Tomb Raider King T_3 id_297826": 1791079076,
@@ -205,7 +206,6 @@
     "Youth T_2 id_285418": 1790610814,
     "Tempal Item No Chikara T_3 id_324502": 1790575354,
     "Ore Wa Subete Wo Parry Suru T_3 id_238892": 1790574395,
-    "Yasei no Last Boss ga Arawareta T_3 id_280042": 1790574246,
     "Wotaku ni Koi wa Muzukashii T_3 id_78457": 1790573955,
     "Triage X T_3 id_62227": 1790573367,
     "Prison School T_3 id_64706": 1790573230,
@@ -1013,5 +1013,5 @@
     "Carnival Row T_2 id_90027": 1787697524,
     "Califato T_2 id_92891": 1787697486
   },
-  "snapshotGeneration": "c6ba8b3b-5f11-4357-ae3e-17256aa18012"
+  "snapshotGeneration": "0c885091-12da-4d84-b3fe-1b581fd07033"
 }
