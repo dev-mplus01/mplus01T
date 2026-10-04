@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791129308444,
+  "generatedAtWorkerMs": 1791136579715,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Conexiones T_2 id_128066": 1787697581,
     "Class of 07 T_2 id_207374": 1787697554
   },
-  "snapshotGeneration": "e636e208-4835-498b-8021-2344070270e9"
+  "snapshotGeneration": "e25e069d-a165-4573-a7d3-f282d219f013"
 }
