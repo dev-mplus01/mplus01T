@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791101241345,
+  "generatedAtWorkerMs": 1791104241182,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787697486183,
-  "latestChangeWorkerMs": 1791101237949,
+  "coverageStartWorkerMs": 1787697524997,
+  "latestChangeWorkerMs": 1791104237782,
   "recentNodesMap": {
+    "La Familia Proud T_4 id_543": 1791104237,
     "Yasei no Last Boss ga Arawareta T_3 id_280042": 1791101237,
     "Toaru Majutsu no Index T_3 id_30980": 1791097769,
     "Uzaki chan wa Asobitai T_3 id_98986": 1791092354,
@@ -1010,8 +1011,7 @@
     "Crimes of passion T_2 id_105746": 1787697604,
     "Conexiones T_2 id_128066": 1787697581,
     "Class of 07 T_2 id_207374": 1787697554,
-    "Carnival Row T_2 id_90027": 1787697524,
-    "Califato T_2 id_92891": 1787697486
+    "Carnival Row T_2 id_90027": 1787697524
   },
-  "snapshotGeneration": "0c885091-12da-4d84-b3fe-1b581fd07033"
+  "snapshotGeneration": "95ec0819-1bc4-4c2b-88f9-79f4c9a6fce2"
 }
