@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791092358101,
+  "generatedAtWorkerMs": 1791093261877,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Carnival Row T_2 id_90027": 1787697524,
     "Califato T_2 id_92891": 1787697486
   },
-  "snapshotGeneration": "6a25657a-3c3d-43df-8f80-b5e09c4b2a63"
+  "snapshotGeneration": "2ecc5d84-9b32-4087-8058-f239a05cb3e5"
 }
