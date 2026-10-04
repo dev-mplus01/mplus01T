@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791071294690,
+  "generatedAtWorkerMs": 1791075178844,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787697431735,
-  "latestChangeWorkerMs": 1791062170125,
+  "coverageStartWorkerMs": 1787697460161,
+  "latestChangeWorkerMs": 1791075176054,
   "recentNodesMap": {
+    "Magical DoReMi T_3 id_20353": 1791075176,
     "The Act T_2 id_82883": 1791062170,
     "El Señor de los Cielos id_44953": 1791061715,
     "Top chef vip T_2 id_209374": 1791057934,
@@ -1010,8 +1011,7 @@
     "Class of 07 T_2 id_207374": 1787697554,
     "Carnival Row T_2 id_90027": 1787697524,
     "Califato T_2 id_92891": 1787697486,
-    "By The Grace of the Gods T_3 id_102086": 1787697460,
-    "Asesinato en la cabaña la búsqueda de justicia para Sophie T_2 id_127914": 1787697431
+    "By The Grace of the Gods T_3 id_102086": 1787697460
   },
-  "snapshotGeneration": "8bfac158-3455-4834-b03a-6e0d3cd76f82"
+  "snapshotGeneration": "a99f7fd8-36d6-44d9-b2d4-10f8d9e3f6bb"
 }
