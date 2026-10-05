@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791244470531,
+  "generatedAtWorkerMs": 1791244636047,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787719434103,
-  "latestChangeWorkerMs": 1791244468303,
+  "coverageStartWorkerMs": 1787719451882,
+  "latestChangeWorkerMs": 1791244625547,
   "recentNodesMap": {
+    "Hotel Inhumans T_3 id_276288": 1791244625,
     "Hora de aventuras Misiones legendarias T_4 id_256694": 1791244468,
     "Mi niñera es una vampira T_2 id_39518": 1791244427,
     "Miranda T_2 id_31500": 1791244380,
@@ -1010,8 +1011,7 @@
     "Digimon Adventure T_4 id_31654": 1787720019,
     "Breaking Bad id_1396": 1787719757,
     "Bandidos del tiempo T_2 id_114924": 1787719472,
-    "Bajo el puente La verdadera historia del asesinato de Reena Virk T_2 id_211358": 1787719451,
-    "Baccano T_3 id_34121": 1787719434
+    "Bajo el puente La verdadera historia del asesinato de Reena Virk T_2 id_211358": 1787719451
   },
-  "snapshotGeneration": "6f424dac-501a-45b7-b030-3129edb855fb"
+  "snapshotGeneration": "560a50fd-62a3-4dab-b2d1-099932915693"
 }
