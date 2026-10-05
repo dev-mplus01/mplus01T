@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791243866077,
+  "generatedAtWorkerMs": 1791243910965,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787713349354,
-  "latestChangeWorkerMs": 1791243861803,
+  "coverageStartWorkerMs": 1787713526530,
+  "latestChangeWorkerMs": 1791243906454,
   "recentNodesMap": {
+    "Bolek y Lolek T_4 id_15179": 1791243906,
     "Mortal Glitch T_2 id_108857": 1791243861,
     "Marshals Una historia de Yellowstone T_2 id_290856": 1791242367,
     "Cuatro Manos Dos Sonatas T_6 id_305644": 1791242198,
@@ -1010,8 +1011,7 @@
     "Ciudad en llamas T_2 id_155534": 1787713597,
     "Citas Barcelona T_2 id_227554": 1787713572,
     "Chibiverso T_4 id_205683": 1787713550,
-    "Campfire Cooking in Another World with My Absurd Skills T_3 id_213402": 1787713526,
-    "Camino al Cielo T2_ id_2440": 1787713349
+    "Campfire Cooking in Another World with My Absurd Skills T_3 id_213402": 1787713526
   },
-  "snapshotGeneration": "cf1bdd77-667d-4ae4-a471-107a234f53e7"
+  "snapshotGeneration": "46098bb4-a1f4-415d-a4ff-c7f6a48ccb0c"
 }
