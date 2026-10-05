@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791244429043,
+  "generatedAtWorkerMs": 1791244470531,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787719414732,
-  "latestChangeWorkerMs": 1791244427019,
+  "coverageStartWorkerMs": 1787719434103,
+  "latestChangeWorkerMs": 1791244468303,
   "recentNodesMap": {
+    "Hora de aventuras Misiones legendarias T_4 id_256694": 1791244468,
     "Mi niñera es una vampira T_2 id_39518": 1791244427,
     "Miranda T_2 id_31500": 1791244380,
     "Mi Amor de las Estrellas T_6 id_60957": 1791244332,
@@ -1010,8 +1011,7 @@
     "Breaking Bad id_1396": 1787719757,
     "Bandidos del tiempo T_2 id_114924": 1787719472,
     "Bajo el puente La verdadera historia del asesinato de Reena Virk T_2 id_211358": 1787719451,
-    "Baccano T_3 id_34121": 1787719434,
-    "Ariel Los cuentos de la Sirenita T_4 id_228669": 1787719414
+    "Baccano T_3 id_34121": 1787719434
   },
-  "snapshotGeneration": "ce25ef0d-830a-41a6-ab03-7973d27ae7e8"
+  "snapshotGeneration": "6f424dac-501a-45b7-b030-3129edb855fb"
 }
