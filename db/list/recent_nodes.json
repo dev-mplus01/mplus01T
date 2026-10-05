@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791244244400,
+  "generatedAtWorkerMs": 1791244286361,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787713938437,
-  "latestChangeWorkerMs": 1791244238818,
+  "coverageStartWorkerMs": 1787716389943,
+  "latestChangeWorkerMs": 1791244283715,
   "recentNodesMap": {
+    "La hora de la aventura de Superman-Aquaman T_4 id_3014": 1791244283,
     "Nación de inmigración T_2 id_106359": 1791244238,
     "Ao Ashi T_3 id_126437": 1791244234,
     "Stripperella T_4 id_3072": 1791244187,
@@ -1010,8 +1011,7 @@
     "Ariel Los cuentos de la Sirenita T_4 id_228669": 1787719414,
     "Ana de nadie T_5 id_221573": 1787719399,
     "Amor Envenenado T_6 id_110858": 1787719309,
-    "Bones T_2 id_1911": 1787716389,
-    "Días de gallos T_2 id_133423": 1787713938
+    "Bones T_2 id_1911": 1787716389
   },
-  "snapshotGeneration": "66714ced-3112-4a8a-a5c4-3130ef882583"
+  "snapshotGeneration": "0bdb7604-7a38-4ad8-a1c3-af78ebcaf546"
 }
