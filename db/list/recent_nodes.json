@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791243956326,
+  "generatedAtWorkerMs": 1791244006039,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787713550450,
-  "latestChangeWorkerMs": 1791243949547,
+  "coverageStartWorkerMs": 1787713572518,
+  "latestChangeWorkerMs": 1791244004257,
   "recentNodesMap": {
+    "Golden Kamuy T_3 id_76757": 1791244004,
     "Missing T_2 id_39553": 1791243949,
     "Bolek y Lolek T_4 id_15179": 1791243906,
     "Mortal Glitch T_2 id_108857": 1791243861,
@@ -1010,8 +1011,7 @@
     "CSI MIAMI T_2 id_1620": 1787713849,
     "Conexión Comer, amar, matar T_2 id_155231": 1787713633,
     "Ciudad en llamas T_2 id_155534": 1787713597,
-    "Citas Barcelona T_2 id_227554": 1787713572,
-    "Chibiverso T_4 id_205683": 1787713550
+    "Citas Barcelona T_2 id_227554": 1787713572
   },
-  "snapshotGeneration": "58e205ab-a88e-469e-b8c9-0b22dfdc8221"
+  "snapshotGeneration": "e8bfa7b3-6c23-4be4-8b39-a467fd4a7351"
 }
