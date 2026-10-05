@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791244057761,
+  "generatedAtWorkerMs": 1791244093301,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787713597997,
-  "latestChangeWorkerMs": 1791244047383,
+  "coverageStartWorkerMs": 1787713633063,
+  "latestChangeWorkerMs": 1791244088512,
   "recentNodesMap": {
+    "Mortal T_2 id_94801": 1791244088,
     "My First First Love T_6 id_87527": 1791244047,
     "Golden Kamuy T_3 id_76757": 1791244004,
     "Missing T_2 id_39553": 1791243949,
@@ -1010,8 +1011,7 @@
     "Der Scheich T_2 id_216963": 1787713897,
     "Delete T_2 id_218994": 1787713867,
     "CSI MIAMI T_2 id_1620": 1787713849,
-    "Conexión Comer, amar, matar T_2 id_155231": 1787713633,
-    "Ciudad en llamas T_2 id_155534": 1787713597
+    "Conexión Comer, amar, matar T_2 id_155231": 1787713633
   },
-  "snapshotGeneration": "f1e6ebd0-5ce9-4b9f-8060-0d3201351d68"
+  "snapshotGeneration": "6435a11f-81fa-4655-ae05-7515d86f9e31"
 }
