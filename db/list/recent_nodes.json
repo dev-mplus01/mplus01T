@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791287969579,
+  "generatedAtWorkerMs": 1791308910158,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Breaking Bad id_1396": 1787719757,
     "Bandidos del tiempo T_2 id_114924": 1787719472
   },
-  "snapshotGeneration": "aa521213-769f-4e13-97bb-c254c0b0dcef"
+  "snapshotGeneration": "6d324feb-01d3-44b2-81b2-61defcb08059"
 }
