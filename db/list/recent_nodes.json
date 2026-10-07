@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791409153357,
+  "generatedAtWorkerMs": 1791409258973,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787727091143,
-  "latestChangeWorkerMs": 1791409147126,
+  "coverageStartWorkerMs": 1787728259784,
+  "latestChangeWorkerMs": 1791409256243,
   "recentNodesMap": {
+    "El Derecho de Nacer T_5 id_32443": 1791409256,
     "Amor Y Travesuras T_5 id_221867": 1791409147,
     "Por Mi Hijo T_5 id_65163": 1791409033,
     "Educando A Nina T_5 id_68875": 1791408914,
@@ -1010,8 +1011,7 @@
     "Páginas de la Vida T_5 id_42789": 1787728690,
     "Omer Sueños Robados T_5 id_101385": 1787728536,
     "Ojos De Profundo Afecto T_6 id_284430": 1787728298,
-    "Noche sangrienta de Sengoku T_3 id_74184": 1787728259,
-    "Vuelo de Angel T_6 id_220763": 1787727091
+    "Noche sangrienta de Sengoku T_3 id_74184": 1787728259
   },
-  "snapshotGeneration": "3bb3e185-1ec8-4f2d-b5bc-176839f0063e"
+  "snapshotGeneration": "62cac78c-e85d-4539-bfd8-958857ef0dac"
 }
