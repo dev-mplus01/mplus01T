@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791408736660,
+  "generatedAtWorkerMs": 1791408828157,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787726971644,
-  "latestChangeWorkerMs": 1791408733278,
+  "coverageStartWorkerMs": 1787727012316,
+  "latestChangeWorkerMs": 1791408822866,
   "recentNodesMap": {
+    "Engaño T_5 id_337641": 1791408822,
     "Amor Sincero T_5 id_31909": 1791408733,
     "The Drop A Snowfall Saga T_2 id_304842": 1791397813,
     "Carrie T_2 id_288673": 1791389562,
@@ -1010,8 +1011,7 @@
     "Vuelo de Angel T_6 id_220763": 1787727091,
     "Venir del frío T_2 id_146173": 1787727068,
     "Time Taxi T_6 id_61665": 1787727036,
-    "Tell Me A Story T_2 id_81747": 1787727012,
-    "Superstition T_2 id_74104": 1787726971
+    "Tell Me A Story T_2 id_81747": 1787727012
   },
-  "snapshotGeneration": "b432b157-49ec-4b9e-aa99-112afc9154a2"
+  "snapshotGeneration": "ffbef7e6-b641-46de-9223-03b4445d5965"
 }
