@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791442325905,
+  "generatedAtWorkerMs": 1791442385710,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787729158957,
-  "latestChangeWorkerMs": 1791442321775,
+  "coverageStartWorkerMs": 1787730959342,
+  "latestChangeWorkerMs": 1791442383939,
   "recentNodesMap": {
+    "Hombre Nuevo T_5 id_337745": 1791442383,
     "Luna La Heredera T_5 id_90518": 1791442321,
     "El Clavel Y La Rosa T_5 id_8361": 1791442260,
     "El Círculo T_2 id_290233": 1791442184,
@@ -1010,8 +1011,7 @@
     "Acaramelados T_6 id_291496": 1787731282,
     "Jigokuraku Hells Paradise T_3 id_117465": 1787731114,
     "Darío Gómez El rey del despecho T_5 id_274326": 1787731069,
-    "Alma Pirata T_5 id_70924": 1787730959,
-    "Yo Soy Franky id_73265": 1787729158
+    "Alma Pirata T_5 id_70924": 1787730959
   },
-  "snapshotGeneration": "81f65fef-dab4-4a52-b8b0-d0fccbcd89c0"
+  "snapshotGeneration": "a4080555-e603-4c1e-b5d8-c073a79d535c"
 }
