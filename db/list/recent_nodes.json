@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791460682701,
+  "generatedAtWorkerMs": 1791476233841,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787731493686,
-  "latestChangeWorkerMs": 1791446119045,
+  "coverageStartWorkerMs": 1787731526776,
+  "latestChangeWorkerMs": 1791476232065,
   "recentNodesMap": {
+    "Los Tinelli T_2 id_280416": 1791476232,
     "Valentina Valiente T_5 id_316470": 1791446119,
     "Top chef vip T_2 id_209374": 1791445946,
     "Murder in a Small Town T_2 id_241549": 1791445804,
@@ -1010,8 +1011,7 @@
     "Enamorada T_5 id_56214": 1787732006,
     "Angélica Pecado T_5 id_207457": 1787731913,
     "Los 80 T_2 id_34001": 1787731656,
-    "King The Land T_2 id_198004": 1787731526,
-    "Kids in Crime T_2 id_209814": 1787731493
+    "King The Land T_2 id_198004": 1787731526
   },
-  "snapshotGeneration": "b7c3caef-a2e2-4461-b794-ba8b9713f876"
+  "snapshotGeneration": "120e00bc-0e44-4bbd-8c7f-a10c3e0e7736"
 }
