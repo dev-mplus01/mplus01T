@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791442455307,
+  "generatedAtWorkerMs": 1791442495119,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787731069025,
-  "latestChangeWorkerMs": 1791442445094,
+  "coverageStartWorkerMs": 1787731114437,
+  "latestChangeWorkerMs": 1791442482962,
   "recentNodesMap": {
+    "Tensei shitara Ken Deshita T_3 id_134667": 1791442482,
     "La Favorita T_5 id_7448": 1791442445,
     "Hombre Nuevo T_5 id_337745": 1791442383,
     "Luna La Heredera T_5 id_90518": 1791442321,
@@ -1010,8 +1011,7 @@
     "Kids in Crime T_2 id_209814": 1787731493,
     "Ishuzoku Reviewers T_3 id_96444": 1787731314,
     "Acaramelados T_6 id_291496": 1787731282,
-    "Jigokuraku Hells Paradise T_3 id_117465": 1787731114,
-    "Darío Gómez El rey del despecho T_5 id_274326": 1787731069
+    "Jigokuraku Hells Paradise T_3 id_117465": 1787731114
   },
-  "snapshotGeneration": "4056a9aa-fda5-44e7-ba0a-383e8f79a902"
+  "snapshotGeneration": "2604bfe3-0a13-4d5c-94c3-c10434b19972"
 }
