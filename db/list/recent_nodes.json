@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791476742770,
+  "generatedAtWorkerMs": 1791479186203,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787731656164,
-  "latestChangeWorkerMs": 1791476736949,
+  "coverageStartWorkerMs": 1787731913700,
+  "latestChangeWorkerMs": 1791479182093,
   "recentNodesMap": {
+    "Fairy Gone T_3 id_86835": 1791479182,
     "Vampirina Una Vampirina adolescente T_2 id_275722": 1791476736,
     "Los Tinelli T_2 id_280416": 1791476232,
     "Valentina Valiente T_5 id_316470": 1791446119,
@@ -1010,8 +1011,7 @@
     "Chocolate T_6 id_95066": 1787732221,
     "A Todos Los Chicos Que Me Armaron T_6 id_104247": 1787732186,
     "Enamorada T_5 id_56214": 1787732006,
-    "Angélica Pecado T_5 id_207457": 1787731913,
-    "Los 80 T_2 id_34001": 1787731656
+    "Angélica Pecado T_5 id_207457": 1787731913
   },
-  "snapshotGeneration": "3abaa951-8a2c-4efa-9db4-fca4a1ddeeb2"
+  "snapshotGeneration": "e72ca5ab-d934-4982-a237-cc98b8965a05"
 }
