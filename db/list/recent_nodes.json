@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791476233841,
+  "generatedAtWorkerMs": 1791476742770,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787731526776,
-  "latestChangeWorkerMs": 1791476232065,
+  "coverageStartWorkerMs": 1787731656164,
+  "latestChangeWorkerMs": 1791476736949,
   "recentNodesMap": {
+    "Vampirina Una Vampirina adolescente T_2 id_275722": 1791476736,
     "Los Tinelli T_2 id_280416": 1791476232,
     "Valentina Valiente T_5 id_316470": 1791446119,
     "Top chef vip T_2 id_209374": 1791445946,
@@ -1010,8 +1011,7 @@
     "A Todos Los Chicos Que Me Armaron T_6 id_104247": 1787732186,
     "Enamorada T_5 id_56214": 1787732006,
     "Angélica Pecado T_5 id_207457": 1787731913,
-    "Los 80 T_2 id_34001": 1787731656,
-    "King The Land T_2 id_198004": 1787731526
+    "Los 80 T_2 id_34001": 1787731656
   },
-  "snapshotGeneration": "120e00bc-0e44-4bbd-8c7f-a10c3e0e7736"
+  "snapshotGeneration": "3abaa951-8a2c-4efa-9db4-fca4a1ddeeb2"
 }
