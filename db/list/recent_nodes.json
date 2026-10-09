@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791563357808,
+  "generatedAtWorkerMs": 1791563935965,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787732900019,
-  "latestChangeWorkerMs": 1791563354469,
+  "coverageStartWorkerMs": 1787732924936,
+  "latestChangeWorkerMs": 1791563934360,
   "recentNodesMap": {
+    "La maldición de Widows Bay T_2 id_270476": 1791563934,
     "Valentina Valiente T_5 id_316470": 1791563354,
     "Top chef vip T_2 id_209374": 1791563162,
     "Promesa de Hermanos T_5 id_271548": 1791562712,
@@ -1010,8 +1011,7 @@
     "Mighty Med T_2 id_57961": 1787733061,
     "Family Business T_2 id_89785": 1787732979,
     "Extracurricular T_2 id_90814": 1787732956,
-    "Estocolmo Estacion Central T_2 id_98036": 1787732924,
-    "Espectros T_2 id_99573": 1787732900
+    "Estocolmo Estacion Central T_2 id_98036": 1787732924
   },
-  "snapshotGeneration": "685a8043-76e1-4171-a17b-dea6e3fc6b23"
+  "snapshotGeneration": "1c264376-8e1d-43f4-8fd7-6431920f6e33"
 }
