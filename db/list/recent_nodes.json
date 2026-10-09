@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791577756397,
+  "generatedAtWorkerMs": 1791577832198,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787733084425,
-  "latestChangeWorkerMs": 1791577753589,
+  "coverageStartWorkerMs": 1787733118586,
+  "latestChangeWorkerMs": 1791577826914,
   "recentNodesMap": {
+    "Punto de Giro T_5 id_215288": 1791577826,
     "Aquel T_2 id_295684": 1791577753,
     "Hotaru No Yomeiri T_3 id_320909": 1791577693,
     "Rock Story T_5 id_104396": 1791577632,
@@ -1010,8 +1011,7 @@
     "Tiny Creatures T_2 id_106514": 1787733286,
     "The School Nurse Files T_2 id_87313": 1787733238,
     "The Sarah Jane Adventures T_2 id_203": 1787733209,
-    "The Ray Bradbury Theater T_2 id_5656": 1787733118,
-    "The Plot Against America T_2 id_83870": 1787733084
+    "The Ray Bradbury Theater T_2 id_5656": 1787733118
   },
-  "snapshotGeneration": "d6534053-4b4c-4d6e-8fb4-69eca44739c3"
+  "snapshotGeneration": "288151b3-73cc-46d7-8ca6-f8080f1715fe"
 }
