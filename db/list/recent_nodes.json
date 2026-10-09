@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791568471944,
+  "generatedAtWorkerMs": 1791570600945,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787732924936,
-  "latestChangeWorkerMs": 1791563934360,
+  "coverageStartWorkerMs": 1787732956772,
+  "latestChangeWorkerMs": 1791570596136,
   "recentNodesMap": {
+    "El hotel embrujado T_2 id_255752": 1791570596,
     "La maldición de Widows Bay T_2 id_270476": 1791563934,
     "Valentina Valiente T_5 id_316470": 1791563354,
     "Top chef vip T_2 id_209374": 1791563162,
@@ -1010,8 +1011,7 @@
     "The Plot Against America T_2 id_83870": 1787733084,
     "Mighty Med T_2 id_57961": 1787733061,
     "Family Business T_2 id_89785": 1787732979,
-    "Extracurricular T_2 id_90814": 1787732956,
-    "Estocolmo Estacion Central T_2 id_98036": 1787732924
+    "Extracurricular T_2 id_90814": 1787732956
   },
-  "snapshotGeneration": "1691f668-158a-4cc2-bfdb-d51994d5311e"
+  "snapshotGeneration": "93cdfe40-b030-497a-b96c-06051fa79198"
 }
