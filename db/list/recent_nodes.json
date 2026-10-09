@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791563935965,
+  "generatedAtWorkerMs": 1791568471944,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Extracurricular T_2 id_90814": 1787732956,
     "Estocolmo Estacion Central T_2 id_98036": 1787732924
   },
-  "snapshotGeneration": "1c264376-8e1d-43f4-8fd7-6431920f6e33"
+  "snapshotGeneration": "1691f668-158a-4cc2-bfdb-d51994d5311e"
 }
