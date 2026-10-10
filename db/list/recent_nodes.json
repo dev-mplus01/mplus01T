@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791611008495,
+  "generatedAtWorkerMs": 1791611930317,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Asura Cryin T_3 id_42425": 1787776858,
     "Twin Star Exorcists T_2 id_66078": 1787776433
   },
-  "snapshotGeneration": "b777e659-0d0b-42b7-a54c-b781482d5532"
+  "snapshotGeneration": "d5a61dae-4ff8-40e9-a2f9-62ca6e504807"
 }
