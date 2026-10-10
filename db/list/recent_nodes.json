@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791600913493,
+  "generatedAtWorkerMs": 1791600946149,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787734814159,
-  "latestChangeWorkerMs": 1791600909151,
+  "coverageStartWorkerMs": 1787762416037,
+  "latestChangeWorkerMs": 1791600944857,
   "recentNodesMap": {
+    "En El Corazón de la Ciudad T_5 id_69535": 1791600944,
     "20 minutos T_5 id_48041": 1791600909,
     "Doctor X Mafia in White T_6 id_293610": 1791600873,
     "Milagros T_5 id_44541": 1791600851,
@@ -1010,8 +1011,7 @@
     "Un Hombre de Siete Caras T_6 id_75682": 1787763624,
     "Galactic Messages id_241368": 1787763597,
     "Trinkets id_89852": 1787762751,
-    "Cien años de soledad T_2 id_207333": 1787762416,
-    "Tomy Zombie T_2 id_300866": 1787734814
+    "Cien años de soledad T_2 id_207333": 1787762416
   },
-  "snapshotGeneration": "79fb137a-271d-4c8f-9614-6d00c8c0593f"
+  "snapshotGeneration": "d90861b0-5983-438d-8120-b89312b4103d"
 }
