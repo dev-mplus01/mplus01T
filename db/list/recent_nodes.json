@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791610497433,
+  "generatedAtWorkerMs": 1791610656215,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787775905054,
-  "latestChangeWorkerMs": 1791610493540,
+  "coverageStartWorkerMs": 1787776433816,
+  "latestChangeWorkerMs": 1791610654483,
   "recentNodesMap": {
+    "Estado de Furia T_2 id_280880": 1791610654,
     "4 Blocks Zero T_2 id_310133": 1791610493,
     "Senderos de libertad Broken Trail T_2 id_20056": 1791610010,
     "Señorita Pólvora T_2 id_63123": 1791609983,
@@ -1010,8 +1011,7 @@
     "La Materia Oscura T_2 id_68507": 1787786158,
     "Oshi no Ko T_3 id_203737": 1787782402,
     "Asura Cryin T_3 id_42425": 1787776858,
-    "Twin Star Exorcists T_2 id_66078": 1787776433,
-    "Plunderer T_3 id_93149": 1787775905
+    "Twin Star Exorcists T_2 id_66078": 1787776433
   },
-  "snapshotGeneration": "8ff23edf-92d8-4a1c-a5e5-944c6ee9bd62"
+  "snapshotGeneration": "1d513886-1eb5-45f4-888c-a9b62660f48f"
 }
