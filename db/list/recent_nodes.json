@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791632929089,
+  "generatedAtWorkerMs": 1791637506718,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787776433816,
-  "latestChangeWorkerMs": 1791611003482,
+  "coverageStartWorkerMs": 1787776858038,
+  "latestChangeWorkerMs": 1791637503409,
   "recentNodesMap": {
+    "El Man es Germán T_5 id_114605": 1791637503,
     "Outlander Sangre de mi sangre T_2 id_207484": 1791611003,
     "Junji Ito Historias Extrañas para Noches de Insomnio T_6 id_319990": 1791610852,
     "Estado de Furia T_2 id_280880": 1791610654,
@@ -1010,8 +1011,7 @@
     "Toy Boy id_87763": 1787786368,
     "La Materia Oscura T_2 id_68507": 1787786158,
     "Oshi no Ko T_3 id_203737": 1787782402,
-    "Asura Cryin T_3 id_42425": 1787776858,
-    "Twin Star Exorcists T_2 id_66078": 1787776433
+    "Asura Cryin T_3 id_42425": 1787776858
   },
-  "snapshotGeneration": "be0ed220-8308-42c0-ad81-345f2d8f9b26"
+  "snapshotGeneration": "df09c237-240e-41d4-a1c3-ed65473bfd93"
 }
