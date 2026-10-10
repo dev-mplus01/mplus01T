@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791609886973,
+  "generatedAtWorkerMs": 1791609919143,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787768211787,
-  "latestChangeWorkerMs": 1791609884139,
+  "coverageStartWorkerMs": 1787768245936,
+  "latestChangeWorkerMs": 1791609913574,
   "recentNodesMap": {
+    "SWAT T_2 id_11129": 1791609913,
     "Remodelaciones Festivas con el Sr Navidad T_2 id_112869": 1791609884,
     "Secretos del Diario T_6 id_57146": 1791609857,
     "Retame T_2 id_95259": 1791609824,
@@ -1010,8 +1011,7 @@
     "Plunderer T_3 id_93149": 1787775905,
     "Un Amor Indomable T_5 id_276050": 1787775107,
     "Tren Infinito T_4 id_91425": 1787768487,
-    "Caillou T_4 id_205155": 1787768245,
-    "Boys be Brave T_6 id_249838": 1787768211
+    "Caillou T_4 id_205155": 1787768245
   },
-  "snapshotGeneration": "7238f649-ad8d-4613-8484-acef34c20a35"
+  "snapshotGeneration": "2a35000e-683b-461e-9986-98fb98d3e172"
 }
