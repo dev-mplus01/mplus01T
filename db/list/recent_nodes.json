@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791739524429,
+  "generatedAtWorkerMs": 1791739540457,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787798290585,
-  "latestChangeWorkerMs": 1791739519774,
+  "coverageStartWorkerMs": 1787798921256,
+  "latestChangeWorkerMs": 1791739537388,
   "recentNodesMap": {
+    "Rafaela T_5 id_38948": 1791739537,
     "Get Jiro T_3 id_231801": 1791739519,
     "Dragón Ball Super Beerus T_3 id_312359": 1791739341,
     "Tierra de Mafia T_2 id_247718": 1791737177,
@@ -1010,8 +1011,7 @@
     "Huérfanas T_5 id_69246": 1787800815,
     "Feliz lo que quieras T_2 id_94587": 1787800644,
     "Invencible T_4 id_95557": 1787799310,
-    "Aprendiendo a Vivir T_2 id_1777": 1787798921,
-    "We bares bears T_4 id_63401": 1787798290
+    "Aprendiendo a Vivir T_2 id_1777": 1787798921
   },
-  "snapshotGeneration": "c913516d-a49a-4a4d-8fa7-77215c4cf2a2"
+  "snapshotGeneration": "91a65d40-ddec-4ba5-87d2-2c22a4c1ec38"
 }
