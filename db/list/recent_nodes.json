@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791737179722,
+  "generatedAtWorkerMs": 1791739345185,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787796633332,
-  "latestChangeWorkerMs": 1791737177101,
+  "coverageStartWorkerMs": 1787798290585,
+  "latestChangeWorkerMs": 1791739341834,
   "recentNodesMap": {
+    "Dragón Ball Super Beerus T_3 id_312359": 1791739341,
     "Tierra de Mafia T_2 id_247718": 1791737177,
     "Day One T_2 id_285386": 1791737075,
     "Mad Men T_2 id_1104": 1791693700,
@@ -1010,8 +1011,7 @@
     "Feliz lo que quieras T_2 id_94587": 1787800644,
     "Invencible T_4 id_95557": 1787799310,
     "Aprendiendo a Vivir T_2 id_1777": 1787798921,
-    "We bares bears T_4 id_63401": 1787798290,
-    "Starwars rebels T_4 id_60554": 1787796633
+    "We bares bears T_4 id_63401": 1787798290
   },
-  "snapshotGeneration": "cc88d5df-1dd6-4cff-8b87-b87925a5ad16"
+  "snapshotGeneration": "842bb409-2c51-4f5f-82a2-e7b60b4c2b90"
 }
