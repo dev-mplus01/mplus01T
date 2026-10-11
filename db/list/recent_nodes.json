@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791698256335,
+  "generatedAtWorkerMs": 1791719247669,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Starwars rebels T_4 id_60554": 1787796633,
     "Oscuro Deseo T_2 id_105214": 1787796279
   },
-  "snapshotGeneration": "894e8af9-aa9b-4efa-9008-6deb7d2ef6d8"
+  "snapshotGeneration": "90afc068-4d05-48fa-ad42-19f2d97278f9"
 }
