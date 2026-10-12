@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791780687815,
+  "generatedAtWorkerMs": 1791781016542,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787800870387,
-  "latestChangeWorkerMs": 1791780684935,
+  "coverageStartWorkerMs": 1787800891885,
+  "latestChangeWorkerMs": 1791781013575,
   "recentNodesMap": {
+    "Avatar La Leyenda de Aang T_4 id_246": 1791781013,
     "Alien Nation T_2 id_5383": 1791780684,
     "Agent Carter T_2 id_61550": 1791780606,
     "La isla del tesoro T_2 id_333101": 1791780114,
@@ -1010,8 +1011,7 @@
     "Fernando T_2 id_107543": 1787800935,
     "Star Wars La Resistencia T_4 id_79093": 1787800924,
     "Koe De Oshigoto T_3 id_38605": 1787800903,
-    "Forged in Fire T_2 id_62884": 1787800891,
-    "Ese Invierno El Viento Sopla T_6 id_47091": 1787800870
+    "Forged in Fire T_2 id_62884": 1787800891
   },
-  "snapshotGeneration": "2ba896ac-2034-47ad-ad5b-61c23213d4a0"
+  "snapshotGeneration": "94b5cd70-1e84-4939-bc1d-08db843b4809"
 }
