@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791907446646,
+  "generatedAtWorkerMs": 1791908150199,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787889303167,
-  "latestChangeWorkerMs": 1791907443557,
+  "coverageStartWorkerMs": 1787889492886,
+  "latestChangeWorkerMs": 1791908147124,
   "recentNodesMap": {
+    "Romane T_5 id_106972": 1791908147,
     "Pancho y Rancho T_4 id_322215": 1791907443,
     "El León Melquiades T_4 id_272160": 1791907362,
     "Lucky Luke T_4 id_65392": 1791907310,
@@ -1010,8 +1011,7 @@
     "Adultos T_2 id_260458": 1787920638,
     "Scrublands T_2 id_234212": 1787893849,
     "Mientras haya vida T_5 id_208651": 1787889767,
-    "Survivor T_2 id_14658": 1787889492,
-    "Futbolistas por el mundo T_2 id_104505": 1787889303
+    "Survivor T_2 id_14658": 1787889492
   },
-  "snapshotGeneration": "6a2de16a-9a34-44a3-a0e2-02e52c93564f"
+  "snapshotGeneration": "623a19b0-eaa6-453d-bbf8-6aa3dc949662"
 }
