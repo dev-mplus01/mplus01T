@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791907269099,
+  "generatedAtWorkerMs": 1791907316373,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787889241186,
-  "latestChangeWorkerMs": 1791907264161,
+  "coverageStartWorkerMs": 1787889277216,
+  "latestChangeWorkerMs": 1791907310897,
   "recentNodesMap": {
+    "Lucky Luke T_4 id_65392": 1791907310,
     "Los Chicos del Espacio T_4 id_28629": 1791907264,
     "Loopy de Loop T_4 id_319126": 1791907215,
     "Kimba el león blanco T_4 id_8853": 1791907165,
@@ -1010,8 +1011,7 @@
     "Survivor T_2 id_14658": 1787889492,
     "Futbolistas por el mundo T_2 id_104505": 1787889303,
     "Get Even T_2 id_99335": 1787889290,
-    "Funcionario de Séptima Clase T_6 id_46592": 1787889277,
-    "Pura Sangre T_5 id_16150": 1787889241
+    "Funcionario de Séptima Clase T_6 id_46592": 1787889277
   },
-  "snapshotGeneration": "fe9a3bde-0464-4d5c-9274-f68b361361bc"
+  "snapshotGeneration": "f5d2fbdc-3f44-497b-a77a-7b5d459696c6"
 }
