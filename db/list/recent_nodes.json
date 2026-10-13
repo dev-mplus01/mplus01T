@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791907168160,
+  "generatedAtWorkerMs": 1791907217284,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787889117339,
-  "latestChangeWorkerMs": 1791907165590,
+  "coverageStartWorkerMs": 1787889180934,
+  "latestChangeWorkerMs": 1791907215708,
   "recentNodesMap": {
+    "Loopy de Loop T_4 id_319126": 1791907215,
     "Kimba el león blanco T_4 id_8853": 1791907165,
     "Los Súper Acróbatas T_4 id_14376": 1791907118,
     "Secundaria Bromwell T_4 id_4685": 1791907064,
@@ -1010,8 +1011,7 @@
     "Get Even T_2 id_99335": 1787889290,
     "Funcionario de Séptima Clase T_6 id_46592": 1787889277,
     "Pura Sangre T_5 id_16150": 1787889241,
-    "La Viuda de Blanco T_5 id_36850": 1787889180,
-    "Friday the 13th T_2 id_2263": 1787889117
+    "La Viuda de Blanco T_5 id_36850": 1787889180
   },
-  "snapshotGeneration": "0bf24d2d-d1e2-453e-a6df-4fa1abc929c6"
+  "snapshotGeneration": "13e65cf0-216a-4ad6-bfec-34a9552543cf"
 }
