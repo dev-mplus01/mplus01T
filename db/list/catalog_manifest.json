@@ -2,7 +2,7 @@
   "schema": 1,
   "kind": "movp_catalog_manifest",
   "environment": "prod",
-  "generatedAtDeviceMs": 1791908289411,
+  "generatedAtDeviceMs": 1791913491885,
   "config_gz": {
     "prod": {
       "activeFilename": "items_up_r1791908237359.json.gz",
@@ -11,11 +11,12 @@
       "mirrors": {
         "server1": true,
         "server2": true,
-        "github": false
+        "github": true
       },
       "urls": {
         "server1": "https:\/\/api.appsdevxp.com\/db\/items_up_r1791908237359.json.gz",
-        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1791908237359.json.gz"
+        "server2": "https:\/\/developerxploit.com\/app\/db\/items_up_r1791908237359.json.gz",
+        "github": "https:\/\/raw.githubusercontent.com\/dev-mplus01\/mplus01T\/main\/db\/list\/items_up_r1791908237359.json.gz"
       },
       "truthSource": {
         "target": "server1",
@@ -27,8 +28,8 @@
       "compressedSha256": "d46c3ff414c0062d7e1041823449463a8197e6a00af6248ab0409af85762ea56",
       "uncompressedSizeBytes": 10246786,
       "uncompressedSha256": "a70d5a439b20e1d40400f72c0dc98d24fd166e6f362c328dba4509542907a23d",
-      "updatedAtDeviceMs": 1791908289411,
-      "publishedAtDeviceMs": 1791908289411,
+      "updatedAtDeviceMs": 1791913491885,
+      "publishedAtDeviceMs": 1791913491885,
       "catalog": {
         "filename": "items_up_r1791908237359.json.gz",
         "encoding": "gzip",
