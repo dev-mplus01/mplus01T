@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791943326334,
+  "generatedAtWorkerMs": 1791943410042,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1787889767431,
-  "latestChangeWorkerMs": 1791943318046,
+  "latestChangeWorkerMs": 1791943405990,
   "recentNodesMap": {
+    "Freaky Stories T_4 id_9575": 1791943405,
     "Lucky Luke T_4 id_65392": 1791943318,
     "La Leyenda del Zorro T_4 id_17017": 1791943258,
     "Los Chicos del Espacio T_4 id_28629": 1791943164,
@@ -32,7 +33,6 @@
     "Loopy de Loop T_4 id_319126": 1791907215,
     "Kimba el león blanco T_4 id_8853": 1791907165,
     "El Amor No Tiene Precio T_5 id_1164": 1791907021,
-    "Freaky Stories T_4 id_9575": 1791906915,
     "Grotescología T_4 id_6942": 1791906857,
     "Youth T_2 id_285418": 1791905547,
     "Colisión T_2 id_331033": 1791905380,
@@ -1013,5 +1013,5 @@
     "Scrublands T_2 id_234212": 1787893849,
     "Mientras haya vida T_5 id_208651": 1787889767
   },
-  "snapshotGeneration": "e97c6de5-61c5-4554-909e-6dd9080c3db6"
+  "snapshotGeneration": "bf3557f1-27de-4abe-8147-159de682aa5d"
 }
