@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791999731216,
+  "generatedAtWorkerMs": 1791999798855,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787957835741,
-  "latestChangeWorkerMs": 1791999726192,
+  "coverageStartWorkerMs": 1787958939661,
+  "latestChangeWorkerMs": 1791999796926,
   "recentNodesMap": {
+    "Quirpa De Tres Mujeres T_5 id_137221": 1791999796,
     "Primera Dama T_5 id_97918": 1791999726,
     "Dallas T_2 id_40": 1791999658,
     "El Rey Del Ganado T_5 id_41731": 1791999571,
@@ -1010,8 +1011,7 @@
     "El Idiota Preferido De Dios T_2 id_114201": 1788007918,
     "Caribe T_5 id_16447": 1787979469,
     "Tengen Toppa Gurren Lagann T_3 id_21729": 1787966744,
-    "Amor Oculto T_6 id_210733": 1787958939,
-    "Betty la fea, la historia continúa T_5 id_230424": 1787957835
+    "Amor Oculto T_6 id_210733": 1787958939
   },
-  "snapshotGeneration": "8acb6007-2759-40e5-b006-a838065d2c37"
+  "snapshotGeneration": "2ce8f7e9-52c2-4c72-96b3-f9d454ed3a44"
 }
