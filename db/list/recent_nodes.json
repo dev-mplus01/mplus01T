@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791935308922,
+  "generatedAtWorkerMs": 1791940484024,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1787889492886,
-  "latestChangeWorkerMs": 1791934390107,
+  "latestChangeWorkerMs": 1791940480292,
   "recentNodesMap": {
+    "Coven Academy T_2 id_298505": 1791940480,
     "Top chef vip T_2 id_209374": 1791934390,
     "Valentina Valiente T_5 id_316470": 1791932132,
     "Sabor a ti Entre historias y secretos T_5 id_335679": 1791931714,
@@ -281,7 +282,6 @@
     "Prefiero La Muerte T_2 id_335227": 1791055180,
     "Mis Tres Marías T_5 id_71138": 1791055148,
     "La Playita T_5 id_136226": 1791055098,
-    "Coven Academy T_2 id_298505": 1791055030,
     "Marisol T_5 id_16329": 1791054996,
     "Alguna Vez Tendremos Alas T_5 id_28654": 1791054930,
     "La Reina de las Indias y El Conquistador T_5 id_103727": 1791054867,
@@ -1013,5 +1013,5 @@
     "Mientras haya vida T_5 id_208651": 1787889767,
     "Survivor T_2 id_14658": 1787889492
   },
-  "snapshotGeneration": "c96ed4ac-e0d2-4b7a-aefa-2aa572bbe386"
+  "snapshotGeneration": "d82e58eb-889e-4f09-bae5-aa3fee04717c"
 }
