@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791940484024,
+  "generatedAtWorkerMs": 1791941047436,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787889492886,
-  "latestChangeWorkerMs": 1791940480292,
+  "coverageStartWorkerMs": 1787889767431,
+  "latestChangeWorkerMs": 1791941044604,
   "recentNodesMap": {
+    "El maravillosamente extraño mundo de Gumball T_4 id_291904": 1791941044,
     "Coven Academy T_2 id_298505": 1791940480,
     "Top chef vip T_2 id_209374": 1791934390,
     "Valentina Valiente T_5 id_316470": 1791932132,
@@ -1010,8 +1011,7 @@
     "Ratonera T_6 id_290193": 1787937364,
     "Adultos T_2 id_260458": 1787920638,
     "Scrublands T_2 id_234212": 1787893849,
-    "Mientras haya vida T_5 id_208651": 1787889767,
-    "Survivor T_2 id_14658": 1787889492
+    "Mientras haya vida T_5 id_208651": 1787889767
   },
-  "snapshotGeneration": "d82e58eb-889e-4f09-bae5-aa3fee04717c"
+  "snapshotGeneration": "2368c41b-c6c5-4aef-a74e-0f4e8daf2911"
 }
