@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1791943410042,
+  "generatedAtWorkerMs": 1791943477192,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1787889767431,
-  "latestChangeWorkerMs": 1791943405990,
+  "latestChangeWorkerMs": 1791943471851,
   "recentNodesMap": {
+    "El León Melquiades T_4 id_272160": 1791943471,
     "Freaky Stories T_4 id_9575": 1791943405,
     "Lucky Luke T_4 id_65392": 1791943318,
     "La Leyenda del Zorro T_4 id_17017": 1791943258,
@@ -29,7 +30,6 @@
     "La vida que me robaste T_5 id_336188": 1791931530,
     "El secreto Güller ve Günahlar T_5 id_300388": 1791931371,
     "El Señor de los Cielos id_44953": 1791910711,
-    "El León Melquiades T_4 id_272160": 1791907362,
     "Loopy de Loop T_4 id_319126": 1791907215,
     "Kimba el león blanco T_4 id_8853": 1791907165,
     "El Amor No Tiene Precio T_5 id_1164": 1791907021,
@@ -1013,5 +1013,5 @@
     "Scrublands T_2 id_234212": 1787893849,
     "Mientras haya vida T_5 id_208651": 1787889767
   },
-  "snapshotGeneration": "bf3557f1-27de-4abe-8147-159de682aa5d"
+  "snapshotGeneration": "024aad49-07d5-485c-b491-f81b74dd0526"
 }
