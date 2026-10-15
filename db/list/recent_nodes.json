@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792065590643,
+  "generatedAtWorkerMs": 1792074218972,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1787979469699,
-  "latestChangeWorkerMs": 1792047388295,
+  "coverageStartWorkerMs": 1788007918655,
+  "latestChangeWorkerMs": 1792074215010,
   "recentNodesMap": {
+    "The Magicians T_2 id_64432": 1792074215,
     "Juegos Prohibidos T_5 id_219167": 1792047388,
     "La Pasión Según Nuestros Días T_5 id_338595": 1792047308,
     "Agent Carter T_2 id_61550": 1792038186,
@@ -1010,8 +1011,7 @@
     "Mirai Nikki T_3 id_46671": 1788055098,
     "Industry T_2 id_90812": 1788043633,
     "Hotel Todo Incluído T_2 id_333096": 1788030276,
-    "El Idiota Preferido De Dios T_2 id_114201": 1788007918,
-    "Caribe T_5 id_16447": 1787979469
+    "El Idiota Preferido De Dios T_2 id_114201": 1788007918
   },
-  "snapshotGeneration": "0a8ad097-a4a7-4120-ab11-6245af2db9cc"
+  "snapshotGeneration": "0a5e09d6-9761-4f53-a61a-e69e025d7358"
 }
