@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792104759335,
+  "generatedAtWorkerMs": 1792105000938,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1788007918655,
-  "latestChangeWorkerMs": 1792104755536,
+  "latestChangeWorkerMs": 1792104998901,
   "recentNodesMap": {
+    "El Señor de los Cielos id_44953": 1792104998,
     "Cautiva T_2 id_333631": 1792104755,
     "Casi hermanos T_2 id_250203": 1792104636,
     "Caballos lentos T_2 id_95480": 1792104511,
@@ -28,7 +29,6 @@
     "La vida que me robaste T_5 id_336188": 1792011471,
     "Infinito Amor T_5 id_335306": 1792011324,
     "Amor Profundo T_5 id_302063": 1792011116,
-    "El Señor de los Cielos id_44953": 1792004452,
     "Quirpa De Tres Mujeres T_5 id_137221": 1791999796,
     "Primera Dama T_5 id_97918": 1791999726,
     "Dallas T_2 id_40": 1791999658,
@@ -1013,5 +1013,5 @@
     "Hotel Todo Incluído T_2 id_333096": 1788030276,
     "El Idiota Preferido De Dios T_2 id_114201": 1788007918
   },
-  "snapshotGeneration": "96b0825f-1c58-478f-8443-bee6c5a9ce95"
+  "snapshotGeneration": "06283e82-b692-40fa-b37b-464c94752728"
 }
