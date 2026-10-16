@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792194161254,
+  "generatedAtWorkerMs": 1792194758922,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788217611499,
-  "latestChangeWorkerMs": 1792194154465,
+  "coverageStartWorkerMs": 1788217665517,
+  "latestChangeWorkerMs": 1792194755290,
   "recentNodesMap": {
+    "De Puntillas T_2 id_286617": 1792194755,
     "Tulsa King T_2 id_153312": 1792194154,
     "Tierra de Mafia T_2 id_247718": 1792194011,
     "Materia oscura T_2 id_196322": 1792193874,
@@ -1010,8 +1011,7 @@
     "Neko To Ryuu T_3 id_284029": 1788226115,
     "Qué raro T_2 id_1954": 1788217710,
     "El peor de los caso con bear grylls T_2 id_32704": 1788217678,
-    "Aunque me cueste la vida T_5 id_16151": 1788217665,
-    "Cruzando mares T_5 id_69460": 1788217611
+    "Aunque me cueste la vida T_5 id_16151": 1788217665
   },
-  "snapshotGeneration": "d303fb8c-23e1-4c76-909f-11090f75f12d"
+  "snapshotGeneration": "c5b6007c-5344-4ca5-bae9-251af856ec87"
 }
