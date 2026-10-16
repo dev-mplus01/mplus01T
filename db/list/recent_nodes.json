@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792181314069,
+  "generatedAtWorkerMs": 1792181354478,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788118457673,
-  "latestChangeWorkerMs": 1792181310523,
+  "coverageStartWorkerMs": 1788150940689,
+  "latestChangeWorkerMs": 1792181348413,
   "recentNodesMap": {
+    "Serendipity T_6 id_252920": 1792181348,
     "Serendipity T_6 id_130659": 1792181310,
     "Juego de Voces T_2 id_249345": 1792179135,
     "Jardin Secreto T_6 id_37636": 1792173373,
@@ -1010,8 +1011,7 @@
     "Beauty in Black T_2 id_246246": 1788194158,
     "Máximo placer garantizado T_2 id_285404": 1788158668,
     "El Vecindario T_2 id_81144": 1788152422,
-    "Capitan Fall T_4 id_229153": 1788150940,
-    "Mister maker T_2 id_32138": 1788118457
+    "Capitan Fall T_4 id_229153": 1788150940
   },
-  "snapshotGeneration": "cdddcb1e-c36b-4ca5-b487-339a5a8d24d0"
+  "snapshotGeneration": "b272f7ba-b1e1-4c12-9a28-e1c847496909"
 }
