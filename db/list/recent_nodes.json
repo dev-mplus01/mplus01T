@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792108819103,
+  "generatedAtWorkerMs": 1792110354966,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788030276462,
-  "latestChangeWorkerMs": 1792108815250,
+  "coverageStartWorkerMs": 1788043633770,
+  "latestChangeWorkerMs": 1792110351852,
   "recentNodesMap": {
+    "The Diplomat T_2 id_203857": 1792110351,
     "Archie Weird Mysteries T_4 id_3747": 1792108815,
     "Crew Girl T_2 id_300507": 1792106694,
     "Top chef vip T_2 id_209374": 1792106468,
@@ -1010,8 +1011,7 @@
     "El Gabinete De Curiosidades De Guillermo Del Toro T_2 id_83659": 1788060753,
     "Non Non Biyori T_3 id_66875": 1788055382,
     "Mirai Nikki T_3 id_46671": 1788055098,
-    "Industry T_2 id_90812": 1788043633,
-    "Hotel Todo Incluído T_2 id_333096": 1788030276
+    "Industry T_2 id_90812": 1788043633
   },
-  "snapshotGeneration": "726fa0b0-39c8-45bd-8ee0-36c986c4cc8d"
+  "snapshotGeneration": "93ce727f-46b0-4f1b-9e26-928604325168"
 }
