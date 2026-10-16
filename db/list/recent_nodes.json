@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792139881408,
+  "generatedAtWorkerMs": 1792151719046,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "La Banda Del Guante Verde T_2 id_210750": 1788108300,
     "Habilidad física Asia T_2 id_293613": 1788099444
   },
-  "snapshotGeneration": "2c833ca2-2dcd-48b1-b056-dc19c025f57a"
+  "snapshotGeneration": "1843d6fc-475a-4efb-b39e-4a8dc39f2bf9"
 }
