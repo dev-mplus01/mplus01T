@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792194013052,
+  "generatedAtWorkerMs": 1792194161254,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788214639064,
-  "latestChangeWorkerMs": 1792194011553,
+  "coverageStartWorkerMs": 1788217611499,
+  "latestChangeWorkerMs": 1792194154465,
   "recentNodesMap": {
+    "Tulsa King T_2 id_153312": 1792194154,
     "Tierra de Mafia T_2 id_247718": 1792194011,
     "Materia oscura T_2 id_196322": 1792193874,
     "Arafta T_5 id_306118": 1792193732,
@@ -1010,8 +1011,7 @@
     "Qué raro T_2 id_1954": 1788217710,
     "El peor de los caso con bear grylls T_2 id_32704": 1788217678,
     "Aunque me cueste la vida T_5 id_16151": 1788217665,
-    "Cruzando mares T_5 id_69460": 1788217611,
-    "Llama a la Comadrona T_2 id_39793": 1788214639
+    "Cruzando mares T_5 id_69460": 1788217611
   },
-  "snapshotGeneration": "aad4044e-7219-47df-8562-d7ed7ab996be"
+  "snapshotGeneration": "d303fb8c-23e1-4c76-909f-11090f75f12d"
 }
