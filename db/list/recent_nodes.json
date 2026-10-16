@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792110354966,
+  "generatedAtWorkerMs": 1792117017472,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788043633770,
-  "latestChangeWorkerMs": 1792110351852,
+  "coverageStartWorkerMs": 1788055098633,
+  "latestChangeWorkerMs": 1792117013601,
   "recentNodesMap": {
+    "Yo Soy Betty La Fea T_5 id_16286": 1792117013,
     "The Diplomat T_2 id_203857": 1792110351,
     "Archie Weird Mysteries T_4 id_3747": 1792108815,
     "Crew Girl T_2 id_300507": 1792106694,
@@ -1010,8 +1011,7 @@
     "A salvo con Bear Grylls T_2 id_52962": 1788061842,
     "El Gabinete De Curiosidades De Guillermo Del Toro T_2 id_83659": 1788060753,
     "Non Non Biyori T_3 id_66875": 1788055382,
-    "Mirai Nikki T_3 id_46671": 1788055098,
-    "Industry T_2 id_90812": 1788043633
+    "Mirai Nikki T_3 id_46671": 1788055098
   },
-  "snapshotGeneration": "93ce727f-46b0-4f1b-9e26-928604325168"
+  "snapshotGeneration": "2c9538d2-b704-4cf6-aeed-e543197ed82e"
 }
