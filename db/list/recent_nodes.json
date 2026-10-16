@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792181354478,
+  "generatedAtWorkerMs": 1792181389887,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788150940689,
-  "latestChangeWorkerMs": 1792181348413,
+  "coverageStartWorkerMs": 1788152422020,
+  "latestChangeWorkerMs": 1792181383391,
   "recentNodesMap": {
+    "Serendipity T_6 id_318903": 1792181383,
     "Serendipity T_6 id_252920": 1792181348,
     "Serendipity T_6 id_130659": 1792181310,
     "Juego de Voces T_2 id_249345": 1792179135,
@@ -1010,8 +1011,7 @@
     "Llama a la Comadrona T_2 id_39793": 1788214639,
     "Beauty in Black T_2 id_246246": 1788194158,
     "Máximo placer garantizado T_2 id_285404": 1788158668,
-    "El Vecindario T_2 id_81144": 1788152422,
-    "Capitan Fall T_4 id_229153": 1788150940
+    "El Vecindario T_2 id_81144": 1788152422
   },
-  "snapshotGeneration": "b272f7ba-b1e1-4c12-9a28-e1c847496909"
+  "snapshotGeneration": "da26f6a0-2c63-4999-b977-c6a6e3119b51"
 }
