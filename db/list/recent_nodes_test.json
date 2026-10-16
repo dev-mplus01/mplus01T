@@ -5,12 +5,12 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "test",
-  "generatedAtWorkerMs": 1792130462284,
+  "generatedAtWorkerMs": 1792152055427,
   "limit": 1000,
   "itemCount": 0,
   "windowFull": false,
   "coverageStartWorkerMs": 0,
   "latestChangeWorkerMs": 0,
   "recentNodesMap": {},
-  "snapshotGeneration": "a32d47eb-c9c1-4199-8611-bb3eb958dfa2"
+  "snapshotGeneration": "80f60e9d-6d9a-4079-9bb1-8dfbb07be003"
 }
