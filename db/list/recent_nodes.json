@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792207070839,
+  "generatedAtWorkerMs": 1792207128710,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788240059879,
-  "latestChangeWorkerMs": 1792207066887,
+  "coverageStartWorkerMs": 1788268241885,
+  "latestChangeWorkerMs": 1792207124548,
   "recentNodesMap": {
+    "Amor Prohibido T_5 id_17635": 1792207124,
     "La Casa de las Dos Palmas T_5 id_202506": 1792207066,
     "Camila T_5 id_12813": 1792207027,
     "Serial Thriller The Chameleon T_2 id_65421": 1792206930,
@@ -1010,8 +1011,7 @@
     "Genius Girlfriend T_6 id_289116": 1788292542,
     "The Village Barber T_6 id_312826": 1788292505,
     "Escalofríos T_2 id_5835": 1788279263,
-    "My Lovely Liar T_6 id_210781": 1788268241,
-    "La Muerte de la Esposa del Pastor T_2 id_331616": 1788240059
+    "My Lovely Liar T_6 id_210781": 1788268241
   },
-  "snapshotGeneration": "d90c822b-2283-4cfe-a302-229192b9d4e2"
+  "snapshotGeneration": "566d019a-0fd1-40c0-b37c-cee3e28fd292"
 }
