@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792319818981,
+  "generatedAtWorkerMs": 1792320036609,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788293249169,
-  "latestChangeWorkerMs": 1792319816121,
+  "coverageStartWorkerMs": 1788293272522,
+  "latestChangeWorkerMs": 1792320033998,
   "recentNodesMap": {
+    "The Fable T_3 id_238843": 1792320033,
     "Blade and Soul T_3 id_60814": 1792319816,
     "Tensei shitara Ken Deshita T_3 id_134667": 1792319114,
     "Doctor X Mafia in White T_6 id_293610": 1792308898,
@@ -1010,8 +1011,7 @@
     "Furia T_2 id_287238": 1788294028,
     "Go Go Squid T_6 id_82817": 1788293310,
     "GiriHaji T_6 id_94659": 1788293286,
-    "God friended me T_2 id_81114": 1788293272,
-    "Gracepoint T_2 id_61405": 1788293249
+    "God friended me T_2 id_81114": 1788293272
   },
-  "snapshotGeneration": "e70af17c-2d15-46bd-aa22-59213157d88c"
+  "snapshotGeneration": "29bd5eb0-7ee9-4600-8e63-291497a297fc"
 }
