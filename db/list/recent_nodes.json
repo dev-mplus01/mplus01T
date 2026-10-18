@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792346408385,
+  "generatedAtWorkerMs": 1792347465106,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1788293272522,
-  "latestChangeWorkerMs": 1792321872391,
+  "latestChangeWorkerMs": 1792347461550,
   "recentNodesMap": {
+    "Dragón Ball Super Beerus T_3 id_312359": 1792347461,
     "Yasei no Last Boss ga Arawareta T_3 id_280042": 1792321872,
     "Ao No Hako T_3 id_207347": 1792321455,
     "The Fable T_3 id_238843": 1792320033,
@@ -167,7 +168,6 @@
     "Unsolved T_2 id_76582": 1791739577,
     "Rafaela T_5 id_38948": 1791739537,
     "Get Jiro T_3 id_231801": 1791739519,
-    "Dragón Ball Super Beerus T_3 id_312359": 1791739341,
     "Day One T_2 id_285386": 1791737075,
     "Mad Men T_2 id_1104": 1791693700,
     "Cómo Conocí a Tu Madre T_2 id_1100": 1791688199,
@@ -1013,5 +1013,5 @@
     "GiriHaji T_6 id_94659": 1788293286,
     "God friended me T_2 id_81114": 1788293272
   },
-  "snapshotGeneration": "fa1700e1-1597-4512-b781-f01988489fb2"
+  "snapshotGeneration": "6bce430e-0b4c-4452-872a-cbd28148c815"
 }
