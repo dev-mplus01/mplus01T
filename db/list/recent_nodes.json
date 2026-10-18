@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792349024603,
+  "generatedAtWorkerMs": 1792350551742,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788293310304,
-  "latestChangeWorkerMs": 1792349020177,
+  "coverageStartWorkerMs": 1788294028890,
+  "latestChangeWorkerMs": 1792350547837,
   "recentNodesMap": {
+    "Katanagatari T_3 id_46374": 1792350547,
     "Tensei Kizoku Kantei Skill de Nariagaru T_3 id_237150": 1792349020,
     "Tempal Item No Chikara T_3 id_324502": 1792348886,
     "Tank Chair T_3 id_320377": 1792348587,
@@ -1010,8 +1011,7 @@
     "LINK CLICK T_3 id_123542": 1788306907,
     "El Esposo T_6 id_300954": 1788304038,
     "Lorenza Bebé Abordo T_2 id_101032": 1788297622,
-    "Furia T_2 id_287238": 1788294028,
-    "Go Go Squid T_6 id_82817": 1788293310
+    "Furia T_2 id_287238": 1788294028
   },
-  "snapshotGeneration": "1241183e-1f70-4260-a47f-ffc5be3006e3"
+  "snapshotGeneration": "43abdcd1-766b-4e72-bd50-daa924eb71fb"
 }
