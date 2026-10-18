@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792353771146,
+  "generatedAtWorkerMs": 1792354189298,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788312754238,
-  "latestChangeWorkerMs": 1792353768032,
+  "coverageStartWorkerMs": 1788312936987,
+  "latestChangeWorkerMs": 1792354185828,
   "recentNodesMap": {
+    "Dragon Ball Heroes T_3 id_80020": 1792354185,
     "Mirai Nikki T_3 id_46671": 1792353768,
     "Kao ni denai Kashiwada-san to Kao ni deru Ootakun T_3 id_286388": 1792353349,
     "Jormungand T_3 id_46279": 1792353138,
@@ -1010,8 +1011,7 @@
     "Kono Subarashii Sekai Ni Shukufuku Wo T_3 id_65844": 1788313961,
     "Lo Que Hacemos En Las Sombras T_2 id_83631": 1788313645,
     "Mouse T_2 id_117378": 1788313140,
-    "Princesita Sofía Magia Real T_3 id_261647": 1788312936,
-    "Stick El Swing Perfecto T_2 id_248830": 1788312754
+    "Princesita Sofía Magia Real T_3 id_261647": 1788312936
   },
-  "snapshotGeneration": "742dbd79-d6d0-4021-b6f9-c66dbb7cc628"
+  "snapshotGeneration": "d5c64fce-0dec-4674-9161-74f4352761d0"
 }
