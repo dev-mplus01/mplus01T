@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792373556242,
+  "generatedAtWorkerMs": 1792373575320,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788316327987,
-  "latestChangeWorkerMs": 1792373551976,
+  "coverageStartWorkerMs": 1788317067893,
+  "latestChangeWorkerMs": 1792373572927,
   "recentNodesMap": {
+    "Choujin Koukousei T_3 id_91269": 1792373572,
     "Donde esta wally T_4 id_4112": 1792373551,
     "Code Breaker T_3 id_57287": 1792373525,
     "Toaru Majutsu no Index T_3 id_30980": 1792357133,
@@ -1010,8 +1011,7 @@
     "Isabel Me La Velo T_5 id_136229": 1788362925,
     "Snowfall T_2 id_71694": 1788318964,
     "Victorinos T_2 id_18846": 1788317317,
-    "Ágata y Lola T_2 id_301387": 1788317067,
-    "The River T_2 id_39336": 1788316327
+    "Ágata y Lola T_2 id_301387": 1788317067
   },
-  "snapshotGeneration": "a7d66cf3-8acd-44b4-9135-3f73f16e11d0"
+  "snapshotGeneration": "71986992-73cc-4715-85b3-34edceff525a"
 }
