@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792373683603,
+  "generatedAtWorkerMs": 1792373705713,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788363506394,
-  "latestChangeWorkerMs": 1792373681780,
+  "coverageStartWorkerMs": 1788388919460,
+  "latestChangeWorkerMs": 1792373701699,
   "recentNodesMap": {
+    "Isekai Cheat Magician T_3 id_90215": 1792373701,
     "Hataraku Maou sama T_3 id_45997": 1792373681,
     "El show de Charlie Brown y Snoopy T_4 id_6670": 1792373653,
     "Dave El Bárbaro T_4 id_1960": 1792373624,
@@ -1010,8 +1011,7 @@
     "La Purga T_2 id_80213": 1788395269,
     "El Pañuelo Rojo T_5 id_44671": 1788389953,
     "Pepper Ann T_4 id_4568": 1788389581,
-    "Don Gato y su Pandilla T_4 id_4232": 1788388919,
-    "Fantasmas T_2 id_126027": 1788363506
+    "Don Gato y su Pandilla T_4 id_4232": 1788388919
   },
-  "snapshotGeneration": "563f2735-1ff9-4c7f-a4a3-c1da2d164b55"
+  "snapshotGeneration": "bbadb5c6-64be-42b1-9ad2-80b8988a9da5"
 }
