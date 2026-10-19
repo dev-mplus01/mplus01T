@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792436442632,
+  "generatedAtWorkerMs": 1792441715118,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788411958747,
-  "latestChangeWorkerMs": 1792436441169,
+  "coverageStartWorkerMs": 1788413861015,
+  "latestChangeWorkerMs": 1792441710783,
   "recentNodesMap": {
+    "Nosotros Los Guapos T_2 id_67872": 1792441710,
     "From T_2 id_124364": 1792436441,
     "Get Jiro T_3 id_231801": 1792409030,
     "100 días de engaño T_6 id_293607": 1792385822,
@@ -1010,8 +1011,7 @@
     "La Red Púrpura T_2 id_230720": 1788460469,
     "Castle T_2 id_1419": 1788459244,
     "Toujima Tanzaburou wa Kamen Rider ni Naritai T_4 id_285788": 1788448637,
-    "Todo es Prestao id_107202": 1788413861,
-    "El Afecto del Rey id_129478": 1788411958
+    "Todo es Prestao id_107202": 1788413861
   },
-  "snapshotGeneration": "70f49e33-a6df-4ea7-a8d8-6eac4914f6c8"
+  "snapshotGeneration": "79903fad-5acb-4183-8d16-c283864e6d24"
 }
