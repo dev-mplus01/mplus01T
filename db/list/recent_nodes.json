@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792452809010,
+  "generatedAtWorkerMs": 1792453089415,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788459244766,
-  "latestChangeWorkerMs": 1792452806260,
+  "coverageStartWorkerMs": 1788460469728,
+  "latestChangeWorkerMs": 1792453085605,
   "recentNodesMap": {
+    "El Diario del Destino T_2 id_1716": 1792453085,
     "Los Crímenes Del Cementerio De Animales Una Historia De Terror T_2 id_336418": 1792452806,
     "Hora de aventuras Misiones legendarias T_4 id_256694": 1792452556,
     "Baki Dou The Invincible Samurai T_3 id_300054": 1792452492,
@@ -1010,8 +1011,7 @@
     "Blue Dragon T_3 id_36210": 1788466957,
     "Yu Yu Hakusho T_3 id_30669": 1788466002,
     "Yuukoku no Moriarty T_3 id_100281": 1788462669,
-    "La Red Púrpura T_2 id_230720": 1788460469,
-    "Castle T_2 id_1419": 1788459244
+    "La Red Púrpura T_2 id_230720": 1788460469
   },
-  "snapshotGeneration": "56f3e7bb-80c4-406f-8e80-367de23158ed"
+  "snapshotGeneration": "c2abb405-ef20-4403-9c97-b0e73b74c2bf"
 }
