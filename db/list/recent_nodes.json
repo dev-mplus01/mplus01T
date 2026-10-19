@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792373662196,
+  "generatedAtWorkerMs": 1792373683603,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788362925134,
-  "latestChangeWorkerMs": 1792373653972,
+  "coverageStartWorkerMs": 1788363506394,
+  "latestChangeWorkerMs": 1792373681780,
   "recentNodesMap": {
+    "Hataraku Maou sama T_3 id_45997": 1792373681,
     "El show de Charlie Brown y Snoopy T_4 id_6670": 1792373653,
     "Dave El Bárbaro T_4 id_1960": 1792373624,
     "El valle de los dinosaurios T_4 id_11709": 1792373599,
@@ -1010,8 +1011,7 @@
     "El Pañuelo Rojo T_5 id_44671": 1788389953,
     "Pepper Ann T_4 id_4568": 1788389581,
     "Don Gato y su Pandilla T_4 id_4232": 1788388919,
-    "Fantasmas T_2 id_126027": 1788363506,
-    "Isabel Me La Velo T_5 id_136229": 1788362925
+    "Fantasmas T_2 id_126027": 1788363506
   },
-  "snapshotGeneration": "43208c29-395b-4beb-affd-a9c3a16a8678"
+  "snapshotGeneration": "563f2735-1ff9-4c7f-a4a3-c1da2d164b55"
 }
