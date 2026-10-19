@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792373529376,
+  "generatedAtWorkerMs": 1792373556242,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788315539203,
-  "latestChangeWorkerMs": 1792373525580,
+  "coverageStartWorkerMs": 1788316327987,
+  "latestChangeWorkerMs": 1792373551976,
   "recentNodesMap": {
+    "Donde esta wally T_4 id_4112": 1792373551,
     "Code Breaker T_3 id_57287": 1792373525,
     "Toaru Majutsu no Index T_3 id_30980": 1792357133,
     "LEGO Ninjago El ascenso de los dragones T_4 id_212989": 1792356902,
@@ -1010,8 +1011,7 @@
     "Snowfall T_2 id_71694": 1788318964,
     "Victorinos T_2 id_18846": 1788317317,
     "Ágata y Lola T_2 id_301387": 1788317067,
-    "The River T_2 id_39336": 1788316327,
-    "Nikita T_2 id_32868": 1788315539
+    "The River T_2 id_39336": 1788316327
   },
-  "snapshotGeneration": "1917ced8-177c-49aa-8a68-7169053f7344"
+  "snapshotGeneration": "a7d66cf3-8acd-44b4-9135-3f73f16e11d0"
 }
