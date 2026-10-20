@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792453146708,
+  "generatedAtWorkerMs": 1792454051770,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Yuukoku no Moriarty T_3 id_100281": 1788462669,
     "La Red Púrpura T_2 id_230720": 1788460469
   },
-  "snapshotGeneration": "4fbdfbcd-86b7-4bd3-8298-f58a0f3adc69"
+  "snapshotGeneration": "0582d481-3581-4938-b12e-bc579bd5b570"
 }
