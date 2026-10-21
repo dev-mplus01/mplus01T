@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792619100118,
+  "generatedAtWorkerMs": 1792619296179,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788590175849,
-  "latestChangeWorkerMs": 1792619096980,
+  "coverageStartWorkerMs": 1788590188387,
+  "latestChangeWorkerMs": 1792619293055,
   "recentNodesMap": {
+    "Saiko No Kyoushi T_6 id_228921": 1792619293,
     "Light Of My Lion T_6 id_271336": 1792619096,
     "Love And Fortune T_6 id_87548": 1792618827,
     "La Infiltrada Srta Hong T_6 id_293608": 1792618667,
@@ -1010,8 +1011,7 @@
     "Ana Cristina T_5 id_333874": 1788590772,
     "Senpai ga Uzai Kouhai T_3 id_105511": 1788590486,
     "Uchi no Kaisha no Chiisai Senpai no Hanashi T_3 id_217390": 1788590471,
-    "Juuni Taisen T_3 id_74095": 1788590188,
-    "Kikansha no Mahou wa Tokubatsu T_3 id_230050": 1788590175
+    "Juuni Taisen T_3 id_74095": 1788590188
   },
-  "snapshotGeneration": "925fcabb-07f2-4a3c-84ef-193b686bf89c"
+  "snapshotGeneration": "2f926378-101f-4989-9ed6-43825fc375b9"
 }
