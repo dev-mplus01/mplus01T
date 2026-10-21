@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792618669573,
+  "generatedAtWorkerMs": 1792618830808,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788589887449,
-  "latestChangeWorkerMs": 1792618667400,
+  "coverageStartWorkerMs": 1788590149290,
+  "latestChangeWorkerMs": 1792618827746,
   "recentNodesMap": {
+    "Love And Fortune T_6 id_87548": 1792618827,
     "La Infiltrada Srta Hong T_6 id_293608": 1792618667,
     "Zomvivor T_6 id_217837": 1792618190,
     "Chocolate T_6 id_95066": 1792617924,
@@ -1010,8 +1011,7 @@
     "Uchi no Kaisha no Chiisai Senpai no Hanashi T_3 id_217390": 1788590471,
     "Juuni Taisen T_3 id_74095": 1788590188,
     "Kikansha no Mahou wa Tokubatsu T_3 id_230050": 1788590175,
-    "La Elegida id_51001": 1788590149,
-    "Heavenly Bites Mexico id_155099": 1788589887
+    "La Elegida id_51001": 1788590149
   },
-  "snapshotGeneration": "6c96ea12-a2aa-4fc8-b3aa-cc4bb13d9903"
+  "snapshotGeneration": "1c20b878-d352-46d0-8f24-0db9457bcb4a"
 }
