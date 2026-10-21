@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792542028384,
+  "generatedAtWorkerMs": 1792550478987,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788581758490,
-  "latestChangeWorkerMs": 1792542025509,
+  "coverageStartWorkerMs": 1788582057706,
+  "latestChangeWorkerMs": 1792550475891,
   "recentNodesMap": {
+    "Black Lightning T_2 id_71663": 1792550475,
     "Marshals Una historia de Yellowstone T_2 id_290856": 1792542025,
     "American Hostage T_2 id_239618": 1792541852,
     "El Señor de los Cielos id_44953": 1792529837,
@@ -1010,8 +1011,7 @@
     "Agatha en todas partes T_2 id_138501": 1788583250,
     "DGray Man T_3 id_34141": 1788582961,
     "Tomodachi no Imōto ga Ore ni Dake Uzai T_3 id_117879": 1788582076,
-    "Kakuriyo Bed & Breakfast For Spirits T_3 id_78483": 1788582057,
-    "DOTA Dragons Blood T_4 id_118956": 1788581758
+    "Kakuriyo Bed & Breakfast For Spirits T_3 id_78483": 1788582057
   },
-  "snapshotGeneration": "0864c3b1-74c1-4a5f-8918-443d0c50e056"
+  "snapshotGeneration": "5df8c880-c647-40dc-af9b-e41ae2e036e1"
 }
