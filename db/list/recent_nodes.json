@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792618830808,
+  "generatedAtWorkerMs": 1792619100118,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788590149290,
-  "latestChangeWorkerMs": 1792618827746,
+  "coverageStartWorkerMs": 1788590175849,
+  "latestChangeWorkerMs": 1792619096980,
   "recentNodesMap": {
+    "Light Of My Lion T_6 id_271336": 1792619096,
     "Love And Fortune T_6 id_87548": 1792618827,
     "La Infiltrada Srta Hong T_6 id_293608": 1792618667,
     "Zomvivor T_6 id_217837": 1792618190,
@@ -1010,8 +1011,7 @@
     "Senpai ga Uzai Kouhai T_3 id_105511": 1788590486,
     "Uchi no Kaisha no Chiisai Senpai no Hanashi T_3 id_217390": 1788590471,
     "Juuni Taisen T_3 id_74095": 1788590188,
-    "Kikansha no Mahou wa Tokubatsu T_3 id_230050": 1788590175,
-    "La Elegida id_51001": 1788590149
+    "Kikansha no Mahou wa Tokubatsu T_3 id_230050": 1788590175
   },
-  "snapshotGeneration": "1c20b878-d352-46d0-8f24-0db9457bcb4a"
+  "snapshotGeneration": "925fcabb-07f2-4a3c-84ef-193b686bf89c"
 }
