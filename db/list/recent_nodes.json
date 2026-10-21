@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792529841463,
+  "generatedAtWorkerMs": 1792540739706,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Kakuriyo Bed & Breakfast For Spirits T_3 id_78483": 1788582057,
     "DOTA Dragons Blood T_4 id_118956": 1788581758
   },
-  "snapshotGeneration": "09f87e32-cf49-455b-8594-a62abcaaf876"
+  "snapshotGeneration": "62bdece9-56f6-44a2-bd46-96de9f1a3999"
 }
