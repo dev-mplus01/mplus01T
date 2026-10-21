@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792551368654,
+  "generatedAtWorkerMs": 1792552435032,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788582057706,
-  "latestChangeWorkerMs": 1792551365211,
+  "coverageStartWorkerMs": 1788582076679,
+  "latestChangeWorkerMs": 1792552431819,
   "recentNodesMap": {
+    "Pasión y Poder T_5 id_211478": 1792552431,
     "Valentina Valiente T_5 id_316470": 1792551365,
     "Sabor a ti Entre historias y secretos T_5 id_335679": 1792551217,
     "La vida que me robaste T_5 id_336188": 1792550914,
@@ -1010,8 +1011,7 @@
     "Escuadrón Suicida Isekai T_3 id_229926": 1788583269,
     "Agatha en todas partes T_2 id_138501": 1788583250,
     "DGray Man T_3 id_34141": 1788582961,
-    "Tomodachi no Imōto ga Ore ni Dake Uzai T_3 id_117879": 1788582076,
-    "Kakuriyo Bed & Breakfast For Spirits T_3 id_78483": 1788582057
+    "Tomodachi no Imōto ga Ore ni Dake Uzai T_3 id_117879": 1788582076
   },
-  "snapshotGeneration": "006e6aab-a6b6-4f00-9d35-d4c336cfbd2d"
+  "snapshotGeneration": "89e87901-205e-4e68-a07c-b633a334d488"
 }
