@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792556297791,
+  "generatedAtWorkerMs": 1792556311550,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788585958102,
-  "latestChangeWorkerMs": 1792556292493,
+  "coverageStartWorkerMs": 1788586263939,
+  "latestChangeWorkerMs": 1792556307298,
   "recentNodesMap": {
+    "Un amor infiltrado T_6 id_303745": 1792556307,
     "La Hora de los Super Amigos T_4 id_10159": 1792556292,
     "Pecadora T_5 id_225006": 1792556262,
     "Phony T_2 id_275139": 1792556210,
@@ -1010,8 +1011,7 @@
     "Folklore T_2 id_83090": 1788586853,
     "Amor y Muerte T_2 id_124800": 1788586565,
     "He-Man y los Amos del Universo T_4 id_96659": 1788586549,
-    "Silo T_2 id_125988": 1788586263,
-    "Pablo Escobar El Patron Del Mal T_2 id_43348": 1788585958
+    "Silo T_2 id_125988": 1788586263
   },
-  "snapshotGeneration": "9a8dfc59-d298-428f-938e-6f1a57cf178c"
+  "snapshotGeneration": "1702d81b-dd9a-47ac-9ae7-351f36e2b0e7"
 }
