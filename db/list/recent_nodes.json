@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792597962874,
+  "generatedAtWorkerMs": 1792597983876,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788586565800,
-  "latestChangeWorkerMs": 1792597958583,
+  "coverageStartWorkerMs": 1788586853746,
+  "latestChangeWorkerMs": 1792597977549,
   "recentNodesMap": {
+    "Los Protegidos ADN T_2 id_123374": 1792597977,
     "Los Protegidos Un Nuevo Poder T_2 id_209776": 1792597958,
     "Ushio To Tora T_3 id_63085": 1792584594,
     "Buscando a Wanda T_2 id_234310": 1792563287,
@@ -1010,8 +1011,7 @@
     "El Hotel de los Secretos T_5 id_65396": 1788588064,
     "Saving Hope T_2 id_43097": 1788587454,
     "Edens Zero id_104711": 1788587160,
-    "Folklore T_2 id_83090": 1788586853,
-    "Amor y Muerte T_2 id_124800": 1788586565
+    "Folklore T_2 id_83090": 1788586853
   },
-  "snapshotGeneration": "07b024ab-46e1-4965-ada2-a7c6c3597b05"
+  "snapshotGeneration": "f44eca65-bc60-4832-bcb6-a72c63d91739"
 }
