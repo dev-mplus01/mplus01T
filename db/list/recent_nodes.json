@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792726676103,
+  "generatedAtWorkerMs": 1792728681866,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788592565975,
-  "latestChangeWorkerMs": 1792726672723,
+  "coverageStartWorkerMs": 1788592877913,
+  "latestChangeWorkerMs": 1792728678883,
   "recentNodesMap": {
+    "Sabuesos T_2 id_127529": 1792728678,
     "Ninja Turtles The Next Mutation T_4 id_3909": 1792726672,
     "Valentina Valiente T_5 id_316470": 1792720108,
     "Las kardashians T_2 id_154521": 1792719987,
@@ -1010,8 +1011,7 @@
     "Terror en Estado Puro T_2 id_7143": 1788601652,
     "Sousou No Frieren T_3 id_209867": 1788595247,
     "A prueba de todo T_2 id_4709": 1788592890,
-    "Zoids New Century Zero T_3 id_29540": 1788592877,
-    "Chad Powers T_2 id_247168": 1788592565
+    "Zoids New Century Zero T_3 id_29540": 1788592877
   },
-  "snapshotGeneration": "9e7635d0-1d7e-44db-8f27-086319eee739"
+  "snapshotGeneration": "0b643cde-f84b-4add-bc22-d107c0e7dbeb"
 }
