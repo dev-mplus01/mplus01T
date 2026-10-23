@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792756651742,
+  "generatedAtWorkerMs": 1792762408746,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788592890383,
-  "latestChangeWorkerMs": 1792740268040,
+  "coverageStartWorkerMs": 1788595247216,
+  "latestChangeWorkerMs": 1792762404841,
   "recentNodesMap": {
+    "¡Guau que amigo! T_2 id_97441": 1792762404,
     "Dragón Ball Super Beerus T_3 id_312359": 1792740268,
     "Nadie quiere esto T_2 id_250923": 1792739968,
     "Guerra T_2 id_298852": 1792737573,
@@ -1010,8 +1011,7 @@
     "Dead Mount Death Play T_3 id_214540": 1788634640,
     "Te Encontraré T_2 id_278178": 1788633122,
     "Terror en Estado Puro T_2 id_7143": 1788601652,
-    "Sousou No Frieren T_3 id_209867": 1788595247,
-    "A prueba de todo T_2 id_4709": 1788592890
+    "Sousou No Frieren T_3 id_209867": 1788595247
   },
-  "snapshotGeneration": "a7f3e60b-9939-481e-8a38-b3a95793f425"
+  "snapshotGeneration": "42684280-c3dd-404f-826d-8bfc66fc0139"
 }
