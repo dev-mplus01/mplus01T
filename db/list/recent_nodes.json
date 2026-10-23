@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792780475207,
+  "generatedAtWorkerMs": 1792786544773,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788651956838,
-  "latestChangeWorkerMs": 1792779568599,
+  "coverageStartWorkerMs": 1788654012863,
+  "latestChangeWorkerMs": 1792786540610,
   "recentNodesMap": {
+    "Lupin T_2 id_96677": 1792786540,
     "Dragon Ball Super id_62715": 1792779568,
     "Avatar Los Siete Refugios T_4 id_284833": 1792777258,
     "Fruits Basket T_3 id_85991": 1792771775,
@@ -1010,8 +1011,7 @@
     "Sabikui Bisco T_3 id_120142": 1788655119,
     "Hundred T_3 id_66109": 1788654882,
     "Kobayashi-San Chi No Maid Dragon T_3 id_69291": 1788654593,
-    "Darwins Game T_3 id_85942": 1788654012,
-    "Pit Babe T_6 id_235199": 1788651956
+    "Darwins Game T_3 id_85942": 1788654012
   },
-  "snapshotGeneration": "28e3e67a-a5ab-44aa-91db-157a84294c3f"
+  "snapshotGeneration": "6b9cb998-64cd-4410-adb5-2ab9a6aea7ca"
 }
