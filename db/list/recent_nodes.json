@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792875577836,
+  "generatedAtWorkerMs": 1792875680696,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1788661252599,
-  "latestChangeWorkerMs": 1792875573398,
+  "latestChangeWorkerMs": 1792875673295,
   "recentNodesMap": {
+    "Yasei no Last Boss ga Arawareta T_3 id_280042": 1792875673,
     "Shuiro no Kamen T_3 id_295420": 1792875573,
     "Black Clover T_3 id_73223": 1792875452,
     "Lupin T_2 id_96677": 1792872906,
@@ -170,7 +171,6 @@
     "Tank Chair T_3 id_320377": 1792348587,
     "Rakudai Kishi no Cavalry T_3 id_67154": 1792347496,
     "Dies Irae T_3 id_74087": 1792347475,
-    "Yasei no Last Boss ga Arawareta T_3 id_280042": 1792321872,
     "Ao No Hako T_3 id_207347": 1792321455,
     "The Fable T_3 id_238843": 1792320033,
     "Blade and Soul T_3 id_60814": 1792319816,
@@ -1013,5 +1013,5 @@
     "Carrusel T_5 id_46150": 1788661564,
     "Fumetsu No Anata E T_3 id_97525": 1788661252
   },
-  "snapshotGeneration": "dd8f9a5f-6057-4e0b-b10a-a715350d5615"
+  "snapshotGeneration": "988ed51d-235e-4e04-9371-0022e26a6681"
 }
