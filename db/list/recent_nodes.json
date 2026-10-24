@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792872174366,
+  "generatedAtWorkerMs": 1792872908995,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1788661252599,
-  "latestChangeWorkerMs": 1792872171804,
+  "latestChangeWorkerMs": 1792872906334,
   "recentNodesMap": {
+    "Lupin T_2 id_96677": 1792872906,
     "Coppola, el representante T_2 id_128330": 1792872171,
     "Timbiriche T_2 id_336785": 1792871506,
     "Sacrifice T_2 id_137948": 1792871393,
@@ -34,7 +35,6 @@
     "Los diarios de la boticaria T_3 id_220542": 1792791130,
     "Tougen Anki T_3 id_253811": 1792790820,
     "Hotaru No Yomeiri T_3 id_320909": 1792790693,
-    "Lupin T_2 id_96677": 1792786540,
     "Dragon Ball Super id_62715": 1792779568,
     "Avatar Los Siete Refugios T_4 id_284833": 1792777258,
     "Fruits Basket T_3 id_85991": 1792771775,
@@ -1013,5 +1013,5 @@
     "Carrusel T_5 id_46150": 1788661564,
     "Fumetsu No Anata E T_3 id_97525": 1788661252
   },
-  "snapshotGeneration": "a7d41b07-4cf0-4477-927c-7b76491f40f8"
+  "snapshotGeneration": "b83207b5-5aa8-473b-a0e1-419a7dde8754"
 }
