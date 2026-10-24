@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792870086715,
+  "generatedAtWorkerMs": 1792870186653,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788656251093,
-  "latestChangeWorkerMs": 1792870078891,
+  "coverageStartWorkerMs": 1788660765644,
+  "latestChangeWorkerMs": 1792870179684,
   "recentNodesMap": {
+    "Junji Ito Collection T_3 id_75775": 1792870179,
     "Estado de Furia T_2 id_280880": 1792870078,
     "Doctor X Mafia in White T_6 id_293610": 1792869949,
     "Cautiva T_2 id_333631": 1792869822,
@@ -1010,8 +1011,7 @@
     "Kamisama No Inai Nichiyoubi T_3 id_49473": 1788661834,
     "Carrusel T_5 id_46150": 1788661564,
     "Fumetsu No Anata E T_3 id_97525": 1788661252,
-    "Boku No Hero Academia T_3 id_65930": 1788660765,
-    "Tsuki ga Michibiku Isekai T_3 id_111819": 1788656251
+    "Boku No Hero Academia T_3 id_65930": 1788660765
   },
-  "snapshotGeneration": "4a8bb7c9-42de-43bd-aa11-4f871ad82d60"
+  "snapshotGeneration": "2131e01b-bb1e-40dc-9b56-d8d46766b3a2"
 }
