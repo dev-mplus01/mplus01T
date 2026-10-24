@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792800000980,
+  "generatedAtWorkerMs": 1792820848949,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Sabikui Bisco T_3 id_120142": 1788655119,
     "Hundred T_3 id_66109": 1788654882
   },
-  "snapshotGeneration": "5925c456-81e3-4e1e-bc0b-e1f90425ac5c"
+  "snapshotGeneration": "8a0fe3f7-333f-4753-b8fc-ef12e1113c56"
 }
