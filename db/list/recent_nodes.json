@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1792885661867,
+  "generatedAtWorkerMs": 1792888473806,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788661252599,
-  "latestChangeWorkerMs": 1792875673295,
+  "coverageStartWorkerMs": 1788661564001,
+  "latestChangeWorkerMs": 1792888471414,
   "recentNodesMap": {
+    "All American id_82428": 1792888471,
     "Yasei no Last Boss ga Arawareta T_3 id_280042": 1792875673,
     "Shuiro no Kamen T_3 id_295420": 1792875573,
     "Black Clover T_3 id_73223": 1792875452,
@@ -1010,8 +1011,7 @@
     "Meiji Tokyo Renka T_3 id_84141": 1788661970,
     "Kamisama No Memochou T_3 id_68379": 1788661880,
     "Kamisama No Inai Nichiyoubi T_3 id_49473": 1788661834,
-    "Carrusel T_5 id_46150": 1788661564,
-    "Fumetsu No Anata E T_3 id_97525": 1788661252
+    "Carrusel T_5 id_46150": 1788661564
   },
-  "snapshotGeneration": "5e3144f1-f8ba-437e-a96b-926eba2b07ee"
+  "snapshotGeneration": "af763db1-8892-4ccf-8c63-bf75d31a97b1"
 }
