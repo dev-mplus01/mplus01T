@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793035834022,
+  "generatedAtWorkerMs": 1793036661771,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788661834752,
-  "latestChangeWorkerMs": 1793035828032,
+  "coverageStartWorkerMs": 1788661880803,
+  "latestChangeWorkerMs": 1793036658168,
   "recentNodesMap": {
+    "Shogun T_6 id_126308": 1793036658,
     "Sabor a ti Entre historias y secretos T_5 id_335679": 1793035828,
     "La vida que me robaste T_5 id_336188": 1793035712,
     "La isla del tesoro T_2 id_333101": 1793035583,
@@ -1010,8 +1011,7 @@
     "Tormenta de Amor T_5 id_136220": 1788668804,
     "My Hero Academia Vigilantes T_3 id_280110": 1788664306,
     "Meiji Tokyo Renka T_3 id_84141": 1788661970,
-    "Kamisama No Memochou T_3 id_68379": 1788661880,
-    "Kamisama No Inai Nichiyoubi T_3 id_49473": 1788661834
+    "Kamisama No Memochou T_3 id_68379": 1788661880
   },
-  "snapshotGeneration": "5aa69437-c112-4df1-943a-2ccf843a4478"
+  "snapshotGeneration": "158bb583-a172-4afb-a8a8-ab661bb64933"
 }
