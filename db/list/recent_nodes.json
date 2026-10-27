@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793104293625,
+  "generatedAtWorkerMs": 1793117952030,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788664306019,
-  "latestChangeWorkerMs": 1793104290433,
+  "coverageStartWorkerMs": 1788668804894,
+  "latestChangeWorkerMs": 1793117947498,
   "recentNodesMap": {
+    "Wandavision T_2 id_85271": 1793117947,
     "Dark Summoner To Dekiteiru T_3 id_335790": 1793104290,
     "Valentina Valiente T_5 id_316470": 1793076308,
     "Youth T_2 id_285418": 1793076216,
@@ -1010,8 +1011,7 @@
     "Gotham id_60708": 1788737028,
     "Desaparecida T_5 id_98725": 1788719445,
     "Yanxi Palace Princess Adventure T_6 id_96997": 1788672814,
-    "Tormenta de Amor T_5 id_136220": 1788668804,
-    "My Hero Academia Vigilantes T_3 id_280110": 1788664306
+    "Tormenta de Amor T_5 id_136220": 1788668804
   },
-  "snapshotGeneration": "d9818e60-2598-4471-ae8f-5f787d280c5e"
+  "snapshotGeneration": "1418a3f6-24c0-47ff-82b7-739784828653"
 }
