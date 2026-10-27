@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793135180279,
+  "generatedAtWorkerMs": 1793135190457,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788808151295,
-  "latestChangeWorkerMs": 1793135167985,
+  "coverageStartWorkerMs": 1788814872668,
+  "latestChangeWorkerMs": 1793135186683,
   "recentNodesMap": {
+    "Mission Hill T_4 id_2073": 1793135186,
     "Las Nuevas Peliculas de Scooby-Doo T_4 id_1068": 1793135167,
     "Micro aventuras T_4 id_15640": 1793135146,
     "Los Fantasmas de la Ciudad T_4 id_119831": 1793135129,
@@ -1010,8 +1011,7 @@
     "El Ascenso De Los Fénix T_6 id_81667": 1788814982,
     "Emprendedores T_6 id_82660": 1788814938,
     "Average Joe T_2 id_228421": 1788814900,
-    "Antes Muerta Que Lichita T_5 id_63924": 1788814872,
-    "Air Master T_3 id_34698": 1788808151
+    "Antes Muerta Que Lichita T_5 id_63924": 1788814872
   },
-  "snapshotGeneration": "b60b1f9b-4118-44a1-8276-b256ba92b8a0"
+  "snapshotGeneration": "d12aa972-47c4-4844-ad9e-945d3b7b7d52"
 }
