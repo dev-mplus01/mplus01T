@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793145298764,
+  "generatedAtWorkerMs": 1793147139263,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788815013064,
-  "latestChangeWorkerMs": 1793135324205,
+  "coverageStartWorkerMs": 1788815042890,
+  "latestChangeWorkerMs": 1793147134601,
   "recentNodesMap": {
+    "Blue Lights T_2 id_218344": 1793147134,
     "Metalocalypse T_4 id_653": 1793135324,
     "Los Reyes de la Colina T_4 id_2122": 1793135295,
     "Los Lopeggs T_4 id_128858": 1793135224,
@@ -1010,8 +1011,7 @@
     "Succession T_2 id_76331": 1788823626,
     "Haikyuu T_3 id_60863": 1788821822,
     "Los Jackson Un Sueño Americano T_2 id_9323": 1788815068,
-    "Jackass T_2 id_1795": 1788815042,
-    "Doppelganger T_6 id_282242": 1788815013
+    "Jackass T_2 id_1795": 1788815042
   },
-  "snapshotGeneration": "5bb71626-7c80-4958-9eb2-b94afd6aec1e"
+  "snapshotGeneration": "e6e7267d-aace-41b2-a723-da20c5fe630c"
 }
