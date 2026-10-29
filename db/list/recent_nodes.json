@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793235377483,
+  "generatedAtWorkerMs": 1793235476845,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788830621164,
-  "latestChangeWorkerMs": 1793235373942,
+  "coverageStartWorkerMs": 1788830649405,
+  "latestChangeWorkerMs": 1793235475288,
   "recentNodesMap": {
+    "Era de la juventud T_2 id_67014": 1793235475,
     "Un amor infiltrado T_6 id_303745": 1793235373,
     "Sabor a ti Entre historias y secretos T_5 id_335679": 1793235210,
     "Sunny entre estrellas T_2 id_33873": 1793234936,
@@ -1010,8 +1011,7 @@
     "Someone Has to Die T_2 id_105904": 1788830737,
     "Soundtrack T_2 id_96095": 1788830708,
     "High Score T_2 id_106754": 1788830677,
-    "Hollywood T_2 id_87050": 1788830649,
-    "Historia de un clan T_2 id_64237": 1788830621
+    "Hollywood T_2 id_87050": 1788830649
   },
-  "snapshotGeneration": "4fa62e63-63a0-440f-8f80-90c9931c4a5d"
+  "snapshotGeneration": "b7c4f511-ca1e-40c8-bf30-a2133ac539a7"
 }
