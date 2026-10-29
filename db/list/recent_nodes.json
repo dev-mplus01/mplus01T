@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793234152256,
+  "generatedAtWorkerMs": 1793234340612,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1788829374185,
-  "latestChangeWorkerMs": 1793234149211,
+  "latestChangeWorkerMs": 1793234337694,
   "recentNodesMap": {
+    "Buscando a Wanda T_2 id_234310": 1793234337,
     "El Señor de los Cielos id_44953": 1793234149,
     "Family Business T_2 id_89785": 1793233815,
     "Yo Soy Groot T_4 id_232125": 1793233426,
@@ -145,7 +146,6 @@
     "Los Protegidos ADN T_2 id_123374": 1792597977,
     "Los Protegidos Un Nuevo Poder T_2 id_209776": 1792597958,
     "Ushio To Tora T_3 id_63085": 1792584594,
-    "Buscando a Wanda T_2 id_234310": 1792563287,
     "Un amor infiltrado T_6 id_303745": 1792556307,
     "La Hora de los Super Amigos T_4 id_10159": 1792556292,
     "Pecadora T_5 id_225006": 1792556262,
@@ -1013,5 +1013,5 @@
     "Historia de un clan T_2 id_64237": 1788830621,
     "Alma T_2 id_127424": 1788829374
   },
-  "snapshotGeneration": "4a4489d7-c7d3-407f-b1f6-c907f6f7233f"
+  "snapshotGeneration": "44372104-bfd8-4e77-a4fb-183947b7ecc3"
 }
