@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793296652872,
+  "generatedAtWorkerMs": 1793303304711,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788830982841,
-  "latestChangeWorkerMs": 1793259420822,
+  "coverageStartWorkerMs": 1788831011988,
+  "latestChangeWorkerMs": 1793303301188,
   "recentNodesMap": {
+    "El don de engañar T_2 id_334700": 1793303301,
     "Buscando a Wanda T_2 id_234310": 1793259420,
     "Phony T_2 id_275139": 1793258897,
     "Pequeños profetas T_2 id_312693": 1793258615,
@@ -1010,8 +1011,7 @@
     "Dang T_4 id_314478": 1788886378,
     "Fauda T_2 id_69557": 1788884780,
     "Gank Your Heart T_6 id_90504": 1788840131,
-    "Soy parte de la banda Nasty Cherry T_2 id_95284": 1788831011,
-    "Spin City T_2 id_2359": 1788830982
+    "Soy parte de la banda Nasty Cherry T_2 id_95284": 1788831011
   },
-  "snapshotGeneration": "080cab85-6036-4400-a639-ff2138d9485c"
+  "snapshotGeneration": "799f2a55-6437-4dea-bc5a-cc1b63981108"
 }
