@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793247146883,
+  "generatedAtWorkerMs": 1793249614092,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788830899149,
-  "latestChangeWorkerMs": 1793247145094,
+  "coverageStartWorkerMs": 1788830930222,
+  "latestChangeWorkerMs": 1793249610829,
   "recentNodesMap": {
+    "El Cartel de los Sapos T_2 id_7458": 1793249610,
     "Entre Pasos En busca de un sueño T_6 id_307106": 1793247145,
     "Economía doméstica T_2 id_114413": 1793241350,
     "100 Días para Enamorarnos T_2 id_102966": 1793239039,
@@ -1010,8 +1011,7 @@
     "Gank Your Heart T_6 id_90504": 1788840131,
     "Soy parte de la banda Nasty Cherry T_2 id_95284": 1788831011,
     "Spin City T_2 id_2359": 1788830982,
-    "Soy un asesino Libertad condicional T_2 id_108347": 1788830930,
-    "Leon T_2 id_323557": 1788830899
+    "Soy un asesino Libertad condicional T_2 id_108347": 1788830930
   },
-  "snapshotGeneration": "742d9f0b-a0a6-41d0-a4c6-7589914d6b4e"
+  "snapshotGeneration": "181194a6-0619-423c-baf7-3895aee60f18"
 }
