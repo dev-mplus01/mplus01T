@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793235494950,
+  "generatedAtWorkerMs": 1793235530791,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788830677854,
-  "latestChangeWorkerMs": 1793235488570,
+  "coverageStartWorkerMs": 1788830708723,
+  "latestChangeWorkerMs": 1793235525375,
   "recentNodesMap": {
+    "Dulce Mentira T_5 id_90271": 1793235525,
     "Eternamente Amándonos T_5 id_221183": 1793235488,
     "Era de la juventud T_2 id_67014": 1793235475,
     "Un amor infiltrado T_6 id_303745": 1793235373,
@@ -1010,8 +1011,7 @@
     "Hunters T_2 id_79622": 1788830839,
     "Impractical Jokers T_2 id_59186": 1788830808,
     "Someone Has to Die T_2 id_105904": 1788830737,
-    "Soundtrack T_2 id_96095": 1788830708,
-    "High Score T_2 id_106754": 1788830677
+    "Soundtrack T_2 id_96095": 1788830708
   },
-  "snapshotGeneration": "36ac2043-c1c8-4eaf-9e0d-546cc8d16061"
+  "snapshotGeneration": "897be6f8-7639-4054-8846-bccd908f894e"
 }
