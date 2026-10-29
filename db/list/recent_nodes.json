@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793233055725,
+  "generatedAtWorkerMs": 1793233428110,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788826658034,
-  "latestChangeWorkerMs": 1793233053781,
+  "coverageStartWorkerMs": 1788828984476,
+  "latestChangeWorkerMs": 1793233426212,
   "recentNodesMap": {
+    "Yo Soy Groot T_4 id_232125": 1793233426,
     "Ollie Esta Perdido T_2 id_156935": 1793233053,
     "Nugget de pollo T_6 id_206686": 1793232819,
     "Green Mothers Club T_6 id_195747": 1793232444,
@@ -1010,8 +1011,7 @@
     "Hollywood T_2 id_87050": 1788830649,
     "Historia de un clan T_2 id_64237": 1788830621,
     "Alma T_2 id_127424": 1788829374,
-    "Nancy Drew T_2 id_89572": 1788828984,
-    "La Magia de Zero T_3 id_35753": 1788826658
+    "Nancy Drew T_2 id_89572": 1788828984
   },
-  "snapshotGeneration": "5ed31ef0-b0bf-40b3-a44c-094e29001068"
+  "snapshotGeneration": "b45ca489-319b-4e89-905a-a12f3d77122d"
 }
