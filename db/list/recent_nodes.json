@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793232822727,
+  "generatedAtWorkerMs": 1793233055725,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788823626416,
-  "latestChangeWorkerMs": 1793232819059,
+  "coverageStartWorkerMs": 1788826658034,
+  "latestChangeWorkerMs": 1793233053781,
   "recentNodesMap": {
+    "Ollie Esta Perdido T_2 id_156935": 1793233053,
     "Nugget de pollo T_6 id_206686": 1793232819,
     "Green Mothers Club T_6 id_195747": 1793232444,
     "VisionQuest T_2 id_213375": 1793226662,
@@ -1010,8 +1011,7 @@
     "Historia de un clan T_2 id_64237": 1788830621,
     "Alma T_2 id_127424": 1788829374,
     "Nancy Drew T_2 id_89572": 1788828984,
-    "La Magia de Zero T_3 id_35753": 1788826658,
-    "Succession T_2 id_76331": 1788823626
+    "La Magia de Zero T_3 id_35753": 1788826658
   },
-  "snapshotGeneration": "db415629-2474-4b19-bbb1-c001faa9e410"
+  "snapshotGeneration": "5ed31ef0-b0bf-40b3-a44c-094e29001068"
 }
