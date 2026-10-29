@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793314191330,
+  "generatedAtWorkerMs": 1793314709111,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788840131529,
-  "latestChangeWorkerMs": 1793314189326,
+  "coverageStartWorkerMs": 1788884780319,
+  "latestChangeWorkerMs": 1793314705923,
   "recentNodesMap": {
+    "Helluva Boss T_3 id_245852": 1793314705,
     "Los Protegidos T_2 id_62466": 1793314189,
     "Sabor a ti Entre historias y secretos T_5 id_335679": 1793313617,
     "La vida que me robaste T_5 id_336188": 1793313506,
@@ -1010,8 +1011,7 @@
     "A Dos Metros Bajo Tierra T_2 id_1274": 1788908253,
     "Castlevania T_3 id_71024": 1788902159,
     "Dang T_4 id_314478": 1788886378,
-    "Fauda T_2 id_69557": 1788884780,
-    "Gank Your Heart T_6 id_90504": 1788840131
+    "Fauda T_2 id_69557": 1788884780
   },
-  "snapshotGeneration": "8625b54d-38b0-4634-9295-2f00db5bf988"
+  "snapshotGeneration": "3536caa4-f217-4746-9ce0-013ada92f450"
 }
