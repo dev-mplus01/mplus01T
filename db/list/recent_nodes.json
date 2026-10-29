@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793313624915,
+  "generatedAtWorkerMs": 1793314191330,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788831011988,
-  "latestChangeWorkerMs": 1793313617868,
+  "coverageStartWorkerMs": 1788840131529,
+  "latestChangeWorkerMs": 1793314189326,
   "recentNodesMap": {
+    "Los Protegidos T_2 id_62466": 1793314189,
     "Sabor a ti Entre historias y secretos T_5 id_335679": 1793313617,
     "La vida que me robaste T_5 id_336188": 1793313506,
     "Infinito Amor T_5 id_335306": 1793313347,
@@ -1010,8 +1011,7 @@
     "Castlevania T_3 id_71024": 1788902159,
     "Dang T_4 id_314478": 1788886378,
     "Fauda T_2 id_69557": 1788884780,
-    "Gank Your Heart T_6 id_90504": 1788840131,
-    "Soy parte de la banda Nasty Cherry T_2 id_95284": 1788831011
+    "Gank Your Heart T_6 id_90504": 1788840131
   },
-  "snapshotGeneration": "f974c1d0-d8a7-4760-b8f6-97251d76e533"
+  "snapshotGeneration": "8625b54d-38b0-4634-9295-2f00db5bf988"
 }
