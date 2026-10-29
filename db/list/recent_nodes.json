@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793249614092,
+  "generatedAtWorkerMs": 1793255552014,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788830930222,
-  "latestChangeWorkerMs": 1793249610829,
+  "coverageStartWorkerMs": 1788830982841,
+  "latestChangeWorkerMs": 1793255548096,
   "recentNodesMap": {
+    "Scandal T_2 id_39269": 1793255548,
     "El Cartel de los Sapos T_2 id_7458": 1793249610,
     "Entre Pasos En busca de un sueño T_6 id_307106": 1793247145,
     "Economía doméstica T_2 id_114413": 1793241350,
@@ -1010,8 +1011,7 @@
     "Fauda T_2 id_69557": 1788884780,
     "Gank Your Heart T_6 id_90504": 1788840131,
     "Soy parte de la banda Nasty Cherry T_2 id_95284": 1788831011,
-    "Spin City T_2 id_2359": 1788830982,
-    "Soy un asesino Libertad condicional T_2 id_108347": 1788830930
+    "Spin City T_2 id_2359": 1788830982
   },
-  "snapshotGeneration": "181194a6-0619-423c-baf7-3895aee60f18"
+  "snapshotGeneration": "a428d5a3-a7e4-47cc-98cd-112ec8105c7b"
 }
