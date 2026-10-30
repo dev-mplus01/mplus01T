@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793384633050,
+  "generatedAtWorkerMs": 1793384661119,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788908253422,
-  "latestChangeWorkerMs": 1793384630587,
+  "coverageStartWorkerMs": 1788909014120,
+  "latestChangeWorkerMs": 1793384648946,
   "recentNodesMap": {
+    "Balaraw La isla sangrienta T_2 id_313699": 1793384648,
     "Nocturno T_2 id_292741": 1793384630,
     "Sacrifice T_2 id_137948": 1793324623,
     "Relatos de la noche Brujas T_2 id_339525": 1793324509,
@@ -1010,8 +1011,7 @@
     "NieR Automata Ver 11a T_3 id_158373": 1788917822,
     "Kaminaki Sekai T_3 id_199920": 1788917374,
     "La Revancha T_5 id_16797": 1788914508,
-    "El Príncipe del Barrio T_2 id_229590": 1788909014,
-    "A Dos Metros Bajo Tierra T_2 id_1274": 1788908253
+    "El Príncipe del Barrio T_2 id_229590": 1788909014
   },
-  "snapshotGeneration": "5bf2150b-4509-4033-a099-5a27cb715b8a"
+  "snapshotGeneration": "5e8a229b-fdf3-46ff-8ce7-566b738cd016"
 }
