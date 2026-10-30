@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793319241355,
+  "generatedAtWorkerMs": 1793323702781,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788886378379,
-  "latestChangeWorkerMs": 1793319237209,
+  "coverageStartWorkerMs": 1788902159182,
+  "latestChangeWorkerMs": 1793323700779,
   "recentNodesMap": {
+    "George y Mandy Primer matrimonio T_2 id_243875": 1793323700,
     "Bleach T_3 id_30984": 1793319237,
     "La Gloria de Lucho T_5 id_92402": 1793317042,
     "Helluva Boss T_3 id_245852": 1793314705,
@@ -1010,8 +1011,7 @@
     "La Revancha T_5 id_16797": 1788914508,
     "El Príncipe del Barrio T_2 id_229590": 1788909014,
     "A Dos Metros Bajo Tierra T_2 id_1274": 1788908253,
-    "Castlevania T_3 id_71024": 1788902159,
-    "Dang T_4 id_314478": 1788886378
+    "Castlevania T_3 id_71024": 1788902159
   },
-  "snapshotGeneration": "392afc8b-29f3-462a-a8df-cf65e7c470c4"
+  "snapshotGeneration": "36f85adf-06ca-4f03-89c1-86a6e38a4ce5"
 }
