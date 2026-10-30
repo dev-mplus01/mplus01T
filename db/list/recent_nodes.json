@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793384675346,
+  "generatedAtWorkerMs": 1793384691199,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788914508499,
-  "latestChangeWorkerMs": 1793384670200,
+  "coverageStartWorkerMs": 1788917374908,
+  "latestChangeWorkerMs": 1793384688075,
   "recentNodesMap": {
+    "La Caída de El Mayo T_2 id_338689": 1793384688,
     "Salario Mínimo T_2 id_321221": 1793384670,
     "Balaraw La isla sangrienta T_2 id_313699": 1793384648,
     "Nocturno T_2 id_292741": 1793384630,
@@ -1010,8 +1011,7 @@
     "Doraemon T_3 id_57911": 1788926027,
     "Tenkuu Shinpan T_3 id_112163": 1788917998,
     "NieR Automata Ver 11a T_3 id_158373": 1788917822,
-    "Kaminaki Sekai T_3 id_199920": 1788917374,
-    "La Revancha T_5 id_16797": 1788914508
+    "Kaminaki Sekai T_3 id_199920": 1788917374
   },
-  "snapshotGeneration": "f409a58e-58b6-489b-8ab9-a472b72e1e96"
+  "snapshotGeneration": "b8be7a09-e10f-4974-b70c-00c351772650"
 }
