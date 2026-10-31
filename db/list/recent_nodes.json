@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793488595923,
+  "generatedAtWorkerMs": 1793488706431,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1788935202673,
-  "latestChangeWorkerMs": 1793488592814,
+  "latestChangeWorkerMs": 1793488704033,
   "recentNodesMap": {
+    "La vida que me robaste T_5 id_336188": 1793488704,
     "Infinito Amor T_5 id_335306": 1793488592,
     "Doctor X Mafia in White T_6 id_293610": 1793486643,
     "El Señor de los Cielos id_44953": 1793486475,
@@ -31,7 +32,6 @@
     "Sabor a ti Entre historias y secretos T_5 id_335679": 1793429922,
     "Prohibida Obsesión T_5 id_337721": 1793429758,
     "Paolo T_2 id_288385": 1793429656,
-    "La vida que me robaste T_5 id_336188": 1793429571,
     "El Compromiso T_5 id_333309": 1793429240,
     "El colombiano de Keko T_2 id_339909": 1793427690,
     "El Calvario T_2 id_279185": 1793427081,
@@ -1013,5 +1013,5 @@
     "Perla Negra T_5 id_107082": 1788935288,
     "Isabella Mujer Enamorada T_5 id_107380": 1788935202
   },
-  "snapshotGeneration": "d21c2447-fec4-4039-a7d7-7d0f9f8e7206"
+  "snapshotGeneration": "5670db68-b4fe-4868-812d-c64c8e76607e"
 }
