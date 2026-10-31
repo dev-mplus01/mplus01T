@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793406435186,
+  "generatedAtWorkerMs": 1793407089532,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788929046904,
-  "latestChangeWorkerMs": 1793406433250,
+  "coverageStartWorkerMs": 1788931912933,
+  "latestChangeWorkerMs": 1793407087649,
   "recentNodesMap": {
+    "Hataraku Saibou T_3 id_80671": 1793407087,
     "Campfire Cooking in Another World with My Absurd Skills T_3 id_213402": 1793406433,
     "Tokyo Ghoul T_3 id_61374": 1793405650,
     "Avatar Los Siete Refugios T_4 id_284833": 1793396198,
@@ -1010,8 +1011,7 @@
     "Jigoku shojo T_6 id_91539": 1788935066,
     "insecure T_2 id_67883": 1788935032,
     "Impulse T_2 id_78670": 1788934992,
-    "Revolución T_2 id_1410": 1788931912,
-    "Young Sheldon T_2 id_71728": 1788929046
+    "Revolución T_2 id_1410": 1788931912
   },
-  "snapshotGeneration": "b8b028a7-3036-43b4-b40a-e565f5edb017"
+  "snapshotGeneration": "d91e8664-bb4c-4f04-8cfc-91245c480397"
 }
