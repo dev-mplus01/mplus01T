@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793486646871,
+  "generatedAtWorkerMs": 1793488595923,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1788935202673,
-  "latestChangeWorkerMs": 1793486643247,
+  "latestChangeWorkerMs": 1793488592814,
   "recentNodesMap": {
+    "Infinito Amor T_5 id_335306": 1793488592,
     "Doctor X Mafia in White T_6 id_293610": 1793486643,
     "El Señor de los Cielos id_44953": 1793486475,
     "Shuiro no Kamen T_3 id_295420": 1793481174,
@@ -31,7 +32,6 @@
     "Prohibida Obsesión T_5 id_337721": 1793429758,
     "Paolo T_2 id_288385": 1793429656,
     "La vida que me robaste T_5 id_336188": 1793429571,
-    "Infinito Amor T_5 id_335306": 1793429424,
     "El Compromiso T_5 id_333309": 1793429240,
     "El colombiano de Keko T_2 id_339909": 1793427690,
     "El Calvario T_2 id_279185": 1793427081,
@@ -1013,5 +1013,5 @@
     "Perla Negra T_5 id_107082": 1788935288,
     "Isabella Mujer Enamorada T_5 id_107380": 1788935202
   },
-  "snapshotGeneration": "bd8ec9e0-bb93-4d69-89c1-59eaa1b2e929"
+  "snapshotGeneration": "d21c2447-fec4-4039-a7d7-7d0f9f8e7206"
 }
