@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793432633238,
+  "generatedAtWorkerMs": 1793432838650,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788934992087,
-  "latestChangeWorkerMs": 1793432630973,
+  "coverageStartWorkerMs": 1788935032136,
+  "latestChangeWorkerMs": 1793432836333,
   "recentNodesMap": {
+    "Dexter Resurrección T_2 id_259909": 1793432836,
     "Junji Ito Historias Extrañas para Noches de Insomnio T_6 id_319990": 1793432630,
     "Valentina Valiente T_5 id_316470": 1793430160,
     "Sabor a ti Entre historias y secretos T_5 id_335679": 1793429922,
@@ -1010,8 +1011,7 @@
     "Isabella Mujer Enamorada T_5 id_107380": 1788935202,
     "Heridas de Amor T_5 id_5056": 1788935133,
     "Jigoku shojo T_6 id_91539": 1788935066,
-    "insecure T_2 id_67883": 1788935032,
-    "Impulse T_2 id_78670": 1788934992
+    "insecure T_2 id_67883": 1788935032
   },
-  "snapshotGeneration": "903f3cf8-15a2-493d-aaf7-ef9c216d6cb1"
+  "snapshotGeneration": "fcb4fc00-8d54-448c-afc3-26ac8a7e0b6f"
 }
