@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793407432818,
+  "generatedAtWorkerMs": 1793407752563,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1788931912933,
-  "latestChangeWorkerMs": 1793407429862,
+  "latestChangeWorkerMs": 1793407748509,
   "recentNodesMap": {
+    "Los diarios de la boticaria T_3 id_220542": 1793407748,
     "Hotaru No Yomeiri T_3 id_320909": 1793407429,
     "FX Senshi Kurumi Chan T_3 id_311842": 1793407314,
     "Hataraku Saibou T_3 id_80671": 1793407087,
@@ -129,7 +130,6 @@
     "Hoshifuru Oukoku no Nina T_3 id_240641": 1792792389,
     "Uchi no Otouto domo ga Sumimasen T_3 id_307585": 1792791438,
     "Tokyo Revengers T_3 id_105009": 1792791251,
-    "Los diarios de la boticaria T_3 id_220542": 1792791130,
     "Tougen Anki T_3 id_253811": 1792790820,
     "Dragon Ball Super id_62715": 1792779568,
     "Fruits Basket T_3 id_85991": 1792771775,
@@ -1013,5 +1013,5 @@
     "Impulse T_2 id_78670": 1788934992,
     "Revolución T_2 id_1410": 1788931912
   },
-  "snapshotGeneration": "249ce96b-361c-4ebe-b1fc-3d95cdd0da4b"
+  "snapshotGeneration": "88346ff6-ea39-4a3a-9a68-82e7c747ea8e"
 }
