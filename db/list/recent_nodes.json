@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793437364527,
+  "generatedAtWorkerMs": 1793437561669,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1788935032136,
-  "latestChangeWorkerMs": 1793437362910,
+  "latestChangeWorkerMs": 1793437558962,
   "recentNodesMap": {
+    "Mortal T_2 id_94801": 1793437558,
     "Puerta 7 T_2 id_99633": 1793437362,
     "Dexter Resurrección T_2 id_259909": 1793432836,
     "Junji Ito Historias Extrañas para Noches de Insomnio T_6 id_319990": 1793432630,
@@ -466,7 +467,6 @@
     "Ao Ashi T_3 id_126437": 1791244234,
     "Stripperella T_4 id_3072": 1791244187,
     "Rubby Glum T_4 id_14165": 1791244139,
-    "Mortal T_2 id_94801": 1791244088,
     "Golden Kamuy T_3 id_76757": 1791244004,
     "Missing T_2 id_39553": 1791243949,
     "Bolek y Lolek T_4 id_15179": 1791243906,
@@ -1013,5 +1013,5 @@
     "Jigoku shojo T_6 id_91539": 1788935066,
     "insecure T_2 id_67883": 1788935032
   },
-  "snapshotGeneration": "10de24d7-b23c-49f3-aec5-a067af880404"
+  "snapshotGeneration": "579a2b31-a988-433b-bde7-162daad50315"
 }
