@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793576206581,
+  "generatedAtWorkerMs": 1793576396378,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1788935347595,
-  "latestChangeWorkerMs": 1793576203503,
+  "latestChangeWorkerMs": 1793576392100,
   "recentNodesMap": {
+    "Boruto T_3 id_70881": 1793576392,
     "Tierra de Mafia T_2 id_247718": 1793576203,
     "Carita de Angel T_5 id_58710": 1793567611,
     "Get Jiro T_3 id_231801": 1793558782,
@@ -530,7 +531,6 @@
     "Le Temes a La Oscuridad T_2 id_2913": 1790932433,
     "La Desalmada T_5 id_128794": 1790931508,
     "Corazón Valiente T_5 id_33987": 1790930729,
-    "Boruto T_3 id_70881": 1790929324,
     "Al este del Edén T_2 id_258165": 1790927226,
     "Buddy Daddies T_3 id_212963": 1790919951,
     "Wolf Pack T_2 id_134865": 1790913201,
@@ -1013,5 +1013,5 @@
     "Tres Espías Sin Límite T_4 id_2808": 1788939496,
     "Jessie T_2 id_38974": 1788935347
   },
-  "snapshotGeneration": "5f858392-83d9-4389-8310-839b2866136c"
+  "snapshotGeneration": "0879df34-2b6a-4fbf-b10e-da4aeefc6e4e"
 }
