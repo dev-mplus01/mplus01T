@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793641712852,
+  "generatedAtWorkerMs": 1793659769069,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788972903522,
-  "latestChangeWorkerMs": 1793606201323,
+  "coverageStartWorkerMs": 1788973144439,
+  "latestChangeWorkerMs": 1793659765769,
   "recentNodesMap": {
+    "Riverdale T_2 id_69050": 1793659765,
     "Cyberpunk Edgerunners T_3 id_105248": 1793606201,
     "Sweet Home T_2 id_96648": 1793603310,
     "Tierra de Mafia T_2 id_247718": 1793593844,
@@ -1010,8 +1011,7 @@
     "Muertos de amor T_6 id_298610": 1788984471,
     "Misterio T_2 id_79043": 1788979944,
     "Minx T_2 id_118303": 1788976557,
-    "RuPauls Drag Race T_2 id_8514": 1788973144,
-    "Lab Rats T_2 id_38867": 1788972903
+    "RuPauls Drag Race T_2 id_8514": 1788973144
   },
-  "snapshotGeneration": "068e29e8-291d-4c7b-bd7d-e0065e8a1460"
+  "snapshotGeneration": "25da01d2-12b8-4f26-bf27-5b5b8d24d600"
 }
