@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793674585057,
+  "generatedAtWorkerMs": 1793682151304,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788976557549,
-  "latestChangeWorkerMs": 1793674582214,
+  "coverageStartWorkerMs": 1788979944508,
+  "latestChangeWorkerMs": 1793682147874,
   "recentNodesMap": {
+    "Bytet T_2 id_336240": 1793682147,
     "Devil May Cry T_4 id_235930": 1793674582,
     "Devil May Cry T_3 id_12577": 1793674101,
     "Riverdale T_2 id_69050": 1793659765,
@@ -1010,8 +1011,7 @@
     "La Madre T_5 id_239684": 1788998257,
     "Dance La Fuerza Del Corazón T_5 id_281819": 1788998150,
     "Muertos de amor T_6 id_298610": 1788984471,
-    "Misterio T_2 id_79043": 1788979944,
-    "Minx T_2 id_118303": 1788976557
+    "Misterio T_2 id_79043": 1788979944
   },
-  "snapshotGeneration": "b7aae6d0-f5e9-4752-980a-95923eb6032b"
+  "snapshotGeneration": "ea963d2c-bd0a-4909-9b8b-26c3ffd8dce6"
 }
