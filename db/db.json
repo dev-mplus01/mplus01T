@@ -58,7 +58,7 @@
   "AdsErrorCount": 30,
   "proacc": true,
   "p": "15$ USD",
-  "mant": true,
+  "mant": false,
   "mantTitle": "Mantenimiento General",
   "mantMsg": "¡Llegó el momento!\n\nComenzamos las mejoras programadas en nuestra app. Estaremos fuera de servicio por unos días para culminar todo el proceso de mantenimiento y volver con una mejor experiencia para ti.\n\n¡Gracias por tu paciencia y apoyo de siempre! Nos vemos muy pronto.",
   "dnsServer": "176.103.130.130,176.103.130.131,94.140.15.15,94.140.14.14",
