@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793683238147,
+  "generatedAtWorkerMs": 1793683257988,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1789080961488,
-  "latestChangeWorkerMs": 1793683234007,
+  "coverageStartWorkerMs": 1789082596190,
+  "latestChangeWorkerMs": 1793683255594,
   "recentNodesMap": {
+    "Virtual Hero T_4 id_82532": 1793683255,
     "Super Cerdita T_4 id_71961": 1793683234,
     "Un trabajo maldito T_6 id_289517": 1793683194,
     "Teen Titans Go! T_4 id_45140": 1793683144,
@@ -1010,8 +1011,7 @@
     "Que Culpa Tiene Fatmagül T_2 id_44807": 1789088990,
     "True Blood T_2 id_10545": 1789084780,
     "Bluey T_4 id_82728": 1789082660,
-    "Morfeo T_2 id_310953": 1789082596,
-    "No Tengo Miedo T_2 id_290232": 1789080961
+    "Morfeo T_2 id_310953": 1789082596
   },
-  "snapshotGeneration": "27a79792-b02e-4d8a-b9af-96e9e2dfd86b"
+  "snapshotGeneration": "e330dfab-37da-4178-bb44-fd11b67fc08e"
 }
