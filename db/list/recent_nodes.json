@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793683338859,
+  "generatedAtWorkerMs": 1793683361094,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1789091286718,
-  "latestChangeWorkerMs": 1793683332503,
+  "coverageStartWorkerMs": 1789091558849,
+  "latestChangeWorkerMs": 1793683352053,
   "recentNodesMap": {
+    "Zero Hour T_2 id_43964": 1793683352,
     "Wabbit T_4 id_65763": 1793683332,
     "Yo no creo en los hombres T_5 id_338793": 1793683311,
     "Yo, adicto T_2 id_226071": 1793683294,
@@ -1010,8 +1011,7 @@
     "Yumis Cells T_6 id_128995": 1789099813,
     "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1789092246,
     "Lv999 no Murabito T_3 id_298994": 1789091851,
-    "Heroine Seijo Iie All Works Maid desu T_3 id_286346": 1789091558,
-    "Gossip Girl T_2 id_1395": 1789091286
+    "Heroine Seijo Iie All Works Maid desu T_3 id_286346": 1789091558
   },
-  "snapshotGeneration": "73b761b0-8bee-45f0-bf2a-ae3c52768988"
+  "snapshotGeneration": "33b5eb46-65ae-45dd-8010-53612c7ef964"
 }
