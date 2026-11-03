@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793707060928,
+  "generatedAtWorkerMs": 1793728827921,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1789092246,
     "Lv999 no Murabito T_3 id_298994": 1789091851
   },
-  "snapshotGeneration": "059e0892-d890-4140-bbc7-9c71c9f04cd4"
+  "snapshotGeneration": "b47efc7a-6bf7-4b23-bbd9-aea7d115c848"
 }
