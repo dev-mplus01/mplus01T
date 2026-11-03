@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793663397285,
+  "generatedAtWorkerMs": 1793674105117,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1788973144439,
-  "latestChangeWorkerMs": 1793659765769,
+  "coverageStartWorkerMs": 1788976557549,
+  "latestChangeWorkerMs": 1793674101498,
   "recentNodesMap": {
+    "Devil May Cry T_3 id_12577": 1793674101,
     "Riverdale T_2 id_69050": 1793659765,
     "Cyberpunk Edgerunners T_3 id_105248": 1793606201,
     "Sweet Home T_2 id_96648": 1793603310,
@@ -1010,8 +1011,7 @@
     "Dance La Fuerza Del Corazón T_5 id_281819": 1788998150,
     "Muertos de amor T_6 id_298610": 1788984471,
     "Misterio T_2 id_79043": 1788979944,
-    "Minx T_2 id_118303": 1788976557,
-    "RuPauls Drag Race T_2 id_8514": 1788973144
+    "Minx T_2 id_118303": 1788976557
   },
-  "snapshotGeneration": "0b3f3e21-2e02-40f6-9a2f-736dfe00d5ec"
+  "snapshotGeneration": "b917003f-530c-44cc-9e92-3eb9be76bb83"
 }
