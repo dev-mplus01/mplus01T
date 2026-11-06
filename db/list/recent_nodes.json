@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793948977802,
+  "generatedAtWorkerMs": 1793949173011,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1789091851400,
-  "latestChangeWorkerMs": 1793948974681,
+  "latestChangeWorkerMs": 1793949166562,
   "recentNodesMap": {
+    "Buscando a Wanda T_2 id_234310": 1793949166,
     "Amor Profundo T_5 id_302063": 1793948974,
     "American Horror Story T_2 id_1413": 1793948193,
     "4 Blocks Zero T_2 id_310133": 1793948022,
@@ -121,7 +122,6 @@
     "Helluva Boss T_3 id_245852": 1793314705,
     "Los Protegidos T_2 id_62466": 1793314189,
     "El don de engañar T_2 id_334700": 1793303301,
-    "Buscando a Wanda T_2 id_234310": 1793259420,
     "Phony T_2 id_275139": 1793258897,
     "Pequeños profetas T_2 id_312693": 1793258615,
     "Casi hermanos T_2 id_250203": 1793258498,
@@ -1013,5 +1013,5 @@
     "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1789092246,
     "Lv999 no Murabito T_3 id_298994": 1789091851
   },
-  "snapshotGeneration": "dd4ba8f9-4fa5-4d59-8600-fbff7d8b4284"
+  "snapshotGeneration": "45eeddb5-47cf-4399-af96-399b213f0e93"
 }
