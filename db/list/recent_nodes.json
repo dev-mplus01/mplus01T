@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793976913293,
+  "generatedAtWorkerMs": 1793977108327,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1789091851400,
-  "latestChangeWorkerMs": 1793976908052,
+  "latestChangeWorkerMs": 1793977105246,
   "recentNodesMap": {
+    "Infinito Amor T_5 id_335306": 1793977105,
     "Hora de aventuras Misiones legendarias T_4 id_256694": 1793976908,
     "Estado de Furia T_2 id_280880": 1793976713,
     "Entre Pasos En busca de un sueño T_6 id_307106": 1793975909,
@@ -78,7 +79,6 @@
     "Sabor a ti Entre historias y secretos T_5 id_335679": 1793488943,
     "Outlander Sangre de mi sangre T_2 id_207484": 1793488811,
     "La vida que me robaste T_5 id_336188": 1793488704,
-    "Infinito Amor T_5 id_335306": 1793488592,
     "Doctor X Mafia in White T_6 id_293610": 1793486643,
     "Shuiro no Kamen T_3 id_295420": 1793481174,
     "Yasei no Last Boss ga Arawareta T_3 id_280042": 1793481051,
@@ -1013,5 +1013,5 @@
     "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1789092246,
     "Lv999 no Murabito T_3 id_298994": 1789091851
   },
-  "snapshotGeneration": "ee4e73f2-0350-46c0-8c66-6e39341bc947"
+  "snapshotGeneration": "779059d0-48a4-433b-a310-7f9a40b283d3"
 }
