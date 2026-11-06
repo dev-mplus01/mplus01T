@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793949801983,
+  "generatedAtWorkerMs": 1793949984930,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1789091851400,
-  "latestChangeWorkerMs": 1793949797759,
+  "latestChangeWorkerMs": 1793949982029,
   "recentNodesMap": {
+    "El Señor de los Cielos id_44953": 1793949982,
     "El secreto Güller ve Günahlar T_5 id_300388": 1793949797,
     "Dragón Ball Super Beerus T_3 id_312359": 1793949682,
     "Casi hermanos T_2 id_250203": 1793949535,
@@ -75,7 +76,6 @@
     "La vida que me robaste T_5 id_336188": 1793488704,
     "Infinito Amor T_5 id_335306": 1793488592,
     "Doctor X Mafia in White T_6 id_293610": 1793486643,
-    "El Señor de los Cielos id_44953": 1793486475,
     "Shuiro no Kamen T_3 id_295420": 1793481174,
     "Yasei no Last Boss ga Arawareta T_3 id_280042": 1793481051,
     "Black Clover T_3 id_73223": 1793480907,
@@ -1013,5 +1013,5 @@
     "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1789092246,
     "Lv999 no Murabito T_3 id_298994": 1789091851
   },
-  "snapshotGeneration": "2951d112-c42e-41c1-9329-c25bb602858b"
+  "snapshotGeneration": "b0d1078d-e2be-4985-bad7-aa6203218b13"
 }
