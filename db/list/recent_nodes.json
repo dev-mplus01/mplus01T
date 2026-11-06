@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793977243412,
+  "generatedAtWorkerMs": 1793977412353,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1789091851400,
-  "latestChangeWorkerMs": 1793977239031,
+  "coverageStartWorkerMs": 1789092246575,
+  "latestChangeWorkerMs": 1793977408019,
   "recentNodesMap": {
+    "Fantasmas T_2 id_126027": 1793977408,
     "Extraordinary Attorney Minami T_6 id_332713": 1793977239,
     "Infinito Amor T_5 id_335306": 1793977105,
     "Hora de aventuras Misiones legendarias T_4 id_256694": 1793976908,
@@ -1010,8 +1011,7 @@
     "La Vida En El Espejo T_5 id_207325": 1789112642,
     "Jacobo Dos Dos T_4 id_13350": 1789112589,
     "Yumis Cells T_6 id_128995": 1789099813,
-    "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1789092246,
-    "Lv999 no Murabito T_3 id_298994": 1789091851
+    "Rakudai Kenja no Gakuin Musou Nidome no Tensei T_3 id_314554": 1789092246
   },
-  "snapshotGeneration": "58990c8f-9538-47d3-9e0c-cd38628cb1f6"
+  "snapshotGeneration": "3347622f-1577-4da6-9ebd-025fd179e922"
 }
