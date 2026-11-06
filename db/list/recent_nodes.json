@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1793982473938,
+  "generatedAtWorkerMs": 1793982730023,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1789112674236,
-  "latestChangeWorkerMs": 1793982470333,
+  "coverageStartWorkerMs": 1789112719669,
+  "latestChangeWorkerMs": 1793982726493,
   "recentNodesMap": {
+    "La Edad Dorada T_2 id_81723": 1793982726,
     "Todo vale T_2 id_258742": 1793982470,
     "La isla del tesoro T_2 id_333101": 1793982080,
     "Palomas negras T_2 id_225385": 1793981575,
@@ -1010,8 +1011,7 @@
     "Out Of Breath T_6 id_95620": 1789112802,
     "Manhunt T_2 id_72597": 1789112776,
     "Krypto Salva el Día T_4 id_320096": 1789112746,
-    "Chapa Tu Combi T_5 id_104772": 1789112719,
-    "Bones Of The Past T_6 id_332255": 1789112674
+    "Chapa Tu Combi T_5 id_104772": 1789112719
   },
-  "snapshotGeneration": "332bd690-0829-4c34-917d-db7fc9876079"
+  "snapshotGeneration": "072ccc88-afdb-4b41-a59c-a8bd7ce5d291"
 }
