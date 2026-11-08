@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1794112559423,
+  "generatedAtWorkerMs": 1794112958105,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
-  "coverageStartWorkerMs": 1789112719669,
-  "latestChangeWorkerMs": 1794112553232,
+  "coverageStartWorkerMs": 1789112746368,
+  "latestChangeWorkerMs": 1794112952907,
   "recentNodesMap": {
+    "Bob Esponja T_4 id_387": 1794112952,
     "100 días de engaño T_6 id_293607": 1794112553,
     "Valentina Valiente T_5 id_316470": 1794112409,
     "Infinito Amor T_5 id_335306": 1794112232,
@@ -1010,8 +1011,7 @@
     "Tuyo Es Mi Corazón T_5 id_334726": 1789112889,
     "Out Of Breath T_6 id_95620": 1789112802,
     "Manhunt T_2 id_72597": 1789112776,
-    "Krypto Salva el Día T_4 id_320096": 1789112746,
-    "Chapa Tu Combi T_5 id_104772": 1789112719
+    "Krypto Salva el Día T_4 id_320096": 1789112746
   },
-  "snapshotGeneration": "aac97ac4-f8fc-43c4-9632-271843162464"
+  "snapshotGeneration": "cd1d0783-2195-404e-bd2e-c814804e4022"
 }
