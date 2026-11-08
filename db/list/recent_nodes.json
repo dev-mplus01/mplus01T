@@ -5,7 +5,7 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1794114485548,
+  "generatedAtWorkerMs": 1794117646827,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
@@ -1013,5 +1013,5 @@
     "Manhunt T_2 id_72597": 1789112776,
     "Krypto Salva el Día T_4 id_320096": 1789112746
   },
-  "snapshotGeneration": "b4d7c2ca-73c5-429b-beec-7e004e51e376"
+  "snapshotGeneration": "922a33c0-e061-49ce-8369-ceb7920c4be1"
 }
