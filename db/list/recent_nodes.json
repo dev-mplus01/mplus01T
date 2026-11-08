@@ -5,13 +5,14 @@
   "mode": "snapshot",
   "snapshot": true,
   "environment": "prod",
-  "generatedAtWorkerMs": 1794052849727,
+  "generatedAtWorkerMs": 1794105116198,
   "limit": 1000,
   "itemCount": 1000,
   "windowFull": true,
   "coverageStartWorkerMs": 1789112719669,
-  "latestChangeWorkerMs": 1793982726493,
+  "latestChangeWorkerMs": 1794105109240,
   "recentNodesMap": {
+    "El Calvario T_2 id_279185": 1794105109,
     "La Edad Dorada T_2 id_81723": 1793982726,
     "Todo vale T_2 id_258742": 1793982470,
     "La isla del tesoro T_2 id_333101": 1793982080,
@@ -119,7 +120,6 @@
     "Paolo T_2 id_288385": 1793429656,
     "El Compromiso T_5 id_333309": 1793429240,
     "El colombiano de Keko T_2 id_339909": 1793427690,
-    "El Calvario T_2 id_279185": 1793427081,
     "Los Expedientes Secretos X T_2 id_4087": 1793421449,
     "A La Deriva T_2 id_301389": 1793409848,
     "Tsuihou sareta Tensei Juukishi T_3 id_270603": 1793408396,
@@ -936,7 +936,7 @@
     "Mahouka Koukou No Rettousei T_3 id_60833": 1789612925,
     "Kenja no Mago T_3 id_85844": 1789612052,
     "Ichiban Ushiro no Daimaou T_3 id_42413": 1789611849,
-    "Eiyuu Kyoushitsu\n\nT_3 id_134742": 1789611606,
+    "Eiyuu Kyoushitsu T_3 id_134742": 1789611606,
     "Black Bullet T_3 id_60834": 1789611353,
     "La casa de muñecas de Gabby T_4 id_111474": 1789600592,
     "Deep Revenge T_6 id_316205": 1789595955,
@@ -1013,5 +1013,5 @@
     "Krypto Salva el Día T_4 id_320096": 1789112746,
     "Chapa Tu Combi T_5 id_104772": 1789112719
   },
-  "snapshotGeneration": "98b24232-5fda-420c-9338-a158b49aeced"
+  "snapshotGeneration": "2ecb3e70-f587-4594-b738-161c6270a8d0"
 }
